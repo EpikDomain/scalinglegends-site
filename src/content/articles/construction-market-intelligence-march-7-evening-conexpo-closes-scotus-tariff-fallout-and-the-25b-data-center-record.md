@@ -7,7 +7,6 @@ audioUrl: "https://content.rss.com/episodes/332597/2608591/scalinglegends/2026_0
 readTime: "31 min read"
 published: true
 season: 2
-episode: 25
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
@@ -65,7 +64,7 @@ On February 20, the Supreme Court ruled 6-3 that IEEPA tariffs were illegal. Wit
 ### Current Tariff Rates as of March 7, 2026
 
 | Material | Tariff Rate | YoY Price Change |
-|---|---|---|
+| --- | --- | --- |
 | Steel (all imports) | 50% (Section 232) | +20.7% |
 | Aluminum (all imports) | 50% (Section 232) | +33% |
 | Copper (semi-finished) | 50% | +15.7% |
@@ -90,7 +89,7 @@ Real consequences are already hitting. Unistress Corp, a Massachusetts precast m
 
 The Section 122 tariffs have a 150-day clock and expire around July 2026. But Section 232 tariffs on steel and aluminum at 50% have no sunset. Long-term, construction output is projected to **contract by 2.4%**. Contractors using platforms like [Smart Business Automator](https://smartbusinessautomator.com) to automate their estimating workflows can re-price jobs faster when material costs shift, cutting the lag between a price spike and an updated bid from days to hours.
 
-## Data Center Construction Starts Hit All-Time Record: $25.2 Billion in January Alone
+## [Data Center Construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) Starts Hit All-Time Record: $25.2 Billion in January Alone
 
 January 2026 saw **$25.2 billion in data center construction starts**, the highest monthly figure ever recorded. The trailing 12-month total hit $103.7 billion. And it's accelerating: 76 data center projects valued at $88 billion are set to start in the next six months.
 
@@ -107,7 +106,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 ### By the Numbers
 
 | Metric | Number |
-|---|---|
+| --- | --- |
 | Worker shortage | 349,000-500,000 |
 | Firms affected by immigration enforcement | 28% |
 | Construction workers who are immigrants | 34% (up to 61% in some trades) |
@@ -133,7 +132,7 @@ All nonresidential construction contractors, subcontractors, and labor brokers. 
 ### The Penalty Structure
 
 | Violation | 1st Offense | 2nd Offense | 3rd Offense |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Failure to create E-Verify case | $250 | $1,000 | $1,500 |
 | Employing after final nonconfirmation | $5,000 | $10,000 | $25,000 |
 
@@ -188,7 +187,7 @@ The $16 billion Hudson Tunnel Project restarted limited construction after recei
 Live Google Trends data pulled today reveals what's on contractors' minds:
 
 | Search Term | Growth | What It Tells Us |
-|---|---|---|
+| --- | --- | --- |
 | [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026) services near me | +51,350% | Contractors desperately seeking estimating help |
 | free construction estimating software excel | +9,050% | Small contractors need affordable tools |
 | free residential construction estimating software | +2,450% | Residential segment is price-sensitive |
@@ -222,7 +221,7 @@ We monitor every major construction podcast weekly. Here's what the competition 
 
 ## Frequently Asked Questions
 
-### Did the Supreme Court tariff ruling lower steel prices for contractors?
+### Did the [Supreme Court tariff ruling](/article/supreme-court-tariff-ruling-what-actually-changed-for-contractors-and-why-treasury-says-it-wont-last) lower steel prices for contractors?
 
 No. The Supreme Court struck down IEEPA tariffs on February 20, 2026, but Section 232 tariffs on steel and aluminum at 50% were completely unaffected. Steel prices are still up 20.7% year-over-year, and the White House immediately invoked Section 122 adding a 10% surcharge on other imports. The net cost exposure for contractors remains largely the same as before the ruling.
 

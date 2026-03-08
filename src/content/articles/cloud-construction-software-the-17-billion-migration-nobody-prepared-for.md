@@ -3,11 +3,9 @@ title: "Cloud Construction Software: The $17 Billion Migration Nobody Prepared F
 description: "70% of contractors have no tech roadmap while losing 11 hours per week to manual tracking. This episode is the buyer's guide: real pricing for Procore, Buildertrend, Fieldwire and more, plus the ROI data that proves optimized adopters see 4-point profit margin increases."
 date: "2026-03-07"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2609071/scalinglegends/2026_03_07_21_45_58_8872c400-b540-4361-a955-77671faf4e60.mp3"
-readTime: "31 min listen"
+readTime: "31 min read"
 published: true
 season: 2
-episode: 23
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

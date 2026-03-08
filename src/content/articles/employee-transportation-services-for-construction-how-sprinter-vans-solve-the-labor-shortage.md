@@ -7,7 +7,6 @@ audioUrl: "https://content.rss.com/episodes/332597/2608578/scalinglegends/2026_0
 readTime: "20 min read"
 published: true
 season: 2
-episode: 27
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
@@ -192,7 +191,7 @@ In several markets, yes. Illinois requires employers with 50+ employees in the R
 
 With skilled trades turnover at 73.1% and replacement costs running 30-150% of annual salary, the math favors transportation. Companies offering comprehensive benefits report 31% higher retention rates and receive 35% more qualified applicants (ABC). An Enterprise vanpool saves participants $10,000/year each. The eSprinter at $43,475 with near-zero fuel costs can break even in under a year when compared to mileage reimbursement for a 15-person crew.
 
-### How are data center construction projects handling worker transportation?
+### How are [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) projects handling worker transportation?
 
 Large data center campuses with 4,000-5,000 workers are creating transportation challenges rivaling small cities. Workers are earning $200,000+ but losing two hours daily commuting to rural sites. The CHIPS Act has created 102,000 construction jobs at remote semiconductor fabrication sites. Contractors bidding on this work increasingly need transportation plans built into their proposals. Autonomous shuttle companies like May Mobility (30-seat electric minibuses) and Beep ($52.7M raised) are targeting these exact use cases for 2026-2027 deployment.
 

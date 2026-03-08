@@ -7,7 +7,6 @@ audioUrl: "https://content.rss.com/episodes/332597/2605822/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-episode: 22
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
@@ -82,7 +81,7 @@ To truly become a successful infrastructure contractor, your financial health mu
 
 Looking beyond the IIJA's September 2026 expiration, smart contractors are already planning for diversification. While infrastructure [construction 2026](/article/building-roads-and-breaking-barriers-ebony-jennings) remains a focus, the market will inevitably shift. Post-IIJA, alternative sectors are projected to show significant growth, including:
 
-- **Data Centers:** The explosion of AI and cloud computing is fueling unprecedented demand for new data center construction.
+- **Data Centers:** The explosion of AI and cloud computing is fueling unprecedented demand for new [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce).
 
 - **Institutional Construction:** Education, government, and public facilities often benefit from consistent, albeit slower, funding cycles.
 

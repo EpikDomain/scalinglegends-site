@@ -74,6 +74,6 @@ The field is where the real work happens, but it's also often the source of sign
     *   **Voice-to-Text Capabilities:** Speeding up note-taking and observations.
     *   **Automated Weather Integration:** Pulling in local weather data automatically.
     *   **Time-Stamped Photo & Video Capture:** Embedding visual proof directly into reports.
-    **With these tools, daily reporting time can drop from 45 minutes to an average of just 8 minutes, freeing up superintendents for critical on-site supervision and problem-solving.**
+**With these tools, daily reporting time can drop from 45 minutes to an average of just 8 minutes, freeing up superintendents for critical on-site supervision and problem-solving.**
 
 2.  **Photo Documentation with AI Tagging:** Field photos are invaluable for progress

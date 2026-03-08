@@ -7,7 +7,6 @@ audioUrl: "https://content.rss.com/episodes/332597/2608591/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-episode: 24
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
@@ -16,7 +15,7 @@ sponsors:
 
 ## [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business) Wraps as Tariffs Hammer Margins and Data Centers Break Records
 
-CONEXPO-CON/AGG 2026 closes today in Las Vegas after five days with 2,000+ exhibitors, 130,000+ attendees, and nearly 3 million square feet of exhibit space. Meanwhile, the tariff squeeze is eating bids alive, Ohio's E-Verify mandate goes live in 12 days, and data center construction just posted the highest monthly start figure ever recorded.
+CONEXPO-CON/AGG 2026 closes today in Las Vegas after five days with 2,000+ exhibitors, 130,000+ attendees, and nearly 3 million square feet of exhibit space. Meanwhile, the tariff squeeze is eating bids alive, Ohio's E-Verify mandate goes live in 12 days, and [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) just posted the highest monthly start figure ever recorded.
 
 Here's everything that matters for contractors this week.
 

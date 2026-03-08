@@ -7,11 +7,10 @@ audioUrl: "https://content.rss.com/episodes/332597/2608591/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-episode: 19
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Your daily construction market briefing covering [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business) breaking announcements including Caterpillar's first autonomous compactor and AI Assistant, AGC's America's Moving Forward $2M campaign to save IIJA funding before September expiration, data center construction starts hitting $25.2B record in January, AI estimating tools cutting takeoff time by 60%, [construction cybersecurity](/article/constructions-15-million-blind-spot-why-ransomware-groups-are-targeting-your-bim-files) threats from Qilin and SafePay ransomware groups targeting BIM files, California's new 5% retention cap now in effect, and Tutor Perini posting its best year ever with $20.6B backlog. Data-driven intelligence for contractors scaling in 2026.
+Your daily construction market briefing covering [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business) breaking announcements including Caterpillar's first autonomous compactor and AI Assistant, AGC's America's Moving Forward $2M campaign to save IIJA funding before September expiration, [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) starts hitting $25.2B record in January, AI estimating tools cutting takeoff time by 60%, [construction cybersecurity](/article/constructions-15-million-blind-spot-why-ransomware-groups-are-targeting-your-bim-files) threats from Qilin and SafePay ransomware groups targeting BIM files, California's new 5% retention cap now in effect, and Tutor Perini posting its best year ever with $20.6B backlog. Data-driven intelligence for contractors scaling in 2026.

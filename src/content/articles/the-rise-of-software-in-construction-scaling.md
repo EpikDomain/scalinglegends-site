@@ -88,4 +88,4 @@ AI is already transforming preconstruction, as mentioned, by streamlining takeof
 
 - **Predictive Analytics for Project Delays:** AI algorithms can analyze historical project data, weather patterns, material availability, and team performance to predict potential project delays before they occur, allowing for proactive mitigation strategies.
 
-    **Automated Risk Assessment:** Machine learning models can assess project
+**Automated Risk Assessment:** Machine learning models can assess project

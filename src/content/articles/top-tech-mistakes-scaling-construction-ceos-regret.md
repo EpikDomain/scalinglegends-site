@@ -38,7 +38,7 @@ The primary culprit in this waste often stems from a premature leap into sophist
 
 Another silent killer of scaling businesses is the hidden cost of "free" tools. What starts as a convenient solution – managing project schedules in Google Sheets or tracking expenses in an ad-hoc Excel file – quickly becomes a massive liability. When Google Sheets becomes your ERP, you're not just losing efficiency; you're actively building data silos. Information is scattered, version control is a nightmare, and consolidating data for reporting becomes a manual, error-prone ordeal. This approach might work for a solo contractor, but it hits a wall hard around the $5M revenue mark, preventing your business from establishing the "single source of truth" necessary for exponential growth. These hidden costs, while not line items on a software invoice, are evident in delayed projects, inaccurate bids, and frustrated teams.
 
-    **Key Stat:** The average mid-size contractor wastes $45,000 per year on unused or underutilized software, primarily due to a lack of foundational process standardization.
+**Key Stat:** The average mid-size contractor wastes $45,000 per year on unused or underutilized software, primarily due to a lack of foundational process standardization.
 
 ## Strategic Construction Software Selection: Buy vs. Build
 
@@ -48,7 +48,7 @@ Even when choosing commercial software, the financial commitment extends far bey
 
 Furthermore, data migration nightmares are a common and costly reality. Many firms budget a few weeks for migrating historical data into a new system, only to find themselves months deep in the process. The reality is that data migration, especially for businesses with several years of project history, requires planning for 3-6 months, not 3-6 weeks. This involves cleaning existing data, mapping fields, testing transfers, and validating accuracy. Rushing this process leads to corrupted data, lost information, and a lack of trust in the new system, ultimately undermining adoption and ROI.
 
-    **Key Stat:** Integration costs for new construction software average 2-3x the software license fee, a critical budget item often overlooked.
+**Key Stat:** Integration costs for new construction software average 2-3x the software license fee, a critical budget item often overlooked.
 
 ## Driving Adoption: Critical Construction CEO Technology Decisions
 

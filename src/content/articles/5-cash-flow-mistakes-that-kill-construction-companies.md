@@ -88,4 +88,4 @@ Many contractors operate their finances reactively, only looking at bank balance
 
 A 13-week rolling cash flow forecast projects all expected cash inflows (client payments, loan disbursements) and outflows (payroll, supplier payments, overhead) for the next three months, updated weekly. This isn't a static budget; it's a dynamic, living document that provides critical visibility.
 
-    **Identify Gaps:** It immediately highlights weeks where
+**Identify Gaps:** It immediately highlights weeks where
