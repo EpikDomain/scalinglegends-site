@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2608724/scalinglegends/2026_0
 readTime: "30 min listen"
 published: true
 season: 2
-episode: 18
+episode: 26
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
