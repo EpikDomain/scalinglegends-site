@@ -16,19 +16,19 @@ sponsors:
 
 ## Key Takeaways
 
-  - **Legacy is a launchpad, not a crutch.** Ebony inherited her grandfather's asphalt company name and reputation, but she had to completely rebuild the operations, systems, and client base from the ground up.
+- **Legacy is a launchpad, not a crutch.** Ebony inherited her grandfather's asphalt company name and reputation, but she had to completely rebuild the operations, systems, and client base from the ground up.
 
-  - **[Women in construction](/article/women-in-construction-breaking-barriers-2026) face real structural barriers.** From bonding requirements designed for established players to the informal networks that exclude women, the obstacles are systemic, not just cultural.
+- **[Women in construction](/article/women-in-construction-breaking-barriers-2026) face real structural barriers.** From bonding requirements designed for established players to the informal networks that exclude women, the obstacles are systemic, not just cultural.
 
-  - **Modernizing operations is non-negotiable for growth.** Ebony replaced paper-based tracking with digital estimating, GPS fleet management, and automated scheduling, cutting overhead by over 30%.
+- **Modernizing operations is non-negotiable for growth.** Ebony replaced paper-based tracking with digital estimating, GPS fleet management, and automated scheduling, cutting overhead by over 30%.
 
-  - **Government contracts can be a growth engine.** Minority and woman-owned business certifications opened doors to municipal and state projects that provided steady revenue while building the company's track record.
+- **Government contracts can be a growth engine.** Minority and woman-owned business certifications opened doors to municipal and state projects that provided steady revenue while building the company's track record.
 
-  - **Hiring culture matters more than hiring speed.** Ebony built a crew that respected her leadership by being on-site, understanding the work, and never asking someone to do something she wouldn't do herself.
+- **Hiring culture matters more than hiring speed.** Ebony built a crew that respected her leadership by being on-site, understanding the work, and never asking someone to do something she wouldn't do herself.
 
-  - **Strategic partnerships beat going it alone.** Teaming with larger general contractors on joint ventures let Ebony's company take on bigger projects while building capacity and credibility.
+- **Strategic partnerships beat going it alone.** Teaming with larger general contractors on joint ventures let Ebony's company take on bigger projects while building capacity and credibility.
 
-  - **Patience and persistence win contracts.** Some of Ebony's biggest wins came from relationships she built over 2-3 years of consistent follow-up and flawless execution on smaller jobs.
+- **Patience and persistence win contracts.** Some of Ebony's biggest wins came from relationships she built over 2-3 years of consistent follow-up and flawless execution on smaller jobs.
 
 ## From Her Grandfather's Hands to Hers: Ebony Jennings' Asphalt Origin Story
 
@@ -128,13 +128,13 @@ Ebony is clear-eyed about the progress that has been made and the distance still
 
 She points to several systemic issues that still need addressing:
 
-  - **Bonding requirements** that effectively exclude new entrants without established financial histories
+- **Bonding requirements** that effectively exclude new entrants without established financial histories
 
-  - **Informal networking** that happens at golf courses, hunting clubs, and industry events where women are often the only one in the room, if they're invited at all
+- **Informal networking** that happens at golf courses, hunting clubs, and industry events where women are often the only one in the room, if they're invited at all
 
-  - **Access to capital** that remains disproportionately difficult for women and minority-owned construction firms
+- **Access to capital** that remains disproportionately difficult for women and minority-owned construction firms
 
-  - **Mentorship gaps** where young women in construction don't see role models who look like them in leadership positions
+- **Mentorship gaps** where young women in construction don't see role models who look like them in leadership positions
 
 "I want to be the person I needed when I was starting," Ebony says. "That's why I talk about this stuff publicly. Not to complain, but to map the obstacles so the next woman coming through can navigate them faster."
 
@@ -170,11 +170,11 @@ Bonding capacity is built incrementally. Start with smaller bonded projects and 
 
 ## Related Episodes and Articles
 
-  - [S2E1: From Solo Contractor to Scaling Legend: The CEO Mindset Shifts](/from-solo-contractor-to-scaling-legend-ceo-mindset-shifts)
+- [S2E1: From Solo Contractor to Scaling Legend: The CEO Mindset Shifts](/from-solo-contractor-to-scaling-legend-ceo-mindset-shifts)
 
-  - [Women in Construction: Breaking Through the Barriers That Still Exist in 2026](/women-in-construction-breaking-barriers-2026)
+- [Women in Construction: Breaking Through the Barriers That Still Exist in 2026](/women-in-construction-breaking-barriers-2026)
 
-  - [How to Scale a Family Construction Business Without Losing Its Soul](/how-to-scale-family-construction-business)
+- [How to Scale a Family Construction Business Without Losing Its Soul](/how-to-scale-family-construction-business)
 
   View Full Transcript
   

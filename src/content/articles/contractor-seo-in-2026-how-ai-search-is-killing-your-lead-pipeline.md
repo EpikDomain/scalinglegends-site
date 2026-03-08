@@ -24,17 +24,17 @@ This episode of Scaling Legends digs into the numbers, the case studies, and the
 
 The shift is not subtle. AI-powered search is fundamentally changing how homeowners find and choose contractors, and the numbers are severe.
 
-  - **AI Overviews reduce clicks by 58%** on queries where they appear
+- **AI Overviews reduce clicks by 58%** on queries where they appear
 
-  - Traffic drops range from **18% to 64%** on certain high-volume keywords
+- Traffic drops range from **18% to 64%** on certain high-volume keywords
 
-  - Traditional search volume is predicted to **drop 25% by 2026** due to AI chatbots
+- Traditional search volume is predicted to **drop 25% by 2026** due to AI chatbots
 
-  - **60% of searches end without a click** (zero-click searches)
+- **60% of searches end without a click** (zero-click searches)
 
-  - Zero-click rates: 34% without AI Overview, 43% with AI Overview, **93% in Google AI Mode**
+- Zero-click rates: 34% without AI Overview, 43% with AI Overview, **93% in Google AI Mode**
 
-  - Google AI Overviews appeared in 13.14% of all queries in March 2025, up from 6.49% in January
+- Google AI Overviews appeared in 13.14% of all queries in March 2025, up from 6.49% in January
 
 That last number is the one to watch. AI Overviews doubled their coverage in just two months and continue to expand. Google AI Mode pushes zero-click rates to 93%. When nearly every search ends without anyone clicking through to a website, the entire foundation of traditional SEO shifts.
 
@@ -46,13 +46,13 @@ On March 4, 2026, Angi launched an app directly inside ChatGPT. This is not a mi
 
 Here is what the early data shows:
 
-  - Users who begin via the AI Helper are **3x more likely to request a quote**
+- Users who begin via the AI Helper are **3x more likely to request a quote**
 
-  - **25% more likely** to report a project completed successfully
+- **25% more likely** to report a project completed successfully
 
-  - Built on **3 decades of marketplace data**
+- Built on **3 decades of marketplace data**
 
-  - Homeowners now ask ChatGPT for contractor recommendations and get localized results
+- Homeowners now ask ChatGPT for contractor recommendations and get localized results
 
 Think about what this means. Instead of searching Google for "plumber near me," a homeowner asks ChatGPT: "I have a leaking water heater in Austin, who should I call?" ChatGPT, via Angi's integration, serves up contractor recommendations with reviews, pricing context, and the ability to request a quote without ever visiting Google.
 
@@ -72,17 +72,17 @@ The shift here is fundamental. Traditional SEO was about optimizing for an algor
 
 Despite all the AI disruption, local search remains the most powerful lead generation channel for contractors. The conversion rates are staggering:
 
-  - **80% of local searches convert** into customers
+- **80% of local searches convert** into customers
 
-  - **88% of consumers** who search locally on mobile visit or call within 24 hours
+- **88% of consumers** who search locally on mobile visit or call within 24 hours
 
-  - **76% of "near me"** mobile searchers visit a business within 24 hours
+- **76% of "near me"** mobile searchers visit a business within 24 hours
 
-  - **93% of consumers searching for plumbing** are most likely to call after search
+- **93% of consumers searching for plumbing** are most likely to call after search
 
-  - **"Plumbers near me"** is growing 288% year over year
+- **"Plumbers near me"** is growing 288% year over year
 
-  - Over **97% of homeowners** now use Google to find local contractors
+- Over **97% of homeowners** now use Google to find local contractors
 
 The strategy is not to abandon local search. It is to adapt how you show up in it. The 5 moves outlined below are specifically designed for the AI search era while maintaining your local search dominance.
 
@@ -92,15 +92,15 @@ The strategy is not to abandon local search. It is to adapt how you show up in i
 
 Google Business Profile signals remain the top-tier ranking driver for local contractors. But Google has transformed GBP into an AI-powered local marketing platform. Active, engaged businesses get higher visibility. Here is what "active" means in practice:
 
-  - Post weekly updates with project photos and descriptions
+- Post weekly updates with project photos and descriptions
 
-  - Respond to every review within 24 hours (positive and negative)
+- Respond to every review within 24 hours (positive and negative)
 
-  - Keep business hours, service areas, and categories accurate
+- Keep business hours, service areas, and categories accurate
 
-  - Use the Q&A section to answer common customer questions
+- Use the Q&A section to answer common customer questions
 
-  - Add photos consistently: firms with 100+ photos get 520% more calls than those with fewer than 5
+- Add photos consistently: firms with 100+ photos get 520% more calls than those with fewer than 5
 
 Your GBP is no longer a set-it-and-forget-it listing. It is an active marketing channel that Google's AI uses to determine which businesses deserve visibility.
 
@@ -124,15 +124,15 @@ Individual city pages outperform generic service area listings. An HVAC contract
 
 Each location page should include:
 
-  - City-specific service descriptions (not just find-and-replace templates)
+- City-specific service descriptions (not just find-and-replace templates)
 
-  - Local project photos and case studies
+- Local project photos and case studies
 
-  - Area-specific pricing context
+- Area-specific pricing context
 
-  - Local phone number if available
+- Local phone number if available
 
-  - LocalBusiness schema with the specific city address or service area
+- LocalBusiness schema with the specific city address or service area
 
 The mistake most contractors make is creating 50 identical pages with only the city name swapped out. Google catches this immediately. Each page needs unique content that demonstrates actual expertise in that market.
 
@@ -140,13 +140,13 @@ The mistake most contractors make is creating 50 identical pages with only the c
 
 Content marketing costs **62% less per lead than outbound** and generates **3x more leads**. The highest-performing content types for contractors are:
 
-  - **Emergency and crisis content:** "What to do when your pipe bursts at 2 AM" ranks and converts because it matches urgent search intent
+- **Emergency and crisis content:** "What to do when your pipe bursts at 2 AM" ranks and converts because it matches urgent search intent
 
-  - **Cost guides with real local pricing:** "How much does a roof replacement cost in Dallas in 2026?" with actual numbers, not vague ranges
+- **Cost guides with real local pricing:** "How much does a roof replacement cost in Dallas in 2026?" with actual numbers, not vague ranges
 
-  - **Before and after project documentation:** Photos and video showing the work, the process, and the result
+- **Before and after project documentation:** Photos and video showing the work, the process, and the result
 
-  - **Location-specific content:** Converts highest because it matches local intent signals
+- **Location-specific content:** Converts highest because it matches local intent signals
 
 The average word count of pages that rank for voice search queries is **2,312 words**. That is not an accident. Longer, more comprehensive content provides more answers for AI systems to cite and more context for search engines to evaluate expertise. This is precisely the type of intelligence that contractors can access through platforms like [Smart Business Automator](https://smartbusinessautomator.com) to understand what content performs best in their specific service areas.
 
@@ -158,25 +158,25 @@ Paid advertising still has a role, but the economics have shifted. Here is the c
 
 LSAs charge per lead, not per click. Current average costs by trade:
 
-  - **Plumbing leads:** approximately $69
+- **Plumbing leads:** approximately $69
 
-  - **HVAC leads:** approximately $80
+- **HVAC leads:** approximately $80
 
-  - **Painting leads:** approximately $40
+- **Painting leads:** approximately $40
 
-  - **Roofing leads:** approximately $71
+- **Roofing leads:** approximately $71
 
-  - **Conversion rates:** 22-38% depending on response time
+- **Conversion rates:** 22-38% depending on response time
 
 ### Traditional Google Ads (Pay Per Click)
 
 Traditional PPC costs continue to climb:
 
-  - "AC repair" can run **$90+ per click** in competitive markets
+- "AC repair" can run **$90+ per click** in competitive markets
 
-  - Google Ads cost per lead increased **5.13% to $70.11** in 2025
+- Google Ads cost per lead increased **5.13% to $70.11** in 2025
 
-  - You pay for clicks whether they convert or not
+- You pay for clicks whether they convert or not
 
 The bottom line: LSAs offer more predictable costs and better alignment with contractor lead generation. You pay for actual leads, not clicks from people who bounce. The response time factor is critical though. Firms that respond within 5 minutes see conversion rates at the top of the 22-38% range. Wait an hour and you are at the bottom.
 
@@ -184,15 +184,15 @@ The bottom line: LSAs offer more predictable costs and better alignment with con
 
 Voice search represents one of the largest gaps between opportunity and contractor adoption:
 
-  - **157 million Americans** projected to use voice assistants in 2026
+- **157 million Americans** projected to use voice assistants in 2026
 
-  - **58% have used voice search** for local business information
+- **58% have used voice search** for local business information
 
-  - **76% of smart speaker users** search for local services weekly
+- **76% of smart speaker users** search for local services weekly
 
-  - Only **13% of marketers** optimize for voice search
+- Only **13% of marketers** optimize for voice search
 
-  - **40%+ of voice search results** come from featured snippets
+- **40%+ of voice search results** come from featured snippets
 
 That 13% number is the opportunity. When 76% of smart speaker users are searching for local services weekly but only 13% of marketers are optimizing for it, the first movers in any market have a massive advantage.
 
@@ -202,17 +202,17 @@ Voice search optimization for contractors means conversational content that matc
 
 Social media is no longer optional for contractors, and the ROI data supports serious investment:
 
-  - Average ROI across platforms: **approximately 420%** ($5.20 per dollar spent)
+- Average ROI across platforms: **approximately 420%** ($5.20 per dollar spent)
 
-  - LinkedIn generates **4 out of 5 B2B leads** from social media
+- LinkedIn generates **4 out of 5 B2B leads** from social media
 
-  - TikTok: **32% of marketers** say it delivers the highest ROI
+- TikTok: **32% of marketers** say it delivers the highest ROI
 
-  - Short-form video: **highest ROI of any video type at 41%**
+- Short-form video: **highest ROI of any video type at 41%**
 
-  - **85% of people** say a video influenced their buying decision
+- **85% of people** say a video influenced their buying decision
 
-  - US creator ad spend: projected **$37 billion in 2025**
+- US creator ad spend: projected **$37 billion in 2025**
 
 For contractors specifically, the highest-performing social content is job site transformation videos, process explainers that show how work gets done, and behind-the-scenes crew content. Short-form video on TikTok, Instagram Reels, and YouTube Shorts delivers the best return. The barrier to entry is low: a smartphone and someone willing to hit record on a job site.
 
@@ -220,13 +220,13 @@ For contractors specifically, the highest-performing social content is job site 
 
 Getting traffic means nothing if your website cannot convert visitors into leads. The data on conversion optimization is clear:
 
-  - **Form reduction from 11 to 4 fields:** 120% conversion lift
+- **Form reduction from 11 to 4 fields:** 120% conversion lift
 
-  - **Page load time sweet spot:** 1-2 seconds. Every additional second costs 4.42% of conversions
+- **Page load time sweet spot:** 1-2 seconds. Every additional second costs 4.42% of conversions
 
-  - **Adding live chat:** increases sales 20% on average
+- **Adding live chat:** increases sales 20% on average
 
-  - Over **70% of contractor searches happen on mobile**
+- Over **70% of contractor searches happen on mobile**
 
 If your contact form asks for name, email, phone, address, project type, timeline, budget, how they heard about you, preferred contact method, best time to call, and a project description, you are losing more than half your potential leads. Cut it to name, phone, zip code, and a brief description. Get the rest on the call.
 
@@ -238,31 +238,31 @@ Theory is useful, but real-world results are what matter. Here are documented ca
 
 ### PatchPro Florida (Drywall Repair)
 
-  - Web form leads increased **63.96% year over year**
+- Web form leads increased **63.96% year over year**
 
-  - Revenue on track to grow **63%+ year over year**
+- Revenue on track to grow **63%+ year over year**
 
-  - Average job revenue rose **66%**
+- Average job revenue rose **66%**
 
 ### Rose Paving (Industrial Paving)
 
-  - **263% more leads on 131% spend** in 2019
+- **263% more leads on 131% spend** in 2019
 
-  - **193% increase in conversion rates** in 2021
+- **193% increase in conversion rates** in 2021
 
-  - PPC: 109+ leads with 3%+ conversion rate
+- PPC: 109+ leads with 3%+ conversion rate
 
 ### D&F Plumbing
 
-  - Average call volume increase **149% per year** since 2019
+- Average call volume increase **149% per year** since 2019
 
-  - Expanded into new vertical due to growth from digital marketing
+- Expanded into new vertical due to growth from digital marketing
 
 ### Culture Cube (Plumbing and HVAC)
 
-  - **75% of all leads from Google Maps and organic** (July 2022)
+- **75% of all leads from Google Maps and organic** (July 2022)
 
-  - Spending less on advertising while doing more business
+- Spending less on advertising while doing more business
 
 These are not Silicon Valley startups. These are contractors in drywall, paving, plumbing, and HVAC who invested in digital marketing and saw their businesses transform. The common thread across all four: they committed to a long-term strategy rather than expecting overnight results.
 
@@ -270,15 +270,15 @@ These are not Silicon Valley startups. These are contractors in drywall, paving,
 
 If you are considering hiring an agency to handle your digital marketing, here is what the market looks like:
 
-  - **Local SEO:** $1,500 to $3,500 per month
+- **Local SEO:** $1,500 to $3,500 per month
 
-  - **Comprehensive digital marketing:** $5,000 to $15,000 per month
+- **Comprehensive digital marketing:** $5,000 to $15,000 per month
 
-  - **SEO retainers average:** $3,500 to $8,000 per month
+- **SEO retainers average:** $3,500 to $8,000 per month
 
-  - **64% of SEO agencies** charge below $1,000 per month
+- **64% of SEO agencies** charge below $1,000 per month
 
-  - **Most popular hourly rate:** $75 to $100 per hour
+- **Most popular hourly rate:** $75 to $100 per hour
 
 That 64% number should be a red flag. Agencies charging under $1,000 per month for SEO are typically doing template work that will not move the needle. Genuine local SEO that includes GBP optimization, review management, content creation, schema implementation, and location pages requires $1,500 minimum, and most contractors in competitive markets need to be in the $3,000-$5,000 range to see meaningful results.
 
@@ -286,11 +286,11 @@ That 64% number should be a red flag. Agencies charging under $1,000 per month f
 
 The broader context for all of this is that customer acquisition cost has **tripled in 8 years**, a 222% increase across industries. For contractors, the current benchmarks are:
 
-  - **Referral:** lowest CAC at $25 to $65 (but limited scale)
+- **Referral:** lowest CAC at $25 to $65 (but limited scale)
 
-  - **Organic SEO:** $647 mid-range with compounding returns over time
+- **Organic SEO:** $647 mid-range with compounding returns over time
 
-  - **Content marketing:** the most reliable structural fix for rising CAC
+- **Content marketing:** the most reliable structural fix for rising CAC
 
 Referrals will always be the cheapest leads. But referrals do not scale. You cannot build a growth plan on hoping enough people recommend you. Organic SEO and content marketing cost more per lead initially but compound over time. A blog post that ranks well continues generating leads for years without additional spend. Research from [Smart Business Automator](https://smartbusinessautomator.com) consistently shows that contractors who maintain a balanced acquisition strategy across referrals, organic SEO, and targeted paid channels achieve the lowest blended CAC and the most predictable growth.
 
@@ -298,15 +298,15 @@ Referrals will always be the cheapest leads. But referrals do not scale. You can
 
 The data is clear. AI search is reshaping contractor lead generation and the contractors who adapt will take share from those who do not. Here is what to prioritize right now:
 
-  - **Audit your Google Business Profile.** Update everything. Start posting weekly. Respond to every review.
+- **Audit your Google Business Profile.** Update everything. Start posting weekly. Respond to every review.
 
-  - **Implement schema markup.** LocalBusiness, Service, and FAQPage schemas at minimum. If you cannot do this yourself, it is a one-time project any web developer can handle for $300-$500.
+- **Implement schema markup.** LocalBusiness, Service, and FAQPage schemas at minimum. If you cannot do this yourself, it is a one-time project any web developer can handle for $300-$500.
 
-  - **Build review velocity.** One review per week, built into your job completion process. Consistency beats volume.
+- **Build review velocity.** One review per week, built into your job completion process. Consistency beats volume.
 
-  - **Create 3 location-specific pages** for your top service areas with unique content, local photos, and proper schema.
+- **Create 3 location-specific pages** for your top service areas with unique content, local photos, and proper schema.
 
-  - **Optimize your contact form.** Cut it to 4 fields maximum. Test your page speed and fix anything below a 50 mobile score.
+- **Optimize your contact form.** Cut it to 4 fields maximum. Test your page speed and fix anything below a 50 mobile score.
 
 None of these require a massive budget. They require focus and consistency. The contractors in the case studies above did not have unlimited marketing budgets. They had discipline and a willingness to invest in digital channels that compound over time.
 

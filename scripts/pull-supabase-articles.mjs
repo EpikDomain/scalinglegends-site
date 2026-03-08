@@ -81,6 +81,29 @@ function htmlToMarkdown(html) {
   // Links - convert scalinglegends.com links to relative
   md = md.replace(/<a[^>]*href="https?:\/\/scalinglegends\.com\/article\/([^"]*)"[^>]*>(.*?)<\/a>/gi, '[$2](/article/$1)');
   md = md.replace(/<a[^>]*href="([^"]*)"[^>]*>(.*?)<\/a>/gi, '[$2]($1)');
+  // Tables - convert to markdown tables before stripping tags
+  md = md.replace(/<table[^>]*>([\s\S]*?)<\/table>/gi, (match, tableContent) => {
+    const rows = [];
+    const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+    let rowMatch;
+    while ((rowMatch = rowRegex.exec(tableContent)) !== null) {
+      const cells = [];
+      const cellRegex = /<(?:td|th)[^>]*>([\s\S]*?)<\/(?:td|th)>/gi;
+      let cellMatch;
+      while ((cellMatch = cellRegex.exec(rowMatch[1])) !== null) {
+        cells.push(cellMatch[1].replace(/<[^>]+>/g, '').trim());
+      }
+      if (cells.length > 0) rows.push(cells);
+    }
+    if (rows.length === 0) return '';
+    const colCount = Math.max(...rows.map(r => r.length));
+    let table = '\n| ' + rows[0].map(c => c).join(' | ') + ' |\n';
+    table += '| ' + Array(colCount).fill('---').join(' | ') + ' |\n';
+    for (let i = 1; i < rows.length; i++) {
+      table += '| ' + rows[i].join(' | ') + ' |\n';
+    }
+    return table + '\n';
+  });
   // Lists
   md = md.replace(/<ul[^>]*>/gi, '\n');
   md = md.replace(/<\/ul>/gi, '\n');
@@ -112,8 +135,10 @@ function htmlToMarkdown(html) {
   md = md.replace(/\n\s*Listen on:[\s\S]*?(?=\n\n)/gi, '');
   // Remove "Episode sponsored by" / "Presented by" blocks
   md = md.replace(/\n\s*(?:Episode )?(?:sponsored|presented) by[\s\S]*?(?=\n##|\n\n[A-Z]|\n$)/gi, '');
-  // Fix indented list items (4-space indent makes code blocks in markdown)
-  md = md.replace(/^    (- )/gm, '$1');
+  // Fix indented list items (2-4 space indent causes rendering issues in markdown)
+  md = md.replace(/^ {2,4}(- )/gm, '$1');
+  // Fix indented bold/link lines
+  md = md.replace(/^ {2,4}(\*\*|\[)/gm, '$1');
   // Clean up whitespace
   md = md.replace(/\n{3,}/g, '\n\n');
   md = md.trim();

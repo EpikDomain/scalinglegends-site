@@ -77,6 +77,36 @@ a { text-decoration: none; transition: color 0.2s; }
   color: #E0FF4D;
 }
 
+/* Tables */
+.article-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9375rem;
+}
+
+.article-content thead {
+  background: #1E1E1E;
+}
+
+.article-content th {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 700;
+  color: #EAEAEA;
+  border-bottom: 2px solid #CCFF00;
+}
+
+.article-content td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #2A2A2A;
+  color: #CCCCCC;
+}
+
+.article-content tbody tr:hover {
+  background: #1a1a1a;
+}
+
 /* Code blocks - in case any markdown renders as code */
 .article-content pre {
   background: #161616;

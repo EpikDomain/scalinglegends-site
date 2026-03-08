@@ -28,13 +28,13 @@ CONEXPO wrapped today in Las Vegas after a five-day run that drew an estimated 1
 
 Cat demonstrated a fully autonomous soil compactor (the CS12) with **zero operator in the cab** at a live trade show for the first time in the company's history. That alone would have been the headline, but Cat also launched:
 
-  - **Cat AI Assistant** - an artificial intelligence tool for fleet management and predictive maintenance
+- **Cat AI Assistant** - an artificial intelligence tool for fleet management and predictive maintenance
 
-  - **Cat Compact** - a new service model specifically targeting small contractors with buy, rent, and service through a single channel
+- **Cat Compact** - a new service model specifically targeting small contractors with buy, rent, and service through a single channel
 
-  - **Next-day parts guarantee** with a 2-day repair commitment and Cat Credits if they miss the window
+- **Next-day parts guarantee** with a 2-day repair commitment and Cat Credits if they miss the window
 
-  - New C3.6 and C13D engines plus a refreshed Cat Rentals brand
+- New C3.6 and C13D engines plus a refreshed Cat Rentals brand
 
 The Cat Compact platform matters for Scaling Legends listeners specifically. If you're a small to mid-size operator, Cat is building a direct pipeline to serve you. That's a strategic shift from a company that historically focused on large fleet buyers.
 
@@ -64,40 +64,13 @@ On February 20, the Supreme Court ruled 6-3 that IEEPA tariffs were illegal. Wit
 
 ### Current Tariff Rates as of March 7, 2026
 
-  
-    
-      Material
-      Tariff Rate
-      YoY Price Change
-    
-  
-  
-    
-      Steel (all imports)
-      50% (Section 232)
-      +20.7%
-    
-    
-      Aluminum (all imports)
-      50% (Section 232)
-      +33%
-    
-    
-      Copper (semi-finished)
-      50%
-      +15.7%
-    
-    
-      Softwood lumber/timber
-      10%
-      Flat to slightly down
-    
-    
-      All other imports
-      10% (Section 122, expires July 2026)
-      Varies
-    
-  
+| Material | Tariff Rate | YoY Price Change |
+|---|---|---|
+| Steel (all imports) | 50% (Section 232) | +20.7% |
+| Aluminum (all imports) | 50% (Section 232) | +33% |
+| Copper (semi-finished) | 50% | +15.7% |
+| Softwood lumber/timber | 10% | Flat to slightly down |
+| All other imports | 10% (Section 122, expires July 2026) | Varies |
 
 Construction input prices rose **0.7% month-over-month** in January 2026 alone. The aluminum and steel increases are the largest since the early 2022 supply chain disruptions. The effective tariff rate for construction materials is at a **40-year high of 25-30%**.
 
@@ -105,15 +78,15 @@ Real consequences are already hitting. Unistress Corp, a Massachusetts precast m
 
 ### What Smart Contractors Are Doing Right Now
 
-  - Adding 15-25% tariff contingencies to every bid
+- Adding 15-25% tariff contingencies to every bid
 
-  - Making escalation clauses and tariff-adjustment provisions standard in all contracts
+- Making escalation clauses and tariff-adjustment provisions standard in all contracts
 
-  - Shortening bid validity windows to 30 days maximum
+- Shortening bid validity windows to 30 days maximum
 
-  - Shifting to domestic suppliers despite higher base costs to reduce volatility exposure
+- Shifting to domestic suppliers despite higher base costs to reduce volatility exposure
 
-  - Walking away from fixed-bid work that doesn't include escalation protection
+- Walking away from fixed-bid work that doesn't include escalation protection
 
 The Section 122 tariffs have a 150-day clock and expire around July 2026. But Section 232 tariffs on steel and aluminum at 50% have no sunset. Long-term, construction output is projected to **contract by 2.4%**. Contractors using platforms like [Smart Business Automator](https://smartbusinessautomator.com) to automate their estimating workflows can re-price jobs faster when material costs shift, cutting the lag between a price spike and an updated bid from days to hours.
 
@@ -133,42 +106,15 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 ### By the Numbers
 
-  
-    
-      Metric
-      Number
-    
-  
-  
-    
-      Worker shortage
-      349,000-500,000
-    
-    
-      Firms affected by immigration enforcement
-      28%
-    
-    
-      Construction workers who are immigrants
-      34% (up to 61% in some trades)
-    
-    
-      Workforce retiring by 2031
-      41%
-    
-    
-      YoY wage growth
-      4.2% (6-8% in hot markets)
-    
-    
-      Contractors expecting hiring to worsen
-      53%
-    
-    
-      Workers removed via humanitarian parole rollback
-      532,000
-    
-  
+| Metric | Number |
+|---|---|
+| Worker shortage | 349,000-500,000 |
+| Firms affected by immigration enforcement | 28% |
+| Construction workers who are immigrants | 34% (up to 61% in some trades) |
+| Workforce retiring by 2031 | 41% |
+| YoY wage growth | 4.2% (6-8% in hot markets) |
+| Contractors expecting hiring to worsen | 53% |
+| Workers removed via humanitarian parole rollback | 532,000 |
 
 The states being hit hardest are Georgia (75% impact), Virginia, Alabama, Nebraska, and South Carolina. States with the highest undocumented worker concentration saw a **0.1% drop in construction employment** while other states saw +1.9% growth. The labor pool divergence is measurable and widening.
 
@@ -186,28 +132,10 @@ All nonresidential construction contractors, subcontractors, and labor brokers. 
 
 ### The Penalty Structure
 
-  
-    
-      Violation
-      1st Offense
-      2nd Offense
-      3rd Offense
-    
-  
-  
-    
-      Failure to create E-Verify case
-      $250
-      $1,000
-      $1,500
-    
-    
-      Employing after final nonconfirmation
-      $5,000
-      $10,000
-      $25,000
-    
-  
+| Violation | 1st Offense | 2nd Offense | 3rd Offense |
+|---|---|---|---|
+| Failure to create E-Verify case | $250 | $1,000 | $1,500 |
+| Employing after final nonconfirmation | $5,000 | $10,000 | $25,000 |
 
 Records must be kept for 3 years from hire date or 1 year after termination, whichever is longer. Roughly half of all U.S. states now have some form of E-Verify requirement, and the trend is accelerating.
 
@@ -217,15 +145,15 @@ Small contractors without dedicated HR departments are getting hit hardest by th
 
 The subcontractor cash flow crisis is getting worse, and the data is stark:
 
-  - Subcontractors are waiting an average of **56 days for payment** while GCs believe the average is 30 days
+- Subcontractors are waiting an average of **56 days for payment** while GCs believe the average is 30 days
 
-  - **43% of subcontractors** don't have enough working capital to cover unexpected expenses
+- **43% of subcontractors** don't have enough working capital to cover unexpected expenses
 
-  - **40% of subs** are retaining half to all of their profits just to fund operations
+- **40% of subs** are retaining half to all of their profits just to fund operations
 
-  - Material cost volatility requires larger cash reserves than historical norms
+- Material cost volatility requires larger cash reserves than historical norms
 
-  - Tariff contingencies are tying up capital that would otherwise fund growth
+- Tariff contingencies are tying up capital that would otherwise fund growth
 
 The boom-year cash management habits that worked from 2021 through 2024 are now being brutally exposed by the 2025-2026 market shift. Contractors who scaled aggressively without building cash reserves are the most vulnerable.
 
@@ -241,15 +169,15 @@ The Federal Infrastructure Bank Act (H.R.1235) was introduced in the 119th Congr
 
 ### Active Grant Deadlines
 
-  - **March 10:** DOI Indian Highway Safety Lifesavers Conference Grant
+- **March 10:** DOI Indian Highway Safety Lifesavers Conference Grant
 
-  - **March 13:** MARAD FY2026 Port Infrastructure Development Program
+- **March 13:** MARAD FY2026 Port Infrastructure Development Program
 
-  - **March 16:** EPA Brownfields Revolving Loan Fund supplemental
+- **March 16:** EPA Brownfields Revolving Loan Fund supplemental
 
-  - **March 23:** DOI Wildland Fire Slip-On Tanker Units
+- **March 23:** DOI Wildland Fire Slip-On Tanker Units
 
-  - **March 27:** DOE Next-Gen Geothermal Field Tests
+- **March 27:** DOE Next-Gen Geothermal Field Tests
 
 ### Gateway Tunnel Update
 
@@ -259,45 +187,14 @@ The $16 billion Hudson Tunnel Project restarted limited construction after recei
 
 Live Google Trends data pulled today reveals what's on contractors' minds:
 
-  
-    
-      Search Term
-      Growth
-      What It Tells Us
-    
-  
-  
-    
-      [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026) services near me
-      +51,350%
-      Contractors desperately seeking estimating help
-    
-    
-      free construction estimating software excel
-      +9,050%
-      Small contractors need affordable tools
-    
-    
-      free residential construction estimating software
-      +2,450%
-      Residential segment is price-sensitive
-    
-    
-      construction estimating institute
-      +600%
-      Training demand surging
-    
-    
-      construction labor shortage
-      BREAKOUT
-      Search interest exploding nationally
-    
-    
-      construction bidding
-      +80%
-      Bidding activity is rising
-    
-  
+| Search Term | Growth | What It Tells Us |
+|---|---|---|
+| [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026) services near me | +51,350% | Contractors desperately seeking estimating help |
+| free construction estimating software excel | +9,050% | Small contractors need affordable tools |
+| free residential construction estimating software | +2,450% | Residential segment is price-sensitive |
+| construction estimating institute | +600% | Training demand surging |
+| construction labor shortage | BREAKOUT | Search interest exploding nationally |
+| construction bidding | +80% | Bidding activity is rising |
 
 The +51,350% explosion in "construction estimating services near me" is the most telling data point. Contractors are overwhelmed by the complexity of pricing in this market. When steel can move 20% in a year and tariff policy changes overnight, the old spreadsheet approach breaks down.
 
@@ -305,23 +202,23 @@ The +51,350% explosion in "construction estimating services near me" is the most
 
 We monitor every major construction podcast weekly. Here's what the competition is doing and, more importantly, what they're not doing:
 
-  - **Construction Leading Edge** (Todd Dawalt) - Last episode March 2, covering markup vs. margin. No CONEXPO episode yet.
+- **Construction Leading Edge** (Todd Dawalt) - Last episode March 2, covering markup vs. margin. No CONEXPO episode yet.
 
-  - **Contractor Success Forum** - Last episode March 2. Same markup/margin topic. No new content this week.
+- **Contractor Success Forum** - Last episode March 2. Same markup/margin topic. No new content this week.
 
-  - **The Wealthy Contractor** - Recent episode on EOS implementation. No market intelligence coverage.
+- **The Wealthy Contractor** - Recent episode on EOS implementation. No market intelligence coverage.
 
-  - **The ConTechCrew** - Likely covering CONEXPO tech but no confirmed episode yet.
+- **The ConTechCrew** - Likely covering CONEXPO tech but no confirmed episode yet.
 
 **The gap:** Nobody has published a CONEXPO closing day wrap-up. The tariff/SCOTUS aftermath hasn't been deeply covered in podcast format. Ohio E-Verify is 12 days away and zero competitors have addressed it. Immigration enforcement impact remains underexplored. Scaling Legends is first to market on all of these angles with tonight's briefing.
 
 ## Three Action Items for Monday Morning
 
-  - **Review every open bid for tariff exposure.** If you have any fixed-price proposals out without escalation clauses, pull them back or add a tariff rider before they're accepted. Steel at +20.7% and aluminum at +33% can destroy your margin on a single project.
+- **Review every open bid for tariff exposure.** If you have any fixed-price proposals out without escalation clauses, pull them back or add a tariff rider before they're accepted. Steel at +20.7% and aluminum at +33% can destroy your margin on a single project.
 
-  - **If you work in Ohio, set up E-Verify this weekend.** March 19 is 12 days away. The penalties start at $250 but escalate to $25,000. There's no small business exemption. Don't wait until the 18th.
+- **If you work in Ohio, set up E-Verify this weekend.** March 19 is 12 days away. The penalties start at $250 but escalate to $25,000. There's no small business exemption. Don't wait until the 18th.
 
-  - **Look at data center prequalification requirements.** With $88 billion in projects starting in the next 6 months, even if you only capture a fraction of the subcontract work, it could transform your 2026 revenue. Start the prequalification paperwork now.
+- **Look at data center prequalification requirements.** With $88 billion in projects starting in the next 6 months, even if you only capture a fraction of the subcontract work, it could transform your 2026 revenue. Start the prequalification paperwork now.
 
 ## Frequently Asked Questions
 
@@ -345,8 +242,8 @@ Caterpillar demonstrated the first fully autonomous soil compactor (Cat CS12) wi
 
 The industry needs between 349,000 and 500,000 additional workers to meet current demand. 41% of the existing workforce is set to retire by 2031 while 532,000 workers with legal authorization under humanitarian parole programs have been removed from the labor pool. Wages are rising 4.2% nationally and 6-8% in hot markets. 53% of contractors expect hiring conditions to stay the same or worsen through the end of the year.
 
-  **Sources:** Google Trends (pytrends, real-time March 7, 2026), AGC Economic Data, Construction Dive, ConstructConnect Data Center Report (March 2026), Engineering News-Record, OSHA, Census Bureau, Supreme Court Case 24-1287, White House Section 122 Executive Order (Feb 24, 2026), Ohio E-Verify Workforce Integrity Act, CONEXPO-CON/AGG 2026 exhibitor announcements. All data accessed March 7, 2026.
+**Sources:** Google Trends (pytrends, real-time March 7, 2026), AGC Economic Data, Construction Dive, ConstructConnect Data Center Report (March 2026), Engineering News-Record, OSHA, Census Bureau, Supreme Court Case 24-1287, White House Section 122 Executive Order (Feb 24, 2026), Ohio E-Verify Workforce Integrity Act, CONEXPO-CON/AGG 2026 exhibitor announcements. All data accessed March 7, 2026.
 
-  **Scaling Legends** delivers daily intelligence briefings for construction contractors who want to scale. Subscribe wherever you listen to podcasts.
+**Scaling Legends** delivers daily intelligence briefings for construction contractors who want to scale. Subscribe wherever you listen to podcasts.
 
-  [scalinglegends.com](https://scalinglegends.com)
+[scalinglegends.com](https://scalinglegends.com)

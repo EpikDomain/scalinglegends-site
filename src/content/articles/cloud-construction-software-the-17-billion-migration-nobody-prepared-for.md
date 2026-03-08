@@ -36,15 +36,15 @@ One of the biggest frustrations contractors report is opaque pricing. Most vendo
 
 Procore prices based on **Annual Construction Volume (ACV)**, not per user. That means unlimited users are included, but the cost scales with how much work you do. Here is what real contractors are paying:
 
-  - **Small contractors:** $4,500 to $10,000 per year
+- **Small contractors:** $4,500 to $10,000 per year
 
-  - **Mid-size to large GCs:** $10,000 to $60,000+ per year
+- **Mid-size to large GCs:** $10,000 to $60,000+ per year
 
-  - **Rule of thumb:** 0.1% to 0.2% of total project costs
+- **Rule of thumb:** 0.1% to 0.2% of total project costs
 
-  - **Real example:** A firm doing $55 million in annual work pays approximately $55,000 per year
+- **Real example:** A firm doing $55 million in annual work pays approximately $55,000 per year
 
-  - **Another real example (from Reddit):** "$80,000 for a $59 million project"
+- **Another real example (from Reddit):** "$80,000 for a $59 million project"
 
 The catch: contractors are reporting **annual price jumps of 10.4% or more**. Procore's pricing model means costs grow as your business grows, which creates a compounding expense that many firms do not anticipate during the initial sales pitch.
 
@@ -52,15 +52,15 @@ The catch: contractors are reporting **annual price jumps of 10.4% or more**. Pr
 
 Buildertrend uses a tiered monthly subscription with promotional pricing that resets to higher rates:
 
-  - **Essential:** $199/month promotional ($499/month regular)
+- **Essential:** $199/month promotional ($499/month regular)
 
-  - **Advanced:** $499/month promotional ($799/month regular)
+- **Advanced:** $499/month promotional ($799/month regular)
 
-  - **Complete:** $799/month promotional ($1,099/month regular)
+- **Complete:** $799/month promotional ($1,099/month regular)
 
-  - **All tiers:** Unlimited users and projects included
+- **All tiers:** Unlimited users and projects included
 
-  - **Typical sales quote:** $8,000 to $10,000 per year
+- **Typical sales quote:** $8,000 to $10,000 per year
 
 Users praise Buildertrend for scheduling and client communication, but its financial module draws consistent criticism for lagging behind QuickBooks or Xero in sophistication. Steep pricing hikes after the promotional period catch many firms off guard.
 
@@ -68,19 +68,19 @@ Users praise Buildertrend for scheduling and client communication, but its finan
 
 Fieldwire takes a per-user pricing approach, which means costs scale differently depending on team size:
 
-  - **Basic:** Free (up to 5 users)
+- **Basic:** Free (up to 5 users)
 
-  - **Pro:** $29 per user per month
+- **Pro:** $29 per user per month
 
-  - **Business:** $49 per user per month
+- **Business:** $49 per user per month
 
-  - **Premier:** $89 per user per month
+- **Premier:** $89 per user per month
 
-  - **5-person team:** $145 to $445 per month
+- **5-person team:** $145 to $445 per month
 
-  - **25-person team:** $725 to $2,225 per month
+- **25-person team:** $725 to $2,225 per month
 
-  - **50-person team:** $1,450 to $4,450 per month
+- **50-person team:** $1,450 to $4,450 per month
 
 Fieldwire's free tier makes it attractive for small crews testing the waters. But users report limited customization, tricky integrations, a steep learning curve, and absolute internet dependency as persistent pain points.
 
@@ -100,19 +100,19 @@ CoConstruct starts at $99 per month for the first 2 months, then jumps to $399 p
 
 Talk about cloud construction software long enough and the question always comes back to ROI. In November 2025, the Dodge Construction Network and Procore published a study surveying **over 1,100 owners and contractors**. The numbers are significant.
 
-  - **77% of optimized adopters** report increased profit margins
+- **77% of optimized adopters** report increased profit margins
 
-  - **83% report overhead cost reductions** of 5% or more
+- **83% report overhead cost reductions** of 5% or more
 
-  - **Median profit margin increase:** 4 percentage points
+- **Median profit margin increase:** 4 percentage points
 
-  - **70% of owners** report being able to handle more construction volume
+- **70% of owners** report being able to handle more construction volume
 
-  - **Average ROI:** nearly 21% for mid-to-large firms
+- **Average ROI:** nearly 21% for mid-to-large firms
 
-  - **Case study ROI:** ranges from 150% to 300%+ in documented implementations
+- **Case study ROI:** ranges from 150% to 300%+ in documented implementations
 
-  - One mid-sized GC **cut software expenses by 18%** after consolidating onto a single platform
+- One mid-sized GC **cut software expenses by 18%** after consolidating onto a single platform
 
 The key phrase in all of this is "optimized adopters." Simply buying software does not deliver results. The firms seeing 4-point margin increases are the ones that properly implement, train their teams, and integrate the tools into their daily workflows. Analysis from [Smart Business Automator](https://smartbusinessautomator.com) shows that contractors who pair cloud PM software with automated business workflows see the highest combined ROI, because the technology stack works together rather than creating new data silos.
 
@@ -120,15 +120,15 @@ The key phrase in all of this is "optimized adopters." Simply buying software do
 
 The ARCO Construction case study with Oracle Textura provides a concrete example of what large-scale platform adoption looks like in practice:
 
-  - **Subcontractor payment time reduced 30%** (from 65 to 45 days)
+- **Subcontractor payment time reduced 30%** (from 65 to 45 days)
 
-  - **Overtime hours dropped to one-fifth** of their previous level
+- **Overtime hours dropped to one-fifth** of their previous level
 
-  - **Onboarded 10,000+ contractors** onto the platform
+- **Onboarded 10,000+ contractors** onto the platform
 
-  - Textura processes **11,500 support calls per month**
+- Textura processes **11,500 support calls per month**
 
-  - The platform has processed **over $1 trillion in construction payments** since 2006
+- The platform has processed **over $1 trillion in construction payments** since 2006
 
 Reducing payment times from 65 to 45 days does not just improve [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies). It changes subcontractor relationships, reduces the cost of capital, and makes your firm a preferred partner for quality subs who have options about who they work for.
 
@@ -136,19 +136,19 @@ Reducing payment times from 65 to 45 days does not just improve [cash flow](/art
 
 Despite the clear ROI data, the adoption gap in construction remains severe. The numbers paint a picture of an industry caught between knowing it needs to change and actually doing it.
 
-  - **70% of contractors have no formal technology roadmap**
+- **70% of contractors have no formal technology roadmap**
 
-  - **Nearly two-thirds** cite uncertain payback periods (24+ months) as the chief deterrent
+- **Nearly two-thirds** cite uncertain payback periods (24+ months) as the chief deterrent
 
-  - **59% of contractors** cite speed of tech adoption as a top concern (AGC 2025 survey)
+- **59% of contractors** cite speed of tech adoption as a top concern (AGC 2025 survey)
 
-  - Construction teams lose **11+ hours per week** tracking down project updates
+- Construction teams lose **11+ hours per week** tracking down project updates
 
-  - **71% say multiple PM tools** make information sharing difficult
+- **71% say multiple PM tools** make information sharing difficult
 
-  - **92% of construction workers** use smartphones daily at work
+- **92% of construction workers** use smartphones daily at work
 
-  - **22% use 6 or more construction apps**
+- **22% use 6 or more construction apps**
 
 That last set of stats reveals the paradox. Workers are already on their phones. They are already using apps. But 71% say those tools are making information sharing harder, not easier. The problem is not technology resistance. It is technology fragmentation. When every team member is using a different app and nothing talks to anything else, you get chaos with a digital veneer.
 
@@ -158,27 +158,27 @@ This is exactly the pattern that [Smart Business Automator](https://smartbusines
 
 On March 3, 2025, Oracle announced an AI agent embedded directly into the Textura Payment Management Cloud. This is not a chatbot. It is an autonomous agent available to all US Textura subcontractors that can:
 
-  - Pull up your project list and identify why a specific payment has not been released
+- Pull up your project list and identify why a specific payment has not been released
 
-  - Automatically provide the compliance forms you need to resolve the hold
+- Automatically provide the compliance forms you need to resolve the hold
 
-  - Work across a platform that has processed over $1 trillion in construction payments
+- Work across a platform that has processed over $1 trillion in construction payments
 
-  - Serve 120,000+ projects and 200,000+ subcontractors
+- Serve 120,000+ projects and 200,000+ subcontractors
 
 This is the direction all construction software is heading. Trimble released its AI Cloud Fabrication Drawing Service as part of Tekla Structures 2025, which uses AI to create fabrication drawings based on finalized drawings from previous projects. It literally learns from your past work.
 
 Across the landscape, AI features are proliferating:
 
-  - **ALICE Technologies:** Generative AI for schedule optimization
+- **ALICE Technologies:** Generative AI for schedule optimization
 
-  - **nPlan:** Trained on 750,000 historical schedules representing $2+ trillion of spend
+- **nPlan:** Trained on 750,000 historical schedules representing $2+ trillion of spend
 
-  - **Buildots:** Delay Forecast predicts potential delays before they manifest
+- **Buildots:** Delay Forecast predicts potential delays before they manifest
 
-  - **Predictive analytics:** Machine learning forecasts bottlenecks and suggests optimal sequencing
+- **Predictive analytics:** Machine learning forecasts bottlenecks and suggests optimal sequencing
 
-  - **Automated scheduling:** AI creates schedules from scope documents in minutes, not days
+- **Automated scheduling:** AI creates schedules from scope documents in minutes, not days
 
 ## What Real Users Are Saying: The Unfiltered Truth
 
@@ -186,41 +186,41 @@ Reddit threads, G2 reviews, and Capterra feedback reveal what the sales demos do
 
 ### Procore Pain Points
 
-  - High, non-transparent pricing with opaque quoting processes
+- High, non-transparent pricing with opaque quoting processes
 
-  - "Once info is inside their system, retrieving it later is a massive challenge"
+- "Once info is inside their system, retrieving it later is a massive challenge"
 
-  - Annual price jumps of 10.4%+ recently reported
+- Annual price jumps of 10.4%+ recently reported
 
-  - Promised integrations that do not work as advertised
+- Promised integrations that do not work as advertised
 
 ### Buildertrend Frustrations
 
-  - "Great for schedules and client comms, less so for cost control"
+- "Great for schedules and client comms, less so for cost control"
 
-  - Financial module "too far behind QuickBooks or Xero"
+- Financial module "too far behind QuickBooks or Xero"
 
-  - Steep pricing hikes after promotional period ends
+- Steep pricing hikes after promotional period ends
 
-  - No autosave feature, creating risk of data loss
+- No autosave feature, creating risk of data loss
 
 ### CoConstruct Concerns
 
-  - No longer being actively updated
+- No longer being actively updated
 
-  - QuickBooks integration not straightforward
+- QuickBooks integration not straightforward
 
-  - No autosave feature
+- No autosave feature
 
 ### Fieldwire Issues
 
-  - Limited customization options
+- Limited customization options
 
-  - Tricky integration and compatibility challenges
+- Tricky integration and compatibility challenges
 
-  - Steep learning curve for new users
+- Steep learning curve for new users
 
-  - Absolute internet dependency with no offline capability
+- Absolute internet dependency with no offline capability
 
 ## Integration: The Make-or-Break Factor
 
@@ -236,11 +236,11 @@ According to research compiled by [Smart Business Automator](https://smartbusine
 
 Key mobile statistics that should inform your platform decision:
 
-  - 49.1% use mobile specifically for safety management (up from 45.6%)
+- 49.1% use mobile specifically for safety management (up from 45.6%)
 
-  - Document management is rated critical by 83% of users
+- Document management is rated critical by 83% of users
 
-  - 22% of construction workers use 6 or more apps daily
+- 22% of construction workers use 6 or more apps daily
 
 Any platform you adopt needs to work seamlessly on mobile, not as an afterthought mobile app that is missing features from the desktop version. Test the mobile experience before signing any contract.
 
