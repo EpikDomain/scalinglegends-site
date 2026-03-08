@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scalinglegends.com/sitemap-index.xml

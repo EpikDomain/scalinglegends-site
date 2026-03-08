@@ -1,0 +1,543 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((article) => ({
+    params: { id: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode } = article.data;
+
+// Get related articles for sidebar (same keywords or recent)
+const allArticles = await getCollection('articles', ({ data }) => data.published !== false);
+const sorted = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+// Sidebar: recent episodes (up to 6) + recent articles (up to 4), excluding current
+const sidebarEpisodes = sorted
+  .filter(a => a.id !== article.id && a.data.audioUrl)
+  .slice(0, 6);
+
+const sidebarArticles = sorted
+  .filter(a => a.id !== article.id && !a.data.audioUrl)
+  .slice(0, 4);
+---
+
+<Base
+  title={title}
+  description={description}
+  image={image}
+  article={true}
+  keywords={keywords}
+  audioUrl={audioUrl}
+  datePublished={date}
+>
+  <article class="py-12 px-4 sm:px-8 min-h-screen bg-[#0D0D0D]">
+    <div class="max-w-[1600px] mx-auto">
+      <!-- Back link -->
+      {audioUrl ? (
+        <a
+          href="/podcast"
+          class="mb-8 px-4 py-2 text-[#CCFF00] hover:text-[#E0FF4D] transition-all duration-300 inline-flex items-center gap-2 hover:gap-3 rounded-lg hover:bg-[#CCFF00]/5 no-underline"
+          style="font-weight: 600;"
+        >
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path d="M10 3L5 8L10 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span>Back to Podcast</span>
+        </a>
+      ) : (
+        <a
+          href="/"
+          class="mb-8 px-4 py-2 text-[#CCFF00] hover:text-[#E0FF4D] transition-all duration-300 inline-flex items-center gap-2 hover:gap-3 rounded-lg hover:bg-[#CCFF00]/5 no-underline"
+          style="font-weight: 600;"
+        >
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path d="M10 3L5 8L10 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span>Back to Articles</span>
+        </a>
+      )}
+
+      <!-- Two-column layout: content + sidebar -->
+      <div class="flex flex-col lg:flex-row gap-10">
+        <!-- Main content -->
+        <div class="flex-1 min-w-0">
+          <!-- Episode badge -->
+          {episode && (
+            <div
+              class="inline-flex items-center justify-start px-4 py-2 bg-[#CCFF00]/10 border border-[#CCFF00]/30 text-[#CCFF00] rounded-full mb-6"
+              style="font-size: 11px; font-weight: 700; letter-spacing: 0.12em;"
+            >
+              EPISODE {episode}
+            </div>
+          )}
+
+          <!-- Meta -->
+          <div class="flex items-center gap-3 text-[#666666] mb-6" style="font-size: 13px; font-weight: 500;">
+            <span>{new Date(date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</span>
+            {readTime && (
+              <>
+                <span class="w-1 h-1 bg-[#333333] rounded-full"></span>
+                <span>{readTime}</span>
+              </>
+            )}
+          </div>
+
+          <!-- Title -->
+          <h1
+            class="text-[#EAEAEA] mb-8"
+            style="font-weight: 900; font-size: clamp(1.75rem, 4vw, 2.75rem); line-height: 1.1; letter-spacing: -0.03em;"
+          >
+            {title}<span class="inline-block relative w-2 h-2 ml-1.5" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span>
+          </h1>
+
+          <!-- Hero image - smaller for podcast episodes, centered -->
+          {image && (
+            <div class="mb-8 flex justify-center">
+              <div class:list={[
+                "rounded-xl overflow-hidden border border-[#222222]",
+                audioUrl ? "max-w-[320px]" : "max-w-[600px]"
+              ]}>
+                <img src={image} alt={title} class="w-full h-auto rounded-xl" />
+              </div>
+            </div>
+          )}
+
+          <!-- Enhanced Audio Player -->
+          {audioUrl && (
+            <div class="bg-gradient-to-br from-[#1A1A1A] to-[#121212] border border-[#222222] rounded-xl p-6 mb-8 relative overflow-hidden">
+              <div class="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-transparent via-[#CCFF00] to-transparent"></div>
+
+              <div class="relative z-10">
+                <div class="flex items-center justify-between mb-4">
+                  <div
+                    class="uppercase text-[#CCFF00] flex items-center gap-2"
+                    style="font-size: 11px; font-weight: 700; letter-spacing: 0.12em;"
+                  >
+                    <span class="w-2 h-2 bg-[#CCFF00] rounded-full animate-pulse"></span>
+                    LISTEN NOW
+                  </div>
+                  {readTime && (
+                    <div class="text-[#666666]" style="font-size: 13px; font-weight: 600;">
+                      {readTime}
+                    </div>
+                  )}
+                </div>
+
+                <div class="mb-4">
+                  <audio controls preload="metadata" class="w-full h-11 rounded-lg" style="background-color: #0D0D0D; border: 1px solid #2A2A2A;">
+                    <source src={audioUrl} type="audio/mpeg" />
+                    Your browser does not support the audio element.
+                  </audio>
+                </div>
+
+                <div class="flex flex-wrap items-center gap-3 pt-4 border-t border-[#2A2A2A]">
+                  <span class="text-[#666666]" style="font-size: 12px; font-weight: 500;">
+                    Also on:
+                  </span>
+                  <a href="https://podcasts.apple.com" target="_blank" rel="noopener" class="text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">Apple Podcasts</a>
+                  <span class="w-1 h-1 bg-[#333333] rounded-full"></span>
+                  <a href="https://open.spotify.com" target="_blank" rel="noopener" class="text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">Spotify</a>
+                  <span class="w-1 h-1 bg-[#333333] rounded-full"></span>
+                  <a href="/rss.xml" class="text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">RSS</a>
+                </div>
+              </div>
+            </div>
+          )}
+
+          <!-- Episode Description -->
+          {audioUrl && description && (
+            <div class="mb-8">
+              <p
+                class="text-[#CCCCCC] leading-relaxed"
+                style="font-size: 1.0625rem; line-height: 1.8;"
+              >
+                {description}
+              </p>
+            </div>
+          )}
+
+          <!-- Guests -->
+          {guest && (
+            <div class="bg-gradient-to-br from-[#161616] to-[#121212] border border-[#222222] rounded-xl p-6 mb-8">
+              <h3
+                class="text-[#CCFF00] uppercase mb-4 flex items-center gap-2"
+                style="font-size: 11px; font-weight: 700; letter-spacing: 0.12em;"
+              >
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                  <circle cx="12" cy="7" r="4"/>
+                </svg>
+                Featured Guest
+              </h3>
+              <p class="text-[#EAEAEA] pl-6" style="font-weight: 600; font-size: 1rem;">
+                {guest}
+              </p>
+            </div>
+          )}
+
+          <!-- Transcript Dropdown -->
+          {transcript && (
+            <div class="bg-gradient-to-br from-[#161616] to-[#121212] border border-[#222222] rounded-xl overflow-hidden mb-8">
+              <details>
+                <summary class="w-full px-6 py-5 flex items-center justify-between hover:bg-[#1A1A1A] transition-colors cursor-pointer">
+                  <div class="flex items-center gap-3">
+                    <svg
+                      class="w-5 h-5 text-[#CCFF00] transition-transform duration-300 details-arrow"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                    <span
+                      class="text-[#EAEAEA] uppercase"
+                      style="font-size: 13px; font-weight: 700; letter-spacing: 0.08em;"
+                    >
+                      View Full Transcript
+                    </span>
+                  </div>
+                </summary>
+                <div class="px-6 pb-6 pt-4 border-t border-[#222222]">
+                  <div
+                    class="text-[#CCCCCC] whitespace-pre-wrap max-h-[500px] overflow-y-auto pr-4"
+                    style="font-size: 0.9375rem; line-height: 1.8;"
+                  >{transcript}</div>
+                </div>
+              </details>
+            </div>
+          )}
+
+          <!-- Episode Notes / Article Content -->
+          <div class="mb-8">
+            {audioUrl && (
+              <h2
+                class="text-[#EAEAEA] uppercase mb-6 pb-4 border-b border-[#222222]"
+                style="font-size: 1.25rem; font-weight: 800; letter-spacing: -0.02em;"
+              >
+                Episode Notes<span class="inline-block relative w-2 h-2 ml-1.5" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span>
+              </h2>
+            )}
+            <div class="article-content max-w-[800px]">
+              <Content />
+            </div>
+          </div>
+
+          <!-- Tags -->
+          {keywords && keywords.length > 0 && (
+            <div class="flex flex-wrap gap-2 mb-8">
+              {keywords.map((tag: string) => (
+                <span
+                  class="px-3 py-1.5 bg-[#161616] border border-[#222222] rounded-full text-[#888888] hover:border-[#CCFF00]/50 hover:text-[#CCFF00] transition-colors"
+                  style="font-size: 11px; font-weight: 600;"
+                >{tag}</span>
+              ))}
+            </div>
+          )}
+
+          <!-- Sponsors (inline on mobile, only shows in main content area) -->
+          {sponsors && sponsors.length > 0 && (
+            <div class="bg-gradient-to-br from-[#161616] to-[#121212] border border-[#222222] rounded-xl p-8 mb-8 relative overflow-hidden">
+              <div class="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-[#CCFF00] via-[#CCFF00]/50 to-transparent"></div>
+              <h3
+                class="text-[#CCFF00] uppercase mb-6 flex items-center gap-2"
+                style="font-size: 11px; font-weight: 700; letter-spacing: 0.12em;"
+              >
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect x="2" y="7" width="20" height="14" rx="2" ry="2"/>
+                  <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>
+                </svg>
+                Episode Sponsors
+              </h3>
+              <div class="space-y-6">
+                {sponsors.map((sponsor: any) => (
+                  <div class="flex gap-4 items-start">
+                    <div class="w-12 h-12 bg-[#1A1A1A] rounded-lg flex items-center justify-center flex-shrink-0 border border-[#222222]">
+                      <span class="text-[#CCFF00]" style="font-size: 10px; font-weight: 700;">
+                        {sponsor.name.substring(0, 3).toUpperCase()}
+                      </span>
+                    </div>
+                    <div class="flex-1">
+                      <h4 class="text-[#EAEAEA] mb-1" style="font-weight: 700; font-size: 0.9375rem;">{sponsor.name}</h4>
+                      {sponsor.description && (
+                        <p class="text-[#888888] mb-3" style="font-size: 0.8125rem; line-height: 1.5;">{sponsor.description}</p>
+                      )}
+                      {sponsor.url && (
+                        <a
+                          href={sponsor.url}
+                          target="_blank"
+                          rel="noopener"
+                          class="inline-flex items-center gap-1.5 px-4 py-2 bg-[#CCFF00]/10 border border-[#CCFF00]/30 text-[#CCFF00] rounded-lg hover:bg-[#CCFF00]/20 transition-all duration-300 no-underline"
+                          style="font-size: 0.8125rem; font-weight: 600;"
+                        >
+                          Learn More
+                          <svg width="12" height="12" viewBox="0 0 16 16" fill="none">
+                            <path d="M6 3L11 8L6 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                          </svg>
+                        </a>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <!-- Subscribe CTA -->
+          <div class="bg-gradient-to-br from-[#161616] to-[#121212] border border-[#222222] rounded-xl p-8 mb-8 relative overflow-hidden">
+            <div class="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-[#CCFF00] to-[#E0FF4D]"></div>
+            <div class="relative z-10">
+              <h3
+                class="text-[#EAEAEA] mb-3"
+                style="font-weight: 800; font-size: 1.5rem; letter-spacing: -0.02em;"
+              >
+                {audioUrl ? 'Subscribe for More Episodes' : 'Want More Insights?'}
+              </h3>
+              <p class="text-[#888888] mb-6" style="font-size: 0.9375rem; line-height: 1.6;">
+                {audioUrl ? 'Get notified when new episodes drop.' : 'Subscribe to Scaling Legends wherever you listen.'}
+              </p>
+              <div class="flex flex-wrap gap-3">
+                <a href="https://podcasts.apple.com" target="_blank" rel="noopener" class="px-5 py-3 bg-[#1A1A1A] border border-[#222222] text-[#EAEAEA] rounded-lg hover:border-[#CCFF00]/50 hover:text-[#CCFF00] transition-all duration-300 no-underline" style="font-weight: 600; font-size: 0.8125rem;">Apple Podcasts</a>
+                <a href="https://open.spotify.com" target="_blank" rel="noopener" class="px-5 py-3 bg-[#1A1A1A] border border-[#222222] text-[#EAEAEA] rounded-lg hover:border-[#CCFF00]/50 hover:text-[#CCFF00] transition-all duration-300 no-underline" style="font-weight: 600; font-size: 0.8125rem;">Spotify</a>
+                <a href="/rss.xml" class="px-5 py-3 bg-[#1A1A1A] border border-[#222222] text-[#EAEAEA] rounded-lg hover:border-[#CCFF00]/50 hover:text-[#CCFF00] transition-all duration-300 no-underline" style="font-weight: 600; font-size: 0.8125rem;">RSS Feed</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="text-center">
+            <p class="text-[#666666]" style="font-size: 0.8125rem;">
+              Market intelligence by <a href="https://smartbusinessautomator.com" class="text-[#CCFF00] hover:text-[#E0FF4D] transition-colors no-underline">Smart Business Automator</a>
+            </p>
+          </div>
+        </div>
+
+        <!-- Sticky Sidebar (hidden on mobile) -->
+        <aside class="hidden lg:block w-[380px] 2xl:w-[480px] flex-shrink-0">
+          <div class="sticky top-24 space-y-5 max-h-[calc(100vh-7rem)] overflow-y-auto pr-1 sidebar-scroll">
+            <!-- Latest Episodes -->
+            {sidebarEpisodes.length > 0 && (
+              <div class="bg-[#161616] border border-[#222222] rounded-xl p-5">
+                <h4
+                  class="text-[#EAEAEA] uppercase mb-4 flex items-center gap-2"
+                  style="font-size: 11px; font-weight: 700; letter-spacing: 0.1em;"
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#CCFF00" stroke-width="2">
+                    <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/>
+                    <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+                    <line x1="12" x2="12" y1="19" y2="22"/>
+                  </svg>
+                  Latest Episodes
+                </h4>
+                <div class="space-y-3">
+                  {sidebarEpisodes.map((item) => (
+                    <a href={`/article/${item.id}`} class="group block no-underline">
+                      <div class="flex gap-3 p-2 rounded-lg hover:bg-[#1A1A1A] transition-colors">
+                        {item.data.image && (
+                          <div class="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0 border border-[#2A2A2A]">
+                            <img src={item.data.image} alt="" class="w-full h-full object-cover" loading="lazy" />
+                          </div>
+                        )}
+                        <div class="flex-1 min-w-0">
+                          <p class="text-[#EAEAEA] group-hover:text-[#CCFF00] transition-colors line-clamp-2" style="font-size: 0.8125rem; font-weight: 600; line-height: 1.35;">
+                            {item.data.title}
+                          </p>
+                          <div class="flex items-center gap-1.5 mt-1">
+                            <svg width="10" height="10" viewBox="0 0 24 24" fill="#CCFF00"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                            <span class="text-[#666666]" style="font-size: 11px;">
+                              {item.data.readTime || 'Listen'}
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+                <a href="/podcast" class="mt-4 flex items-center justify-center gap-2 py-2.5 text-[#CCFF00] hover:bg-[#CCFF00]/5 rounded-lg transition-colors no-underline" style="font-size: 0.8125rem; font-weight: 600;">
+                  All Episodes
+                  <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><path d="M6 3L11 8L6 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                </a>
+              </div>
+            )}
+
+            <!-- Recent Articles -->
+            {sidebarArticles.length > 0 && (
+              <div class="bg-[#161616] border border-[#222222] rounded-xl p-5">
+                <h4
+                  class="text-[#EAEAEA] uppercase mb-4 flex items-center gap-2"
+                  style="font-size: 11px; font-weight: 700; letter-spacing: 0.1em;"
+                >
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#CCFF00" stroke-width="2">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                    <polyline points="14 2 14 8 20 8"/>
+                  </svg>
+                  Recent Articles
+                </h4>
+                <div class="space-y-3">
+                  {sidebarArticles.map((item) => (
+                    <a href={`/article/${item.id}`} class="group block no-underline">
+                      <div class="flex gap-3 p-2 rounded-lg hover:bg-[#1A1A1A] transition-colors">
+                        {item.data.image && (
+                          <div class="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0 border border-[#2A2A2A]">
+                            <img src={item.data.image} alt="" class="w-full h-full object-cover" loading="lazy" />
+                          </div>
+                        )}
+                        <div class="flex-1 min-w-0">
+                          <p class="text-[#EAEAEA] group-hover:text-[#CCFF00] transition-colors line-clamp-2" style="font-size: 0.8125rem; font-weight: 600; line-height: 1.35;">
+                            {item.data.title}
+                          </p>
+                          <span class="text-[#666666] mt-1 block" style="font-size: 11px;">
+                            {item.data.readTime || new Date(item.data.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                          </span>
+                        </div>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+                <a href="/" class="mt-4 flex items-center justify-center gap-2 py-2.5 text-[#CCFF00] hover:bg-[#CCFF00]/5 rounded-lg transition-colors no-underline" style="font-size: 0.8125rem; font-weight: 600;">
+                  All Articles
+                  <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><path d="M6 3L11 8L6 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                </a>
+              </div>
+            )}
+
+            <!-- Sponsor Card -->
+            {sponsors && sponsors.length > 0 && (
+              <div class="bg-gradient-to-b from-[#1A1A1A] to-[#141414] border border-[#222222] rounded-xl p-5 relative overflow-hidden">
+                <div class="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-[#CCFF00] to-transparent"></div>
+                <p class="text-[#666666] uppercase mb-3" style="font-size: 10px; font-weight: 700; letter-spacing: 0.1em;">Sponsored by</p>
+                {sponsors.map((sponsor: any) => (
+                  <div>
+                    <p class="text-[#EAEAEA] mb-2" style="font-weight: 700; font-size: 0.875rem;">{sponsor.name}</p>
+                    {sponsor.description && (
+                      <p class="text-[#888888] mb-3" style="font-size: 0.75rem; line-height: 1.5;">{sponsor.description}</p>
+                    )}
+                    {sponsor.url && (
+                      <a
+                        href={sponsor.url}
+                        target="_blank"
+                        rel="noopener"
+                        class="inline-flex items-center gap-1.5 text-[#CCFF00] hover:text-[#E0FF4D] transition-colors no-underline"
+                        style="font-size: 0.8125rem; font-weight: 600;"
+                      >
+                        Visit Site
+                        <svg width="12" height="12" viewBox="0 0 16 16" fill="none"><path d="M6 3L11 8L6 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                      </a>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
+
+            <!-- Newsletter Mini -->
+            <div class="bg-[#161616] border border-[#222222] rounded-xl p-5">
+              <p class="text-[#EAEAEA] mb-2" style="font-weight: 700; font-size: 0.875rem;">Stay Updated</p>
+              <p class="text-[#888888] mb-3" style="font-size: 0.75rem; line-height: 1.5;">Weekly construction intelligence.</p>
+              <form class="flex gap-2" onsubmit="return false;">
+                <input type="email" placeholder="your@email.com" class="flex-1 min-w-0 bg-[#0D0D0D] border border-[#2A2A2A] rounded-lg px-3 py-2 text-[#EAEAEA] text-xs outline-none placeholder:text-[#666666] font-sans" />
+                <button type="submit" class="bg-[#CCFF00] border-none rounded-lg text-[#0D0D0D] px-3 py-2 font-extrabold text-sm cursor-pointer hover:bg-[#E0FF4D] transition-colors">&rarr;</button>
+              </form>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </article>
+
+  <style>
+    details[open] .details-arrow {
+      transform: rotate(180deg);
+    }
+    .sidebar-scroll::-webkit-scrollbar {
+      width: 4px;
+    }
+    .sidebar-scroll::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    .sidebar-scroll::-webkit-scrollbar-thumb {
+      background: #2A2A2A;
+      border-radius: 4px;
+    }
+    .sidebar-scroll::-webkit-scrollbar-thumb:hover {
+      background: #3A3A3A;
+    }
+  </style>
+
+  <script>
+    import { trackAudioPlays } from '../../lib/analytics';
+    document.addEventListener('DOMContentLoaded', () => trackAudioPlays());
+    if (document.readyState !== 'loading') trackAudioPlays();
+
+    // Convert FAQ sections into collapsible accordions
+    function initFAQAccordions() {
+      const content = document.querySelector('.article-content');
+      if (!content) return;
+
+      const headings = content.querySelectorAll('h2');
+      headings.forEach((h2) => {
+        const text = h2.textContent?.toLowerCase() || '';
+        if (!text.includes('faq') && !text.includes('frequently asked')) return;
+
+        // Collect all h3 + content pairs after this h2
+        const faqWrapper = document.createElement('div');
+        faqWrapper.className = 'faq-section';
+
+        // Keep the h2 as a styled header
+        const faqTitle = document.createElement('h2');
+        faqTitle.textContent = h2.textContent;
+        faqTitle.style.cssText = 'font-size:1.5rem;font-weight:800;margin:2.5rem 0 1rem;padding-top:1.25rem;border-top:1px solid #2A2A2A;color:#EAEAEA;';
+
+        const elements: Element[] = [];
+        let sibling = h2.nextElementSibling;
+        while (sibling && sibling.tagName !== 'H2') {
+          elements.push(sibling);
+          sibling = sibling.nextElementSibling;
+        }
+
+        // Build details/summary from h3+p pairs
+        let currentDetails: HTMLDetailsElement | null = null;
+        let currentAnswer: HTMLDivElement | null = null;
+
+        elements.forEach((el) => {
+          if (el.tagName === 'H3') {
+            if (currentDetails && currentAnswer) {
+              faqWrapper.appendChild(currentDetails);
+            }
+            currentDetails = document.createElement('details');
+            const summary = document.createElement('summary');
+            summary.textContent = el.textContent;
+            currentDetails.appendChild(summary);
+            currentAnswer = document.createElement('div');
+            currentAnswer.className = 'faq-answer';
+            currentDetails.appendChild(currentAnswer);
+          } else if (currentAnswer) {
+            const clone = el.cloneNode(true) as HTMLElement;
+            currentAnswer.appendChild(clone);
+          }
+        });
+
+        if (currentDetails && currentAnswer) {
+          faqWrapper.appendChild(currentDetails);
+        }
+
+        // Only replace if we found FAQ items
+        if (faqWrapper.children.length > 0) {
+          // Remove original elements
+          elements.forEach((el) => el.remove());
+          h2.replaceWith(faqTitle, faqWrapper);
+        }
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initFAQAccordions);
+    } else {
+      initFAQAccordions();
+    }
+  </script>
+</Base>
