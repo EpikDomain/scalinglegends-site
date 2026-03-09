@@ -11,6 +11,11 @@ const OUT_DIR = join(import.meta.dirname, '..', 'src', 'content', 'articles');
 
 // RSS.com episode title → audio URL mapping
 const rssEpisodes = [
+  { title: "Construction Equipment: Rent or Own in 2026", audio: "https://media.rss.com/scalinglegends/2610340.mp3" },
+  { title: "The Construction M&A Wave", audio: "https://media.rss.com/scalinglegends/2610290.mp3" },
+  { title: "The $700 Billion Man-Camp Crisis", audio: "https://media.rss.com/scalinglegends/2610245.mp3" },
+  { title: "Supreme Court Tariff Ruling", audio: "https://media.rss.com/scalinglegends/2610203.mp3" },
+  { title: "Construction Market Intelligence: March 8, 2026", audio: "https://media.rss.com/scalinglegends/2610155.mp3" },
   { title: "Contractor Marketing and SEO in 2026", audio: "https://content.rss.com/episodes/332597/2608724/scalinglegends/2026_03_07_18_22_00_b259ba4d-04d2-4b85-80b9-9627870d295c.mp3" },
   { title: "Construction Project Management Software in 2026", audio: "https://content.rss.com/episodes/332597/2609071/scalinglegends/2026_03_07_21_45_58_8872c400-b540-4361-a955-77671faf4e60.mp3" },
   { title: "Construction Market Intelligence: March 7, 2026", audio: "https://content.rss.com/episodes/332597/2608591/scalinglegends/2026_03_07_16_27_36_221fdc98-1d8a-469a-ad39-62152b1a4e99.mp3" },
