@@ -3,6 +3,7 @@ title: "Construction Market Intelligence: March 7 Evening - CONEXPO Closes, SCOT
 description: "CONEXPO closes with autonomous equipment breakthrough, SCOTUS tariff ruling leaves Section 232 intact with steel up 20.7%, Ohio E-Verify deadline in 12 days, data centers hit 25.2B monthly record, and 43% of small contractors lack emergency capital."
 date: "2026-03-07"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2608591/scalinglegends/2026_03_07_16_27_36_221fdc98-1d8a-469a-ad39-62152b1a4e99.mp3"
 readTime: "31 min read"
 published: true
 season: 2

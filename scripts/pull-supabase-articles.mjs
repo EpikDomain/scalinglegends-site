@@ -9,50 +9,46 @@ const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZ
 const RSS_FEED = 'https://media.rss.com/scalinglegends/feed.xml';
 const OUT_DIR = join(import.meta.dirname, '..', 'src', 'content', 'articles');
 
-// RSS.com episode title → audio URL mapping
-const rssEpisodes = [
-  { title: "Construction Equipment: Rent or Own in 2026", audio: "https://media.rss.com/scalinglegends/2610340.mp3" },
-  { title: "The Construction M&A Wave", audio: "https://media.rss.com/scalinglegends/2610290.mp3" },
-  { title: "The $700 Billion Man-Camp Crisis", audio: "https://media.rss.com/scalinglegends/2610245.mp3" },
-  { title: "Supreme Court Tariff Ruling", audio: "https://media.rss.com/scalinglegends/2610203.mp3" },
-  { title: "Construction Market Intelligence: March 8, 2026", audio: "https://media.rss.com/scalinglegends/2610155.mp3" },
-  { title: "Contractor Marketing and SEO in 2026", audio: "https://content.rss.com/episodes/332597/2608724/scalinglegends/2026_03_07_18_22_00_b259ba4d-04d2-4b85-80b9-9627870d295c.mp3" },
-  { title: "Construction Project Management Software in 2026", audio: "https://content.rss.com/episodes/332597/2609071/scalinglegends/2026_03_07_21_45_58_8872c400-b540-4361-a955-77671faf4e60.mp3" },
-  { title: "Construction Market Intelligence: March 7, 2026", audio: "https://content.rss.com/episodes/332597/2608591/scalinglegends/2026_03_07_16_27_36_221fdc98-1d8a-469a-ad39-62152b1a4e99.mp3" },
-  { title: "Starting a Construction Business Under 30", audio: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_03_07_16_17_55_65de69e2-f5cf-4e4c-b747-fbda36911a57.mp3" },
-  { title: "Employee Transportation Services for Construction", audio: "https://content.rss.com/episodes/332597/2608578/scalinglegends/2026_03_07_16_17_09_cd1d188b-2a26-4be5-84aa-93dd607ba75b.mp3" },
-  { title: "Construction's $15 Million Blind Spot", audio: "https://content.rss.com/episodes/332597/2605990/scalinglegends/2026_03_06_15_53_22_82e3f141-57a8-4b43-b9ab-7e09d9e42abc.mp3" },
-  { title: "The AI Estimating Revolution", audio: "https://content.rss.com/episodes/332597/2605930/scalinglegends/2026_03_06_15_33_12_55079e6f-67d6-4809-911d-83aaba420cdd.mp3" },
-  { title: "CONEXPO 2026 Decoded", audio: "https://content.rss.com/episodes/332597/2605872/scalinglegends/2026_03_06_15_05_22_47e2ab42-0cb1-4b0b-bd24-bedb21c45c91.mp3" },
-  { title: "The IIJA Countdown", audio: "https://content.rss.com/episodes/332597/2605822/scalinglegends/2026_03_06_14_42_32_877dea37-448e-4669-a8ad-99b0ff02d0b0.mp3" },
-  { title: "Construction Market Intelligence: March 6, 2026", audio: "https://content.rss.com/episodes/332597/2605805/scalinglegends/2026_03_06_14_28_19_e5f1052c-421b-42f5-a789-f7f1ad7070a6.mp3" },
-  { title: "Scaling Legends Daily Intelligence Report - March 5", audio: "https://content.rss.com/episodes/332597/2604819/scalinglegends/2026_03_05_23_26_33_09d56a8f-cae7-4604-a579-2936ae33f8b7.mp3" },
-  { title: "The OSHA 2026 Crackdown", audio: "https://content.rss.com/episodes/332597/2604783/scalinglegends/2026_03_05_23_03_41_912280a3-5213-48b8-b6cb-e6479946538d.mp3" },
-  { title: "Scaling Without Bleeding Cash", audio: "https://content.rss.com/episodes/332597/2604763/scalinglegends/2026_03_05_22_49_44_d4b8ee13-5ce7-4561-aeb7-391907768bdc.mp3" },
-  { title: "AI Goes Agentic", audio: "https://content.rss.com/episodes/332597/2604689/scalinglegends/2026_03_05_22_18_26_4a87af53-c1d6-4ad7-a796-2fbe66e667a1.mp3" },
-  { title: "Tariff Survival Playbook", audio: "https://content.rss.com/episodes/332597/2604313/scalinglegends/2026_03_05_19_17_46_ab0893a2-345c-4158-a30a-b9a7cb3b3b67.mp3" },
-  { title: "The 500K Worker Gap", audio: "https://content.rss.com/episodes/332597/2604270/scalinglegends/2026_03_05_18_57_35_78342106-4ba5-459f-92fd-e2faf9201b59.mp3" },
-  { title: "Building Roads and Breaking Barriers", audio: "https://content.rss.com/episodes/332597/2599090/scalinglegends/2026_03_04_02_50_56_167b6101-01d1-4b04-bb13-0326eed8072a.mp3" },
-  { title: "Surviving the Messy Middle", audio: "https://content.rss.com/episodes/332597/2598785/scalinglegends/2026_03_04_00_32_22_742cd069-905c-4f7f-ae0e-5e8ee5368867.mp3" },
-  { title: "AI Drives Data Center Boom", audio: "https://content.rss.com/episodes/332597/2470708/scalinglegends/2026_01_19_22_24_06_40e919e2-f4e9-4846-bf3d-3424b1779fdf.mp3" },
-  { title: "The Expectation Gap", audio: "https://content.rss.com/episodes/332597/2401198/scalinglegends/2025_12_19_16_25_37_58c08bb8-e45a-4866-a32c-3ccfd60dbd98.mp3" },
-  { title: "NYC Housing Lottery", audio: "https://content.rss.com/episodes/332597/2138668/scalinglegends/2025_07_27_00_56_41_862ead88-6da8-4e29-b584-80aea3396f72.mp3" },
-  { title: "The Flourishing Empire of Fluor", audio: "https://content.rss.com/episodes/332597/2138654/scalinglegends/2025_07_27_00_21_42_b8388901-b844-4928-a5cf-48a025d233e4.mp3" },
-  { title: "Florida Construction Leaders", audio: "https://content.rss.com/episodes/332597/2086385/scalinglegends/2025_06_24_01_27_29_92c7850a-f11f-4a3e-8eef-1f82137483ee.mp3" },
-  { title: "Construction Specialist", audio: "https://content.rss.com/episodes/332597/2086382/scalinglegends/2025_06_24_01_23_30_73458880-a8ab-4148-ae87-9bf1c1d22729.mp3" },
-  { title: "California Construction Legends", audio: "https://content.rss.com/episodes/332597/2086380/scalinglegends/2025_06_24_01_18_32_1dd545a4-5273-4941-a13b-64df5fc0d01b.mp3" },
-  { title: "Welcome to the Scaling Legends Podcast", audio: "https://content.rss.com/episodes/332597/2061050/scalinglegends/2025_06_06_00_08_36_56b78d5a-5374-4bee-b114-357f4ad23b5e.mp3" },
-];
+// Fetch live RSS feed and build title → audio URL mapping (no more stale hardcoded list)
+let rssEpisodes = [];
+
+async function loadRSSFeed() {
+  try {
+    const resp = await fetch(RSS_FEED);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const xml = await resp.text();
+    // Parse <item> blocks from RSS XML
+    const items = xml.match(/<item>[\s\S]*?<\/item>/gi) || [];
+    for (const item of items) {
+      const titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
+      const encMatch = item.match(/<enclosure[^>]+url="([^"]+)"/);
+      const title = titleMatch ? (titleMatch[1] || titleMatch[2]) : '';
+      const audio = encMatch ? encMatch[1] : '';
+      if (title && audio) {
+        rssEpisodes.push({ title, audio });
+      }
+    }
+    console.log(`Loaded ${rssEpisodes.length} episodes from RSS feed`);
+  } catch (e) {
+    console.error(`WARNING: Could not fetch RSS feed: ${e.message}`);
+    console.error('Articles will be generated without audio URLs.');
+  }
+}
 
 function matchAudio(articleTitle) {
   const norm = s => s.toLowerCase().replace(/[^a-z0-9]/g, '');
   const nt = norm(articleTitle);
+  // Exact normalized match
+  for (const ep of rssEpisodes) {
+    if (norm(ep.title) === nt) return ep.audio;
+  }
+  // Substring containment
   for (const ep of rssEpisodes) {
     if (nt.includes(norm(ep.title)) || norm(ep.title).includes(nt.slice(0, 30))) {
       return ep.audio;
     }
   }
-  // fuzzy: check if first 4 significant words match
+  // Fuzzy: check if first 4 significant words match
   const words = articleTitle.toLowerCase().split(/\s+/).filter(w => w.length > 3).slice(0, 4);
   for (const ep of rssEpisodes) {
     const epLower = ep.title.toLowerCase();
@@ -154,6 +150,9 @@ function htmlToMarkdown(html) {
 
 async function main() {
   mkdirSync(OUT_DIR, { recursive: true });
+
+  // Load live RSS feed for audio URL matching
+  await loadRSSFeed();
 
   // Fetch all articles from Supabase
   const res = await fetch(`${SUPABASE_URL}/rest/v1/articles?select=*&order=created_at.desc`, {

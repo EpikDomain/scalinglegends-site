@@ -3,6 +3,7 @@ title: "The OSHA 2026 Crackdown: Fall Protection, Documentation and the New Enfo
 description: "OSHA's 2026 enforcement priorities, the new penalty structures, and exactly what documentation contractors need to survive an inspection."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-osha-2026-crackdown-fall-protection-documentation-and-th-1772746695.png"
+audioUrl: "https://content.rss.com/episodes/332597/2604783/scalinglegends/2026_03_05_23_03_41_912280a3-5213-48b8-b6cb-e6479946538d.mp3"
 readTime: "10 min read"
 published: true
 season: 2
