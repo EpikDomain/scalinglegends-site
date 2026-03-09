@@ -3,7 +3,6 @@ title: "Building Roads and Breaking Barriers: Ebony Jennings' Construction Legac
 description: "How Ebony Jennings took her grandfather's asphalt business and rebuilt it into a thriving operation, breaking barriers as a woman in construction."
 date: "2026-03-04"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/building-roads-and-breaking-barriers-ebony-jennings-construc-1772747773.png"
-audioUrl: "https://content.rss.com/episodes/332597/2599090/scalinglegends/2026_03_04_02_50_56_167b6101-01d1-4b04-bb13-0326eed8072a.mp3"
 readTime: "15 min read"
 published: true
 season: 2

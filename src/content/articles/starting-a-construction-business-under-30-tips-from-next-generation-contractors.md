@@ -3,7 +3,6 @@ title: "Starting a Construction Business Under 30: Tips From Next Generation Con
 description: "60% of Gen Z plans to pursue trades in 2026, with construction as the #1 choice. New fintech tools, 94M in apprenticeship funding, and young contractors hitting 8 figures before 30. Fresh data, new success stories, and the playbook for building a construction company under 35."
 date: "2026-03-07"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/next-gen-contractors-1772868778.png"
-audioUrl: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_03_07_16_17_55_65de69e2-f5cf-4e4c-b747-fbda36911a57.mp3"
 readTime: "24 min read"
 published: true
 season: 2
