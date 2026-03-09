@@ -9,6 +9,13 @@ interface Props {
   keywords?: string[];
   audioUrl?: string;
   datePublished?: string;
+  breadcrumbs?: { name: string; url: string }[];
+  faqItems?: { question: string; answer: string }[];
+  episodeData?: {
+    episodeNumber?: number;
+    seasonNumber?: number;
+    duration?: string;
+  };
 }
 
 const {
@@ -19,6 +26,9 @@ const {
   keywords = [],
   audioUrl,
   datePublished,
+  breadcrumbs = [],
+  faqItems = [],
+  episodeData,
 } = Astro.props;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
@@ -26,6 +36,110 @@ const siteName = 'Scaling Legends';
 const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
 
 const currentPath = Astro.url.pathname;
+
+// Build structured data array (multiple schemas per page)
+const structuredData: object[] = [];
+
+// Organization schema (every page)
+const orgSchema = {
+  "@type": "Organization",
+  "name": "Scaling Legends",
+  "url": "https://scalinglegends.com",
+  "logo": { "@type": "ImageObject", "url": "https://scalinglegends.com/scaling-legends-cover.jpg" },
+  "sameAs": [
+    "https://podcasts.apple.com/us/podcast/scaling-legends/id1234567890",
+    "https://open.spotify.com/show/scalinglegends",
+    "https://rss.com/podcasts/scalinglegends/"
+  ]
+};
+
+if (article) {
+  // Article schema
+  structuredData.push({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description,
+    "image": image,
+    "datePublished": datePublished,
+    "dateModified": datePublished,
+    "author": orgSchema,
+    "publisher": orgSchema,
+    "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl },
+    ...(audioUrl ? { "associatedMedia": { "@type": "AudioObject", "contentUrl": audioUrl } } : {}),
+    ...(keywords.length > 0 ? { "keywords": keywords.join(", ") } : {}),
+  });
+
+  // PodcastEpisode schema (if it has audio)
+  if (audioUrl) {
+    structuredData.push({
+      "@context": "https://schema.org",
+      "@type": "PodcastEpisode",
+      "name": title,
+      "description": description,
+      "url": canonicalUrl,
+      "datePublished": datePublished,
+      ...(episodeData?.episodeNumber ? { "episodeNumber": episodeData.episodeNumber } : {}),
+      ...(episodeData?.seasonNumber ? { "partOfSeason": { "@type": "PodcastSeason", "seasonNumber": episodeData.seasonNumber } } : {}),
+      "partOfSeries": {
+        "@type": "PodcastSeries",
+        "name": "Scaling Legends",
+        "url": "https://scalinglegends.com/podcast"
+      },
+      "associatedMedia": {
+        "@type": "AudioObject",
+        "contentUrl": audioUrl,
+        ...(episodeData?.duration ? { "duration": episodeData.duration } : {}),
+      },
+      "image": image,
+    });
+  }
+
+  // FAQ schema
+  if (faqItems.length > 0) {
+    structuredData.push({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqItems.map(faq => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": faq.answer,
+        }
+      })),
+    });
+  }
+} else {
+  // Website schema for non-article pages
+  structuredData.push({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Scaling Legends",
+    "url": "https://scalinglegends.com",
+    "description": "Construction Industry Growth Stories - Data-driven podcast and market intelligence for contractors scaling from $1M to $50M.",
+    "publisher": orgSchema,
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://scalinglegends.com/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  });
+}
+
+// Breadcrumb schema (all pages with breadcrumbs)
+if (breadcrumbs.length > 0) {
+  structuredData.push({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": breadcrumbs.map((crumb, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "name": crumb.name,
+      "item": crumb.url,
+    })),
+  });
+}
 ---
 
 <!DOCTYPE html>
@@ -36,7 +150,9 @@ const currentPath = Astro.url.pathname;
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
   {keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
   <link rel="canonical" href={canonicalUrl} />
+  <link rel="alternate" type="application/rss+xml" title="Scaling Legends RSS" href="https://scalinglegends.com/rss.xml" />
 
   <meta property="og:type" content={article ? 'article' : 'website'} />
   <meta property="og:title" content={title} />
@@ -44,43 +160,26 @@ const currentPath = Astro.url.pathname;
   <meta property="og:image" content={image} />
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:site_name" content={siteName} />
+  <meta property="og:locale" content="en_US" />
   {datePublished && <meta property="article:published_time" content={datePublished} />}
+  {datePublished && <meta property="article:modified_time" content={datePublished} />}
+  {article && <meta property="article:publisher" content="https://scalinglegends.com" />}
+  {article && <meta property="article:section" content="Construction" />}
+  {keywords.length > 0 && keywords.map(kw => <meta property="article:tag" content={kw} />)}
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={image} />
 
+  {audioUrl && <meta property="og:audio" content={audioUrl} />}
+  {audioUrl && <meta property="og:audio:type" content="audio/mpeg" />}
+
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-  {article ? (
-    <script type="application/ld+json" set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": title,
-      "description": description,
-      "image": image,
-      "datePublished": datePublished,
-      "dateModified": datePublished,
-      "author": { "@type": "Organization", "name": "Scaling Legends" },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Scaling Legends",
-        "logo": { "@type": "ImageObject", "url": "https://scalinglegends.com/scaling-legends-cover.jpg" }
-      },
-      "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl },
-      ...(audioUrl ? { "associatedMedia": { "@type": "AudioObject", "contentUrl": audioUrl } } : {}),
-    })} />
-  ) : (
-    <script type="application/ld+json" set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "Scaling Legends",
-      "url": "https://scalinglegends.com",
-      "description": "Construction Industry Growth Stories - Podcast & Intelligence",
-      "publisher": { "@type": "Organization", "name": "Scaling Legends" }
-    })} />
-  )}
+  {structuredData.map(schema => (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  ))}
 </head>
 <body class="bg-[#0D0D0D] text-[#EAEAEA] font-sans">
 

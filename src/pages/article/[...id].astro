@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
-const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode } = article.data;
+const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode, season } = article.data;
 
 // Get related articles for sidebar (same keywords or recent)
 const allArticles = await getCollection('articles', ({ data }) => data.published !== false);
@@ -26,6 +26,40 @@ const sidebarEpisodes = sorted
 const sidebarArticles = sorted
   .filter(a => a.id !== article.id && !a.data.audioUrl)
   .slice(0, 4);
+
+// Build breadcrumbs
+const breadcrumbs = [
+  { name: "Home", url: "https://scalinglegends.com/" },
+  ...(audioUrl
+    ? [{ name: "Podcast", url: "https://scalinglegends.com/podcast" }]
+    : [{ name: "Articles", url: "https://scalinglegends.com/" }]
+  ),
+  { name: title, url: `https://scalinglegends.com/article/${article.id}` },
+];
+
+// Extract FAQ items from rendered content for structured data
+// We parse the raw markdown body looking for ### question patterns under ## FAQ headings
+const rawBody = article.body || '';
+const faqItems: { question: string; answer: string }[] = [];
+const faqSectionMatch = rawBody.match(/##\s*(?:Frequently Asked Questions|FAQ)[\s\S]*?(?=\n##\s[^#]|\n$|$)/i);
+if (faqSectionMatch) {
+  const faqSection = faqSectionMatch[0];
+  const qaPairs = faqSection.matchAll(/###\s*(.+?)\n([\s\S]*?)(?=\n###|\n##|$)/g);
+  for (const match of qaPairs) {
+    const question = match[1].trim();
+    const answer = match[2].trim().replace(/\n+/g, ' ').replace(/<[^>]+>/g, '');
+    if (question && answer) {
+      faqItems.push({ question, answer });
+    }
+  }
+}
+
+// Episode metadata for PodcastEpisode schema
+const episodeData = audioUrl ? {
+  episodeNumber: episode,
+  seasonNumber: season || 2,
+  duration: readTime,
+} : undefined;
 ---
 
 <Base
@@ -36,33 +70,24 @@ const sidebarArticles = sorted
   keywords={keywords}
   audioUrl={audioUrl}
   datePublished={date}
+  breadcrumbs={breadcrumbs}
+  faqItems={faqItems}
+  episodeData={episodeData}
 >
   <article class="py-12 px-4 sm:px-8 min-h-screen bg-[#0D0D0D]">
     <div class="max-w-[1600px] mx-auto">
-      <!-- Back link -->
-      {audioUrl ? (
-        <a
-          href="/podcast"
-          class="mb-8 px-4 py-2 text-[#CCFF00] hover:text-[#E0FF4D] transition-all duration-300 inline-flex items-center gap-2 hover:gap-3 rounded-lg hover:bg-[#CCFF00]/5 no-underline"
-          style="font-weight: 600;"
-        >
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-            <path d="M10 3L5 8L10 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          <span>Back to Podcast</span>
-        </a>
-      ) : (
-        <a
-          href="/"
-          class="mb-8 px-4 py-2 text-[#CCFF00] hover:text-[#E0FF4D] transition-all duration-300 inline-flex items-center gap-2 hover:gap-3 rounded-lg hover:bg-[#CCFF00]/5 no-underline"
-          style="font-weight: 600;"
-        >
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-            <path d="M10 3L5 8L10 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          <span>Back to Articles</span>
-        </a>
-      )}
+      <!-- Breadcrumb navigation -->
+      <nav aria-label="Breadcrumb" class="mb-8 flex items-center gap-2 text-sm">
+        <a href="/" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Home</a>
+        <span class="text-[#444444]">/</span>
+        {audioUrl ? (
+          <a href="/podcast" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Podcast</a>
+        ) : (
+          <a href="/" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Articles</a>
+        )}
+        <span class="text-[#444444]">/</span>
+        <span class="text-[#666666] truncate max-w-[300px]">{title}</span>
+      </nav>
 
       <!-- Two-column layout: content + sidebar -->
       <div class="flex flex-col lg:flex-row gap-10">
@@ -104,7 +129,15 @@ const sidebarArticles = sorted
                 "rounded-xl overflow-hidden border border-[#222222]",
                 audioUrl ? "max-w-[320px]" : "max-w-[600px]"
               ]}>
-                <img src={image} alt={title} class="w-full h-auto rounded-xl" />
+                <img
+                  src={image}
+                  alt={title}
+                  class="w-full h-auto rounded-xl"
+                  width={audioUrl ? 320 : 600}
+                  height={audioUrl ? 320 : 400}
+                  loading="eager"
+                  decoding="async"
+                />
               </div>
             </div>
           )}

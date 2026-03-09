@@ -2,3 +2,6 @@ User-agent: *
 Allow: /
 
 Sitemap: https://scalinglegends.com/sitemap-index.xml
+
+# Podcast RSS Feed
+# https://media.rss.com/scalinglegends/feed.xml

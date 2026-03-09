@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Page Not Found"
+  description="The page you're looking for doesn't exist. Browse our latest construction industry articles and podcast episodes."
+>
+  <div class="min-h-[60vh] flex items-center justify-center px-8">
+    <div class="text-center max-w-lg">
+      <div class="text-[#CCFF00] font-bold text-8xl mb-4" style="letter-spacing: -0.05em;">404</div>
+      <h1 class="text-[#EAEAEA] text-2xl font-bold mb-4">Page Not Found</h1>
+      <p class="text-[#888888] mb-8 leading-relaxed">
+        This page doesn't exist or may have been moved. Check out our latest construction intelligence below.
+      </p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a
+          href="/"
+          class="px-6 py-3 bg-[#CCFF00] text-[#0D0D0D] rounded-lg font-semibold text-sm hover:bg-[#E0FF4D] transition-all no-underline"
+        >
+          Browse Articles
+        </a>
+        <a
+          href="/podcast"
+          class="px-6 py-3 bg-[#1A1A1A] border border-[#222222] text-[#EAEAEA] rounded-lg font-semibold text-sm hover:border-[#CCFF00]/50 hover:text-[#CCFF00] transition-all no-underline"
+        >
+          Listen to Podcast
+        </a>
+      </div>
+    </div>
+  </div>
+</Base>

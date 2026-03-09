@@ -11,8 +11,12 @@ const recentArticles = articles.filter(a => !a.data.audioUrl).slice(0, 6);
 ---
 
 <Base
-  title="Podcast"
-  description="Listen to Scaling Legends - Construction industry growth stories, market intelligence, and strategies for contractors scaling their business."
+  title="Scaling Legends Podcast - Construction Industry Intelligence"
+  description="Listen to Scaling Legends - Construction industry growth stories, market intelligence, and strategies for contractors scaling their business from $1M to $50M."
+  breadcrumbs={[
+    { name: "Home", url: "https://scalinglegends.com/" },
+    { name: "Podcast", url: "https://scalinglegends.com/podcast" },
+  ]}
 >
   <div class="py-16 px-8">
     <div class="max-w-[1600px] mx-auto">
