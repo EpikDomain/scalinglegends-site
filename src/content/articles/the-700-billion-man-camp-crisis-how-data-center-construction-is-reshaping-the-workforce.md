@@ -3,6 +3,7 @@ title: "The $700 Billion Man-Camp Crisis: How Data Center Construction Is Reshap
 description: "Bloomberg just reported that the $700B AI data center boom is creating sprawling temporary worker villages in rural America. Private jets to recruit electricians. $40B per month in construction spending. Dorms, mess halls, and RV hookups in the Texas Panhandle. This is the biggest workforce deployment shift in construction since the shale oil boom - and it's creating both massive opportunity and unprecedented competition for skilled labor."
 date: "2026-03-08"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-700-billion-man-camp-crisis-how-data-center-construction-1772982220.png"
+audioUrl: "https://media.rss.com/scalinglegends/2610245.mp3"
 readTime: "9 min read"
 published: true
 season: 2
