@@ -43,7 +43,7 @@ If your company does under $30 million a year, you're in a completely different 
 
 - **Leverage SBA Surety Bonds.** The SBA surety bond program had a record year, providing a critical lifeline for smaller contractors to bid on public sector projects they might otherwise miss due to bonding capacity.
 
-- **Optimize Cash Flow Aggressively.** With thinner backlogs, proactive [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies) is non-negotiable. Implement 15-day invoicing and scrutinize payment terms to maintain liquidity.
+- **Optimize [Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) Aggressively.** With thinner backlogs, proactive [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies) is non-negotiable. Implement 15-day invoicing and scrutinize payment terms to maintain liquidity.
 
 - **Embrace Estimating Outsourcing.** Competitive bidding is fierce. Outsourcing estimating can provide access to specialized expertise and advanced [construction estimating software 2026](/article/construction-estimating-software-2026), improving bid accuracy and win rates without significant upfront investment.
 

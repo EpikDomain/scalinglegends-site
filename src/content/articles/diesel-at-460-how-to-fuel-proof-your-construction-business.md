@@ -31,7 +31,7 @@ The top fuel reduction strategies for contractors include: GPS-based idle monito
 
 Fuel hedging makes sense for contractors with monthly fuel spend above $10,000. Options include fixed-price fuel contracts with suppliers (lock in rates for 6-12 months), fuel futures through a commodity broker, or fuel cards with volume discounts. The simplest approach is negotiating a price cap with your fuel supplier at 5-8% above current rates. This protects you from spikes while still benefiting if prices drop.
 
-How to Scale a Construction Business 2026: Fuel-Proof Your Profits
+How to Scale [a Construction Business](/article/how-to-scale-a-construction-business-without-losing-control) 2026: Fuel-Proof Your Profits
 
 Diesel just hit $4.60 and it's not stopping. Here's how to stop the bleeding. Oil broke $103 a barrel, and diesel is reacting more aggressively than gasoline. Equipment operating costs are already up 5.6% year-over-year, according to [Smart Business Automator](https://smartbusinessautomator.com) [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). Without immediate action, escalating fuel prices will erode your hard-earned margins, choke your growth, and potentially derail your plans to scale from $1M to $50M. This isn't just about cutting costs; it's about strategic resilience to protect your bottom line and ensure your business thrives, even with $5 diesel on the horizon.
 

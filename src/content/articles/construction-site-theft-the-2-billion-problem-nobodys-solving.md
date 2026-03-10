@@ -21,7 +21,7 @@ Copper wire and copper piping remain the most frequently stolen materials from c
 
 ### How much does construction site theft cost the industry each year?
 
-Construction site theft costs the U.S. construction industry an estimated $1-2 billion annually in direct losses. When you factor in project delays, increased insurance premiums, and replacement logistics, the true cost climbs closer to $4 billion. The average theft incident costs a contractor between $3,000 and $30,000, with heavy equipment theft averaging $17,000 per incident according to NER data.
+Construction site theft costs the U.S. [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) an estimated $1-2 billion annually in direct losses. When you factor in project delays, increased insurance premiums, and replacement logistics, the true cost climbs closer to $4 billion. The average theft incident costs a contractor between $3,000 and $30,000, with heavy equipment theft averaging $17,000 per incident according to NER data.
 
 ### What are the best security systems for construction sites?
 

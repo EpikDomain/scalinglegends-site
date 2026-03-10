@@ -17,7 +17,7 @@ sponsors:
 
 ### What happened in the construction market on March 10, 2026?
 
-The March 10, 2026 construction market report highlights three key developments: BLS data confirmed a 0.3% employment decline in February 2026 (the first drop since October 2025), oil broke $103 per barrel pushing diesel to $4.60/gallon, and the K-shaped recovery deepened as large contractors reported record backlogs while small firms saw bid volumes decline 8% month-over-month. Steel prices remained elevated at 12% above January levels.
+The March 10, 2026 [construction market report](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) highlights three key developments: BLS data confirmed a 0.3% employment decline in February 2026 (the first drop since October 2025), oil broke $103 per barrel pushing diesel to $4.60/gallon, and the K-shaped recovery deepened as large contractors reported record backlogs while small firms saw bid volumes decline 8% month-over-month. Steel prices remained elevated at 12% above January levels.
 
 ### Is the construction industry in a recession in 2026?
 
@@ -29,7 +29,7 @@ Diesel at $4.60/gallon (up 19% since January 2026) adds approximately 2-3% to to
 
 ### Where is construction hiring in 2026?
 
-Construction hiring in 2026 is concentrated in three sectors: data center construction (Northern Virginia, Phoenix, DFW adding 15,000+ jobs), infrastructure repair funded by IIJA ($131 billion in active projects), and industrial/manufacturing facility construction driven by reshoring. Residential construction has shed approximately 15,000 jobs since October 2025. The national average construction wage hit $34.50/hour in February 2026, up 4.2% year-over-year.
+Construction hiring in 2026 is concentrated in three sectors: [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) (Northern Virginia, Phoenix, DFW adding 15,000+ jobs), infrastructure repair funded by IIJA ($131 billion in active projects), and industrial/manufacturing facility construction driven by reshoring. Residential construction has shed approximately 15,000 jobs since October 2025. The national average construction wage hit $34.50/hour in February 2026, up 4.2% year-over-year.
 
 How to Scale a [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control) 2026: K-Shaped Economy Deepens
 
