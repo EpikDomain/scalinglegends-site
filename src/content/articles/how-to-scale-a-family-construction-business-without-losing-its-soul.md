@@ -42,7 +42,7 @@ Implementing a robust organizational chart, complete with defined lines of autho
 
 **Key Stat: Over 80% of construction companies in the US are family-owned, yet the inability to separate family dynamics from business decisions is cited as the primary reason for their failure to scale or survive across generations.**
 
-## Professionalizing Operations Without Losing Your Construction Business Culture
+## Professionalizing Operations Without Losing [Your Construction Business](/article/diesel-at-460-how-to-fuel-proof-your-construction-business) Culture
 
 The fear of "losing the soul" of the company is a legitimate concern for many family-owned contractors embarking on a journey of professionalization. However, adopting professional management practices doesn't necessitate sacrificing the personal touch, strong work ethic, or deep client relationships that define a positive construction business culture. Instead, it's about embedding these values into scalable systems.
 
