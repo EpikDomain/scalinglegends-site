@@ -119,7 +119,7 @@ The states being hit hardest are Georgia (75% impact), Virginia, Alabama, Nebras
 
 Immigration enforcement has already removed 532,000 workers who held legal work authorization under humanitarian parole programs. Documented workers are gaining bargaining leverage, and contractors are paying premiums to retain them. ICE funding is increasing and more enforcement officers are being trained. Industry analysts say the sector may be "only beginning to feel the impact."
 
-This is exactly why the autonomous equipment announcements at CONEXPO matter. When you can't find humans to run machines, machines that run themselves stop being a luxury and start being a survival strategy.
+This is exactly why [the autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site) announcements at CONEXPO matter. When you can't find humans to run machines, machines that run themselves stop being a luxury and start being a survival strategy.
 
 ## Ohio E-Verify Mandate: 12 Days and Counting
 

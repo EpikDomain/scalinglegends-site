@@ -23,7 +23,7 @@ The March 10, 2026 [construction market report](/article/construction-market-int
 
 Not a broad recession, but a K-shaped divergence. Large contractors focused on data centers, infrastructure, and institutional work are experiencing record demand. The AGC reports 72% of large firms have backlogs exceeding 12 months. However, small residential and light commercial contractors are seeing margin compression from rising material costs and declining bid volumes. The overall construction spending forecast is +1% for 2026, which effectively means flat growth after inflation.
 
-### How are rising diesel prices affecting construction costs?
+### How are rising diesel prices affecting [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs)?
 
 Diesel at $4.60/gallon (up 19% since January 2026) adds approximately 2-3% to total project costs for earthwork-heavy projects. Equipment-intensive contractors report fuel now consuming 8% of project budgets, up from 5.5% in Q4 2025. The ripple effects include higher material delivery costs, increased asphalt pricing (up 11% YTD), and pressure on fixed-price contracts that were bid when diesel was below $4.00.
 

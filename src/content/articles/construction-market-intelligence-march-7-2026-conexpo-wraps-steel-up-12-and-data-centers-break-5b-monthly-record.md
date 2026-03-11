@@ -19,7 +19,7 @@ CONEXPO-CON/AGG 2026 closes today in Las Vegas after five days with 2,000+ exhib
 
 Here's everything that matters for contractors this week.
 
-## CONEXPO 2026: The Announcements That Actually Matter for Your Business
+## [CONEXPO 2026: The](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site) Announcements That Actually Matter for Your Business
 
 **Caterpillar** made the biggest splash with AI tools, autonomous-ready equipment, and a new rental brand called **"Cat Compact"** aimed directly at small contractors. They showed 30+ machines including an all-new electric drive medium dozer, VisionLink fleet management, and their Cat Command autonomy portfolio.
 
@@ -155,7 +155,7 @@ When material costs change weekly and labor is scarce, operational efficiency is
 
 ## Frequently Asked Questions
 
-### How are tariffs affecting construction costs in March 2026?
+### How are tariffs affecting [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs) in March 2026?
 
 Steel tariffs at 50% have pushed steel bars and structural shapes up 12.1% year-over-year. Aluminum is up 23%. Copper products face 50% tariffs with 4.9% YoY increases. Overall construction inputs rose 2.3% YoY with a 0.7% jump in January alone. Project abandonment has surged 88.2% as contractors can't absorb the increases on existing fixed-price contracts.
 
