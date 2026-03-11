@@ -63,7 +63,7 @@ The shift from federal to state/local can be a learning curve, but it offers a m
 
 ### Tapping into the Private Sector
 
-The private sector offers a vast array of construction opportunities, from commercial real estate development and industrial facilities to residential projects and private infrastructure. This market demands a different approach to sales, marketing, and client relations. Private clients often prioritize speed, cost-efficiency, and innovation, and decision-making processes can be much faster than in government. To succeed:
+The private sector offers a vast array of [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company), from commercial real estate development and industrial facilities to residential projects and private infrastructure. This market demands a different approach to sales, marketing, and client relations. Private clients often prioritize speed, cost-efficiency, and innovation, and decision-making processes can be much faster than in government. To succeed:
 
 - **Develop a Strong Commercial Brand:** Your reputation as a reliable federal contractor is valuable, but you need to translate it into a compelling value proposition for private clients.
 
@@ -191,7 +191,7 @@ A comprehensive contingency plan should address various scenarios, from further 
 
 - **Client Diversification Targets:** Set specific targets for the percentage of revenue derived from federal, state, local, and private sectors. Regularly review these targets and adjust strategies to maintain a healthy balance.
 
-These plans should not be static documents but living strategies that are regularly reviewed and updated based on market intelligence and internal performance metrics. The experience of **federal construction contracts cancelled** should serve as a stark reminder of the need for preparedness.
+These plans should not be static documents but living strategies that are regularly reviewed and updated based on [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) and internal performance metrics. The experience of **federal construction contracts cancelled** should serve as a stark reminder of the need for preparedness.
 
 ### Proactive Risk Assessment and Mitigation
 
