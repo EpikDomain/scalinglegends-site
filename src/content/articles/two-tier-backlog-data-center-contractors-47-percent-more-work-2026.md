@@ -6,6 +6,8 @@ image: "/scaling-legends-cover.jpg"
 readTime: "12 min read"
 published: true
 season: 2
+episode: 49
+audioUrl: "https://content.rss.com/episodes/332597/2622759/scalinglegends/2026_03_12_13_57_41_b447178e-94ad-42fd-ae03-3e6a57aefeca.mp3"
 keywords:
   - "data center construction"
   - "construction backlog"

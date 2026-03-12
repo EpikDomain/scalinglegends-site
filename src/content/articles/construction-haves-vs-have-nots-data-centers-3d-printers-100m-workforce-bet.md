@@ -7,6 +7,7 @@ readTime: "14 min read"
 published: true
 season: 2
 episode: 47
+audioUrl: "https://content.rss.com/episodes/332597/2622889/scalinglegends/2026_03_12_14_55_16_2dd6307e-1921-4db8-b0bd-4e5fe1d23a04.mp3"
 keywords:
   - "construction market intelligence"
   - "data center construction"

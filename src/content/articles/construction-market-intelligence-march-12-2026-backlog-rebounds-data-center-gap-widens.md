@@ -6,6 +6,8 @@ image: "/scaling-legends-cover.jpg"
 readTime: "13 min read"
 published: true
 season: 2
+episode: 48
+audioUrl: "https://content.rss.com/episodes/332597/2622758/scalinglegends/2026_03_12_13_57_37_396b49df-4dd5-4903-aaa9-12758143117d.mp3"
 keywords:
   - "construction market intelligence"
   - "construction backlog"
