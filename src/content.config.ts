@@ -27,6 +27,10 @@ const articles = defineCollection({
       description: z.string().optional(),
     })).optional(),
     transcript: z.string().optional(),
+    howTo: z.array(z.object({
+      name: z.string(),
+      text: z.string(),
+    })).optional(),
   }),
 });
 

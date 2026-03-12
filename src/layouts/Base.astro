@@ -16,6 +16,8 @@ interface Props {
     seasonNumber?: number;
     duration?: string;
   };
+  videoId?: string;
+  howToSteps?: { name: string; text: string }[];
 }
 
 const {
@@ -29,11 +31,17 @@ const {
   breadcrumbs = [],
   faqItems = [],
   episodeData,
+  videoId,
+  howToSteps = [],
 } = Astro.props;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
 const siteName = 'Scaling Legends';
-const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
+// SEO: keep rendered title under 60 chars to prevent SERP truncation
+const suffix = ` | ${siteName}`;
+const maxTitleLen = 60 - suffix.length; // ~41 chars for the title portion
+const truncatedTitle = title.length > maxTitleLen ? title.substring(0, maxTitleLen).replace(/\s+\S*$/, '') : title;
+const fullTitle = title === siteName ? title : `${truncatedTitle}${suffix}`;
 
 const currentPath = Astro.url.pathname;
 
@@ -108,6 +116,36 @@ if (article) {
           "text": faq.answer,
         }
       })),
+    });
+  }
+  // HowTo schema (if steps provided)
+  if (howToSteps.length > 0) {
+    structuredData.push({
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": title,
+      "description": description,
+      "step": howToSteps.map((step, i) => ({
+        "@type": "HowToStep",
+        "position": i + 1,
+        "name": step.name,
+        "text": step.text,
+      })),
+    });
+  }
+
+  // VideoObject schema (if YouTube embed detected)
+  if (videoId) {
+    structuredData.push({
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": title,
+      "description": description,
+      "thumbnailUrl": `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
+      "uploadDate": datePublished,
+      "contentUrl": `https://www.youtube.com/watch?v=${videoId}`,
+      "embedUrl": `https://www.youtube.com/embed/${videoId}`,
+      "publisher": orgSchema,
     });
   }
 } else {
