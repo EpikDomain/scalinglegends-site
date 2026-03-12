@@ -2,11 +2,13 @@
 title: "Construction Market Intelligence: March 8, 2026 - SCOTUS Tariff Fallout Deepens as $700B Data Center Boom Spawns Worker Housing Crisis"
 description: "Daily market intelligence covering the Supreme Court tariff ruling aftermath and Treasury's warning that rates will return to pre-ruling levels by August, CONEXPO 2026 final wrap with 140,000 attendees, Bloomberg's breaking report on man-camp housing fueled by the $700B data center boom, the construction M&A consolidation wave, equipment rental market hitting $50B, Canada-Alberta $116B permitting deal, European construction recovery signals, Australia's parallel workforce crisis, and housing starts data."
 date: "2026-03-08"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-8-2026---scotus-tarif-1772982110.png"
+image: "/img/articles/construction-market-intelligence-march-8-2026-scotus-tariff-fallout-deepens-as-700b-data-center-boom-spawns-worker-housing-crisis-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-8-2026---scotus-tarif-1772982110.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610155/scalinglegends/2026_03_08_16_24_39_80d54ada-7378-422e-9cad-6c40ffa612a9.mp3"
 readTime: "11 min read"
 published: true
-season: 2
+
+episode: 29
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

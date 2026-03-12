@@ -2,11 +2,13 @@
 title: "Why Your Estimates Never Match Reality: Fixing the Sales-to-Field Gap That's Killing Your Margins"
 description: "Reddit is exploding with field techs sent to jobs with no material lists, no plans, and no idea what they're walking into. The disconnect between estimating and field crews is one of the most expensive and least-discussed problems in construction. This episode digs into the real cost of the sales-to-field communication gap and gives you a system to fix it."
 date: "2026-03-09"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/why-your-estimates-never-match-reality-fixing-the-sales-to-f-1773078626.png"
+image: "/img/articles/why-your-estimates-never-match-reality-fixing-the-sales-to-field-gap-thats-killing-your-margins-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/why-your-estimates-never-match-reality-fixing-the-sales-to-f-1773078626.png"
 audioUrl: "https://content.rss.com/episodes/332597/2613454/scalinglegends/2026_03_09_19_12_31_b20ef2a3-ba71-40eb-a4a5-b4d2c6b08ad6.mp3"
 readTime: "9 min read"
 published: true
-season: 2
+
+episode: 37
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

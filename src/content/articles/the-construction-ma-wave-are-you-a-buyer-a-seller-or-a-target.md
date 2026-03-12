@@ -2,11 +2,13 @@
 title: "The Construction M&A Wave: Are You a Buyer, a Seller, or a Target?"
 description: "PwC and Capstone Partners both report surging M&A deal activity in construction for 2026. Data center and power infrastructure targets are generating outsized acquisition interest. Tariff pressures and labor shortages are accelerating the 'acquire for scale' strategy. This episode helps mid-size construction company owners understand whether they should be acquiring competitors, preparing to sell, or defending against being acquired."
 date: "2026-03-08"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-construction-ma-wave-are-you-a-buyer-a-seller-or-a-targe-1772982270.png"
+image: "/img/articles/the-construction-ma-wave-are-you-a-buyer-a-seller-or-a-target-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-construction-ma-wave-are-you-a-buyer-a-seller-or-a-targe-1772982270.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610290/scalinglegends/2026_03_08_17_30_47_653b4efa-4ed2-48ea-821b-46ef0a9f4d4c.mp3"
 readTime: "10 min read"
 published: true
-season: 2
+
+episode: 32
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

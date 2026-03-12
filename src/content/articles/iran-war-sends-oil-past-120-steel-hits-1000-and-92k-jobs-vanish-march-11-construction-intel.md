@@ -2,11 +2,13 @@
 title: "Iran War Sends Oil Past $120, Steel Hits $1,000, and 92K Jobs Vanish: March 11 Construction Intel"
 description: "BREAKING: The US-Iran war just sent oil past $120/barrel before crashing to $87. Steel broke $1,000/ton. The economy lost 92,000 jobs. A new 15% global tariff starts THIS WEEK. CPI drops today. The Fed meets March 17. E-Verify expands March 19. BlackRock is hosting an infrastructure workforce summit in DC right now. And DOGE just axed $41.5 billion in federal contracts. Everything a contractor needs to know to survive this week."
 date: "2026-03-11"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/iran-war-sends-oil-past-120-steel-hits-1000-and-92k-jobs-van-1773235546.png"
+image: "/img/articles/iran-war-sends-oil-past-120-steel-hits-1000-and-92k-jobs-vanish-march-11-construction-intel-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/iran-war-sends-oil-past-120-steel-hits-1000-and-92k-jobs-van-1773235546.png"
 audioUrl: "https://content.rss.com/episodes/332597/2619679/scalinglegends/2026_03_11_14_07_20_1cb01859-d106-47b4-ada2-ccad61b307ae.mp3"
 readTime: "5 min read"
 published: true
-season: 2
+
+episode: 45
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

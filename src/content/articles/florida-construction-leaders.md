@@ -13,7 +13,6 @@ sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
-
 keywords:
   - "Florida construction companies 2026"
   - "Lemartec MasTec construction"

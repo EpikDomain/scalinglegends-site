@@ -6,7 +6,8 @@ image: "/scaling-legends-cover.jpg"
 audioUrl: "https://content.rss.com/episodes/332597/2616310/scalinglegends/2026_03_10_11_28_32_942ce583-9d18-4679-89c0-123702d42778.mp3"
 readTime: "31 min read"
 published: true
-season: 2
+
+episode: 24
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

@@ -6,7 +6,7 @@ image: "/scaling-legends-cover.jpg"
 readTime: "14 min read"
 published: true
 season: 2
-episode: 39
+episode: 47
 keywords:
   - "construction market intelligence"
   - "data center construction"

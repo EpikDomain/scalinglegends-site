@@ -2,11 +2,13 @@
 title: "The AI Estimating Revolution: How Smart Contractors Are Cutting Takeoff Time by 60% in 2026"
 description: "Google Trends shows 'AI construction estimating' as one of the fastest-rising queries in the industry. Forty-plus AI-driven AEC solutions are now on the market. Companies implementing AI-powered estimation report 40-60% reductions in takeoff time. Yet most contractors are still doing takeoffs manually, spending days on what AI can do in hours. This episode is the buyer's guide: which tools work, what they cost, how to implement without disrupting your current workflow, and the real ROI numbers from contractors who made the switch."
 date: "2026-03-06"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-ai-estimating-revolution-how-smart-contractors-are-cutti-1772808292.png"
+image: "/img/articles/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-ai-estimating-revolution-how-smart-contractors-are-cutti-1772808292.png"
 audioUrl: "https://content.rss.com/episodes/332597/2605930/scalinglegends/2026_03_06_15_33_12_55079e6f-67d6-4809-911d-83aaba420cdd.mp3"
 readTime: "10 min read"
 published: true
-season: 2
+
+episode: 21
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
