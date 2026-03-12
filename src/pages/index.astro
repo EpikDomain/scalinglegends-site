@@ -66,7 +66,7 @@ const featuredArticles = articles.slice(0, 8);
           <h2 class="text-[#EAEAEA] uppercase mb-3" style="font-weight: 900; font-size: clamp(2rem, 4vw, 3rem); letter-spacing: -0.03em; line-height: 1.1;">
             Featured Episodes<span class="inline-block relative w-2 h-2 ml-1.5" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span>
           </h2>
-          <p class="text-[#666666]" style="font-size: 0.9375rem; line-height: 1.6;">
+          <p class="text-[#999999]" style="font-size: 0.9375rem; line-height: 1.6;">
             Construction business intelligence from industry leaders
           </p>
         </div>
@@ -77,12 +77,12 @@ const featuredArticles = articles.slice(0, 8);
               {ep.data.image && (
                 <a href={`/article/${ep.id}`} class="block">
                   <div class="h-[180px] overflow-hidden flex items-center justify-center bg-[#0D0D0D]">
-                    <img src={ep.data.image} alt={ep.data.title} class="max-w-full max-h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                    <img src={ep.data.image} alt={ep.data.title} class="max-w-full max-h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy" width="320" height="180" />
                   </div>
                 </a>
               )}
               <div class="p-6">
-                <div class="flex items-center gap-2 text-[#666666] mb-3" style="font-size: 12px; font-weight: 500;">
+                <div class="flex items-center gap-2 text-[#999999] mb-3" style="font-size: 12px; font-weight: 500;">
                   {ep.data.episode && <span>EP {ep.data.episode}</span>}
                   {ep.data.episode && <span class="w-1 h-1 bg-[#333333] rounded-full"></span>}
                   {ep.data.readTime && <span>{ep.data.readTime}</span>}
@@ -126,7 +126,7 @@ const featuredArticles = articles.slice(0, 8);
         <h2 class="text-[#EAEAEA] uppercase mb-3" style="font-weight: 900; font-size: clamp(2rem, 4vw, 3rem); letter-spacing: -0.03em; line-height: 1.1;">
           Latest Articles<span class="inline-block relative w-2 h-2 ml-1.5" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span>
         </h2>
-        <p class="text-[#666666]" style="font-size: 0.9375rem; line-height: 1.6;">
+        <p class="text-[#999999]" style="font-size: 0.9375rem; line-height: 1.6;">
           Expert analysis and actionable insights for construction business leaders
         </p>
       </div>
@@ -137,7 +137,7 @@ const featuredArticles = articles.slice(0, 8);
             {article.data.image && (
               <a href={`/article/${article.id}`} class="block">
                 <div class="relative h-[180px] overflow-hidden flex items-center justify-center bg-[#0D0D0D]">
-                  <img src={article.data.image} alt={article.data.title} class="max-w-full max-h-full object-contain transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+                  <img src={article.data.image} alt={article.data.title} class="max-w-full max-h-full object-contain transition-transform duration-700 group-hover:scale-110" loading="lazy" width="400" height="180" />
                   <!-- Subtle bottom gradient only -->
                   <div class="absolute inset-0 bg-gradient-to-t from-[#0D0D0D] via-transparent to-transparent opacity-60"></div>
                   <!-- Hover overlay -->
@@ -154,7 +154,7 @@ const featuredArticles = articles.slice(0, 8);
               </a>
             )}
             <div class="p-7 flex flex-col gap-4">
-              <div class="flex items-center gap-3 text-[#666666]" style="font-size: 12px; font-weight: 500;">
+              <div class="flex items-center gap-3 text-[#999999]" style="font-size: 12px; font-weight: 500;">
                 <span>{new Date(article.data.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
                 <span class="w-1 h-1 bg-[#333333] rounded-full"></span>
                 {article.data.readTime && <span>{article.data.readTime}</span>}
@@ -165,7 +165,7 @@ const featuredArticles = articles.slice(0, 8);
               <p class="text-[#888888] line-clamp-2" style="font-size: 0.9375rem; line-height: 1.6;">
                 {article.data.description}
               </p>
-              <div class="mt-2 flex items-center gap-2 text-[#666666] group-hover:text-[#CCFF00] group-hover:gap-3 transition-all duration-300" style="font-size: 0.875rem; font-weight: 600;">
+              <div class="mt-2 flex items-center gap-2 text-[#999999] group-hover:text-[#CCFF00] group-hover:gap-3 transition-all duration-300" style="font-size: 0.875rem; font-weight: 600;">
                 <span>Read More</span>
                 <svg width="14" height="14" viewBox="0 0 16 16" fill="none" class="transition-transform duration-300 group-hover:translate-x-1"><path d="M6 3L11 8L6 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
               </div>
