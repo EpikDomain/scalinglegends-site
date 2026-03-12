@@ -2,8 +2,7 @@
 title: "What $10M Contractors Wish They Knew at $1M"
 description: "Lessons from contractors who've crossed the $10M threshold. The mistakes, the breakthroughs, and what they'd do differently if they started over."
 date: "2026-03-05"
-image: "/img/articles/what-10m-contractors-wish-they-knew-at-1m-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
 readTime: "10 min read"
 published: true
 season: 2
