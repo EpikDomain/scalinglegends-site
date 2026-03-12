@@ -13,6 +13,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+  
+
 ## 60% of Gen Z Plans to Go Into Trades in 2026. Construction Is Their Number One Pick.
 
 A January 2026 survey of 1,250 Gen Zers by ResumeTemplates.com dropped a number that should reframe every conversation about the construction labor shortage: **60% of Gen Z plans to pursue skilled trades jobs in 2026**. Construction is the number one choice at 21%, followed by electrical (10%) and manufacturing (9%).

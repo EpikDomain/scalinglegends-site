@@ -15,6 +15,8 @@ sponsors:
 
 There are two ransomware groups you have never heard of. Qilin and SafePay. And right now, they are actively targeting [construction companies](/article/5-cash-flow-mistakes-that-kill-construction-companies). Not tech companies. Not banks. Construction companies. They want your BIM files, your bid documents, your project schedules. One contractor lost access to everything for three weeks, leading to an estimated $5 million in direct and indirect costs. And starting November 10, 2026, if your firm holds government contracts, you will need CMMC Level 2 cybersecurity certification or you lose bidding eligibility. This isn't just about data; it's about jobsite halts, eroded client trust, and multi-million dollar recovery costs. This is Construction's $15 Million Blind Spot: Why Ransomware Groups Are Targeting YOUR BIM Files.
 
+  
+
 ## Key Takeaways
 
 - **Ransomware is Here.** Groups like Qilin and SafePay are specifically targeting the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) in 2026, seeking high-value project data, not just personal information.

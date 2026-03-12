@@ -15,6 +15,8 @@ sponsors:
 
 Two thousand exhibitors. Three million square feet. One hundred thirty thousand construction professionals. CONEXPO just wrapped in Las Vegas, and Caterpillar rolled out its first autonomous compactor while HD Hyundai showed excavators that dig themselves. Every media outlet is covering the headlines. Nobody is telling the mid-size contractor what actually matters for your business. Today we fix that -- the practical breakdown of what to buy, what to watch, and what to ignore.
 
+  
+
 ## Key Takeaways
 
 - **Full Autonomy is 3-5 Years Out for Most.** While CONEXPO 2026 showcased significant strides, widespread deployment of fully [autonomous construction equipment](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) for diverse, uncontrolled job sites remains a future prospect for the majority of $1M-$50M contractors. Early applications will focus on highly controlled environments.

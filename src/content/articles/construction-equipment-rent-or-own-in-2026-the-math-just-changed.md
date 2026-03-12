@@ -15,6 +15,8 @@ sponsors:
 
 The US equipment rental market is about to cross $50 billion. Tariffs just made buying 8% more expensive. CONEXPO showed telematics that make renting smarter than ever. And most contractors are still making equipment decisions on gut feeling. Today we run the actual numbers.
 
+  
+
 ## Key Takeaways
 
 - **Tariffs and Interest Rates Drive Up Ownership Costs.** New equipment prices have increased by 5-8% due to steel/aluminum tariffs, adding $24,000 to a $300,000 excavator purchase. Simultaneously, rising interest rates make equipment loans significantly more expensive than in 2021, impacting [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) directly.

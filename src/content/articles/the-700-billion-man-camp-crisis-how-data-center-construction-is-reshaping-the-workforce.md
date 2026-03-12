@@ -15,6 +15,8 @@ sponsors:
 
 Bloomberg just dropped a bombshell. The $700 billion AI data center boom is creating sprawling temporary worker villages in rural America. Private jets to recruit electricians. $40 billion a month in construction spending. And the labor pull is affecting every contractor in the country. This is the biggest [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) shift since the shale oil boom, demanding immediate attention from every [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control).
 
+  
+
 ## Key Takeaways
 
 - **Unprecedented Spending Surge.** January 2026 saw $25.2 billion in data center construction starts, the highest single month on record. Annual spending now averages $8.6 billion per month, totaling $103.7 billion over the trailing 12 months.

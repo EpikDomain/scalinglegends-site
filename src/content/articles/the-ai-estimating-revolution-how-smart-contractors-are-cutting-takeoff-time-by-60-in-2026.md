@@ -15,6 +15,8 @@ sponsors:
 
 Your estimator spends three days on a takeoff. By the time the bid is ready, the material prices have changed and the supplier quotes have expired. Meanwhile, your competitor down the street just submitted five bids in the same week using AI tools that cut takeoff time by 60%. This is not a technology episode. This is a survival episode. The contractors who figure out AI estimating in 2026 will structurally outbid everyone who does not.
 
+  
+
 ## Key Takeaways
 
 - **Time is Money, AI Saves Both.** Companies implementing AI-powered estimation report a 40-60% reduction in takeoff time, significantly improving bid turnaround and accuracy.

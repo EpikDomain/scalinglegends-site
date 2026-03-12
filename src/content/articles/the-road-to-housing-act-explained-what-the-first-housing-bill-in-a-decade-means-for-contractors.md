@@ -15,6 +15,8 @@ sponsors:
 
 When was the last time Republicans and Democrats agreed on ANYTHING eighty-four to six? That just happened. The Senate just voted with overwhelming bipartisan support to advance the 21st Century ROAD to Housing Act, the first comprehensive housing bill in over a decade. This isn't just political news; it's about to reshape residential construction in America, opening up unprecedented opportunities for contractors scaling their businesses from $1M to $50M. The time to understand this legislation and [position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) for growth is now.
 
+  
+
 ## Key Takeaways
 
 - **Massive Bipartisan Support.** The Senate voted 84-6 to advance the ROAD to Housing Act, indicating strong political will for its passage and implementation, making it a reliable policy for future planning.

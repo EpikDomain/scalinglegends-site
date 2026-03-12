@@ -13,6 +13,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+  
+
 ## [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business) Wraps as Tariffs Hammer Margins and Data Centers Break Records
 
 CONEXPO-CON/AGG 2026 closes today in Las Vegas after five days with 2,000+ exhibitors, 130,000+ attendees, and nearly 3 million square feet of exhibit space. Meanwhile, the tariff squeeze is eating bids alive, Ohio's E-Verify mandate goes live in 12 days, and [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) just posted the highest monthly start figure ever recorded.

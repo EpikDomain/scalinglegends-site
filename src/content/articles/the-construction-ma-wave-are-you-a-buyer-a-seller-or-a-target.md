@@ -15,6 +15,8 @@ sponsors:
 
 PwC and Capstone Partners both say the same thing: construction M&A is surging in 2026. Data center targets are generating outsized acquisition interest. Tariffs and labor shortages are accelerating consolidation. The question for every mid-size contractor: are you a buyer, a seller, or a target? The industry is undergoing a rapid transformation, with deal activity expected to remain robust and accelerating through 2026, driven by a confluence of economic pressures and strategic imperatives.
 
+  
+
 ## Key Takeaways
 
 - **M&A is Accelerating.** PwC's 2026 Outlook confirms robust and accelerating M&A activity in construction. Firms are acquiring competitors at a pace unseen in years, particularly in specialized niches.

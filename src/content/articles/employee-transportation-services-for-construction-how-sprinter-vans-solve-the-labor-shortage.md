@@ -13,6 +13,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+  
+
 ## Construction Workers Have the Longest Commutes in America. Most Contractors Do Nothing About It.
 
 Construction and mining workers have the **longest average commute of any profession in the country at 33+ minutes each way** (Priceonomics). The general workforce averages 41 miles round trip daily (FinanceBuzz 2025). And unlike office workers who can hop on Zoom, your crew can't pour concrete from their couch.

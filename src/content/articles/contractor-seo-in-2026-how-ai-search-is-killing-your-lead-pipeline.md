@@ -13,6 +13,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+  
+
 ## Contractor SEO in 2026: How AI Search Is Killing Your Lead Pipeline
 
 AI Overviews just cut search clicks by **58%**. On March 4, 2026, Angi launched an app directly inside ChatGPT. And 60% of Google searches now end without a click. If your contractor lead generation strategy is still built on the assumption that ranking on page one of Google equals phone calls, you are operating on a model that is actively breaking down.

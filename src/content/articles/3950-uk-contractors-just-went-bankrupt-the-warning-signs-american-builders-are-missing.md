@@ -15,6 +15,8 @@ sponsors:
 
 Three thousand nine hundred and fifty. That's how many [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) went bankrupt in the UK last year. Not projects. Not bids. Companies. Gone. This grim reality makes the UK [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) the worst sector for business failures four years running, accounting for a staggering 17% of all UK business insolvencies. And the exact same warning signs, from razor-thin margins to escalating material costs, are flashing right here in America. Ignore them at your peril, or learn from the lessons across the pond to fortify your own enterprise.
 
+  
+
 ## Key Takeaways
 
 - **UK Crisis is a Harbinger.** The UK saw 3,950 contractor insolvencies in 12 months, with specialist trades like plumbing, HVAC, and electrical hit hardest. These are not isolated incidents but a systemic issue driven by economic headwinds that are now mirroring in the US.

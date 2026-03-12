@@ -13,6 +13,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+  
+
 ## Frequently Asked Questions
 
 ### How much does diesel fuel cost for construction companies in 2026?

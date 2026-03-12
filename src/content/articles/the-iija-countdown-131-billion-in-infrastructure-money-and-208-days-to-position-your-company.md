@@ -15,6 +15,8 @@ sponsors:
 
 Two hundred and eight days. That is how long before the largest infrastructure spending bill in American history expires. The Associated General Contractors of America (AGC) just spent two million dollars on a campaign to warn Congress. The Highway Trust Fund is facing a hundred-and-fifty-billion-dollar shortfall. And most mid-size contractors have zero strategy for capturing their share of the money still flowing. Today I am giving you the 90-day action plan to position your company before September 30th.
 
+  
+
 ## Key Takeaways
 
 - **The IIJA Countdown is Real.** The Infrastructure Investment and Jobs Act (IIJA) expires September 30, 2026, leaving only 208 days to capitalize on remaining funding. States have already committed $249 billion to over 113,000 projects, but significant opportunities remain.

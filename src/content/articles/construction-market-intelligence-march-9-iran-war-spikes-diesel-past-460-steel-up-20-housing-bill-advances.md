@@ -15,6 +15,8 @@ sponsors:
 
 Diesel just hit four sixty a gallon. Steel is up twenty percent. And the Senate just passed the [first housing bill](/article/the-road-to-housing-act-explained-what-the-first-housing-bill-in-a-decade-means-for-contractors) in a decade. If you run a [construction company](/article/surviving-the-messy-middle-of-construction-growth), the next fifteen minutes could save you real money.
 
+  
+
 ## Key Takeaways
 
 - **Fuel Costs Skyrocketing.** The ongoing Iran conflict has pushed crude oil past $100/barrel, driving diesel to $4.60/gallon—an $0.83 increase in just one week. Re-evaluate your fuel surcharges and hedging strategies immediately.

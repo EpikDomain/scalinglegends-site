@@ -15,6 +15,8 @@ sponsors:
 
 The Supreme Court just struck down Trump's tariffs, but Treasury says rates are going right back up. Meanwhile, Bloomberg drops a bombshell about the $700 billion data center boom creating worker housing crises in rural America. This is your daily [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) briefing, cutting through the noise to deliver actionable insights for contractors scaling from $1M to $50M. The market is shifting underfoot, demanding agility and foresight.
 
+  
+
 ## Key Takeaways
 
 - **Tariff Relief is an Illusion.** While some tariffs were struck down, 50% steel and aluminum tariffs remain. Treasury projects interest rates will return to pre-ruling levels by August, negating any potential relief. Contractors should not expect refunds for past material purchases.
