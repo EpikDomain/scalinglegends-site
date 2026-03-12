@@ -5,6 +5,7 @@ date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-rise-of-software-in-construction-scaling-1772746905.png"
 readTime: "11 min read"
 published: true
+pillar: "technology"
 season: 2
 sponsors:
   - name: "Smart Business Automator"

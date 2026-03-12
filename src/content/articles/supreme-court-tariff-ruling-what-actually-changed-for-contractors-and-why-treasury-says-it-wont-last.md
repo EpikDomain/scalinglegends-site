@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 audioUrl: "https://content.rss.com/episodes/332597/2610203/scalinglegends/2026_03_08_16_45_15_33fe582b-2247-4d83-adc5-47c3ee8cb5df.mp3"
 readTime: "10 min read"
 published: true
+pillar: "policy"
 season: 2
 sponsors:
   - name: "Smart Business Automator"

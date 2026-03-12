@@ -5,6 +5,7 @@ date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-to-scale-a-family-construction-business-without-losing-i-1772747187.png"
 readTime: "11 min read"
 published: true
+pillar: "business-growth"
 season: 2
 sponsors:
   - name: "Smart Business Automator"

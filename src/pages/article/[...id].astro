@@ -12,13 +12,25 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
-const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode, season, howTo } = article.data;
+const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode, season, howTo, pillar } = article.data;
 
-// Get related articles for sidebar (same keywords or recent)
+const PILLAR_NAMES: Record<string, string> = {
+  'market-intelligence': 'Market Intelligence',
+  'business-growth': 'Business Growth',
+  'technology': 'Technology',
+  'workforce': 'Workforce & Safety',
+  'policy': 'Policy & Regulation',
+};
+
+// Get related articles for sidebar (same pillar first, then recent)
 const allArticles = await getCollection('articles', ({ data }) => data.published !== false);
 const sorted = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 
-// Sidebar: recent episodes (up to 6) + recent articles (up to 4), excluding current
+// Sidebar: same-pillar articles first, then recent episodes + articles
+const samePillarArticles = pillar
+  ? sorted.filter(a => a.id !== article.id && a.data.pillar === pillar).slice(0, 4)
+  : [];
+
 const sidebarEpisodes = sorted
   .filter(a => a.id !== article.id && a.data.audioUrl)
   .slice(0, 6);
@@ -27,12 +39,14 @@ const sidebarArticles = sorted
   .filter(a => a.id !== article.id && !a.data.audioUrl)
   .slice(0, 4);
 
-// Build breadcrumbs
+// Build breadcrumbs with pillar
 const breadcrumbs = [
   { name: "Home", url: "https://scalinglegends.com/" },
-  ...(audioUrl
-    ? [{ name: "Podcast", url: "https://scalinglegends.com/podcast" }]
-    : [{ name: "Articles", url: "https://scalinglegends.com/" }]
+  ...(pillar
+    ? [{ name: PILLAR_NAMES[pillar] || pillar, url: `https://scalinglegends.com/pillar/${pillar}` }]
+    : audioUrl
+      ? [{ name: "Podcast", url: "https://scalinglegends.com/podcast" }]
+      : [{ name: "Articles", url: "https://scalinglegends.com/" }]
   ),
   { name: title, url: `https://scalinglegends.com/article/${article.id}` },
 ];
@@ -128,7 +142,9 @@ for (const match of boldTermMatches) {
       <nav aria-label="Breadcrumb" class="mb-8 flex items-center gap-2 text-sm">
         <a href="/" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Home</a>
         <span class="text-[#444444]">/</span>
-        {audioUrl ? (
+        {pillar ? (
+          <a href={`/pillar/${pillar}`} class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">{PILLAR_NAMES[pillar]}</a>
+        ) : audioUrl ? (
           <a href="/podcast" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Podcast</a>
         ) : (
           <a href="/" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Articles</a>

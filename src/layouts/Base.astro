@@ -313,22 +313,51 @@ const structuredDataGraph = {
         <img src="/scaling-legends-cover-96.webp" alt="Scaling Legends" class="h-12 w-auto rounded-lg transition-transform duration-300 hover:scale-105" width="48" height="48" />
         <span class="text-xl font-bold tracking-tight uppercase leading-none">SCALING LEGENDS<span class="inline-block relative w-1.5 h-1.5 ml-2" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span></span>
       </a>
-      <nav class="flex items-center gap-3">
+      <nav class="flex items-center gap-1.5">
         <a
           href="/"
           class:list={[
-            "px-5 py-2 rounded-lg font-semibold text-sm transition-all duration-300 no-underline",
-            currentPath === '/' || currentPath.startsWith('/article/') ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
+            "px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 no-underline",
+            currentPath === '/' ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
           ]}
         >Articles</a>
         <a
           href="/podcast"
           class:list={[
-            "px-5 py-2 rounded-lg font-semibold text-sm transition-all duration-300 no-underline",
-            currentPath === '/podcast' || currentPath.startsWith('/episode/') ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
+            "px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 no-underline",
+            currentPath === '/podcast' ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
           ]}
         >Podcast</a>
-        <a href="#subscribe" class="ml-4 px-6 py-2.5 bg-[#CCFF00] text-[#0D0D0D] rounded-lg font-semibold text-sm hover:bg-[#E0FF4D] transition-all duration-300 hover:shadow-[0_0_20px_rgba(204,255,0,0.3)] no-underline">Subscribe</a>
+        <!-- Pillar dropdown -->
+        <div class="relative group/pillars">
+          <button
+            class:list={[
+              "px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 flex items-center gap-1.5 cursor-pointer",
+              currentPath.startsWith('/pillar/') ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
+            ]}
+          >
+            Topics
+            <svg width="10" height="10" viewBox="0 0 16 16" fill="none" class="transition-transform group-hover/pillars:rotate-180"><path d="M4 6L8 10L12 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <div class="absolute top-full right-0 mt-2 w-56 bg-[#161616] border border-[#2A2A2A] rounded-xl shadow-2xl opacity-0 invisible group-hover/pillars:opacity-100 group-hover/pillars:visible transition-all duration-200 z-50 overflow-hidden">
+            <a href="/pillar/market-intelligence" class="flex items-center gap-3 px-5 py-3 text-[#EAEAEA] hover:bg-[#1A1A1A] hover:text-[#CCFF00] transition-colors no-underline text-sm font-medium">
+              <span>📊</span> Market Intelligence
+            </a>
+            <a href="/pillar/business-growth" class="flex items-center gap-3 px-5 py-3 text-[#EAEAEA] hover:bg-[#1A1A1A] hover:text-[#CCFF00] transition-colors no-underline text-sm font-medium">
+              <span>📈</span> Business Growth
+            </a>
+            <a href="/pillar/technology" class="flex items-center gap-3 px-5 py-3 text-[#EAEAEA] hover:bg-[#1A1A1A] hover:text-[#CCFF00] transition-colors no-underline text-sm font-medium">
+              <span>⚡</span> Technology
+            </a>
+            <a href="/pillar/workforce" class="flex items-center gap-3 px-5 py-3 text-[#EAEAEA] hover:bg-[#1A1A1A] hover:text-[#CCFF00] transition-colors no-underline text-sm font-medium">
+              <span>🦺</span> Workforce & Safety
+            </a>
+            <a href="/pillar/policy" class="flex items-center gap-3 px-5 py-3 text-[#EAEAEA] hover:bg-[#1A1A1A] hover:text-[#CCFF00] transition-colors no-underline text-sm font-medium">
+              <span>⚖️</span> Policy & Regulation
+            </a>
+          </div>
+        </div>
+        <a href="#subscribe" class="ml-3 px-6 py-2.5 bg-[#CCFF00] text-[#0D0D0D] rounded-lg font-semibold text-sm hover:bg-[#E0FF4D] transition-all duration-300 hover:shadow-[0_0_20px_rgba(204,255,0,0.3)] no-underline">Subscribe</a>
       </nav>
     </div>
   </header>

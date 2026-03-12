@@ -6,6 +6,7 @@ image: "/scaling-legends-cover.jpg"
 audioUrl: "https://content.rss.com/episodes/332597/2622758/scalinglegends/2026_03_12_13_57_37_396b49df-4dd5-4903-aaa9-12758143117d.mp3"
 readTime: "31 min read"
 published: true
+pillar: "market-intelligence"
 season: 2
 sponsors:
   - name: "Smart Business Automator"

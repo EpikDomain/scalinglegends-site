@@ -5,6 +5,7 @@ date: "2026-03-12"
 image: "/scaling-legends-cover.jpg"
 readTime: "12 min read"
 published: true
+pillar: "technology"
 season: 2
 episode: 50
 audioUrl: "https://content.rss.com/episodes/332597/2622888/scalinglegends/2026_03_12_14_55_15_efcbca5f-fb2a-4903-8f84-5520af468895.mp3"

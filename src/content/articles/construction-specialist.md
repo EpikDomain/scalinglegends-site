@@ -7,6 +7,7 @@ imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/publi
 audioUrl: "https://content.rss.com/episodes/332597/2086382/scalinglegends/2025_06_24_01_23_30_73458880-a8ab-4148-ae87-9bf1c1d22729.mp3"
 readTime: "12 min read"
 published: true
+pillar: "business-growth"
 season: 1
 episode: 3
 sponsors:

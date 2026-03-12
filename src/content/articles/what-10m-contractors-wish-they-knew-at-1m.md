@@ -5,6 +5,7 @@ date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
 readTime: "10 min read"
 published: true
+pillar: "business-growth"
 season: 2
 sponsors:
   - name: "Smart Business Automator"

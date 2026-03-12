@@ -5,6 +5,7 @@ date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/top-tech-mistakes-scaling-construction-ceos-regret-1772746782.png"
 readTime: "8 min read"
 published: true
+pillar: "technology"
 season: 2
 sponsors:
   - name: "Smart Business Automator"

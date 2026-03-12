@@ -28,6 +28,7 @@ const articles = defineCollection({
       description: z.string().optional(),
     })).optional(),
     transcript: z.string().optional(),
+    pillar: z.enum(['market-intelligence', 'business-growth', 'technology', 'workforce', 'policy']).optional(),
     howTo: z.array(z.object({
       name: z.string(),
       text: z.string(),

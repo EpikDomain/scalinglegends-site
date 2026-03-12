@@ -5,6 +5,7 @@ date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
 readTime: "8 min read"
 published: true
+pillar: "technology"
 season: 2
 sponsors:
   - name: "Smart Business Automator"

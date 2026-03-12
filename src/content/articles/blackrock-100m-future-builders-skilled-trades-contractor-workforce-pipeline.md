@@ -5,6 +5,7 @@ date: "2026-03-12"
 image: "/scaling-legends-cover.jpg"
 readTime: "11 min read"
 published: true
+pillar: "workforce"
 season: 2
 episode: 51
 audioUrl: "https://content.rss.com/episodes/332597/2622887/scalinglegends/2026_03_12_14_55_11_ba756f9d-52e0-41b0-9ee1-ec8df30944f2.mp3"

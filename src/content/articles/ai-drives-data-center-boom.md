@@ -7,6 +7,7 @@ imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/publi
 audioUrl: "https://content.rss.com/episodes/332597/2470708/scalinglegends/2026_01_19_22_24_06_40e919e2-f4e9-4846-bf3d-3424b1779fdf.mp3"
 readTime: "12 min read"
 published: true
+pillar: "technology"
 season: 1
 episode: 8
 sponsors:

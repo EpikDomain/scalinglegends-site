@@ -7,6 +7,7 @@ imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/publi
 audioUrl: "https://content.rss.com/episodes/332597/2138668/scalinglegends/2025_07_27_00_56_41_862ead88-6da8-4e29-b584-80aea3396f72.mp3"
 readTime: "12 min read"
 published: true
+pillar: "workforce"
 season: 1
 episode: 5
 sponsors:

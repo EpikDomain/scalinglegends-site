@@ -5,6 +5,7 @@ date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/women-in-construction-breaking-through-the-barriers-that-sti-1772747233.png"
 readTime: "8 min read"
 published: true
+pillar: "workforce"
 season: 2
 sponsors:
   - name: "Smart Business Automator"
