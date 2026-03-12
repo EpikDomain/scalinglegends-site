@@ -133,16 +133,40 @@ Technology plays a crucial role in this. Platforms like Smart Business Automator
 
 - **Industry Networking:** Engage with industry associations, peer groups, and consultants to share insights and best practices for navigating market volatility.
 
+## How to Protect Your Construction Business From This Week's Market Shocks
+
+- **Audit every open bid for material cost exposure.** Pull your active proposals and re-price steel at $1,000/ton and diesel at $4.60/gallon. Flag any project where updated costs push margins below 8%.
+
+- **Add escalation clauses to every new contract this week.** Use CPI or PPI-linked escalation language that ties material costs to published indices. No fixed-price bids without protection until oil stabilizes.
+
+- **Lock in fuel prices with your supplier for 90 days.** Call your diesel supplier today and negotiate a fixed-rate contract. Even a 5% premium over spot is worth the predictability on a $2M project.
+
+- **Run E-Verify compliance check before March 19.** Audit your I-9 files, register for E-Verify if you haven't, and train your hiring managers on the new enforcement procedures taking effect this week.
+
+- **Diversify your pipeline away from federal contracts.** With $41.5B in DOGE cuts hitting, shift prospecting effort to state DOT projects, private data center builds, and municipal infrastructure where funding is still flowing.
+
+- **Set up a weekly commodity price alert system.** Use Smart Business Automator or a similar platform to get automated alerts when steel, oil, or lumber prices move more than 3% in a week so you can re-price before margin erosion hits.
+
 ## Frequently Asked Questions
 
-How will the Iran war specifically impact construction project timelines?The primary impact will be indirect, through increased oil prices affecting transportation costs for materials and equipment, leading to potential delays in delivery. Furthermore, any broader economic instability or supply chain disruptions stemming from the conflict could slow down the production of key materials or components, extending project timelines. Contractors should build in more buffer time and consider local sourcing where possible.
+### How will the Iran war specifically impact construction project timelines?
 
-What are the best strategies for contractors to mitigate rising steel prices in 2026?To mitigate rising steel prices in 2026, contractors should consider implementing escalation clauses in contracts, exploring bulk purchasing or forward contracts with suppliers, diversifying their supplier base to reduce reliance on single sources, and engaging in value engineering to identify alternative materials or structural designs that use less steel or different types of steel. Proactive procurement and strong supplier relationships will be key.
+The primary impact will be indirect, through increased oil prices affecting transportation costs for materials and equipment, leading to potential delays in delivery. Furthermore, any broader economic instability or supply chain disruptions stemming from the conflict could slow down the production of key materials or components, extending project timelines. Contractors should build in more buffer time and consider local sourcing where possible.
 
-How can a construction business prepare for the new 15% global tariffs starting this week?Preparation involves an urgent audit of your supply chain to identify all imported materials, equipment, and components. Quantify your exposure to the 15% tariff and seek alternative domestic suppliers where feasible. Negotiate with existing international suppliers for shared tariff costs or explore duty drawback programs. Adjust your bidding strategies to account for these increased costs and communicate proactively with clients about potential price adjustments due to "construction tariffs 2026".
+### What are the best strategies for contractors to mitigate rising steel prices in 2026?
 
-What are the immediate steps to ensure E-Verify compliance by March 19?Immediate steps include reviewing and updating your I-9 verification process, training all HR and hiring managers on E-Verify procedures, ensuring proper documentation and record-keeping, and potentially consulting with legal counsel specializing in immigration and employment law. If not already using E-Verify, register your business and integrate the system into your onboarding workflow as quickly as possible.
+To mitigate rising steel prices in 2026, contractors should consider implementing escalation clauses in contracts, exploring bulk purchasing or forward contracts with suppliers, diversifying their supplier base to reduce reliance on single sources, and engaging in value engineering to identify alternative materials or structural designs that use less steel or different types of steel. Proactive procurement and strong supplier relationships will be key.
 
-How can contractors diversify their business after the $41.5 billion federal contract cancellations?Diversification strategies include actively pursuing private sector projects (commercial, residential, industrial), expanding into state and local government contracts, exploring new geographic markets, and specializing in emerging construction niches like sustainable building or smart infrastructure. It's crucial to update marketing and business development efforts to target these new client segments and leverage tools like Smart Business Automator for efficient bidding on diverse projects.
+### How can a construction business prepare for the new 15% global tariffs starting this week?
+
+Preparation involves an urgent audit of your supply chain to identify all imported materials, equipment, and components. Quantify your exposure to the 15% tariff and seek alternative domestic suppliers where feasible. Negotiate with existing international suppliers for shared tariff costs or explore duty drawback programs. Adjust your bidding strategies to account for these increased costs and communicate proactively with clients about potential price adjustments due to "construction tariffs 2026".
+
+### What are the immediate steps to ensure E-Verify compliance by March 19?
+
+Immediate steps include reviewing and updating your I-9 verification process, training all HR and hiring managers on E-Verify procedures, ensuring proper documentation and record-keeping, and potentially consulting with legal counsel specializing in immigration and employment law. If not already using E-Verify, register your business and integrate the system into your onboarding workflow as quickly as possible.
+
+### How can contractors diversify their business after the $41.5 billion federal contract cancellations?
+
+Diversification strategies include actively pursuing private sector projects (commercial, residential, industrial), expanding into state and local government contracts, exploring new geographic markets, and specializing in emerging construction niches like sustainable building or smart infrastructure. It's crucial to update marketing and business development efforts to target these new client segments and leverage tools like Smart Business Automator for efficient bidding on diverse projects.
 
 Subscribe to Scaling Legends wherever you listen to podcasts. Like, share, and leave a review to help other contractors find us.
