@@ -84,6 +84,27 @@ if (howToSteps.length === 0) {
 // Extract YouTube video ID from content for VideoObject schema
 const youtubeMatch = rawBody.match(/youtube\.com\/embed\/([a-zA-Z0-9_-]+)/);
 const youtubeVideoId = youtubeMatch ? youtubeMatch[1] : null;
+
+// Extract DefinedTerm candidates from bold terms in the article
+// Looks for **term** patterns that are industry-specific concepts
+const definedTerms: { term: string; definition: string }[] = [];
+const boldTermMatches = rawBody.matchAll(/\*\*([A-Z][^*]{3,50})\*\*/g);
+const seenTerms = new Set<string>();
+const industryPatterns = /escalation clause|tariff|OSHA|E-Verify|BIM|IIJA|DOGE|autonomous|K-shaped|cash flow|profit margin|change order|prevailing wage|bonding|surety|lien|retainage|safety|compliance|subcontract|GC|bid|estimate|takeoff|punch list|RFI|submittals|closeout|mobilization/i;
+for (const match of boldTermMatches) {
+  const term = match[1].trim().replace(/\.$/, '');
+  if (term.length > 5 && term.length < 50 && !seenTerms.has(term.toLowerCase()) && industryPatterns.test(term)) {
+    seenTerms.add(term.toLowerCase());
+    // Use surrounding text as definition (next ~80 chars after the bold)
+    const pos = rawBody.indexOf(match[0], match.index);
+    const afterBold = rawBody.substring(pos + match[0].length, pos + match[0].length + 200);
+    const defMatch = afterBold.match(/^\s*[-:.]?\s*(.{20,150}?)(?:\.|$)/);
+    if (defMatch) {
+      definedTerms.push({ term, definition: defMatch[1].trim().replace(/\*\*/g, '').replace(/\[.*?\]\(.*?\)/g, '') });
+    }
+    if (definedTerms.length >= 5) break; // Cap at 5 per article
+  }
+}
 ---
 
 <Base
@@ -99,6 +120,7 @@ const youtubeVideoId = youtubeMatch ? youtubeMatch[1] : null;
   episodeData={episodeData}
   videoId={youtubeVideoId}
   howToSteps={howToSteps}
+  definedTerms={definedTerms}
 >
   <article class="py-12 px-4 sm:px-8 min-h-screen bg-[#0D0D0D]">
     <div class="max-w-[1600px] mx-auto">
@@ -210,9 +232,9 @@ const youtubeVideoId = youtubeMatch ? youtubeMatch[1] : null;
             </div>
           )}
 
-          <!-- Episode Description -->
-          {audioUrl && description && (
-            <div class="mb-8">
+          <!-- Article Description (Speakable target for AI voice assistants) -->
+          {description && (
+            <div class="mb-8 article-description">
               <p
                 class="text-[#CCCCCC] leading-relaxed"
                 style="font-size: 1.0625rem; line-height: 1.8;"
@@ -594,10 +616,34 @@ const youtubeVideoId = youtubeMatch ? youtubeMatch[1] : null;
       });
     }
 
+    // Mark Key Takeaways sections for Speakable schema targeting
+    function initSpeakableTargets() {
+      const content = document.querySelector('.article-content');
+      if (!content) return;
+      const headings = content.querySelectorAll('h2');
+      headings.forEach((h2) => {
+        const text = h2.textContent?.toLowerCase() || '';
+        if (text.includes('key takeaway') || text.includes('takeaways') || text.includes('key insight') || text.includes('key points')) {
+          // Wrap the heading and its following content in a key-takeaways div
+          const wrapper = document.createElement('div');
+          wrapper.className = 'key-takeaways';
+          h2.parentNode?.insertBefore(wrapper, h2);
+          wrapper.appendChild(h2);
+          let sibling = wrapper.nextElementSibling;
+          while (sibling && sibling.tagName !== 'H2') {
+            const next = sibling.nextElementSibling;
+            wrapper.appendChild(sibling);
+            sibling = next;
+          }
+        }
+      });
+    }
+
     if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', initFAQAccordions);
+      document.addEventListener('DOMContentLoaded', () => { initFAQAccordions(); initSpeakableTargets(); });
     } else {
       initFAQAccordions();
+      initSpeakableTargets();
     }
   </script>
 </Base>

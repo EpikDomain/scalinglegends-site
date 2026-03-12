@@ -18,6 +18,7 @@ interface Props {
   };
   videoId?: string;
   howToSteps?: { name: string; text: string }[];
+  definedTerms?: { term: string; definition: string }[];
 }
 
 const {
@@ -33,6 +34,7 @@ const {
   episodeData,
   videoId,
   howToSteps = [],
+  definedTerms = [],
 } = Astro.props;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
@@ -45,69 +47,119 @@ const fullTitle = title === siteName ? title : `${truncatedTitle}${suffix}`;
 
 const currentPath = Astro.url.pathname;
 
-// Build structured data array (multiple schemas per page)
-const structuredData: object[] = [];
+// ── Connected @graph schema for AI citation ──────────────────────────
+// Single @graph gives AI crawlers (ChatGPT, Perplexity, Google AI Overview)
+// a complete knowledge graph to index, rather than disconnected flat blocks.
 
-// Organization schema (every page)
-const orgSchema = {
+// Organization entity (referenced by @id throughout the graph)
+const orgSchema: Record<string, unknown> = {
   "@type": "Organization",
+  "@id": "https://scalinglegends.com/#organization",
   "name": "Scaling Legends",
   "url": "https://scalinglegends.com",
   "logo": { "@type": "ImageObject", "url": "https://scalinglegends.com/scaling-legends-cover.jpg" },
+  "description": "Data-driven podcast and market intelligence platform for construction contractors scaling from $1M to $50M.",
+  "foundingDate": "2024",
   "sameAs": [
+    "https://www.youtube.com/@ScalingLegends",
     "https://podcasts.apple.com/us/podcast/scaling-legends/id1234567890",
     "https://open.spotify.com/show/scalinglegends",
-    "https://rss.com/podcasts/scalinglegends/"
+    "https://rss.com/podcasts/scalinglegends/",
+    "https://smartbusinessautomator.com"
+  ],
+  "knowsAbout": [
+    "construction business scaling",
+    "contractor growth strategies",
+    "construction market intelligence",
+    "construction technology",
+    "construction workforce management",
+    "construction cost management",
+    "OSHA compliance",
+    "construction SEO",
+    "federal construction contracts",
+    "construction equipment automation"
   ]
 };
 
+// PodcastSeries entity (referenced by episodes)
+const podcastSeriesSchema = {
+  "@type": "PodcastSeries",
+  "@id": "https://scalinglegends.com/#podcast",
+  "name": "Scaling Legends",
+  "url": "https://scalinglegends.com/podcast",
+  "description": "Construction industry growth stories and market intelligence for contractors.",
+  "publisher": { "@id": "https://scalinglegends.com/#organization" },
+  "webFeed": "https://media.rss.com/scalinglegends/feed.xml"
+};
+
+// WebPage entity for this page
+const webPageSchema: Record<string, unknown> = {
+  "@type": "WebPage",
+  "@id": canonicalUrl,
+  "url": canonicalUrl,
+  "name": title,
+  "isPartOf": { "@id": "https://scalinglegends.com/#website" }
+};
+
+// Build the @graph array
+const graph: Record<string, unknown>[] = [orgSchema];
+
 if (article) {
-  // Article schema
-  structuredData.push({
-    "@context": "https://schema.org",
+  // Speakable: marks description + key takeaways for AI voice assistants
+  // CSS selectors target the description meta and the first summary section
+  const speakableSpec = {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".article-description", ".key-takeaways", ".faq-section"]
+  };
+
+  // Article entity
+  const articleSchema: Record<string, unknown> = {
     "@type": "Article",
+    "@id": `${canonicalUrl}#article`,
     "headline": title,
     "description": description,
     "image": image,
     "datePublished": datePublished,
     "dateModified": datePublished,
-    "author": orgSchema,
-    "publisher": orgSchema,
-    "mainEntityOfPage": { "@type": "WebPage", "@id": canonicalUrl },
+    "author": { "@id": "https://scalinglegends.com/#organization" },
+    "publisher": { "@id": "https://scalinglegends.com/#organization" },
+    "mainEntityOfPage": { "@id": canonicalUrl },
+    "isPartOf": { "@id": canonicalUrl },
+    "speakable": speakableSpec,
+    "inLanguage": "en-US",
     ...(audioUrl ? { "associatedMedia": { "@type": "AudioObject", "contentUrl": audioUrl } } : {}),
     ...(keywords.length > 0 ? { "keywords": keywords.join(", ") } : {}),
-  });
+  };
+  graph.push(articleSchema);
 
-  // PodcastEpisode schema (if it has audio)
+  // PodcastEpisode entity (linked to series via @id)
   if (audioUrl) {
-    structuredData.push({
-      "@context": "https://schema.org",
+    const episodeSchema: Record<string, unknown> = {
       "@type": "PodcastEpisode",
+      "@id": `${canonicalUrl}#episode`,
       "name": title,
       "description": description,
       "url": canonicalUrl,
       "datePublished": datePublished,
       ...(episodeData?.episodeNumber ? { "episodeNumber": episodeData.episodeNumber } : {}),
       ...(episodeData?.seasonNumber ? { "partOfSeason": { "@type": "PodcastSeason", "seasonNumber": episodeData.seasonNumber } } : {}),
-      "partOfSeries": {
-        "@type": "PodcastSeries",
-        "name": "Scaling Legends",
-        "url": "https://scalinglegends.com/podcast"
-      },
+      "partOfSeries": { "@id": "https://scalinglegends.com/#podcast" },
       "associatedMedia": {
         "@type": "AudioObject",
         "contentUrl": audioUrl,
         ...(episodeData?.duration ? { "duration": episodeData.duration } : {}),
       },
       "image": image,
-    });
+    };
+    graph.push(podcastSeriesSchema);
+    graph.push(episodeSchema);
   }
 
-  // FAQ schema
+  // FAQPage entity
   if (faqItems.length > 0) {
-    structuredData.push({
-      "@context": "https://schema.org",
+    graph.push({
       "@type": "FAQPage",
+      "@id": `${canonicalUrl}#faq`,
       "mainEntity": faqItems.map(faq => ({
         "@type": "Question",
         "name": faq.question,
@@ -116,14 +168,16 @@ if (article) {
           "text": faq.answer,
         }
       })),
+      "isPartOf": { "@id": `${canonicalUrl}#article` },
     });
   }
-  // HowTo schema (if steps provided)
+
+  // HowTo entity
   if (howToSteps.length > 0) {
-    structuredData.push({
-      "@context": "https://schema.org",
+    graph.push({
       "@type": "HowTo",
-      "name": title,
+      "@id": `${canonicalUrl}#howto`,
+      "name": `How to ${howToSteps[0]?.name ? title.replace(/^.*?How [Tt]o\s*/i, '') : title}`,
       "description": description,
       "step": howToSteps.map((step, i) => ({
         "@type": "HowToStep",
@@ -131,45 +185,72 @@ if (article) {
         "name": step.name,
         "text": step.text,
       })),
+      "isPartOf": { "@id": `${canonicalUrl}#article` },
     });
   }
 
-  // VideoObject schema (if YouTube embed detected)
+  // VideoObject entity (linked to publisher via @id)
   if (videoId) {
-    structuredData.push({
-      "@context": "https://schema.org",
+    graph.push({
       "@type": "VideoObject",
+      "@id": `${canonicalUrl}#video`,
       "name": title,
       "description": description,
       "thumbnailUrl": `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
       "uploadDate": datePublished,
       "contentUrl": `https://www.youtube.com/watch?v=${videoId}`,
       "embedUrl": `https://www.youtube.com/embed/${videoId}`,
-      "publisher": orgSchema,
+      "publisher": { "@id": "https://scalinglegends.com/#organization" },
+      "isPartOf": { "@id": `${canonicalUrl}#article` },
     });
   }
+
+  // DefinedTerm entities -- establishes semantic authority for industry terms
+  // AI models resolve these concepts directly to this content when citing
+  if (definedTerms.length > 0) {
+    for (const dt of definedTerms) {
+      graph.push({
+        "@type": "DefinedTerm",
+        "name": dt.term,
+        "description": dt.definition,
+        "inDefinedTermSet": {
+          "@type": "DefinedTermSet",
+          "name": "Construction Industry Glossary",
+          "url": "https://scalinglegends.com"
+        }
+      });
+    }
+  }
+
+  // WebPage for this article
+  webPageSchema["speakable"] = speakableSpec;
+  graph.push(webPageSchema);
+
 } else {
-  // Website schema for non-article pages
-  structuredData.push({
-    "@context": "https://schema.org",
+  // WebSite entity for non-article pages
+  graph.push({
     "@type": "WebSite",
+    "@id": "https://scalinglegends.com/#website",
     "name": "Scaling Legends",
     "url": "https://scalinglegends.com",
     "description": "Construction Industry Growth Stories - Data-driven podcast and market intelligence for contractors scaling from $1M to $50M.",
-    "publisher": orgSchema,
+    "publisher": { "@id": "https://scalinglegends.com/#organization" },
     "potentialAction": {
       "@type": "SearchAction",
       "target": "https://scalinglegends.com/?q={search_term_string}",
       "query-input": "required name=search_term_string"
-    }
+    },
+    "inLanguage": "en-US"
   });
+  graph.push(podcastSeriesSchema);
+  graph.push(webPageSchema);
 }
 
-// Breadcrumb schema (all pages with breadcrumbs)
+// BreadcrumbList entity
 if (breadcrumbs.length > 0) {
-  structuredData.push({
-    "@context": "https://schema.org",
+  graph.push({
     "@type": "BreadcrumbList",
+    "@id": `${canonicalUrl}#breadcrumb`,
     "itemListElement": breadcrumbs.map((crumb, i) => ({
       "@type": "ListItem",
       "position": i + 1,
@@ -178,6 +259,12 @@ if (breadcrumbs.length > 0) {
     })),
   });
 }
+
+// Single connected @graph output (AI crawlers get full entity graph in one block)
+const structuredDataGraph = {
+  "@context": "https://schema.org",
+  "@graph": graph
+};
 ---
 
 <!DOCTYPE html>
@@ -215,9 +302,7 @@ if (breadcrumbs.length > 0) {
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-  {structuredData.map(schema => (
-    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
-  ))}
+  <script type="application/ld+json" set:html={JSON.stringify(structuredDataGraph)} />
 </head>
 <body class="bg-[#0D0D0D] text-[#EAEAEA] font-sans">
 
