@@ -203,6 +203,18 @@ async function main() {
     fm.push(`published: true`);
     fm.push(`season: 2`);
 
+    // SEO keywords from Supabase (stored as JSON string or array)
+    let keywords = a.keywords;
+    if (typeof keywords === 'string') {
+      try { keywords = JSON.parse(keywords); } catch {}
+    }
+    if (Array.isArray(keywords) && keywords.length > 0) {
+      fm.push('keywords:');
+      for (const kw of keywords.slice(0, 5)) {
+        fm.push(`  - "${kw}"`);
+      }
+    }
+
     fm.push('sponsors:');
     fm.push('  - name: "Smart Business Automator"');
     fm.push('    url: "https://smartbusinessautomator.com"');
