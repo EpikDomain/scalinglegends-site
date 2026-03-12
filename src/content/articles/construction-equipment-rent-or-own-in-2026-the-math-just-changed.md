@@ -15,7 +15,7 @@ sponsors:
 
 The US equipment rental market is about to cross $50 billion. Tariffs just made buying 8% more expensive. CONEXPO showed telematics that make renting smarter than ever. And most contractors are still making equipment decisions on gut feeling. Today we run the actual numbers.
 
-  
+<iframe src="https://www.youtube.com/embed/KzsQ_89TK4c" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

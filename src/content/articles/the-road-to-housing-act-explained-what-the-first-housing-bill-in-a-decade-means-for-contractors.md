@@ -15,7 +15,7 @@ sponsors:
 
 When was the last time Republicans and Democrats agreed on ANYTHING eighty-four to six? That just happened. The Senate just voted with overwhelming bipartisan support to advance the 21st Century ROAD to Housing Act, the first comprehensive housing bill in over a decade. This isn't just political news; it's about to reshape residential construction in America, opening up unprecedented opportunities for contractors scaling their businesses from $1M to $50M. The time to understand this legislation and [position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) for growth is now.
 
-  
+<iframe src="https://www.youtube.com/embed/LpfrYzV65LA" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

@@ -15,7 +15,7 @@ sponsors:
 
 An HVAC tech posted on Reddit this week. He got sent to a flooded crawl space. No material list. No plans. No idea what unit was even there. A hundred and eighty people upvoted it because every single one of them had the same story. Your estimator is costing you more money than your worst employee. This sales-to-field gap isn't just frustrating; it's a silent killer of your margins, eroding profitability by thousands each month through wasted time, materials, and reputation.
 
-  
+<iframe src="https://www.youtube.com/embed/BOFRsXAU_oc" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

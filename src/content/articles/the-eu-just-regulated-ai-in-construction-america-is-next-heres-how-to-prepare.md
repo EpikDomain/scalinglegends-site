@@ -15,7 +15,7 @@ sponsors:
 
 In five months, the European Union is going to regulate AI in construction. You might think that doesn't affect you. You'd be wrong. Just like GDPR changed how every American company handles data, the EU AI Act is about to change how every contractor uses technology. On August 2, 2026, the EU AI Act becomes enforceable – a mere five months from now – and its reach extends far beyond European borders, directly impacting how you operate if your projects, supply chains, or even software vendors touch Europe. This isn't a distant problem; it's a looming operational shift that demands immediate attention.
 
-  
+<iframe src="https://www.youtube.com/embed/4_9Xtfm0EKs" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

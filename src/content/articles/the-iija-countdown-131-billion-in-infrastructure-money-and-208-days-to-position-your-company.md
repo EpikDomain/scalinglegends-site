@@ -15,7 +15,7 @@ sponsors:
 
 Two hundred and eight days. That is how long before the largest infrastructure spending bill in American history expires. The Associated General Contractors of America (AGC) just spent two million dollars on a campaign to warn Congress. The Highway Trust Fund is facing a hundred-and-fifty-billion-dollar shortfall. And most mid-size contractors have zero strategy for capturing their share of the money still flowing. Today I am giving you the 90-day action plan to position your company before September 30th.
 
-  
+<iframe src="https://www.youtube.com/embed/0BfnQklf_LM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

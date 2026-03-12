@@ -15,7 +15,7 @@ sponsors:
 
 Diesel just hit four sixty a gallon. Steel is up twenty percent. And the Senate just passed the [first housing bill](/article/the-road-to-housing-act-explained-what-the-first-housing-bill-in-a-decade-means-for-contractors) in a decade. If you run a [construction company](/article/surviving-the-messy-middle-of-construction-growth), the next fifteen minutes could save you real money.
 
-  
+<iframe src="https://www.youtube.com/embed/LHFOr3r7V_w" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

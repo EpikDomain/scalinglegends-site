@@ -116,8 +116,25 @@ function htmlToMarkdown(html) {
   md = md.replace(/<br\s*\/?>/gi, '\n');
   // Blockquotes
   md = md.replace(/<blockquote[^>]*>(.*?)<\/blockquote>/gi, '> $1\n\n');
+  // Preserve YouTube embeds as raw HTML before stripping tags
+  const ytEmbeds = [];
+  md = md.replace(/<div[^>]*>[\s\S]*?<iframe[^>]*src="https:\/\/www\.youtube\.com\/embed\/([^"]+)"[^>]*>[\s\S]*?<\/iframe>[\s\S]*?<\/div>/gi, (match, videoId) => {
+    const placeholder = `%%YTEMBED_${ytEmbeds.length}%%`;
+    ytEmbeds.push(`<iframe src="https://www.youtube.com/embed/${videoId}" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>`);
+    return placeholder;
+  });
+  // Also catch standalone iframes
+  md = md.replace(/<iframe[^>]*src="https:\/\/www\.youtube\.com\/embed\/([^"]+)"[^>]*><\/iframe>/gi, (match, videoId) => {
+    const placeholder = `%%YTEMBED_${ytEmbeds.length}%%`;
+    ytEmbeds.push(`<iframe src="https://www.youtube.com/embed/${videoId}" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>`);
+    return placeholder;
+  });
   // Remove remaining HTML tags
   md = md.replace(/<[^>]+>/g, '');
+  // Restore YouTube embeds
+  for (let i = 0; i < ytEmbeds.length; i++) {
+    md = md.replace(`%%YTEMBED_${i}%%`, `\n\n${ytEmbeds[i]}\n\n`);
+  }
   // Decode HTML entities
   md = md.replace(/&amp;/g, '&');
   md = md.replace(/&lt;/g, '<');

@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-  
+<iframe src="https://www.youtube.com/embed/MYct2pliwLA" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Contractor SEO in 2026: How AI Search Is Killing Your Lead Pipeline
 

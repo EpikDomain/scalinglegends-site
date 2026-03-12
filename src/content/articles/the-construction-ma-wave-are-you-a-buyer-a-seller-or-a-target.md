@@ -15,7 +15,7 @@ sponsors:
 
 PwC and Capstone Partners both say the same thing: construction M&A is surging in 2026. Data center targets are generating outsized acquisition interest. Tariffs and labor shortages are accelerating consolidation. The question for every mid-size contractor: are you a buyer, a seller, or a target? The industry is undergoing a rapid transformation, with deal activity expected to remain robust and accelerating through 2026, driven by a confluence of economic pressures and strategic imperatives.
 
-  
+<iframe src="https://www.youtube.com/embed/8PPEgF9hFCk" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

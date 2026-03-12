@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-  
+<iframe src="https://www.youtube.com/embed/crE7vrbXx0I" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## 60% of Gen Z Plans to Go Into Trades in 2026. Construction Is Their Number One Pick.
 

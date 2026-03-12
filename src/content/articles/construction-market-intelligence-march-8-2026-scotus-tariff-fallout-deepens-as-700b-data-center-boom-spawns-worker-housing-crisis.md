@@ -15,7 +15,7 @@ sponsors:
 
 The Supreme Court just struck down Trump's tariffs, but Treasury says rates are going right back up. Meanwhile, Bloomberg drops a bombshell about the $700 billion data center boom creating worker housing crises in rural America. This is your daily [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) briefing, cutting through the noise to deliver actionable insights for contractors scaling from $1M to $50M. The market is shifting underfoot, demanding agility and foresight.
 
-  
+<iframe src="https://www.youtube.com/embed/5fYDaZwTWU4" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

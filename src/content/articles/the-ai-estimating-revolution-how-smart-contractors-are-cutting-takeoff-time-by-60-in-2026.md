@@ -15,7 +15,7 @@ sponsors:
 
 Your estimator spends three days on a takeoff. By the time the bid is ready, the material prices have changed and the supplier quotes have expired. Meanwhile, your competitor down the street just submitted five bids in the same week using AI tools that cut takeoff time by 60%. This is not a technology episode. This is a survival episode. The contractors who figure out AI estimating in 2026 will structurally outbid everyone who does not.
 
-  
+<iframe src="https://www.youtube.com/embed/JeFzUfwrupM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

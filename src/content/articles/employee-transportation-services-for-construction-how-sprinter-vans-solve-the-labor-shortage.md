@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-  
+<iframe src="https://www.youtube.com/embed/aDl881Ecv_k" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Construction Workers Have the Longest Commutes in America. Most Contractors Do Nothing About It.
 

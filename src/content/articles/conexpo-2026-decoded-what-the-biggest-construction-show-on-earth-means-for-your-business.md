@@ -15,7 +15,7 @@ sponsors:
 
 Two thousand exhibitors. Three million square feet. One hundred thirty thousand construction professionals. CONEXPO just wrapped in Las Vegas, and Caterpillar rolled out its first autonomous compactor while HD Hyundai showed excavators that dig themselves. Every media outlet is covering the headlines. Nobody is telling the mid-size contractor what actually matters for your business. Today we fix that -- the practical breakdown of what to buy, what to watch, and what to ignore.
 
-  
+<iframe src="https://www.youtube.com/embed/guCd0FUm1tc" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

@@ -15,7 +15,7 @@ sponsors:
 
 BREAKING: The US-Iran war just sent oil past $120/barrel before crashing to $87. Steel broke $1,000/ton. The economy lost 92,000 jobs. A new 15% global tariff starts THIS WEEK. CPI drops today. The Fed meets March 17. E-Verify expands March 19. BlackRock is hosting an infrastructure workforce summit in DC right now. And DOGE just axed $41.5 billion in federal contracts. This isn't just news; it's a direct threat to your project margins and workforce stability. The market is shifting underfoot, and inaction this week could cost your business dearly. Proactive [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) is no longer a luxury but a necessity for survival and growth.
 
-  
+<iframe src="https://www.youtube.com/embed/0S1ZMm1mJBE" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

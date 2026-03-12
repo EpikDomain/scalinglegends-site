@@ -17,7 +17,7 @@ How to Scale a [Construction Business](/article/how-to-scale-a-construction-busi
 
 The global energy market just snapped. Oil prices surged from $73 to $120 a barrel in less than 10 days, a 64% increase that's reverberating across every sector. With the Strait of Hormuz now effectively closed and 20% of global Liquefied Natural Gas (LNG) supply offline, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) faces an immediate and severe cost shock. Wells Fargo economists are clear: if crude oil holds at $130, a recession is inevitable. This isn't a distant geopolitical issue; it's a direct threat to your project profitability and your ability to scale [your construction business](/article/diesel-at-460-how-to-fuel-proof-your-construction-business). Understanding the full **oil prices construction impact** is crucial for survival and growth.
 
-  
+<iframe src="https://www.youtube.com/embed/SQ9FefBVrAk" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

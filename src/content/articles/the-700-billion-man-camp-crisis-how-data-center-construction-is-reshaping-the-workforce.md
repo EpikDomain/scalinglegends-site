@@ -15,7 +15,7 @@ sponsors:
 
 Bloomberg just dropped a bombshell. The $700 billion AI data center boom is creating sprawling temporary worker villages in rural America. Private jets to recruit electricians. $40 billion a month in construction spending. And the labor pull is affecting every contractor in the country. This is the biggest [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) shift since the shale oil boom, demanding immediate attention from every [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control).
 
-  
+<iframe src="https://www.youtube.com/embed/we1xufmBA54" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 

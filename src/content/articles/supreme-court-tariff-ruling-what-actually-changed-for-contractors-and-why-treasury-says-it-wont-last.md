@@ -15,7 +15,7 @@ sponsors:
 
 The Supreme Court struck down Trump's tariffs. The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) celebrated for 48 hours. Then Treasury said rates are going right back up by August. Steel at 50%. Aluminum at 50%. Unchanged. Here's what actually happened, what it means for your next bid, and why the confusion might be more dangerous than the tariffs themselves. This episode cuts through the legal confusion to tell contractors exactly what changed, what didn't, and how to protect their margins in the most chaotic tariff environment in modern construction history.
 
-  
+<iframe src="https://www.youtube.com/embed/fpDe8-GgDrw" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 ## Key Takeaways
 
