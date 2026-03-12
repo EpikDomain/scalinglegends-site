@@ -2,7 +2,8 @@
 title: "AI Data Center Construction Boom 2026: Power and Water Challenges Explained"
 description: "The global data center industry is entering a period of unprecedented growth and investment, primarily catalyzed by the intensive computing requirements of artificial intelligence."
 date: "2026-01-19"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/ai-data-center-construction-boom-2026-power-and-wa-cover-1773099444.png"
+image: "/img/articles/ai-drives-data-center-boom-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/ai-data-center-construction-boom-2026-power-and-wa-cover-1773099444.png"
 audioUrl: "https://content.rss.com/episodes/332597/2470708/scalinglegends/2026_01_19_22_24_06_40e919e2-f4e9-4846-bf3d-3424b1779fdf.mp3"
 readTime: "12 min read"
 published: true

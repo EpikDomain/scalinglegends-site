@@ -2,7 +2,8 @@
 title: "California Construction Companies 2026: The Legends Building the Golden State"
 description: "DPR Construction: The Employee-Owned Innovation Engine. DPR didn't wait for the industry to embrace green building -- they pioneered it. A deep dive into California's construction powerhouses."
 date: "2025-06-24"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/california-construction-companies-2026-the-legends-cover-1773099471.png"
+image: "/img/articles/california-construction-legends-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/california-construction-companies-2026-the-legends-cover-1773099471.png"
 audioUrl: "https://content.rss.com/episodes/332597/2086380/scalinglegends/2025_06_24_01_18_32_1dd545a4-5273-4941-a13b-64df5fc0d01b.mp3"
 readTime: "12 min read"
 published: true

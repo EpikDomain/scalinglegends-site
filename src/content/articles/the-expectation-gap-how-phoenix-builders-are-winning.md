@@ -2,7 +2,8 @@
 title: "Phoenix Construction Market 2026: How Local Builders Are Winning the Expectation Gap"
 description: "Is your construction business ready for the 2026 pivot? Arizona's market is shifting from speculative new builds to high-ROI green renovations and specialized industrial infrastructure."
 date: "2025-12-19"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/phoenix-construction-market-2026-how-local-builder-cover-1773099651.png"
+image: "/img/articles/the-expectation-gap-how-phoenix-builders-are-winning-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/phoenix-construction-market-2026-how-local-builder-cover-1773099651.png"
 audioUrl: "https://content.rss.com/episodes/332597/2401198/scalinglegends/2025_12_19_16_25_37_58c08bb8-e45a-4866-a32c-3ccfd60dbd98.mp3"
 readTime: "12 min read"
 published: true

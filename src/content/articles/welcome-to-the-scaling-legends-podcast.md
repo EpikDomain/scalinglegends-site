@@ -2,7 +2,8 @@
 title: "Scaling Legends Podcast: Construction Business Growth Stories and Intelligence"
 description: "Are you ready to build your empire? Welcome to Scaling Legends - the podcast that takes you inside the boardrooms and construction sites of the industry's biggest players."
 date: "2025-06-06"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/scaling-legends-podcast-construction-business-grow-cover-1773099701.png"
+image: "/img/articles/welcome-to-the-scaling-legends-podcast-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/scaling-legends-podcast-construction-business-grow-cover-1773099701.png"
 audioUrl: "https://content.rss.com/episodes/332597/2061050/scalinglegends/2025_06_06_00_08_36_56b78d5a-5374-4bee-b114-357f4ad23b5e.mp3"
 readTime: "10 min read"
 published: true

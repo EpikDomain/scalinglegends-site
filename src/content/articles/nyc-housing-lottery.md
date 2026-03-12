@@ -2,7 +2,8 @@
 title: "NYC Housing Lottery 2026: The Promise, Reality, and Corruption Behind Affordable Housing"
 description: "The NYC Housing Lottery was designed with promises of equity, ensuring fair access based on income and luck, not connections. But has it delivered on that promise?"
 date: "2025-07-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/nyc-housing-lottery-2026-the-promise-reality-and-c-cover-1773099628.png"
+image: "/img/articles/nyc-housing-lottery-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/nyc-housing-lottery-2026-the-promise-reality-and-c-cover-1773099628.png"
 audioUrl: "https://content.rss.com/episodes/332597/2138668/scalinglegends/2025_07_27_00_56_41_862ead88-6da8-4e29-b584-80aea3396f72.mp3"
 readTime: "12 min read"
 published: true

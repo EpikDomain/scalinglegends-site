@@ -2,7 +2,8 @@
 title: "Construction Specialist: What It Takes to Build a Niche Contracting Business in 2026"
 description: "Webcor: The San Francisco Specialists. Webcor has spent over 50 years mastering the art of construction in one of America's most challenging urban environments."
 date: "2025-06-24"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-specialist-what-it-takes-to-build-a-n-cover-1773099548.png"
+image: "/img/articles/construction-specialist-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-specialist-what-it-takes-to-build-a-n-cover-1773099548.png"
 audioUrl: "https://content.rss.com/episodes/332597/2086382/scalinglegends/2025_06_24_01_23_30_73458880-a8ab-4148-ae87-9bf1c1d22729.mp3"
 readTime: "12 min read"
 published: true

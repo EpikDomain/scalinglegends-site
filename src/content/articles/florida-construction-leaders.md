@@ -2,7 +2,8 @@
 title: "Florida Construction Companies 2026: The Leaders Building the Sunshine State"
 description: "Lemartec (A MasTec Company): The Vertical Construction Specialists. Few construction companies can claim expertise in both horizontal infrastructure and vertical construction."
 date: "2025-06-24"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/florida-construction-companies-2026-the-leaders-bu-cover-1773099603.png"
+image: "/img/articles/florida-construction-leaders-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/florida-construction-companies-2026-the-leaders-bu-cover-1773099603.png"
 audioUrl: "https://content.rss.com/episodes/332597/2086385/scalinglegends/2025_06_24_01_27_29_92c7850a-f11f-4a3e-8eef-1f82137483ee.mp3"
 readTime: "12 min read"
 published: true

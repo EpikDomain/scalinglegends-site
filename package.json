@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/optimize-images.mjs && astro build",
     "preview": "astro preview"
   },
   "dependencies": {
@@ -13,6 +13,7 @@
     "@supabase/supabase-js": "^2.98.0",
     "@tailwindcss/vite": "^4.2.1",
     "astro": "^5.18.0",
+    "sharp": "^0.34.5",
     "tailwindcss": "^4.2.1"
   }
 }

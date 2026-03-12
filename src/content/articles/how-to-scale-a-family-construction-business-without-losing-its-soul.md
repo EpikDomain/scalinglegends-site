@@ -2,7 +2,8 @@
 title: "How to Scale a Family Construction Business Without Losing Its Soul"
 description: "The unique challenges of scaling a family-owned construction company. How to professionalize operations without destroying the culture that made you successful."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-to-scale-a-family-construction-business-without-losing-i-1772747187.png"
+image: "/img/articles/how-to-scale-a-family-construction-business-without-losing-its-soul-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-to-scale-a-family-construction-business-without-losing-i-1772747187.png"
 readTime: "11 min read"
 published: true
 season: 2

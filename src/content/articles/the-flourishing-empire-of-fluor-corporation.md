@@ -2,7 +2,8 @@
 title: "Fluor Corporation 2026: Inside the Flourishing Construction Empire"
 description: "Fluor Corporation's journey began with its founder, John Simon Fluor Sr., a Swiss immigrant who arrived in America in 1888 with only $100. Today, Fluor is a global engineering and construction giant."
 date: "2025-07-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/fluor-corporation-2026-inside-the-flourishing-cons-cover-1773099676.png"
+image: "/img/articles/the-flourishing-empire-of-fluor-corporation-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/fluor-corporation-2026-inside-the-flourishing-cons-cover-1773099676.png"
 audioUrl: "https://content.rss.com/episodes/332597/2138654/scalinglegends/2025_07_27_00_21_42_b8388901-b844-4928-a5cf-48a025d233e4.mp3"
 readTime: "12 min read"
 published: true
