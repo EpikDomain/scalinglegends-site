@@ -2,13 +2,11 @@
 title: "CONEXPO 2026: The Autonomous Equipment and AI That's About to Change Your Job Site"
 description: "140,000 contractors just saw the future at CONEXPO. Caterpillar's first autonomous soil compactor. Komatsu's AI-integrated excavator. Bobcat's all-electric autonomous loader. Gravis Robotics won best tech. But the hallway conversations told a different story: contractors are hesitant to spend with 60% project delays and tariff chaos. Who buys and who waits?"
 date: "2026-03-11"
-image: "/img/articles/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to--1773235683.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to--1773235683.png"
 audioUrl: "https://content.rss.com/episodes/332597/2619682/scalinglegends/2026_03_11_14_07_42_85463fa8-e41a-48c0-875a-a9c2235ba6a9.mp3"
 readTime: "8 min read"
 published: true
-
-episode: 43
+season: 2
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

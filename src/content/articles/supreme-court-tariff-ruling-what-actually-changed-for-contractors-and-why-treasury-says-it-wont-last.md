@@ -2,13 +2,11 @@
 title: "Supreme Court Tariff Ruling: What ACTUALLY Changed for Contractors (And Why Treasury Says It Won't Last)"
 description: "The Supreme Court struck down Trump's reciprocal tariffs 6-3, but steel and aluminum at 50% remain untouched. Treasury Secretary Bessent says rates return to pre-ruling levels by August. AGC says no refund checks are coming. This episode cuts through the legal confusion to tell contractors exactly what changed, what didn't, and how to protect their margins in the most chaotic tariff environment in modern construction history."
 date: "2026-03-08"
-image: "/img/articles/supreme-court-tariff-ruling-what-actually-changed-for-contractors-and-why-treasury-says-it-wont-last-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/supreme-court-tariff-ruling-what-actually-changed-for-contra-1772982170.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/supreme-court-tariff-ruling-what-actually-changed-for-contra-1772982170.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610203/scalinglegends/2026_03_08_16_45_15_33fe582b-2247-4d83-adc5-47c3ee8cb5df.mp3"
 readTime: "10 min read"
 published: true
-
-episode: 30
+season: 2
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

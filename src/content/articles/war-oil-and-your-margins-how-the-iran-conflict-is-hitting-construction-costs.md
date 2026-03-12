@@ -2,13 +2,11 @@
 title: "War, Oil, and Your Margins: How the Iran Conflict Is Hitting Construction Costs"
 description: "Oil went from $73 to $120 in 10 days. The Strait of Hormuz is closed. 20% of global LNG is offline. Diesel, asphalt, and transport costs are whipsawing. Wells Fargo says recession hits if oil stays at $130. This episode breaks down exactly how the Iran conflict flows through to your construction costs and what to do about it."
 date: "2026-03-11"
-image: "/img/articles/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-co-1773235638.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-co-1773235638.png"
 audioUrl: "https://content.rss.com/episodes/332597/2619681/scalinglegends/2026_03_11_14_07_53_97b3b468-34bd-455a-a4ba-4e071e960c4b.mp3"
 readTime: "9 min read"
 published: true
-
-episode: 46
+season: 2
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

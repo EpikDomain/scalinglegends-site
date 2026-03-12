@@ -2,13 +2,11 @@
 title: "Construction Site Theft: The $2 Billion Problem Nobody's Solving"
 description: "11,000 construction site theft incidents per year. $1 billion in equipment, $1 billion in copper. Only 21% recovery rate. GPS tracking reduces theft by 96%. Here's the prevention playbook."
 date: "2026-03-10"
-image: "/img/articles/construction-site-theft-the-2-billion-problem-nobodys-solving-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-site-theft-the-2-billion-problem-nobodys-solvin-1773165855.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-site-theft-the-2-billion-problem-nobodys-solvin-1773165855.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616397/scalinglegends/2026_03_10_12_15_57_35324b88-d61b-4d58-a962-0bfbc2786b76.mp3"
 readTime: "13 min read"
 published: true
-
-episode: 39
+season: 2
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

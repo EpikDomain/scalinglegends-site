@@ -2,13 +2,11 @@
 title: "3,950 UK Contractors Just Went Bankrupt: The Warning Signs American Builders Are Missing"
 description: "The UK construction industry just hit a grim milestone -- 3,950 contractor insolvencies in 12 months, the worst sector for business failures four years running. Specialist trades like plumbing, HVAC, and electrical were hit hardest. This episode breaks down why it happened, the identical warning signs showing up in the US market right now, and the specific financial moves that separate survivors from casualties."
 date: "2026-03-09"
-image: "/img/articles/3950-uk-contractors-just-went-bankrupt-the-warning-signs-american-builders-are-missing-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/3950-uk-contractors-just-went-bankrupt-the-warning-signs-ame-1773078581.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/3950-uk-contractors-just-went-bankrupt-the-warning-signs-ame-1773078581.png"
 audioUrl: "https://content.rss.com/episodes/332597/2613375/scalinglegends/2026_03_09_18_44_04_547f4860-776c-4438-a951-2e3a59edd7b6.mp3"
 readTime: "11 min read"
 published: true
-
-episode: 33
+season: 2
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

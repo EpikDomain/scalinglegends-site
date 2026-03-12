@@ -2,13 +2,11 @@
 title: "Construction's $15 Million Blind Spot: Why Ransomware Groups Are Targeting YOUR BIM Files"
 description: "Qilin. SafePay. Two ransomware groups you have never heard of that are actively targeting construction companies right now. They are not after your email -- they are after your BIM files, engineering specifications, project schedules, and proprietary construction methods. A successful breach can halt jobsites for weeks. And starting November 2026, any construction company with government contracts must be CMMC Level 2 certified or lose bidding eligibility. This is the cybersecurity episode the construction industry desperately needs and nobody is making."
 date: "2026-03-06"
-image: "/img/articles/constructions-15-million-blind-spot-why-ransomware-groups-are-targeting-your-bim-files-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/constructions-15-million-blind-spot-why-ransomware-groups-ar-1772808702.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/constructions-15-million-blind-spot-why-ransomware-groups-ar-1772808702.png"
 audioUrl: "https://content.rss.com/episodes/332597/2605990/scalinglegends/2026_03_06_15_53_22_82e3f141-57a8-4b43-b9ab-7e09d9e42abc.mp3"
 readTime: "5 min read"
 published: true
-
-episode: 20
+season: 2
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
