@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
-const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode, season } = article.data;
+const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode, season, howTo } = article.data;
 
 // Get related articles for sidebar (same keywords or recent)
 const allArticles = await getCollection('articles', ({ data }) => data.published !== false);
@@ -60,6 +60,30 @@ const episodeData = audioUrl ? {
   seasonNumber: season || 2,
   duration: readTime,
 } : undefined;
+
+// Extract HowTo steps from rendered content for structured data
+// Parse the raw markdown body looking for ## How to ... followed by list steps
+// Supports both ordered (1. **Step.**) and unordered (- **Step.**) list formats
+const howToSteps: { name: string; text: string }[] = howTo || [];
+if (howToSteps.length === 0) {
+  const howToMatch = rawBody.match(/##\s*How [Tt]o\s+(.+?)\n([\s\S]*?)(?=\n##\s[^#]|\n$|$)/i);
+  if (howToMatch) {
+    const howToSection = howToMatch[2];
+    // Match both "1. **Step.** text" and "- **Step.** text" formats
+    const stepMatches = howToSection.matchAll(/(?:^|\n)\s*(?:\d+\.\s*|-\s*)\*\*(.+?)\*\*\s*([\s\S]*?)(?=\n\s*(?:\d+\.\s*|-\s*)\*\*|\n##|$)/g);
+    for (const step of stepMatches) {
+      const name = step[1].trim().replace(/\.$/, '');
+      const text = step[2].trim().replace(/\n+/g, ' ').replace(/<[^>]+>/g, '');
+      if (name && text) {
+        howToSteps.push({ name, text });
+      }
+    }
+  }
+}
+
+// Extract YouTube video ID from content for VideoObject schema
+const youtubeMatch = rawBody.match(/youtube\.com\/embed\/([a-zA-Z0-9_-]+)/);
+const youtubeVideoId = youtubeMatch ? youtubeMatch[1] : null;
 ---
 
 <Base
@@ -73,6 +97,8 @@ const episodeData = audioUrl ? {
   breadcrumbs={breadcrumbs}
   faqItems={faqItems}
   episodeData={episodeData}
+  videoId={youtubeVideoId}
+  howToSteps={howToSteps}
 >
   <article class="py-12 px-4 sm:px-8 min-h-screen bg-[#0D0D0D]">
     <div class="max-w-[1600px] mx-auto">
@@ -199,7 +225,7 @@ const episodeData = audioUrl ? {
           <!-- Guests -->
           {guest && (
             <div class="bg-gradient-to-br from-[#161616] to-[#121212] border border-[#222222] rounded-xl p-6 mb-8">
-              <h3
+              <div
                 class="text-[#CCFF00] uppercase mb-4 flex items-center gap-2"
                 style="font-size: 11px; font-weight: 700; letter-spacing: 0.12em;"
               >
@@ -208,7 +234,7 @@ const episodeData = audioUrl ? {
                   <circle cx="12" cy="7" r="4"/>
                 </svg>
                 Featured Guest
-              </h3>
+              </div>
               <p class="text-[#EAEAEA] pl-6" style="font-weight: 600; font-size: 1rem;">
                 {guest}
               </p>
@@ -250,12 +276,13 @@ const episodeData = audioUrl ? {
           <!-- Episode Notes / Article Content -->
           <div class="mb-8">
             {audioUrl && (
-              <h2
+              <div
                 class="text-[#EAEAEA] uppercase mb-6 pb-4 border-b border-[#222222]"
                 style="font-size: 1.25rem; font-weight: 800; letter-spacing: -0.02em;"
+                aria-hidden="true"
               >
                 Episode Notes<span class="inline-block relative w-2 h-2 ml-1.5" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span>
-              </h2>
+              </div>
             )}
             <div class="article-content max-w-[800px]">
               <Content />
@@ -278,7 +305,7 @@ const episodeData = audioUrl ? {
           {sponsors && sponsors.length > 0 && (
             <div class="bg-gradient-to-br from-[#161616] to-[#121212] border border-[#222222] rounded-xl p-8 mb-8 relative overflow-hidden">
               <div class="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-[#CCFF00] via-[#CCFF00]/50 to-transparent"></div>
-              <h3
+              <div
                 class="text-[#CCFF00] uppercase mb-6 flex items-center gap-2"
                 style="font-size: 11px; font-weight: 700; letter-spacing: 0.12em;"
               >
@@ -287,7 +314,7 @@ const episodeData = audioUrl ? {
                   <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>
                 </svg>
                 Episode Sponsors
-              </h3>
+              </div>
               <div class="space-y-6">
                 {sponsors.map((sponsor: any) => (
                   <div class="flex gap-4 items-start">
@@ -326,12 +353,12 @@ const episodeData = audioUrl ? {
           <div class="bg-gradient-to-br from-[#161616] to-[#121212] border border-[#222222] rounded-xl p-8 mb-8 relative overflow-hidden">
             <div class="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-[#CCFF00] to-[#E0FF4D]"></div>
             <div class="relative z-10">
-              <h3
+              <div
                 class="text-[#EAEAEA] mb-3"
                 style="font-weight: 800; font-size: 1.5rem; letter-spacing: -0.02em;"
               >
                 {audioUrl ? 'Subscribe for More Episodes' : 'Want More Insights?'}
-              </h3>
+              </div>
               <p class="text-[#888888] mb-6" style="font-size: 0.9375rem; line-height: 1.6;">
                 {audioUrl ? 'Get notified when new episodes drop.' : 'Subscribe to Scaling Legends wherever you listen.'}
               </p>
