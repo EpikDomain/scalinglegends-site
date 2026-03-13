@@ -2,7 +2,7 @@
 title: "The Two-Tier Backlog: Why Data Center Contractors Have 47% More Work Than Everyone Else"
 description: "ABC's February data reveals a growing divide: firms with data center work hold 11.2 months of backlog while everyone else sits at 7.6. Here's what smaller contractors can do about it."
 date: "2026-03-12"
-image: "/scaling-legends-cover.jpg"
+image: "/img/articles/the-two-tier-backlog-why-data-center-contractors-have-47-more-work-than-everyone-else-hero.webp"
 audioUrl: "https://content.rss.com/episodes/332597/2622759/scalinglegends/2026_03_12_13_57_41_b447178e-94ad-42fd-ae03-3e6a57aefeca.mp3"
 readTime: "2 min read"
 published: true

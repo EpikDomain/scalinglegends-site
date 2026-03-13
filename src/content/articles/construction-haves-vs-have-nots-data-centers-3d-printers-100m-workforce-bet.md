@@ -2,7 +2,7 @@
 title: "The Construction Haves vs Have-Nots: Data Centers, 3D Printers, and a $100M Workforce Bet"
 description: "Today's market data paints a clear picture: if you're not positioned in the right sectors with the right technology and workforce strategy, you're falling behind. We break it all down."
 date: "2026-03-12"
-image: "/scaling-legends-cover.jpg"
+image: "/img/articles/construction-haves-vs-have-nots-data-centers-3d-printers-100m-workforce-bet-hero.webp"
 readTime: "14 min read"
 published: true
 pillar: "market-intelligence"

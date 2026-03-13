@@ -2,7 +2,7 @@
 title: "ICON's $20/sqft Titan Printer Goes on Sale: What 3D-Printed Construction Means for Traditional Builders"
 description: "ICON launched commercial sales of its Titan 3D printer, printing walls up to 27 feet high at $20/sqft, 40% below conventional costs. First deliveries in early 2027."
 date: "2026-03-12"
-image: "/scaling-legends-cover.jpg"
+image: "/img/articles/icon-titan-3d-printer-20-per-sqft-what-it-means-for-traditional-builders-hero.webp"
 readTime: "12 min read"
 published: true
 pillar: "technology"

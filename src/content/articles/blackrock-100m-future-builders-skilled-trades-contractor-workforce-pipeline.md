@@ -2,7 +2,7 @@
 title: "BlackRock Just Put $100M Behind Your Future Workforce: How Contractors Can Tap the Future Builders Pipeline"
 description: "BlackRock's Future Builders initiative will train 50,000 electricians, plumbers, and HVAC techs over 5 years. Here's how contractors scaling past $5M should position to benefit."
 date: "2026-03-12"
-image: "/scaling-legends-cover.jpg"
+image: "/img/articles/blackrock-100m-future-builders-skilled-trades-contractor-workforce-pipeline-hero.webp"
 readTime: "11 min read"
 published: true
 pillar: "workforce"
