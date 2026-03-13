@@ -308,23 +308,23 @@ const structuredDataGraph = {
 
   <!-- Header -->
   <header class="sticky top-0 z-50 bg-[#0D0D0D]/80 backdrop-blur-xl border-b border-[#1A1A1A]">
-    <div class="max-w-[1600px] mx-auto px-8 py-5 flex items-center justify-between">
+    <div class="max-w-[1600px] mx-auto px-4 sm:px-8 py-4 sm:py-5 flex items-center justify-between gap-4">
       <a href="/" class="flex items-center gap-3 text-[#EAEAEA] no-underline flex-shrink-0">
-        <img src="/scaling-legends-cover-96.webp" alt="Scaling Legends" class="h-12 w-auto rounded-lg transition-transform duration-300 hover:scale-105" width="48" height="48" />
-        <span class="hidden md:inline text-xl font-bold tracking-tight uppercase leading-none">SCALING LEGENDS<span class="inline-block relative w-1.5 h-1.5 ml-2" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span></span>
+        <img src="/scaling-legends-cover-96.webp" alt="Scaling Legends" class="h-10 sm:h-12 w-auto rounded-lg transition-transform duration-300 hover:scale-105" width="48" height="48" />
+        <span class="hidden lg:inline text-xl font-bold tracking-tight uppercase leading-none whitespace-nowrap">SCALING LEGENDS<span class="inline-block relative w-1.5 h-1.5 ml-2" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span></span>
       </a>
-      <nav class="flex items-center gap-1.5">
+      <nav class="flex items-center gap-1 sm:gap-1.5">
         <a
           href="/"
           class:list={[
-            "px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 no-underline",
+            "px-2.5 sm:px-4 py-2 rounded-lg font-semibold text-xs sm:text-sm transition-all duration-300 no-underline",
             currentPath === '/' ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
           ]}
         >Articles</a>
         <a
           href="/podcast"
           class:list={[
-            "px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 no-underline",
+            "px-2.5 sm:px-4 py-2 rounded-lg font-semibold text-xs sm:text-sm transition-all duration-300 no-underline",
             currentPath === '/podcast' ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
           ]}
         >Podcast</a>
@@ -332,7 +332,7 @@ const structuredDataGraph = {
         <div class="relative group/pillars">
           <button
             class:list={[
-              "px-4 py-2 rounded-lg font-semibold text-sm transition-all duration-300 flex items-center gap-1.5 cursor-pointer",
+              "px-2.5 sm:px-4 py-2 rounded-lg font-semibold text-xs sm:text-sm transition-all duration-300 flex items-center gap-1.5 cursor-pointer",
               currentPath.startsWith('/pillar/') ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
             ]}
           >
@@ -357,7 +357,7 @@ const structuredDataGraph = {
             </a>
           </div>
         </div>
-        <a href="#subscribe" class="ml-3 px-6 py-2.5 bg-[#CCFF00] text-[#0D0D0D] rounded-lg font-semibold text-sm hover:bg-[#E0FF4D] transition-all duration-300 hover:shadow-[0_0_20px_rgba(204,255,0,0.3)] no-underline">Subscribe</a>
+        <a href="#subscribe" class="ml-1.5 sm:ml-3 px-3 sm:px-6 py-2 sm:py-2.5 bg-[#CCFF00] text-[#0D0D0D] rounded-lg font-semibold text-xs sm:text-sm hover:bg-[#E0FF4D] transition-all duration-300 hover:shadow-[0_0_20px_rgba(204,255,0,0.3)] no-underline whitespace-nowrap">Subscribe</a>
       </nav>
     </div>
   </header>
