@@ -57,7 +57,8 @@ if (!pillar) {
   return Astro.redirect('/404');
 }
 
-const allArticles = await getCollection('articles', ({ data }) => data.published !== false && data.pillar === slug);
+const now = new Date();
+const allArticles = await getCollection('articles', ({ data }) => data.published !== false && data.pillar === slug && new Date(data.date) <= now);
 const articles = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 
 const pillarKeys = Object.keys(PILLARS);
