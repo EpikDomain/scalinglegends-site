@@ -169,10 +169,12 @@ function htmlToMarkdown(html) {
   md = md.replace(/\n\s*Listen on:[\s\S]*?(?=\n\n)/gi, '');
   // Remove "Episode sponsored by" / "Presented by" blocks
   md = md.replace(/\n\s*(?:Episode )?(?:sponsored|presented) by[\s\S]*?(?=\n##|\n\n[A-Z]|\n$)/gi, '');
-  // Fix indented list items (2-4 space indent causes rendering issues in markdown)
-  md = md.replace(/^ {2,4}(- )/gm, '$1');
+  // Fix indented content (4+ spaces = code block in markdown, breaks rendering)
+  md = md.replace(/^ {4,}/gm, '');
+  // Fix indented list items (2-3 space indent causes rendering issues in markdown)
+  md = md.replace(/^ {2,3}(- )/gm, '$1');
   // Fix indented bold/link lines
-  md = md.replace(/^ {2,4}(\*\*|\[)/gm, '$1');
+  md = md.replace(/^ {2,3}(\*\*|\[)/gm, '$1');
   // Clean up whitespace
   md = md.replace(/\n{3,}/g, '\n\n');
   md = md.trim();

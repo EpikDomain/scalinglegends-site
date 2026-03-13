@@ -60,35 +60,35 @@ This is a fundamental decision impacting liability, taxation, and administrative
 - **Sole Proprietorship/Partnership:** Easiest to set up, but offers no personal liability protection. Your personal assets are at risk if your business faces lawsuits or debt. Not recommended for construction due to inherent risks.
 
 **Limited Liability Company (LLC):** This is the most popular choice for new construction companies in Ohio.
-        
+    
 
-            - **Pros:** Offers personal liability protection (separates your personal assets from business debts and lawsuits), flexible taxation (can be taxed as a sole proprietorship, partnership, or even a corporation), and less administrative burden than a corporation.
+        - **Pros:** Offers personal liability protection (separates your personal assets from business debts and lawsuits), flexible taxation (can be taxed as a sole proprietorship, partnership, or even a corporation), and less administrative burden than a corporation.
 
-            - **Cons:** Can be more expensive to set up than a sole proprietorship.
-
-        
+        - **Cons:** Can be more expensive to set up than a sole proprietorship.
 
     
+
+
 **S-Corporation (S-Corp):** Often an LLC that elects to be taxed as an S-Corp.
-        
+    
 
-            - **Pros:** Can save on self-employment taxes if you take a reasonable salary and distribute the rest as dividends (which aren't subject to self-employment tax).
+        - **Pros:** Can save on self-employment taxes if you take a reasonable salary and distribute the rest as dividends (which aren't subject to self-employment tax).
 
-            - **Cons:** More administrative complexity (payroll, reasonable salary requirements), and stricter IRS scrutiny.
-
-        
+        - **Cons:** More administrative complexity (payroll, reasonable salary requirements), and stricter IRS scrutiny.
 
     
+
+
 **C-Corporation (C-Corp):**
-        
+    
 
-            - **Pros:** Strongest liability protection, easier to raise capital, perpetual existence.
+        - **Pros:** Strongest liability protection, easier to raise capital, perpetual existence.
 
-            - **Cons:** "Double taxation" (corporate profits taxed, then dividends to shareholders taxed), most complex to set up and maintain. Less common for small to medium-sized construction startups.
-
-        
+        - **Cons:** "Double taxation" (corporate profits taxed, then dividends to shareholders taxed), most complex to set up and maintain. Less common for small to medium-sized construction startups.
 
     
+
+
 
 **Recommendation:** For most construction startups in Ohio, an LLC is the way to go. It balances liability protection with flexibility and reasonable administrative overhead. Consult with an Ohio business attorney and accountant to determine the best structure for your specific situation.
 
@@ -99,15 +99,15 @@ This is a fundamental decision impacting liability, taxation, and administrative
 - **Appoint a Statutory Agent:** This is a person or entity authorized to receive legal documents on behalf of your business. They must have a physical street address in Ohio.
 
 **File Formation Documents with the Ohio SOS:**
-        
+    
 
-            - **For LLCs:** File Articles of Organization.
+        - **For LLCs:** File Articles of Organization.
 
-            - **For Corporations:** File Articles of Incorporation.
+        - **For Corporations:** File Articles of Incorporation.
 
-        
+    
 
-        You can do this online via the Ohio SOS website (Ohio Business Central) or by mail. The fee is typically around $99.
+    You can do this online via the Ohio SOS website (Ohio Business Central) or by mail. The fee is typically around $99.
 - **Obtain an Employer Identification Number (EIN):** This is a federal tax ID number issued by the IRS. You'll need it to open a business bank account, hire employees, and file taxes. It's free and can be obtained instantly online through the IRS website.
 
 - **Draft an Operating Agreement (LLC) or Bylaws (Corporation):** While not filed with the state, these internal documents are crucial. An Operating Agreement for an LLC outlines ownership percentages, management structure, and how profits/losses are distributed. It prevents future disputes.
@@ -439,68 +439,68 @@ Every market has its quirks. Ohio is no different.
 - **Challenge:** The lack of a statewide GC license means a patchwork of local rules. What's allowed in Columbus might be different in Cleveland or a rural township. This complicates multi-county operations.
 
 **Navigation:**
-        
+    
 
-            - **Research Meticulously:** Before bidding or starting work in a new municipality, always contact their building department.
+        - **Research Meticulously:** Before bidding or starting work in a new municipality, always contact their building department.
 
-            - **Focus Initially:** Concentrate your efforts on one or two primary service areas until you master their local codes and processes.
+        - **Focus Initially:** Concentrate your efforts on one or two primary service areas until you master their local codes and processes.
 
-            - **Legal Counsel:** Consider retaining local counsel for complex regulatory issues or disputes.
-
-        
+        - **Legal Counsel:** Consider retaining local counsel for complex regulatory issues or disputes.
 
     
+
+
 
 ### Workforce Shortages
 
 - **Challenge:** Ohio, like much of the nation, faces a significant skilled trades shortage. Finding qualified electricians, plumbers, carpenters, and even general laborers can be tough. The Intel project will only intensify this competition for talent.
 
 **Navigation:**
-        
+    
 
-            - **Invest in Training:** Develop an apprenticeship program or partner with local vocational schools and community colleges (e.g., Columbus State, Cuyahoga Community College, Cincinnati State) to train your workforce.
+        - **Invest in Training:** Develop an apprenticeship program or partner with local vocational schools and community colleges (e.g., Columbus State, Cuyahoga Community College, Cincinnati State) to train your workforce.
 
-            - **Competitive Compensation:** Offer competitive wages, benefits, and a positive work environment to attract and retain talent.
+        - **Competitive Compensation:** Offer competitive wages, benefits, and a positive work environment to attract and retain talent.
 
-            - **Recruitment:** Use local job boards, social media, and industry networks. Consider offering signing bonuses or referral programs.
-
-        
+        - **Recruitment:** Use local job boards, social media, and industry networks. Consider offering signing bonuses or referral programs.
 
     
+
+
 
 ### Supply Chain Volatility
 
 - **Challenge:** While improving, supply chain disruptions and material cost fluctuations are still a reality.
 
 **Navigation:**
-        
+    
 
-            - **Diversify Suppliers:** Don't rely on a single vendor. Build relationships with multiple local and regional suppliers.
+        - **Diversify Suppliers:** Don't rely on a single vendor. Build relationships with multiple local and regional suppliers.
 
-            - **Pre-order & Stockpile:** For critical, long-lead-time items, consider pre-ordering or maintaining a small inventory if feasible.
+        - **Pre-order & Stockpile:** For critical, long-lead-time items, consider pre-ordering or maintaining a small inventory if feasible.
 
-            - **Clear Contracts:** Ensure your contracts with clients include clauses for material cost increases and project delays due to supply chain issues.
-
-        
+        - **Clear Contracts:** Ensure your contracts with clients include clauses for material cost increases and project delays due to supply chain issues.
 
     
+
+
 
 ### Competition
 
 - **Challenge:** With a growing market and lower barriers to entry for GCs, competition can be fierce, especially for smaller residential and commercial projects.
 
 **Navigation:**
-        
+    
 
-            - **Specialize:** Carve out a niche (e.g., historic renovation, green building, specific commercial build-outs).
+        - **Specialize:** Carve out a niche (e.g., historic renovation, green building, specific commercial build-outs).
 
-            - **Exceptional Service:** Differentiate yourself through quality workmanship, clear communication, and outstanding client service.
+        - **Exceptional Service:** Differentiate yourself through quality workmanship, clear communication, and outstanding client service.
 
-            - **Build Relationships:** Network constantly. Personal connections can be more valuable than the lowest bid.
-
-        
+        - **Build Relationships:** Network constantly. Personal connections can be more valuable than the lowest bid.
 
     
+
+
 
 ## Building Relationships with Ohio GCs and Developers
 
@@ -583,17 +583,17 @@ The BWC is very strict on classification. If you pay someone, and they meet the 
 - **Secure Funding:** Determine your startup costs and working capital needs. Explore SBA loans, lines of credit, or personal investment.
 
 **Obtain Licensing & Registration:**
-        
+    
 
-            - Identify your primary operating cities/counties.
+        - Identify your primary operating cities/counties.
 
-            - Contact their building departments for local contractor registration/licensing requirements.
+        - Contact their building departments for local contractor registration/licensing requirements.
 
-            - If performing specialized trades (Electrical, HVAC, Plumbing), ensure you (or a qualifying employee) obtain the necessary OCILB state licenses.
-
-        
+        - If performing specialized trades (Electrical, HVAC, Plumbing), ensure you (or a qualifying employee) obtain the necessary OCILB state licenses.
 
     
+
+
 - **Get Insured:** Obtain General Liability, Commercial Auto, and Workers' Compensation (through Ohio BWC) policies. Consult an Ohio-specific insurance broker.
 
 - **Understand Tax Obligations:** Register with the Ohio Department of Taxation for CAT and sales tax (if applicable). Understand municipal income taxes. Work with an Ohio-based accountant.
