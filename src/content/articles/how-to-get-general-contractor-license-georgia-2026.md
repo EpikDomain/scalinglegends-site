@@ -41,7 +41,7 @@ Choosing the right license class from the start will save you headaches down the
 
 ### The Stakes: Why Operating Unlicensed in Georgia is a Bad Bet
 
-Look, you're in the construction business to make money and build things. Operating without the proper Georgia contractor license jeopardizes both. Here's why you don't want to go down that road:
+Look, you're in the [construction business](/article/how-to-scale-a-construction-business-without-losing-control) to make money and build things. Operating without the proper Georgia contractor license jeopardizes both. Here's why you don't want to go down that road:
 
 - **Legal Penalties:** The DPL has the authority to issue cease and desist orders, impose hefty fines, and even refer cases for criminal prosecution. You could be charged with a misdemeanor for each day you operate unlicensed.
 
@@ -163,7 +163,7 @@ As mentioned, PSI Services LLC handles the exams. Here's what you need to know t
 
 ### Experience and Education Requirements in Georgia
 
-The DPL is looking for verifiable, hands-on experience. "Experience" means you were actively involved in the supervision, management, or execution of construction projects, not just an unskilled laborer.
+The DPL is looking for verifiable, hands-on experience. "Experience" means you were actively involved in the supervision, management, or execution of [construction projects](/article/surviving-the-messy-middle-of-construction-growth), not just an unskilled laborer.
 
 - **Documentation:** Be prepared to list specific projects, dates, your role, and the names/contact information of supervisors or clients who can attest to your experience. The DPL *will* verify this. For General Contractor applicants, detailing your supervisory responsibilities is crucial.
 
@@ -211,7 +211,7 @@ What does this mean for you? If you hold a contractor license in Florida, Alabam
 
 Don't assume your out-of-state license will suffice. The DPL treats all applicants, regardless of prior licensing, as new applicants to the state's system. This ensures that every licensed contractor operating in Georgia understands and adheres to Georgia's specific laws and building codes.
 
-## Setting Up Your Construction Business in Georgia
+## Setting Up [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026) in Georgia
 
 Getting your contractor license is just one piece of the puzzle. You also need to establish your business legally and ensure you're compliant with all Georgia state regulations.
 
@@ -259,7 +259,7 @@ Insurance isn't just a good idea; it's often a legal requirement or a client exp
 
 - **Why It's Essential:** This protects your business from claims of property damage, bodily injury, and advertising injury caused by your operations. Without it, a single accident on a job site could bankrupt your business.
 
-Work with a Georgia-licensed commercial insurance broker who understands the state's construction industry to ensure you have adequate coverage.
+Work with a Georgia-licensed commercial insurance broker who understands the state's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) to ensure you have adequate coverage.
 
 ## Common Mistakes Georgia Applicants Make
 
@@ -307,7 +307,7 @@ The U.S. Small Business Administration (SBA) has a strong presence in Georgia, o
 
 - **Georgia Department of Economic Development:** This state agency offers programs and resources to help Georgia businesses grow, including workforce development and assistance with navigating state regulations.
 
-### The Georgia Construction Market Opportunity in 2026
+### The Georgia [Construction Market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) Opportunity in 2026
 
 Let's talk about why all this effort is worth it. The construction market in Georgia, particularly in 2026, is booming. You're entering a high-demand environment:
 

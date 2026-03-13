@@ -17,7 +17,7 @@ How to Start a Construction Company in Pennsylvania: The 2026 Startup Guide
 
 ## How to Start a Construction Company in Pennsylvania: The 2026 Startup Guide
 
-Alright, you're thinking about starting a construction company in Pennsylvania. Good. This isn't some generic, cookie-cutter guide. This is the brass tacks, no-BS roadmap you need to navigate the Keystone State’s construction landscape in 2026. I’ve been there, done that, and built a successful operation right here in PA. Pay attention, because what you learn here will either set you up for success or send you packing.
+Alright, you're thinking about [starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company in Pennsylvania. Good. This isn't some generic, cookie-cutter guide. This is the brass tacks, no-BS roadmap you need to navigate the Keystone State’s construction landscape in 2026. I’ve been there, done that, and built a successful operation right here in PA. Pay attention, because what you learn here will either set you up for success or send you packing.
 
 Pennsylvania is a beast of a market with its own quirks, opportunities, and regulatory hurdles. Forget what you think you know from other states; PA plays by its own rules. From the bustling urban sprawl of Philadelphia and Pittsburgh to the sprawling rural counties and everything in between, there's work to be had – if you know where to look and how to operate. Let's get down to business.
 
@@ -49,7 +49,7 @@ Don't think you need to jump straight into multi-million dollar projects. New co
 
 - **Residential Renovation/Remodeling:** For residential work, the Home Improvement Contractor (HIC) registration is your golden ticket. Start small, build a portfolio, and focus on customer satisfaction. There's always demand for quality home improvements.
 
-- **Small Commercial Projects:** Think tenant fit-outs, small office renovations, retail build-outs. These projects are often less complex than ground-up construction but offer valuable experience and cash flow.
+- **Small Commercial Projects:** Think tenant fit-outs, small office renovations, retail build-outs. These projects are often less complex than ground-up construction but offer valuable experience and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies).
 
 ## Business Entity Formation in Pennsylvania
 
@@ -81,7 +81,7 @@ This isn't a decision to take lightly. Your choice impacts liability, taxation, 
 
 - **Pros:** Easiest and cheapest to start.
 
-- **Cons:** No personal liability protection. Your personal assets are at risk for business debts and lawsuits. I strongly advise against this for a construction business in PA due to the inherent risks.
+- **Cons:** No personal liability protection. Your personal assets are at risk for business debts and lawsuits. I strongly advise against this for a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) in PA due to the inherent risks.
 
 ### Registration Process with the PA Department of State
 
@@ -112,7 +112,7 @@ Your entity choice significantly impacts your state tax obligations:
 
 ## Pennsylvania Contractor Licensing Requirements
 
-Here's where many new contractors get tripped up. Pennsylvania does NOT have a statewide general contractor license for commercial work. For residential work, it has a statewide registration. And then, cities like Philadelphia have their own licenses. Clear as mud? Let's clarify.
+Here's where many new contractors get tripped up. Pennsylvania does NOT have a statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026) for commercial work. For residential work, it has a statewide registration. And then, cities like Philadelphia have their own licenses. Clear as mud? Let's clarify.
 
 ### No Statewide General Contractor License
 
@@ -483,7 +483,7 @@ A: HIC stands for Home Improvement Contractor registration. If you perform more 
 
 ### Q: What are the sales tax implications for materials in Pennsylvania?
 
-A: The statewide sales tax rate is 6% (8% in Philadelphia, 7% in Allegheny County). As a contractor, you are generally considered the "final consumer" of materials incorporated into real property. This means you typically pay sales tax when you purchase the materials from your suppliers. You usually do not charge sales tax to your client for the completed construction project, unless it involves specific types of repairs or services not considered real property improvements. Consult the PA Department of Revenue or a tax professional for specific guidance.
+A: The statewide sales tax rate is 6% (8% in Philadelphia, 7% in Allegheny County). As a contractor, you are generally considered the "final consumer" of materials incorporated into real property. This means you typically pay sales tax when you purchase the materials from your suppliers. You usually do not charge sales tax to your client for the completed [construction project](/article/surviving-the-messy-middle-of-construction-growth), unless it involves specific types of repairs or services not considered real property improvements. Consult the PA Department of Revenue or a tax professional for specific guidance.
 
 ### Q: Is Workers' Compensation insurance mandatory in Pennsylvania?
 

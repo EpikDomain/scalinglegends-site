@@ -166,7 +166,7 @@ California has a reputation for high taxes, and for good reason. Understanding y
 
 #### Sales Tax on Materials
 
-This is a common point of confusion for contractors. In California, contractors are generally considered the "consumer" of materials they furnish and install as part of a construction contract. This means you typically pay sales tax to your suppliers when you purchase materials. You do not charge sales tax to your client on the materials portion of a lump-sum contract. However, if you are selling materials without installation (e.g., a hardware store), or if you have a "time and materials" contract that separately states charges for materials, then you may need to collect sales tax from the client. Get a California seller's permit from the California Department of Tax and Fee Administration (CDTFA) if you ever sell materials without installation.
+This is a common point of confusion for contractors. In California, contractors are generally considered the "consumer" of materials they furnish and install as part of [a construction contract](/article/how-to-write-construction-contract-guide-2026). This means you typically pay sales tax to your suppliers when you purchase materials. You do not charge sales tax to your client on the materials portion of a lump-sum contract. However, if you are selling materials without installation (e.g., a hardware store), or if you have a "time and materials" contract that separately states charges for materials, then you may need to collect sales tax from the client. Get a California seller's permit from the California Department of Tax and Fee Administration (CDTFA) if you ever sell materials without installation.
 
 #### Franchise Tax
 
@@ -220,7 +220,7 @@ California is an expensive place to do business. Your startup costs will reflect
 
 - **Working Capital:** Crucial for covering initial operating expenses, payroll, and unexpected costs before revenue stabilizes. Aim for at least 3-6 months of operating expenses.
 
-Realistically, a well-capitalized construction startup in California should budget anywhere from $50,000 to $250,000+ for initial setup, depending on the scope, trade, and equipment needs. Don't underestimate the need for cash flow.
+Realistically, a well-capitalized construction startup in California should budget anywhere from $50,000 to $250,000+ for initial setup, depending on the scope, trade, and equipment needs. Don't underestimate the need for [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies).
 
 ### Where the Work Is: Finding Projects in California
 
@@ -367,7 +367,7 @@ California is a land of opportunity, but it's not without its unique obstacles. 
 
 ### Forging Alliances: Building Relationships with GCs & Developers
 
-For many new construction companies, especially subcontractors, your growth will hinge on your ability to work with established General Contractors (GCs) and Developers. They control the flow of projects.
+For many new [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), especially subcontractors, your growth will hinge on your ability to work with established General Contractors (GCs) and Developers. They control the flow of projects.
 
 #### How to Connect & Build Trust
 
@@ -471,7 +471,7 @@ The contractor bond amount is a statutory $25,000. The premium you pay for this 
 
 All LLCs registered or doing business in California are required to pay an annual minimum franchise tax of $800 to the Franchise Tax Board (FTB), regardless of income. If your net income exceeds certain thresholds, you will also pay an additional annual LLC fee based on that income.
 
-### Are materials subject to sales tax in California construction projects?
+### Are materials subject to sales tax in California [construction projects](/article/surviving-the-messy-middle-of-construction-growth)?
 
 Generally, for lump-sum construction contracts, contractors are considered the "consumer" of the materials they furnish and install. This means you pay sales tax to your suppliers when you purchase the materials and do not charge sales tax to your client on the materials portion of the project. However, if you are selling materials without installation or have certain types of time-and-materials contracts, different rules may apply, and you might need a seller's permit from the CDTFA.
 
@@ -491,9 +491,9 @@ You can find government opportunities by registering on state bid portals like C
 
 The biggest challenges include the state's high regulatory burden, high labor costs and a shortage of skilled workers, intense competition, permitting delays, and the overall high cost of doing business (real estate, insurance, taxes).
 
-### Is it worth starting a construction company in California despite the high costs and regulations?
+### Is it worth [starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company in California despite the high costs and regulations?
 
-Absolutely. While challenging, California offers an unparalleled volume and diversity of construction projects. The high demand, innovative market, and robust economy mean that well-managed, compliant, and skilled construction companies can achieve significant success and profitability. The barriers to entry often weed out less serious players, leaving more opportunity for those who are prepared and committed.
+Absolutely. While challenging, California offers an unparalleled volume and diversity [of construction projects](/article/why-two-thirds-of-construction-projects-are-delayed-in-2026-the-compounding-crisis-nobody-is-talking-about). The high demand, innovative market, and robust economy mean that well-managed, compliant, and skilled construction companies can achieve significant success and profitability. The barriers to entry often weed out less serious players, leaving more opportunity for those who are prepared and committed.
 
 The path to starting a construction company in California is not for the faint of heart. It demands meticulous planning, unwavering compliance, and a deep understanding of the state's unique regulatory and market landscape. But for those who are ready to put in the work, who understand the rules of the game, and who are committed to building with integrity, the Golden State offers golden opportunities. Now go out there and build your legend.
 

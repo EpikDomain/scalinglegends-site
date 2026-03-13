@@ -21,7 +21,7 @@ This isn't a theoretical exercise. This is a direct, no-BS guide for project man
 
 ## The Cost Overrun Epidemic: A Stark Reality
 
-Let's cut straight to the chase: construction cost overruns are an epidemic, not an anomaly. The data is damning. Studies consistently show that a staggering **85% of construction projects exceed their original budget**. And it’s not by a small margin; the average project sees a budget overrun of approximately **28%**.
+Let's cut straight to the chase: construction cost overruns are an epidemic, not an anomaly. The data is damning. Studies consistently show that a staggering **85% of [construction projects](/article/surviving-the-messy-middle-of-construction-growth) exceed their original budget**. And it’s not by a small margin; the average project sees a budget overrun of approximately **28%**.
 
 This isn't just a number on a spreadsheet; it translates into lost profits, strained client relationships, reputational damage, and, for scaling contractors, a direct threat to your ability to reinvest and grow. When you're aiming for $50M+, these percentages represent millions of dollars evaporating from your potential earnings. Ignoring this reality is a luxury you cannot afford.
 
@@ -158,7 +158,7 @@ This weekly discipline transforms your project manager into a financial steward,
 
 ## Material Procurement and Price Lock Strategies
 
-Materials represent a significant portion of overall project costs. Effective procurement strategies are paramount to how to reduce construction costs and mitigate risks associated with price volatility and supply chain disruptions.
+Materials represent a significant portion of overall project costs. Effective procurement strategies are paramount to how to reduce [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs) and mitigate risks associated with price volatility and supply chain disruptions.
 
 ### Bulk Purchasing and Volume Discounts
 
@@ -246,7 +246,7 @@ The percentage varies significantly based on project complexity, stage of design
 
 - **Design Development (DD):** 5-15%. Design is largely set, but details are still being refined.
 
-- **Construction Documents (CD) / Pre-Construction:** 3-10%. Most details are finalized, but site-specific risks remain.
+- **[Construction Documents](/article/how-to-organize-construction-documents-project-files-2026) (CD) / Pre-Construction:** 3-10%. Most details are finalized, but site-specific risks remain.
 
 - **During Construction:** 1-5%. As the project progresses, the contingency should be drawn down as risks are retired.
 
@@ -300,7 +300,7 @@ Leveraging technology is no longer optional; it's a necessity for scaling contra
 
 - **Viewpoint (now Trimble Viewpoint Vista/Spectrum):** Another powerful ERP solution providing extensive features for project management, accounting, human resources, and equipment management, enabling integrated cost control.
 
-- **Textura (now Oracle Textura Payment Management):** Primarily focused on streamlining subcontractor invoicing and payment processes, reducing administrative overhead and ensuring compliance, which indirectly helps with cost control by managing cash flow effectively.
+- **Textura (now Oracle Textura Payment Management):** Primarily focused on streamlining subcontractor invoicing and payment processes, reducing administrative overhead and ensuring compliance, which indirectly helps with cost control by managing [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) effectively.
 
 ### Benefits of Technology:
 
@@ -488,8 +488,8 @@ Engaging field teams is crucial. First, provide them with clear, actionable cost
 
 Absolutely not. True value engineering (VE) is a systematic process aimed at optimizing the "value" of a project by analyzing its functions and finding alternative ways to achieve those functions at a lower lifecycle cost without compromising quality, performance, or safety. It's about smart design and construction choices, not simply selecting the cheapest option. Cutting corners, by contrast, often sacrifices quality, durability, or safety to reduce upfront costs, typically leading to higher long-term expenses or client dissatisfaction.
 
-The path to scaling your construction business from $1M to $50M+ is paved with disciplined financial management. Cost overruns are not an inevitability; they are a symptom of lax control. Implement this checklist, embrace proactive management, and transform your projects into predictable profit centers.
+The path to scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) from $1M to $50M+ is paved with disciplined financial management. Cost overruns are not an inevitability; they are a symptom of lax control. Implement this checklist, embrace proactive management, and transform your projects into predictable profit centers.
 
-For more strategies to scale your construction business, visit [scalinglegends.com](https://scalinglegends.com).
+For more strategies to scale [your construction business](/article/how-to-systematize-construction-business-sops-software-2026), visit [scalinglegends.com](https://scalinglegends.com).
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

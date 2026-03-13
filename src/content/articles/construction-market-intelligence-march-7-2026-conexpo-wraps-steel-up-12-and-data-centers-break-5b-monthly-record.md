@@ -2,9 +2,8 @@
 title: "Construction Market Intelligence: March 7, 2026 - CONEXPO Wraps, Steel Up 12%, and Data Centers Break 5B Monthly Record"
 description: "CONEXPO 2026 closes with Cat Compact for small contractors and electric equipment claiming 40% lower costs. Steel tariffs push prices up 12.1%, project abandonment surges 88%. Ohio E-Verify goes live March 19. Data center starts hit all-time record at 5.2 billion in January. Plus the 3 pain points dominating every contractor conversation right now."
 date: "2026-03-07"
-image: "/img/articles/construction-market-intelligence-march-7-2026-conexpo-wraps-steel-up-12-and-data-centers-break-5b-monthly-record-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/market-intel-march7-1772898989.png"
-audioUrl: "https://content.rss.com/episodes/332597/2622758/scalinglegends/2026_03_12_13_57_37_396b49df-4dd5-4903-aaa9-12758143117d.mp3"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/market-intel-march7-1772898989.png"
+audioUrl: "https://content.rss.com/episodes/332597/2625114/scalinglegends/2026_03_13_09_30_31_52b1df67-0b6c-4574-8ab7-d5a17f57d286.mp3"
 readTime: "13 min read"
 published: true
 season: 2

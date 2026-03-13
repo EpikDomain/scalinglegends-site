@@ -3,7 +3,7 @@ title: "Construction Market Intelligence: March 7 Evening - CONEXPO Closes, SCOT
 description: "CONEXPO closes with autonomous equipment breakthrough, SCOTUS tariff ruling leaves Section 232 intact with steel up 20.7%, Ohio E-Verify deadline in 12 days, data centers hit 25.2B monthly record, and 43% of small contractors lack emergency capital."
 date: "2026-03-07"
 image: "/img/articles/construction-market-intelligence-march-7-evening-conexpo-closes-scotus-tariff-fallout-and-the-25b-data-center-record-hero.webp"
-audioUrl: "https://content.rss.com/episodes/332597/2622758/scalinglegends/2026_03_12_13_57_37_396b49df-4dd5-4903-aaa9-12758143117d.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2625114/scalinglegends/2026_03_13_09_30_31_52b1df67-0b6c-4574-8ab7-d5a17f57d286.mp3"
 readTime: "31 min read"
 published: true
 season: 2
@@ -110,7 +110,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 | --- | --- |
 | Worker shortage | 349,000-500,000 |
 | Firms affected by immigration enforcement | 28% |
-| Construction workers who are immigrants | 34% (up to 61% in some trades) |
+| [Construction workers](/article/how-to-hire-retain-construction-workers-2026-guide) who are immigrants | 34% (up to 61% in some trades) |
 | Workforce retiring by 2031 | 41% |
 | YoY wage growth | 4.2% (6-8% in hot markets) |
 | Contractors expecting hiring to worsen | 53% |

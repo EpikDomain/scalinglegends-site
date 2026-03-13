@@ -33,7 +33,7 @@ South Carolina law is broad in defining who can file a mechanics lien, extending
 
 - **General Contractors:** Those in direct contractual agreement with the property owner.
 
-- **Subcontractors:** Parties contracting with a general contractor to perform a portion of the work.
+- **Subcontractors:** Parties contracting with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) to perform a portion of the work.
 
 - **Material Suppliers:** Entities providing materials that are incorporated into the project.
 
@@ -276,7 +276,7 @@ This is a complex legal proceeding that requires the expertise of a South Caroli
 
 ## Navigating Waivers: South Carolina Lien Waiver Nuances
 
-Lien waivers are documents exchanged between parties on a construction project, typically in exchange for payment, where a claimant gives up their right to file a lien for a certain amount or period. In South Carolina, understanding the types and enforceability of waivers is crucial.
+Lien waivers are documents exchanged between parties on a [construction project](/article/surviving-the-messy-middle-of-construction-growth), typically in exchange for payment, where a claimant gives up their right to file a lien for a certain amount or period. In South Carolina, understanding the types and enforceability of waivers is crucial.
 
 ### Conditional vs. Unconditional Waivers:
 

@@ -2,8 +2,7 @@
 title: "New Construction Laws 2026: Your State-by-State Compliance Guide"
 description: "California just passed 7 new construction laws. New York mandated electronic payroll. Washington extended sanctions to shell companies. OSHA is switching to targeted inspections. Here's what you need to know before you get fined."
 date: "2026-03-10"
-image: "/img/articles/new-construction-laws-2026-your-state-by-state-compliance-guide-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/new-construction-laws-2026-your-state-by-state-compliance-gu-1773165764.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/new-construction-laws-2026-your-state-by-state-compliance-gu-1773165764.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616357/scalinglegends/2026_03_10_11_51_58_3426e639-a6b4-4509-b5b0-3d9a91a53274.mp3"
 readTime: "9 min read"
 published: true
@@ -35,7 +34,7 @@ OSHA's 2026 priorities for construction include a new heat illness prevention st
 
 In most cases, yes. However, the NASCLA Interstate Licensing Compact now covers 14 states where a single exam qualifies you for reciprocal licensing. Some states also have bilateral agreements. Check with your primary state's licensing board for existing reciprocity deals. Applying for reciprocal licensing typically costs $200-500 per state and takes 30-60 days to process.
 
-**How to Scale a Construction Business 2026: Your State-by-State Compliance Guide**
+**How to [Scale a Construction](/article/how-to-scale-construction-company-complete-2026-guide) Business 2026: Your State-by-State Compliance Guide**
 
 New laws just changed the rules. Some are already active. The fines are real. California just passed 7 new construction laws with immediate implications, New York mandated electronic payroll by mid-2025, and Washington extended sanctions to shell companies, directly increasing liability for prime contractors. Meanwhile, OSHA is switching to targeted inspections, putting specific high-risk sites under increased scrutiny. Ignoring these shifts isn't an option; it's a direct threat to your project timelines and, crucially, your bottom line.
 

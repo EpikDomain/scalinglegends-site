@@ -2,8 +2,7 @@
 title: "Tariff Survival Playbook: How Smart Contractors Beat 50% Steel Tariffs"
 description: "Deep dive into the 50% steel tariff impact on construction and the exact playbook contractors are using to protect margins through escalation clauses, bidding strategy, and procurement tactics."
 date: "2026-03-05"
-image: "/img/articles/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tariff-survival-playbook-how-smart-contractors-beat-50-steel-1772743905.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tariff-survival-playbook-how-smart-contractors-beat-50-steel-1772743905.png"
 audioUrl: "https://content.rss.com/episodes/332597/2604313/scalinglegends/2026_03_05_19_17_46_ab0893a2-345c-4158-a30a-b9a7cb3b3b67.mp3"
 readTime: "8 min read"
 published: true
@@ -43,7 +42,7 @@ The ripple effect is immediate and severe. Data compiled by [Smart Business Auto
 
 The long-term implications are equally grim. Projections indicate that current tariff costs could lead to 450,000 fewer new homes being built through 2030. This isn't just a challenge for residential builders; it signals a broader economic slowdown that will impact commercial, industrial, and infrastructure projects as well. Smart contractors are not waiting for the market to stabilize; they are actively re-evaluating every aspect of their operations, from bidding to procurement, to insulate themselves from these unprecedented cost pressures.
 
-## Mastering the Escalation Clause Construction Contract
+## Mastering the Escalation Clause [Construction Contract](/article/how-to-write-construction-contract-guide-2026)
 
 In an environment where construction material costs can swing wildly from week to week, relying on fixed-price contracts without safeguards is no longer a viable strategy. The escalation clause construction contract has transitioned from a niche legal provision to an essential survival tool for contractors. The best practice is to tie these clauses to objective, publicly available indices that reflect real-time material cost fluctuations. The Bureau of Labor Statistics (BLS) Producer Price Index (PPI) for construction materials is the gold standard for this. By linking your contract price adjustments to the BLS PPI, you remove ambiguity and provide a transparent, defensible mechanism for cost recovery. This protects your margins and fosters trust with clients who understand the market's current unpredictability.
 

@@ -49,7 +49,7 @@ Start with a high-level summary. What is the project? What are its primary goals
 
 ### Scope of Work: Inclusions (The "What We DO" List)
 
-This is the heart of your SOW. List every single task, material, and service that the contractor or subcontractor is responsible for. Be granular. Assume nothing is understood unless explicitly stated. This is where "how to write a scope of work for a construction project" truly defines its value.
+This is the heart of your SOW. List every single task, material, and service that the contractor or subcontractor is responsible for. Be granular. Assume nothing is understood unless explicitly stated. This is where "how to write a scope of work for a [construction project](/article/surviving-the-messy-middle-of-construction-growth)" truly defines its value.
 
 - **General Conditions:** Site mobilization, temporary facilities, permits (specify who obtains), safety plans, site security, cleanup.
 
@@ -587,7 +587,7 @@ Yes, it can, and often does. Changes to the SOW are managed through a formal cha
 
 ### Who is responsible for writing the scope of work?
 
-Ultimately, the party requesting the work is responsible for defining the scope. For an owner, this means working with their design team (architects, engineers) to create a comprehensive SOW for the general contractor. For a general contractor, it means meticulously developing detailed SOWs for each subcontractor based on the overall project scope, drawings, and specifications. The party performing the work (subcontractor) then reviews, clarifies, and agrees to this scope.
+Ultimately, the party requesting the work is responsible for defining the scope. For an owner, this means working with their design team (architects, engineers) to create a comprehensive SOW for the general contractor. For [a general contractor](/article/how-to-get-general-contractor-license-florida-2026), it means meticulously developing detailed SOWs for each subcontractor based on the overall project scope, drawings, and specifications. The party performing the work (subcontractor) then reviews, clarifies, and agrees to this scope.
 
 ### What happens if something isn't in the scope of work?
 

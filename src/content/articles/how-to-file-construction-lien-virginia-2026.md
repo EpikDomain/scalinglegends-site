@@ -31,11 +31,11 @@ Virginia's three-tier licensing system for contractors is straightforward, and u
 
 ### Who Has Lien Rights in Virginia?
 
-Virginia law is relatively broad in granting lien rights to various parties involved in construction projects. Generally, anyone who performs labor or furnishes materials for the construction, repair, or improvement of any building or structure has the right to file a mechanics lien. This includes:
+Virginia law is relatively broad in granting lien rights to various parties involved in [construction projects](/article/surviving-the-messy-middle-of-construction-growth). Generally, anyone who performs labor or furnishes materials for the construction, repair, or improvement of any building or structure has the right to file a mechanics lien. This includes:
 
 - **General Contractors (Prime Contractors):** Those who contract directly with the property owner.
 
-- **Subcontractors:** Those who contract with a general contractor to perform work or supply materials.
+- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) to perform work or supply materials.
 
 - **Sub-subcontractors:** Those who contract with a subcontractor. Virginia law generally extends lien rights down to the second tier of subcontractors (those contracting with a first-tier subcontractor). However, lien rights typically do not extend to parties further down the chain (e.g., sub-sub-subcontractors).
 
@@ -214,7 +214,7 @@ This "whichever expires later" clause is crucial. You must calculate both dates 
 
 ### Lien Waivers Under Virginia Law
 
-Lien waivers are common documents exchanged in the construction industry, typically in exchange for progress or final payments. Virginia law generally recognizes and enforces lien waivers, but understanding their implications is vital.
+Lien waivers are common documents exchanged in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), typically in exchange for progress or final payments. Virginia law generally recognizes and enforces lien waivers, but understanding their implications is vital.
 
 **Conditional Waivers:** These waivers become effective only upon the actual receipt of payment. For example, a "Conditional Waiver and Release of Lien Upon Progress Payment" might state that it is effective only when the specified payment has cleared the bank. This is generally preferred as it protects your lien rights until funds are truly in hand.
 

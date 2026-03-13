@@ -15,7 +15,7 @@ sponsors:
 
 ## The Unpaid Invoice Nightmare: How to Turn Your Greatest Risk Into Your Ultimate Leverage
 
-You've built your business on skill, hard work, and trust. You've poured blood, sweat, and capital into projects, delivering exceptional results. Yet, in the construction industry, the specter of non-payment is a constant, suffocating threat. According to a 2023 report by the National Association of Credit Management (NACM), construction consistently ranks among the top industries for payment delays, with an average of 60+ days past due being alarmingly common. For a contractor scaling from $1M to $50M+, these delays aren't just an inconvenience; they're a direct assault on your cash flow, your ability to pay subs, and ultimately, your solvency.
+You've built your business on skill, hard work, and trust. You've poured blood, sweat, and capital into projects, delivering exceptional results. Yet, in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), the specter of non-payment is a constant, suffocating threat. According to a 2023 report by the National Association of Credit Management (NACM), construction consistently ranks among the top industries for payment delays, with an average of 60+ days past due being alarmingly common. For a contractor scaling from $1M to $50M+, these delays aren't just an inconvenience; they're a direct assault on your cash flow, your ability to pay subs, and ultimately, your solvency.
 
 Forget the polite phone calls and the increasingly stern emails. When negotiation fails, when promises evaporate, and when your capital is held hostage, you need a weapon. That weapon is the construction lien. Misunderstood by many, feared by those who owe, and utterly indispensable for protecting your bottom line, the **mechanics lien construction** is not just a legal document—it's your most powerful leverage. This isn't about being litigious; it's about securing what's rightfully yours, ensuring your business thrives, and sending an unequivocal message: *you will be paid for your work*.
 
@@ -257,7 +257,7 @@ Managing lien rights across multiple projects and states manually is a recipe fo
 
 These tools are not just about paperwork; they are about risk mitigation. They automate deadline tracking, ensure compliance with state-specific forms, and provide an auditable trail, freeing up your team to focus on project execution. For contractors scaling rapidly, investing in such technology is a strategic imperative.
 
-## Lien Rights and Cash Flow Management
+## Lien Rights and [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies)
 
 The relationship between strong **construction lien rights** management and healthy cash flow is direct and undeniable. Proactive lien management isn't just about recovering overdue payments; it's about preventing them.
 
@@ -288,7 +288,7 @@ A critical distinction for contractors to understand is the difference between m
 
 *   **Target:** The real property itself.
 *   **Purpose:** To secure payment by placing a claim against the property's title.
-*   **Applicability:** Almost exclusively for private construction projects.
+*   **Applicability:** Almost exclusively for private [construction projects](/article/surviving-the-messy-middle-of-construction-growth).
 
 ### Bond Claims (Public Projects)
 

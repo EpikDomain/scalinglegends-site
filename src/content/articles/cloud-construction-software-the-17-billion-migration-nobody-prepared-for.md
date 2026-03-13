@@ -145,7 +145,7 @@ Despite the clear ROI data, the adoption gap in construction remains severe. The
 
 - **71% say multiple PM tools** make information sharing difficult
 
-- **92% of construction workers** use smartphones daily at work
+- **92% of [construction workers](/article/how-to-hire-retain-construction-workers-2026-guide)** use smartphones daily at work
 
 - **22% use 6 or more construction apps**
 

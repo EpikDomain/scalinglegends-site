@@ -25,7 +25,7 @@ This guide from Scaling Legends provides a direct, no-BS walkthrough of the Tenn
 
 ### Understanding Tennessee Mechanics Lien Law
 
-The Tennessee mechanics lien statute, found in Title 66, Chapter 11, Part 1 of the Tennessee Code, provides a legal framework for securing payment for improvements to real property. The core principle is simple: if you contribute labor, materials, or services to a construction project and are not paid, you have a right to place a lien on the improved property. This lien effectively makes the property itself collateral for the debt.
+The Tennessee mechanics lien statute, found in Title 66, Chapter 11, Part 1 of the Tennessee Code, provides a legal framework for securing payment for improvements to real property. The core principle is simple: if you contribute labor, materials, or services to a [construction project](/article/surviving-the-messy-middle-of-construction-growth) and are not paid, you have a right to place a lien on the improved property. This lien effectively makes the property itself collateral for the debt.
 
 However, the application of this principle in Tennessee is far from simple. The law differentiates between various project participants (prime contractors, subcontractors, suppliers) and project types (residential vs. commercial), imposing different rules and requirements. Key elements include strict preliminary notice requirements for some parties, specific filing deadlines, and precise content mandates for the lien document itself. A failure to comply with any of these statutory requirements can render your lien invalid, leaving you without this critical security.
 
@@ -215,7 +215,7 @@ Enforcement lawsuits are complex and almost always require the assistance of a q
 
 ### Tennessee Lien Waivers: Conditional vs. Unconditional
 
-Lien waivers are documents exchanged in the construction industry, typically at the time of payment, where a party relinquishes their right to file a mechanics lien for the amount being paid. Understanding the types of waivers and their implications is crucial in Tennessee:
+Lien waivers are documents exchanged in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), typically at the time of payment, where a party relinquishes their right to file a mechanics lien for the amount being paid. Understanding the types of waivers and their implications is crucial in Tennessee:
 
 - **Conditional Lien Waiver:** This type of waiver becomes effective *only upon actual receipt of payment*. For example, "Upon receipt of $X, claimant waives all lien rights through [date]." If the check bounces or payment is otherwise not received, the waiver is void, and lien rights are retained. Always prefer conditional waivers, especially when exchanging them for a check that has not yet cleared.
 
@@ -353,7 +353,7 @@ A properly filed mechanics lien attaches to the property. If the property is sol
 
 ## Conclusion
 
-The booming construction market in Tennessee, particularly in areas like Nashville, presents immense opportunities. However, those opportunities come with inherent risks, especially when payment becomes an issue. Understanding and meticulously following Tennessee's mechanics lien laws, as outlined in Tennessee Code §66-11-101 et seq., is not merely a legal formality—it is a fundamental business practice that directly impacts your bottom line.
+The booming [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) in Tennessee, particularly in areas like Nashville, presents immense opportunities. However, those opportunities come with inherent risks, especially when payment becomes an issue. Understanding and meticulously following Tennessee's mechanics lien laws, as outlined in Tennessee Code §66-11-101 et seq., is not merely a legal formality—it is a fundamental business practice that directly impacts your bottom line.
 
 From the precise deadlines for preliminary notices and lien recording to the critical service requirements and the ultimate one-year enforcement window, every step in the Tennessee lien process demands accuracy and vigilance. For remote contractors, the residential property limitations and the Notice of Nonpayment are particularly crucial. For prime contractors, the Notice of Lien Contract on larger residential projects is equally vital.
 

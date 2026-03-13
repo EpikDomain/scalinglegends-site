@@ -17,7 +17,7 @@ How to Handle Construction Change Orders Without Killing Your Margins
 
 # How to Handle Construction Change Orders Without Killing Your Margins
 
-Change orders. The bane of every contractor's existence, or a golden opportunity for profit? For many, they're synonymous with headaches, delays, and a slow bleed of project margins. But for the elite, change orders are simply another facet of project management—a complex one, yes, but entirely manageable with the right strategy, discipline, and a no-BS approach.
+Change orders. The bane of every contractor's existence, or a golden opportunity for profit? For many, they're synonymous with headaches, delays, and a slow bleed of project margins. But for the elite, change orders are simply another facet of [project management](/article/surviving-the-messy-middle-of-construction-growth)—a complex one, yes, but entirely manageable with the right strategy, discipline, and a no-BS approach.
 
 This isn't about avoiding change orders entirely; that's a fantasy in construction. This is about mastering them. It's about ensuring every legitimate change is properly documented, priced, negotiated, and executed, so you not only recover your costs but also maintain, or even enhance, your intended profit. If you're tired of seeing your hard-earned money evaporate into the ether of poorly managed changes, pay attention. We're going to dissect the entire process, expose common pitfalls, and arm you with the strategies to protect your bottom line.
 
@@ -411,7 +411,7 @@ After each project, conduct a detailed review of all change orders. What were th
 
 ### What is a construction change order?
 
-A construction change order is a formal, written amendment to the original construction contract that alters the scope of work, price, or schedule. It is typically issued when unforeseen conditions arise, the owner requests changes, or design deficiencies are discovered, requiring additional or modified work.
+A construction change order is a formal, written amendment to the original [construction contract that](/article/how-to-write-construction-contract-guide-2026) alters the scope of work, price, or schedule. It is typically issued when unforeseen conditions arise, the owner requests changes, or design deficiencies are discovered, requiring additional or modified work.
 
 ### Who initiates a change order?
 

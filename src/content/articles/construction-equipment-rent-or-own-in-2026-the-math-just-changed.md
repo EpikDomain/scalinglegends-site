@@ -2,8 +2,7 @@
 title: "Construction Equipment: Rent or Own in 2026? The Math Just Changed"
 description: "The US construction equipment rental market is approaching $50 billion. Tariff-driven equipment price increases, rising interest rates, and CONEXPO 2026's telematics showcase are fundamentally changing the rent-vs-own calculation. This episode breaks down the real math, the hidden costs, and the strategic framework every contractor needs to make equipment decisions in 2026."
 date: "2026-03-08"
-image: "/img/articles/construction-equipment-rent-or-own-in-2026-the-math-just-changed-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-equipment-rent-or-own-in-2026-the-math-just-cha-1772982311.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-equipment-rent-or-own-in-2026-the-math-just-cha-1772982311.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610340/scalinglegends/2026_03_08_17_53_05_658cbbe9-be96-4883-9f10-1b2cdb227d69.mp3"
 readTime: "8 min read"
 published: true
@@ -29,7 +28,7 @@ The US equipment rental market is about to cross $50 billion. Tariffs just made 
 
 - **The 60-65% Utilization Threshold.** Data consistently shows that if a piece of equipment is used less than 60-65% of the time, renting is almost always the more cost-effective option. Most mid-size contractors lack the systems to accurately track this metric.
 
-- **Rental Market Growth Reflects Shifting Strategy.** The US equipment rental market is approaching $50 billion in 2026, with global figures at $159.39 billion. Residential construction leads demand at 38.47% market share, indicating a strong trend towards flexible access to equipment.
+- **Rental Market Growth Reflects Shifting Strategy.** The US equipment rental market is approaching $50 billion in 2026, with global figures at $159.39 billion. Residential [construction leads](/article/how-to-get-construction-leads-free-2026) demand at 38.47% market share, indicating a strong trend towards flexible access to equipment.
 
 - **Cash Flow is King.** Tying up significant capital in equipment purchases can hinder growth, limiting funds for hiring additional crews or investing in new projects. The flexibility of [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies) through renting allows for greater agility.
 

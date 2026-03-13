@@ -19,7 +19,7 @@ Alright, listen up. You're looking to get into the contracting game in Texas, an
 
 The biggest myth we need to bust right out of the gate is the idea of a "state general contractor license" in Texas. It doesn't exist. That's right. The State of Texas doesn't issue a statewide general contractor license. This is a critical distinction that trips up a lot of folks coming from other states. But don't let that fool you into thinking it's a free-for-all. Texas might be business-friendly, but local rules vary wildly from city to city, and ignoring them will shut you down faster than a bad weather front.
 
-So, how do you navigate this unique landscape? You read this guide. We're going to break down everything you need to know to operate legally and successfully as a general contractor in Texas, from understanding the local requirements to setting up your business right, securing the proper insurance, and tapping into the booming Texas construction market.
+So, how do you navigate this unique landscape? You read this guide. We're going to break down everything you need to know to operate legally and successfully as a general contractor in Texas, from understanding the local requirements to setting up your business right, securing the proper insurance, and tapping into the booming Texas [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign).
 
 ### Texas Licensing Landscape Overview and Why It Matters
 
@@ -507,7 +507,7 @@ Even without state-mandated CE, a smart general contractor in Texas understands 
 
 - **Project Management & Business Skills:** Continuous improvement in estimating, scheduling, financial management, and client relations is key to growth.
 
-- **New Technologies & Materials:** The construction industry evolves rapidly. Learning about new building techniques, sustainable materials, and construction software can give you a competitive edge.
+- **New Technologies & Materials:** The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) evolves rapidly. Learning about new building techniques, sustainable materials, and construction software can give you a competitive edge.
 
 #### Resources for Continuing Education (Voluntary but Recommended):
 
@@ -585,7 +585,7 @@ You can find contact information and specific services offered by each office on
 
 - **Texas HUB Program:** The State of Texas also has its own Historically Underutilized Business (HUB) program, which aims to promote full and equal business opportunities for small businesses in state contracting. If you qualify, getting certified as a Texas HUB can open doors to state and local government contracts.
 
-Don't leave money or valuable guidance on the table. Reach out to your local SBA resources in Texas; they are there to help your construction business succeed.
+Don't leave money or valuable guidance on the table. Reach out to your local SBA resources in Texas; they are there to help your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) succeed.
 
 ### The Texas Construction Market Opportunity in 2026
 
@@ -601,7 +601,7 @@ Let's talk brass tacks. You're looking to get into contracting in Texas in 2026.
 
 - **Energy Sector Investment:** While diversifying, Texas remains the energy capital. Investment in oil and gas infrastructure, renewable energy projects (wind and solar farms across West and South Texas), and related manufacturing facilities continues to drive significant construction activity.
 
-- **Diversified Economy:** Beyond energy, Texas boasts strong sectors in technology, aerospace, healthcare, education, and logistics. Each of these contributes to a steady demand for specialized construction projects.
+- **Diversified Economy:** Beyond energy, Texas boasts strong sectors in technology, aerospace, healthcare, education, and logistics. Each of these contributes to a steady demand for specialized [construction projects](/article/surviving-the-messy-middle-of-construction-growth).
 
 - **Housing Demand:** Despite rising interest rates, the sheer influx of people ensures a persistent need for both single-family homes and multi-family developments across all major metros.
 
@@ -611,7 +611,7 @@ Let's talk brass tacks. You're looking to get into contracting in Texas in 2026.
 
 - **Houston:** Still a powerhouse, driven by energy, healthcare (Texas Medical Center), port activity, and a diversifying tech sector. Industrial, commercial, and residential construction remain strong.
 
-- **Austin:** The "Silicon Hills" continues its explosive growth, particularly in tech and residential. Construction costs can be higher here, but demand is insatiable.
+- **Austin:** The "Silicon Hills" continues its explosive growth, particularly in tech and residential. [Construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs) can be higher here, but demand is insatiable.
 
 - **San Antonio:** Steady growth driven by military, tourism, healthcare, and manufacturing. More affordable than Austin, presenting strong residential and commercial opportunities.
 

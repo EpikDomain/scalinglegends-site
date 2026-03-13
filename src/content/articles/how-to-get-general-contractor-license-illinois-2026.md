@@ -64,14 +64,14 @@ Before you even think about submitting a license application to the City of Chic
 This isn't just a good idea; it's a non-negotiable requirement for operating as a GC in Illinois, especially in Chicago.
 
 *   **Workers' Compensation Insurance:** If you have even one employee (including yourself if you're structured as an employee of your own corporation), **Illinois law mandates Workers' Compensation insurance.** This is overseen by the **Illinois Workers' Compensation Commission**. Failure to carry this is a serious offense with severe penalties. Ensure your policy meets state minimums and covers all your employees.
-*   **Commercial General Liability (CGL) Insurance:** The City of Chicago has specific CGL requirements for its GC licenses. For Class A, B, and C licenses, you'll typically need a minimum of **$1,000,000 per occurrence and $2,000,000 aggregate** coverage. The policy must also name the City of Chicago as an additional insured. Your insurance broker, ideally one experienced with Illinois construction companies, will know these specifics.
+*   **Commercial General Liability (CGL) Insurance:** The City of Chicago has specific CGL requirements for its GC licenses. For Class A, B, and C licenses, you'll typically need a minimum of **$1,000,000 per occurrence and $2,000,000 aggregate** coverage. The policy must also name the City of Chicago as an additional insured. Your insurance broker, ideally one experienced with Illinois [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), will know these specifics.
 *   **Surety Bonds:** Depending on your license class and the type of work, Chicago may require a surety bond. For example, Class A GCs often need a significant bond. This bond acts as a financial guarantee that you will complete your projects according to contract and code. The exact bond amount will be specified by the DOB during the application process. You'll work with a surety bond company to secure this.
 
 #### D. Meet Experience and Education Requirements
 
 Again, no statewide requirements here. Chicago, however, demands proof of competence.
 
-*   **Experience:** The City of Chicago typically requires a certain number of years of verifiable experience in the construction industry, often with a portion of that experience at a supervisory level. For Class A, B, and C licenses, this can range from 3 to 10 years or more. You'll need to provide detailed documentation, including:
+*   **Experience:** The City of Chicago typically requires a certain number of years of verifiable experience in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), often with a portion of that experience at a supervisory level. For Class A, B, and C licenses, this can range from 3 to 10 years or more. You'll need to provide detailed documentation, including:
 *   Affidavits from licensed architects, engineers, or other licensed professionals who can attest to your experience.
 *   A comprehensive list of projects you've worked on, detailing your role, the scope of work, and approximate costs.
 *   Resumes, letters of recommendation, and potentially even tax records or pay stubs to verify employment history.
@@ -83,7 +83,7 @@ The City of Chicago requires the qualifying individual for Class A, B, and C Gen
 
 *   **Exam Content:** The exam focuses on a broad range of knowledge critical to general contracting, including:
 *   Chicago Building Code (including zoning, structural, fire, and life safety codes).
-*   Construction safety (OSHA standards, specific Chicago safety regulations).
+*   [Construction safety](/article/how-to-create-construction-safety-program-osha-2026) (OSHA standards, specific Chicago safety regulations).
 *   Construction management principles (project planning, scheduling, cost control).
 *   Contract law and lien laws relevant to Illinois.
 *   Basic construction methods and materials.
@@ -136,7 +136,7 @@ As with licensing itself, experience and education requirements for general cont
 
 **For Chicago General Contractor Licenses (Class A, B, C):**
 
-The City of Chicago places a heavy emphasis on verifiable, relevant experience. This is how they ensure that licensed GCs possess the practical knowledge and leadership skills necessary to manage complex construction projects safely and effectively.
+The City of Chicago places a heavy emphasis on verifiable, relevant experience. This is how they ensure that licensed GCs possess the practical knowledge and leadership skills necessary to manage complex [construction projects](/article/surviving-the-messy-middle-of-construction-growth) safely and effectively.
 
 *   **Years of Experience:**
 *   **Class A:** Expect to need a significant amount, often 10 years or more, with a substantial portion in a supervisory or project management role on large, complex projects.

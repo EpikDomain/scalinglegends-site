@@ -2,8 +2,7 @@
 title: "War, Oil, and Your Margins: How the Iran Conflict Is Hitting Construction Costs"
 description: "Oil went from $73 to $120 in 10 days. The Strait of Hormuz is closed. 20% of global LNG is offline. Diesel, asphalt, and transport costs are whipsawing. Wells Fargo says recession hits if oil stays at $130. This episode breaks down exactly how the Iran conflict flows through to your construction costs and what to do about it."
 date: "2026-03-11"
-image: "/img/articles/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-co-1773235638.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-co-1773235638.png"
 audioUrl: "https://content.rss.com/episodes/332597/2619681/scalinglegends/2026_03_11_14_07_53_97b3b468-34bd-455a-a4ba-4e071e960c4b.mp3"
 readTime: "9 min read"
 published: true
@@ -37,7 +36,7 @@ The global energy market just snapped. Oil prices surged from $73 to $120 a barr
 
 - **Strategic Hedging.** Explore options for fuel and material price hedging, especially for long-term projects, to lock in costs and stabilize [contractor profit margins 2026](/article/how-to-scale-a-construction-business-without-losing-control).
 
-## The Geopolitical Quake: How to Scale a Construction Business Amidst Energy Shocks
+## The Geopolitical Quake: How to [Scale a Construction](/article/how-to-scale-construction-company-complete-2026-guide) Business Amidst Energy Shocks
 
 The recent escalation in the Middle East, specifically the closure of the Strait of Hormuz, isn't just a headline – it's a seismic event for your balance sheet. This narrow waterway is critical, handling approximately 20% of the world's total petroleum liquids consumption and a significant portion of global LNG trade. Its closure, even partial, creates an immediate and profound supply shock. For construction, this translates directly into soaring input costs, primarily diesel fuel, asphalt, and the associated transport expenses for virtually every material and piece of equipment. The **oil prices construction impact** is immediate and far-reaching.
 

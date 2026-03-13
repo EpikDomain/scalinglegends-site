@@ -15,7 +15,7 @@ sponsors:
 
 ## How to Start a Construction Company in Arizona: The 2026 Startup Guide
 
-You’re looking to start a construction company in Arizona. Good. You’ve picked one of the most dynamic, fastest-growing markets in the country. But let’s be clear: this isn't a walk in the park. Arizona has its own rules, its own pace, and its own unique set of opportunities and challenges. If you’re serious about building something real here, you need a blueprint. This isn’t some generic, swap-the-state-name guide. This is your no-BS, Arizona-specific roadmap to getting your construction business off the ground and scaled for success by 2026.
+You’re looking to start a construction company in Arizona. Good. You’ve picked one of the most dynamic, fastest-growing markets in the country. But let’s be clear: this isn't a walk in the park. Arizona has its own rules, its own pace, and its own unique set of opportunities and challenges. If you’re serious about building something real here, you need a blueprint. This isn’t some generic, swap-the-state-name guide. This is your no-BS, Arizona-specific roadmap to getting your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) off the ground and scaled for success by 2026.
 
 ### The Arizona Construction Market in 2026: Opportunity Knocks Hard
 
@@ -125,7 +125,7 @@ As mentioned, the ROC requires a surety bond for all licensed contractors. This 
 
 - **Commercial Auto Insurance:** Mandatory for company vehicles.
 
-- **Inland Marine (Equipment Floater):** Protects your tools and equipment from theft or damage, whether on a job site, in transit, or stored. Highly recommended given the value of construction equipment.
+- **Inland Marine (Equipment Floater):** Protects your tools and equipment from theft or damage, whether on a job site, in transit, or stored. Highly recommended given the value of [construction equipment](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign).
 
 - **Builder's Risk Insurance:** If you're building new structures, this covers the project itself (materials, labor, etc.) from damage during construction. Often required by lenders or clients.
 
@@ -143,7 +143,7 @@ This is the big one for Arizona contractors. The [Arizona Department of Revenue 
 
 - **Prime Contractor Responsibility:** As a prime contractor, you are generally responsible for the TPT on the entire contract amount. Subcontractors performing work for you will typically provide you with an Arizona Form 5000 (Transaction Privilege Tax Exemption Certificate) to avoid paying TPT on their portion of the work, as you, the prime, will remit it.
 
-- **Materials:** When you purchase materials that will be incorporated into a construction project, you generally provide your supplier with a TPT exemption certificate (Form 5000). This allows you to purchase materials without paying TPT, as the tax will be applied to the final contract amount.
+- **Materials:** When you purchase materials that will be incorporated into a [construction project](/article/surviving-the-messy-middle-of-construction-growth), you generally provide your supplier with a TPT exemption certificate (Form 5000). This allows you to purchase materials without paying TPT, as the tax will be applied to the final contract amount.
 
 **Warning:** TPT for contractors is complex. Incorrectly handling TPT can lead to significant penalties. Get professional advice from an Arizona tax accountant from day one.
 
@@ -159,7 +159,7 @@ Arizona does not have a state-level "franchise tax" based on capital stock or ne
 
 ### Startup Costs Specific to Operating in Arizona
 
-Starting a construction company requires capital. Here’s a breakdown of Arizona-specific costs to factor into your budget:
+[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company requires capital. Here’s a breakdown of Arizona-specific costs to factor into your budget:
 
 - **ROC License Fees:** Application fees, exam fees (trade and business management), and the initial license fee can range from a few hundred to over a thousand dollars depending on the classification.
 
@@ -350,7 +350,7 @@ Work with an Arizona-licensed insurance broker who specializes in construction t
 
 - **Build Your Team:** Recruit skilled labor. Understand Arizona's employment laws, including heat safety regulations.
 
-- **Network & Market:** Join Arizona construction industry associations. Build relationships with GCs, developers, and suppliers. Start bidding on projects.
+- **Network & Market:** Join Arizona [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) associations. Build relationships with GCs, developers, and suppliers. Start bidding on projects.
 
 - **Stay Compliant & Adapt:** Continuously monitor ROC regulations, TPT changes, and market conditions in Arizona.
 
@@ -360,7 +360,7 @@ Work with an Arizona-licensed insurance broker who specializes in construction t
 
 No, not for any significant work. Arizona law (A.R.S. § 32-1121) generally requires a contractor's license from the Arizona Registrar of Contractors (ROC) for any construction project where the total contract amount is $1,000 or more, or if it requires a building permit. Operating unlicensed above these thresholds carries severe penalties, including fines and potential legal action. Don't risk it.
 
-### What is the difference between a residential and commercial contractor license in Arizona?
+### What is the difference between a residential and commercial [contractor license in](/article/how-to-get-general-contractor-license-washington-2026) Arizona?
 
 Arizona has a dual licensing system. A Residential Contractor license allows you to build or modify residential structures (single-family homes, multi-family up to four units). A Commercial Contractor license is required for work on commercial, industrial, public works, and multi-family structures with five or more units. Many contractors obtain both to maximize their opportunities in the diverse Arizona market.
 

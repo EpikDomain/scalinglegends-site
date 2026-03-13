@@ -2,8 +2,7 @@
 title: "The OSHA 2026 Crackdown: Fall Protection, Documentation and the New Enforcement Reality"
 description: "OSHA's 2026 enforcement priorities, the new penalty structures, and exactly what documentation contractors need to survive an inspection."
 date: "2026-03-05"
-image: "/img/articles/the-osha-2026-crackdown-fall-protection-documentation-and-the-new-enforcement-reality-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-osha-2026-crackdown-fall-protection-documentation-and-th-1772746695.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-osha-2026-crackdown-fall-protection-documentation-and-th-1772746695.png"
 audioUrl: "https://content.rss.com/episodes/332597/2604783/scalinglegends/2026_03_05_23_03_41_912280a3-5213-48b8-b6cb-e6479946538d.mp3"
 readTime: "10 min read"
 published: true
@@ -49,7 +48,7 @@ OSHA's General Industry and Construction standards (29 CFR 1910 and 1926, respec
 
 **OSHA's new emphasis program specifically targets residential construction and roofing, sectors historically challenged by fall protection compliance.** This means increased inspections and a lower tolerance for minor infractions in these areas. Contractors in these trades must ensure their workers are not only equipped with the correct gear but are also rigorously trained in its proper use, inspection, and maintenance. For example, a roofer working on a 7/12 pitch roof must have a comprehensive fall arrest system, including anchor points capable of supporting 5,000 pounds per worker, a full-body harness, and a lanyard/lifeline. Simply having a harness on site is insufficient; it must be worn correctly and tied off to an appropriate anchor point. Neglecting these details is no longer just a risk to worker safety; it's a direct invitation for substantial fines under the new enforcement reality. Proactive planning and integration of fall protection into daily [construction project management](/article/construction-project-management-surviving-the-messy-middle) workflows are essential.
 
-## Non-Negotiable Construction Safety Documentation
+## Non-Negotiable [Construction Safety](/article/how-to-create-construction-safety-program-osha-2026) Documentation
 
 In the current enforcement climate, robust **construction safety documentation** is not merely a formality; it is your primary defense during an OSHA inspection and a cornerstone of effective risk management. The "show me your paperwork" directive from an OSHA inspector is more potent than ever, and a failure to produce comprehensive, accurate, and up-to-date records can quickly escalate a routine inquiry into a costly citation. This goes beyond the basic safety plan; it delves into the specifics of implementation and personnel qualifications.
 

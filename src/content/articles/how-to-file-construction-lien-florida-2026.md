@@ -27,7 +27,7 @@ Florida's construction lien law, codified primarily in Chapter 713 of the Florid
 
 The system is complex, balancing the rights of contractors and suppliers against the rights of property owners. It operates on a strict timeline with specific notice requirements intended to inform owners and other interested parties about who is working on their property and who may have a claim against it.
 
-Given Florida's susceptibility to hurricanes, the construction industry here is often in high gear, responding to extensive rebuild efforts. This intense demand can sometimes lead to rushed projects, strained cash flow, and increased payment disputes. For contractors, whether you're a state-certified general contractor working across county lines or a county-registered specialty contractor focused on local projects, understanding and utilizing Chapter 713 is your strongest defense against non-payment.
+Given Florida's susceptibility to hurricanes, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) here is often in high gear, responding to extensive rebuild efforts. This intense demand can sometimes lead to rushed projects, strained [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies), and increased payment disputes. For contractors, whether you're a state-certified general contractor working across county lines or a county-registered specialty contractor focused on local projects, understanding and utilizing Chapter 713 is your strongest defense against non-payment.
 
 ### Who Has Lien Rights in Florida?
 
@@ -453,11 +453,11 @@ An experienced Florida construction attorney can help you navigate the nuances o
 
 ### Technology Tools for Tracking Florida Lien Deadlines
 
-Given the strict and numerous deadlines in Florida lien law, reliance on manual tracking methods is a recipe for disaster. Leveraging technology is no longer a luxury but a necessity for any serious construction business. Here are types of tools that can help:
+Given the strict and numerous deadlines in Florida lien law, reliance on manual tracking methods is a recipe for disaster. Leveraging technology is no longer a luxury but a necessity for any serious [construction business](/article/how-to-scale-a-construction-business-without-losing-control). Here are types of tools that can help:
 
 - **Lien Management Software:** Dedicated platforms designed specifically for tracking lien deadlines, generating notices (like NTOs), and managing the entire lien process across multiple projects. These tools often have built-in Florida-specific templates and automate reminders.
 
-- **Project Management Software with Custom Fields:** Many robust construction project management platforms allow you to set up custom fields for "First Furnishing Date," "NTO Due Date," "Lien Filing Due Date," etc., and create automated alerts.
+- **Project Management Software with Custom Fields:** Many robust [construction project management](/article/surviving-the-messy-middle-of-construction-growth) platforms allow you to set up custom fields for "First Furnishing Date," "NTO Due Date," "Lien Filing Due Date," etc., and create automated alerts.
 
 - **CRM Systems:** Customer Relationship Management (CRM) software can be configured to track project milestones and trigger reminders for lien-related deadlines.
 

@@ -2,8 +2,7 @@
 title: "The 500K Worker Gap: Recruiting and Retaining the Next Generation of Builders"
 description: "Construction needs 501,000 new workers in 2026 alone. Here is how contractors are solving the labor crisis with apprenticeships, technology, and modern recruiting."
 date: "2026-03-05"
-image: "/img/articles/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-500k-worker-gap-recruiting-and-retaining-the-next-genera-1772747128.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-500k-worker-gap-recruiting-and-retaining-the-next-genera-1772747128.png"
 audioUrl: "https://content.rss.com/episodes/332597/2604270/scalinglegends/2026_03_05_18_57_35_78342106-4ba5-459f-92fd-e2faf9201b59.mp3"
 readTime: "10 min read"
 published: true
@@ -35,7 +34,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 ## The Looming Crisis: Understanding the `construction labor shortage 2026`
 
-The construction industry is at a crossroads. While demand for new infrastructure, housing, and commercial spaces continues to surge, the pipeline of skilled labor is dwindling. The Associated Builders and Contractors (ABC) projects a need for 501,000 additional construction workers in 2026, above and beyond the normal hiring to replace those who leave the industry. This isn't just a national statistic; it translates directly to delayed projects, increased costs, and missed opportunities for contractors operating in the $1M-$50M revenue bracket.
+The construction industry is at a crossroads. While demand for new infrastructure, housing, and commercial spaces continues to surge, the pipeline of skilled labor is dwindling. The Associated Builders and Contractors (ABC) projects a need for 501,000 additional [construction workers in](/article/how-to-hire-retain-construction-workers-2026-guide) 2026, above and beyond the normal hiring to replace those who leave the industry. This isn't just a national statistic; it translates directly to delayed projects, increased costs, and missed opportunities for contractors operating in the $1M-$50M revenue bracket.
 
 The roots of this `construction labor shortage 2026` are multifaceted. A significant portion stems from an aging workforce; nearly one in five construction workers is over 55 and nearing retirement. For every two workers entering retirement, only one is joining the trades. This demographic shift is exacerbated by a historic decline in vocational training in high schools and a societal push towards four-year college degrees, often overlooking the lucrative and stable careers available in construction.
 

@@ -17,7 +17,7 @@ sponsors:
 
 You've built a plumbing business that's hit the half-million-dollar mark. Congratulations. That's a significant achievement, proving you can deliver quality service and acquire customers. But the game changes when you aim for $5 million. Scaling from $500K to $5M isn't just about doing more of the same; it's about fundamental shifts in strategy, operations, and leadership. It demands a ruthless focus on systems, talent, and market penetration.
 
-This article isn't about quick fixes. It's a roadmap for serious owners ready to transform their small plumbing operation into a dominant force. We'll dissect the critical junctures, the necessary investments, and the strategic decisions required to achieve sustained plumbing business growth. From optimizing your service agreements to leveraging cutting-edge technology and smart financing, we'll cover the actionable steps to elevate your company.
+This article isn't about quick fixes. It's a roadmap for serious owners ready to transform their small plumbing operation into a dominant force. We'll dissect the critical junctures, the necessary investments, and the strategic decisions required to achieve sustained plumbing [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul). From optimizing your service agreements to leveraging cutting-edge technology and smart financing, we'll cover the actionable steps to elevate your company.
 
 ## Scaling Your Plumbing Business: Revenue Milestones and What Changes
 
@@ -25,7 +25,7 @@ Understanding what each revenue milestone demands is crucial. Each jump isn't li
 
 ### The $500K Mark: Establishing Your Foundation
 
-At $500K in annual revenue, your business is likely still heavily reliant on you, the owner. You're probably wearing multiple hats: plumber, dispatcher, salesperson, bookkeeper, and HR. You might have a small team of 2-3 plumbers and an admin assistant, or even just a few subcontractors. Cash flow is tight, and every job feels critical. Your focus here is survival, service quality, and basic customer acquisition. You're proving the concept, building a local reputation, and keeping the lights on. Systems are rudimentary, often residing in your head or a basic spreadsheet. This is where you learn the grind, understand your market, and build initial customer trust. This is the stage where you learn how to grow a small plumbing business.
+At $500K in annual revenue, your business is likely still heavily reliant on you, the owner. You're probably wearing multiple hats: plumber, dispatcher, salesperson, bookkeeper, and HR. You might have a small team of 2-3 plumbers and an admin assistant, or even just a few subcontractors. [Cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) is tight, and every job feels critical. Your focus here is survival, service quality, and basic customer acquisition. You're proving the concept, building a local reputation, and keeping the lights on. Systems are rudimentary, often residing in your head or a basic spreadsheet. This is where you learn the grind, understand your market, and build initial customer trust. This is the stage where you learn how to grow a small plumbing business.
 
 ### Breaking $1 Million: Professionalizing Operations
 

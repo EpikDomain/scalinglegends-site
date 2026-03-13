@@ -2,8 +2,7 @@
 title: "Construction Market Intelligence: March 10, 2026 - K-Shaped Economy Deepens as Employment Falls"
 description: "Daily intel: Employment drops 11,000, K-shaped economy splits large and small firms, ConstructConnect index shows 8th straight month of expansion, IEEPA tariff refund ruling, NAHB says tariffs add $10,900 per home. Global: Germany's €500B infrastructure fund, Japan's robot-built dams, NEOM pivot to data centers."
 date: "2026-03-10"
-image: "/img/articles/construction-market-intelligence-march-10-2026-k-shaped-economy-deepens-as-employment-falls-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-10-2026---k-shaped-ec-1773165675.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-10-2026---k-shaped-ec-1773165675.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616310/scalinglegends/2026_03_10_11_28_32_942ce583-9d18-4679-89c0-123702d42778.mp3"
 readTime: "10 min read"
 published: true
@@ -53,7 +52,7 @@ The construction economy just split in two. Big firms are swimming in work, back
 
 - **Strategic Growth Imperative.** The surge in "construction business for sale" queries highlights a critical juncture. Scaling contractors must focus on robust financial planning, technology adoption (e.g., [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation)), and strategic market positioning to counteract market pressures and capitalize on growth segments.
 
-## Navigating the K-Shaped Divide: How to Scale a Construction Business Amidst Contraction
+## Navigating the K-Shaped Divide: How to [Scale a Construction](/article/how-to-scale-construction-company-complete-2026-guide) Business Amidst Contraction
 
 The latest data from February paints a concerning picture for many in the construction sector, yet also highlights a tale of two industries. The market intelligence from [Smart Business Automator](https://smartbusinessautomator.com) confirms that while the overall economy remains robust for large enterprises, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) saw an 11,000 drop in employment. This isn't a uniform decline; it's a deepening of the K-shaped recovery we've discussed previously. Large firms, often backed by public infrastructure spending and mega-projects, continue to thrive, experiencing an 8th consecutive month of growth as reported by the ConstructConnect index. Their robust pipelines and access to capital allow them to absorb rising costs and attract talent.
 

@@ -2,8 +2,7 @@
 title: "What $10M Contractors Wish They Knew at $1M"
 description: "Lessons from contractors who've crossed the $10M threshold. The mistakes, the breakthroughs, and what they'd do differently if they started over."
 date: "2026-03-05"
-image: "/img/articles/what-10m-contractors-wish-they-knew-at-1m-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
 readTime: "10 min read"
 published: true
 season: 2
@@ -46,13 +45,13 @@ One contractor, who scaled his commercial framing company to $12M, reflected, "I
 
 Many contractors are excellent builders but less adept financial strategists. The single most overlooked growth accelerator, according to our $10M survey, is bonding capacity. Securing larger, more lucrative projects—especially in the public sector or with major private developers—requires significant bonding. And bonding capacity isn't just about having collateral; it's about robust, transparent, and audit-ready financials.
 
-"We lost a $5M bid because our financials weren't clean enough for the surety bond company," shared a general contractor who now runs a $18M firm. "That was the wake-up call. We hired a fractional CFO and an external accounting firm immediately. It cost us, but it unlocked exponential growth." The lesson is clear: treat your financial statements as if they'll be audited annually from day one. This means meticulous record-keeping, accurate job costing, and a clear understanding of your balance sheet and income statement.
+"We lost a $5M bid because our financials weren't clean enough for the surety bond company," shared [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) who now runs a $18M firm. "That was the wake-up call. We hired a fractional CFO and an external accounting firm immediately. It cost us, but it unlocked exponential growth." The lesson is clear: treat your financial statements as if they'll be audited annually from day one. This means meticulous record-keeping, accurate job costing, and a clear understanding of your balance sheet and income statement.
 
 Profitability benchmarks also shift as you grow. While a $3M company might aim for an 8-12% net margin, a $10M company typically sees 5-8%, and a $20M+ company often operates at 4-6%. This isn't necessarily a sign of inefficiency; it reflects the increased overhead, administrative costs, and competitive pressures that come with scale. Understanding these benchmarks helps you set realistic goals and identify when your margins are slipping. For effective [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies), having a clear financial picture is non-negotiable.
 
 **Critical Data Point: Companies with strong, audit-ready financials can typically secure bonding limits 3-5 times their working capital, significantly expanding their bidding potential.** This proactive financial hygiene is a hallmark of companies successfully navigating various construction company growth stages.
 
-## Strategic Specialization: Your Path to Sustainable Growing a Construction Company
+## Strategic Specialization: Your Path to Sustainable Growing [a Construction Company](/article/how-to-start-construction-company-washington-2026)
 
 The allure of taking any project that comes your way is strong, especially when you're starting out. However, every $10M contractor we spoke with emphasized the critical importance of niching down before you attempt to scale up. Being a generalist in construction often means competing solely on price, which is a race to the bottom that erodes margins and makes sustainable growth impossible. Specialists, on the other hand, compete on value, expertise, and efficiency.
 

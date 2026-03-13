@@ -57,7 +57,7 @@ While Seattle and Bellevue often grab the headlines, don't ignore the rest of th
 
 - **Other Growth Corridors:** Look at areas like Bellingham (northern I-5 corridor), Tri-Cities (Richland, Pasco, Kennewick) for agricultural processing, energy, and scientific research facilities, and Wenatchee for its growing tech and agricultural sectors.
 
-The takeaway? Washington offers diverse opportunities. Your job is to identify your niche, understand the regional demand, and position your company strategically.
+The takeaway? Washington offers diverse opportunities. Your job is to identify your niche, understand the regional demand, and [position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) strategically.
 
 ## Laying the Foundation: Business Entity & Registration
 
@@ -111,7 +111,7 @@ When you register with L&I, you'll choose one of two classifications:
 
 - **Specialty Contractor:** This limits you to performing work in one specific trade or craft (e.g., plumbing, electrical, roofing, painting, landscaping, concrete). If you only intend to focus on a single trade, this might be appropriate. Be aware that if you register as a specialty contractor, you cannot legally perform work outside your registered specialty or hire other contractors to perform work for you (unless they are within your specialty).
 
-**Recommendation:** Unless you are absolutely certain you will only ever perform one specific trade, register as a General Contractor. It provides far more flexibility for future growth and project scope.
+**Recommendation:** Unless you are absolutely certain you will only ever perform one specific trade, register as [a General Contractor](/article/how-to-get-general-contractor-license-florida-2026). It provides far more flexibility for future growth and project scope.
 
 ### The L&I Registration Process: No Exam, But Requirements
 
@@ -145,7 +145,7 @@ If you have any employees in Washington, you are legally required to provide wor
 
 Your UBI number is your business's social security number in Washington. You get it when you register your business with the Secretary of State or through the Department of Revenue's Business Licensing Service. The Washington Business License is essentially a collection of endorsements from various state agencies, allowing you to legally operate. You'll apply for and manage this through the Department of Revenue's Business Licensing Service (BLS). Your L&I contractor registration will be an endorsement on your Washington Business License.
 
-## Insuring Your Washington Construction Business
+## Insuring Your Washington [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control)
 
 Beyond the L&I minimums, robust insurance is your shield against the myriad risks in construction.
 
@@ -153,7 +153,7 @@ Beyond the L&I minimums, robust insurance is your shield against the myriad risk
 
 - **Commercial Auto Insurance:** If you use vehicles for business, this is essential. Personal auto policies won't cover commercial use.
 
-- **Inland Marine (Tools & Equipment) Insurance:** Covers your tools and equipment, whether they're at the job site, in transit, or stored at your shop. Given the cost of construction equipment, this is a must-have.
+- **Inland Marine (Tools & Equipment) Insurance:** Covers your tools and equipment, whether they're at the job site, in transit, or stored at your shop. Given the cost of [construction equipment](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), this is a must-have.
 
 - **Builder's Risk Insurance:** Project-specific coverage for structures under construction, protecting against damage from fire, theft, vandalism, and other perils. Often required by clients or lenders for larger projects.
 
@@ -211,7 +211,7 @@ Beyond state taxes, be aware of local business licenses, permits, and potentiall
 
 ## Realistic Startup Costs in Washington
 
-Starting a construction company is capital intensive. Here’s a breakdown of what to expect in Washington:
+[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company is capital intensive. Here’s a breakdown of what to expect in Washington:
 
 ### Initial Registration and Legal Fees
 
@@ -253,7 +253,7 @@ Starting a construction company is capital intensive. Here’s a breakdown of wh
 
 - **Contingency Fund:** At least 3-6 months of operating expenses.
 
-**Total Initial Startup Costs:** Realistically, you’re looking at a minimum of $10,000 - $30,000 for a lean, single-owner specialty contractor, easily escalating to $50,000 - $100,000+ for a general contractor with initial equipment and a small team. Secure enough capital to cover at least six months of operations without relying heavily on project revenue, as cash flow can be tight in the beginning.
+**Total Initial Startup Costs:** Realistically, you’re looking at a minimum of $10,000 - $30,000 for a lean, single-owner specialty contractor, easily escalating to $50,000 - $100,000+ for a general contractor with initial equipment and a small team. Secure enough capital to cover at least six months of operations without relying heavily on project revenue, as [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) can be tight in the beginning.
 
 ## Finding Your First Projects: Where the Work Is
 
@@ -269,7 +269,7 @@ Getting your first few projects is about strategic targeting and relentless netw
 
 ### Government Contracts: Prevailing Wage and Opportunity
 
-Washington state agencies, counties, and cities regularly bid out construction projects. This includes WSDOT (Washington State Department of Transportation), Sound Transit, local school districts, and municipal public works departments. These contracts often come with reliable payment but also stringent requirements, including:
+Washington state agencies, counties, and cities regularly bid out [construction projects](/article/surviving-the-messy-middle-of-construction-growth). This includes WSDOT (Washington State Department of Transportation), Sound Transit, local school districts, and municipal public works departments. These contracts often come with reliable payment but also stringent requirements, including:
 
 - **Prevailing Wage:** Mandatory on most public works projects. You must pay your workers at or above the rates published by L&I for specific trades and counties.
 
@@ -291,7 +291,7 @@ Relationships are king in construction. You need to be seen, known, and trusted.
 
 - **Building Industry Association of Washington (BIAW):** Focuses on residential construction. Great for connecting with homebuilders and residential developers.
 
-- **National Association of Women in Construction (NAWIC) - Washington Chapters:** For women in the industry.
+- **National Association of [Women in Construction](/article/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026) (NAWIC) - Washington Chapters:** For women in the industry.
 
 - **Local Chambers of Commerce:** Good for general business networking.
 
@@ -459,7 +459,7 @@ The Business & Occupation (B&O) tax is Washington's primary business tax, levied
 
 ### Q6: Can I start a construction company in Washington as a sole proprietor?
 
-Yes, you can register with L&I as a sole proprietor. However, it's generally not recommended for construction due to the high liability risks. As a sole proprietor, your personal assets are not protected from business debts or lawsuits. Forming an LLC or Corporation offers crucial personal liability protection and is advised for anyone entering the construction industry in Washington.
+Yes, you can register with L&I as a sole proprietor. However, it's generally not recommended for construction due to the high liability risks. As a sole proprietor, your personal assets are not protected from business debts or lawsuits. Forming an LLC or Corporation offers crucial personal liability protection and is advised for anyone entering the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) in Washington.
 
 ### Q7: How long does the L&I contractor registration process typically take?
 

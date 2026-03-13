@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The construction industry is a beast. Projects are complex, margins can be tight, and competition is fierce. Every contractor, from the solo remodeler to the multi-crew commercial outfit, faces the same relentless challenge: how to get construction leads. In 2026, the game hasn't changed its core rules, but the playing field is more digital than ever. The good news? You don't need a massive marketing budget to fill your pipeline. This isn't about cutting corners; it's about working smarter. Scaling Legends is here to tell you, straight up, how to get construction leads for free, dominate your market, and keep your crews busy without spending a dime on advertising.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is a beast. Projects are complex, margins can be tight, and competition is fierce. Every contractor, from the solo remodeler to the multi-crew commercial outfit, faces the same relentless challenge: how to get construction leads. In 2026, the game hasn't changed its core rules, but the playing field is more digital than ever. The good news? You don't need a massive marketing budget to fill your pipeline. This isn't about cutting corners; it's about working smarter. Scaling Legends is here to tell you, straight up, how to get construction leads for free, dominate your market, and keep your crews busy without spending a dime on advertising.
 
 Forget the fluff. This guide is your no-BS roadmap to consistently finding high-quality construction leads online and offline using only your time, effort, and existing resources. We're talking about strategies that deliver results, not empty promises. If you're ready to put in the work, your lead generation problems are about to become a relic of the past.
 
@@ -39,7 +39,7 @@ Once verified, treat your GBP profile like a resume for your business. Every fie
 
 - **Primary Category:** This is crucial. Choose the category that best describes your core service (e.g., "General Contractor," "Home Builder," "Remodeler"). Be precise.
 
-- **Additional Categories:** Add up to nine more relevant categories. If you're a general contractor, you might also include "Kitchen Remodeler," "Bathroom Remodeler," "Commercial Builder," etc.
+- **Additional Categories:** Add up to nine more relevant categories. If you're [a general contractor](/article/how-to-get-general-contractor-license-florida-2026), you might also include "Kitchen Remodeler," "Bathroom Remodeler," "Commercial Builder," etc.
 
 - **Service Areas:** Clearly define the geographical areas you serve. Don't just list your city; include surrounding towns or counties.
 
@@ -51,7 +51,7 @@ Once verified, treat your GBP profile like a resume for your business. Every fie
 
 - **Services:** This is an often-underutilized section. List every service you offer in detail. Don't just say "Construction." Break it down: "New Home Construction," "Kitchen Remodeling," "Bathroom Remodeling," "Commercial Tenant Improvements," "Foundation Repair," "Deck Building," etc. Use keywords your clients would search for.
 
-- **Business Description:** Craft a compelling, keyword-rich description (up to 750 characters) that explains what makes your business unique. Include your primary services, target audience, and service areas. Naturally integrate keywords like "how to get contractor leads" and "how to get clients for construction business" if they fit, but prioritize readability and relevance to your services.
+- **Business Description:** Craft a compelling, keyword-rich description (up to 750 characters) that explains what makes your business unique. Include your primary services, target audience, and service areas. Naturally integrate keywords like "how to get contractor leads" and "how to get clients for [construction business](/article/how-to-scale-a-construction-business-without-losing-control)" if they fit, but prioritize readability and relevance to your services.
 
 ### Photos and Videos: Showcase Your Work
 
@@ -480,7 +480,7 @@ Regularly review your tracking data (monthly or quarterly):
 
 ## The How-To Guide to Implementing Your Free Lead Strategy in 2026
 
-You've got the knowledge. Now, it's time for action. Here’s your step-by-step plan to implement these free lead generation strategies for your construction business.
+You've got the knowledge. Now, it's time for action. Here’s your step-by-step plan to implement these free lead generation strategies for [your construction business](/article/how-to-systematize-construction-business-sops-software-2026).
 
 - **Audit Your Current Online Presence:** Start by searching for your business on Google, Google Maps, Facebook, Yelp, and Nextdoor. Note what's missing, outdated, or incorrect. This is your baseline.
 
@@ -518,7 +518,7 @@ While not strictly mandatory for *all* free methods (e.g., you can generate lead
 
 ### How much time should I dedicate to free lead generation each week?
 
-For a serious and effective effort, budget at least 5-10 hours per week. This time should be allocated to various tasks: updating your Google Business Profile, creating social media content, engaging with online communities, writing blog posts, networking, and diligently tracking your leads. Think of it as an investment in your business's future. The more consistently you dedicate time, the more robust your lead pipeline will become. Don't treat it as an afterthought; schedule it like any other critical business task.
+For a serious and effective effort, budget at least 5-10 hours per week. This time should be allocated to various tasks: updating your Google Business Profile, creating social media content, engaging with online communities, writing blog posts, networking, and diligently tracking your leads. Think of it as an investment in your business's future. The more consistently you dedicate time, the more robust [your lead pipeline](/article/contractor-seo-in-2026-how-ai-search-is-killing-your-lead-pipeline) will become. Don't treat it as an afterthought; schedule it like any other critical business task.
 
 ### Can small construction businesses effectively compete for free leads against larger companies?
 

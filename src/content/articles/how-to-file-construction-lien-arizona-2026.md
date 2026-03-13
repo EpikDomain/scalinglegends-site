@@ -17,7 +17,7 @@ How to File a Construction Lien in Arizona: Deadlines, Forms, and Process for 20
 
 # How to File a Construction Lien in Arizona: Deadlines, Forms, and Process for 2026
 
-Arizona's construction industry is booming, particularly in the Phoenix metro area, one of the fastest-growing regions in the nation. This rapid expansion, coupled with Arizona's unique dual licensing system for residential and commercial contractors, creates a dynamic environment where securing payment is paramount. For contractors, subcontractors, suppliers, and design professionals, understanding how to file a construction lien in Arizona is not just a best practice; it's a critical financial safeguard.
+Arizona's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is booming, particularly in the Phoenix metro area, one of the fastest-growing regions in the nation. This rapid expansion, coupled with Arizona's unique dual licensing system for residential and commercial contractors, creates a dynamic environment where securing payment is paramount. For contractors, subcontractors, suppliers, and design professionals, understanding how to file a construction lien in Arizona is not just a best practice; it's a critical financial safeguard.
 
 This comprehensive guide from Scaling Legends cuts through the complexity, providing a direct, no-BS walkthrough of Arizona's mechanics lien laws. We'll detail every deadline, form requirement, and process step specific to Arizona Revised Statutes §33-981 through 33-1008, ensuring you have the accurate, actionable information needed to protect your right to payment in 2026.
 
@@ -35,7 +35,7 @@ Arizona law grants lien rights to a broad range of parties who contribute to the
 
 - **General Contractors (Original Contractors):** Those who contract directly with the property owner.
 
-- **Subcontractors:** Those who contract with a general contractor or another subcontractor.
+- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) or another subcontractor.
 
 - **Material Suppliers:** Companies or individuals who provide materials, machinery, or tools used in the construction, alteration, or repair of a structure.
 
@@ -217,7 +217,7 @@ Once your lien is recorded and served, it acts as an encumbrance on the property
 
 ## Lien Waivers Under Arizona Law
 
-Lien waivers are common documents in construction projects, used to relinquish lien rights in exchange for payment. Arizona law specifically addresses lien waivers to ensure fairness and prevent ambiguity (A.R.S. §33-1008).
+Lien waivers are common documents in [construction projects](/article/surviving-the-messy-middle-of-construction-growth), used to relinquish lien rights in exchange for payment. Arizona law specifically addresses lien waivers to ensure fairness and prevent ambiguity (A.R.S. §33-1008).
 
 ### Key Aspects of Arizona Lien Waivers:
 

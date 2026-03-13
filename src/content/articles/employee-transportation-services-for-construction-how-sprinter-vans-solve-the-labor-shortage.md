@@ -2,8 +2,7 @@
 title: "Employee Transportation Services for Construction: How Sprinter Vans Solve the Labor Shortage"
 description: "Construction workers have the longest commutes of any profession. With turnover at 68.2% in 2025, contractors are using shuttle services, electric Sprinter vans, and vanpool programs to retain crews. Case studies from Walmart, data center mega-projects, and a 0/month vanpool that's proving the model."
 date: "2026-03-07"
-image: "/img/articles/employee-transportation-services-for-construction-how-sprinter-vans-solve-the-labor-shortage-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/employee-transportation-construction-1772868761.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/employee-transportation-construction-1772868761.png"
 audioUrl: "https://content.rss.com/episodes/332597/2608578/scalinglegends/2026_03_07_16_17_09_cd1d188b-2a26-4be5-84aa-93dd607ba75b.mp3"
 readTime: "20 min read"
 published: true
@@ -17,7 +16,7 @@ sponsors:
 
 <iframe src="https://www.youtube.com/embed/aDl881Ecv_k" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-## Construction Workers Have the Longest Commutes in America. Most Contractors Do Nothing About It.
+## [Construction Workers](/article/how-to-hire-retain-construction-workers-2026-guide) Have the Longest Commutes in America. Most Contractors Do Nothing About It.
 
 Construction and mining workers have the **longest average commute of any profession in the country at 33+ minutes each way** (Priceonomics). The general workforce averages 41 miles round trip daily (FinanceBuzz 2025). And unlike office workers who can hop on Zoom, your crew can't pour concrete from their couch.
 

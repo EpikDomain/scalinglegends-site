@@ -69,7 +69,7 @@ Scaling isn't linear. Your focus, challenges, and operational structure will shi
 
 At this stage, you're likely doing most of the heavy lifting. You're the technician, the salesperson, the dispatcher, and the bookkeeper. You might have one or two helpers or junior technicians. Your biggest challenge is time management and simply getting through the day.
 
-- **Focus:** Consistently delivering quality work, building a local reputation, and generating enough cash flow to survive.
+- **Focus:** Consistently delivering quality work, building a local reputation, and generating enough [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) to survive.
 
 - **Systems:** Very basic, probably paper-based scheduling, manual invoicing.
 
@@ -203,7 +203,7 @@ If you're starting out or under $1M, pick one and master it. Once you have solid
 
 ## Building Your A-Team: Hiring and Training HVAC Technicians
 
-Your technicians are the face of your company. They are your revenue drivers and your brand ambassadors. In a tight labor market, attracting and retaining top talent is paramount for HVAC business growth strategy.
+Your technicians are the face of your company. They are your revenue drivers and your brand ambassadors. In a tight labor market, attracting and retaining top talent is paramount for HVAC [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul) strategy.
 
 ### Innovative Recruitment Strategies
 
@@ -423,7 +423,7 @@ This transition positions your company as the expert:
 
 - **Technician Training:** Invest heavily in training your technicians on the safe handling, installation, and servicing of A2L refrigerants. This specialized knowledge gives you a competitive edge.
 
-- **Marketing Advantage:** Position your company as forward-thinking, environmentally responsible, and compliant with the latest regulations. Use this in your marketing messages to attract new customers.
+- **Marketing Advantage:** [Position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) as forward-thinking, environmentally responsible, and compliant with the latest regulations. Use this in your marketing messages to attract new customers.
 
 - **Tool Upgrades:** While an investment, new recovery machines, leak detectors, and manifold gauges designed for A2L refrigerants are essential.
 

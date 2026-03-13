@@ -21,7 +21,7 @@ This isn't just about tidiness; it's about operational efficiency, risk mitigati
 
 ## The Document Chaos Problem in Construction
 
-The construction industry generates an astounding volume of paperwork and digital files. From initial bids and contracts to design drawings, specifications, RFIs, submittals, change orders, daily reports, safety logs, inspection reports, and closeout documents – the sheer quantity can overwhelm even the most experienced project managers. This deluge of data, if not systematically managed, quickly devolves into chaos.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) generates an astounding volume of paperwork and digital files. From initial bids and contracts to design drawings, specifications, RFIs, submittals, change orders, daily reports, safety logs, inspection reports, and closeout documents – the sheer quantity can overwhelm even the most experienced project managers. This deluge of data, if not systematically managed, quickly devolves into chaos.
 
 The consequences are severe:
 
@@ -37,7 +37,7 @@ The consequences are severe:
 
 - **Lost Knowledge:** Without a structured system, valuable project data and lessons learned are lost, preventing continuous improvement.
 
-The traditional approach of physical filing cabinets, disparate spreadsheets, and email chains is no longer viable. To thrive, construction companies must embrace modern strategies for [construction file organization](https://scalinglegends.com), leveraging technology to bring order to the chaos and empower their teams.
+The traditional approach of physical filing cabinets, disparate spreadsheets, and email chains is no longer viable. To thrive, [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) must embrace modern strategies for [construction file organization](https://scalinglegends.com), leveraging technology to bring order to the chaos and empower their teams.
 
 ## Establishing a Robust Folder Structure: Your Digital Blueprint
 
@@ -211,7 +211,7 @@ While not a construction-specific DDMS, Box is a powerful enterprise-grade cloud
 
 - **Egnyte:** Provides a hybrid cloud solution, combining the speed of local access with the flexibility of cloud storage, ideal for large files and distributed teams.
 
-- **Aconex (Oracle Construction and Engineering):** A comprehensive project collaboration platform, particularly strong for large-scale infrastructure and capital projects, offering extensive document control and workflow automation.
+- **Aconex (Oracle Construction and Engineering):** A comprehensive project collaboration platform, particularly strong for large-scale infrastructure and capital projects, offering extensive document control and [workflow automation](/article/the-contractors-guide-to-project-workflow-automation).
 
 The right DDMS will streamline your processes, ensure data integrity, and provide a single source of truth for all project information.
 
@@ -572,7 +572,7 @@ While Google Drive (or similar services like Dropbox or OneDrive) can provide ba
 
 ### What's the difference between a DDMS and a standard cloud storage service?
 
-A DDMS (Digital Document Management System) like Procore or Autodesk Build is purpose-built for construction workflows. It offers features like automated RFI/submittal tracking, drawing markup tools, version control for large CAD files, field reporting, and direct links between documents. Standard cloud storage services (e.g., Google Drive, Dropbox) are general-purpose file repositories; they offer storage and sharing but lack the specialized features and interconnected workflows critical for construction projects.
+A DDMS (Digital Document Management System) like Procore or Autodesk Build is purpose-built for construction workflows. It offers features like automated RFI/submittal tracking, drawing markup tools, version control for large CAD files, field reporting, and direct links between documents. Standard cloud storage services (e.g., Google Drive, Dropbox) are general-purpose file repositories; they offer storage and sharing but lack the specialized features and interconnected workflows critical for [construction projects](/article/surviving-the-messy-middle-of-construction-growth).
 
 ### How do I get my field teams to adopt new document management practices?
 

@@ -2,8 +2,7 @@
 title: "Diesel at $4.60: How to Fuel-Proof Your Construction Business"
 description: "Oil broke $103 a barrel. Diesel is reacting more aggressively than gas. Equipment costs are up 5.6% YoY. Here's how to manage fuel exposure before it eats your margins."
 date: "2026-03-10"
-image: "/img/articles/diesel-at-460-how-to-fuel-proof-your-construction-business-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616405/scalinglegends/2026_03_10_12_19_54_7fccd1ae-abb4-42c3-980b-613bf68b1c55.mp3"
 readTime: "11 min read"
 published: true
@@ -23,7 +22,7 @@ sponsors:
 
 As of March 2026, diesel prices have hit $4.60 per gallon nationally, up from $3.85 in January 2026. Construction companies typically spend 5-8% of total project costs on fuel. For a mid-size contractor running 10 pieces of heavy equipment, that translates to $15,000-$25,000 per month in fuel costs alone. Oil breaking $103 per barrel is the primary driver, with geopolitical tensions keeping prices elevated.
 
-### What is a fuel escalation clause in a construction contract?
+### What is a fuel escalation clause in [a construction contract](/article/how-to-write-construction-contract-guide-2026)?
 
 A fuel escalation clause is a contract provision that allows the contractor to adjust their bid price if fuel costs rise above a specified threshold during the project. Typically triggered when diesel prices increase 10-15% above the price at bid time. The clause should reference the DOE weekly diesel price index and specify automatic price adjustments per gallon above the baseline. In 2026, this clause is critical for any project lasting more than 90 days.
 
@@ -53,7 +52,7 @@ Diesel just hit $4.60 and it's not stopping. Here's how to stop the bleeding. Oi
 
 - **Plan for $5 Diesel.** Don't react; anticipate. Model your business financials with diesel consistently at $5 per gallon and develop a contingency plan that ensures profitability.
 
-## Protecting Your Margins: How to Scale a Construction Business Amidst Fuel Spikes
+## Protecting Your Margins: How to [Scale a Construction](/article/how-to-scale-construction-company-complete-2026-guide) Business Amidst Fuel Spikes
 
 The volatility of fuel prices poses a direct threat to the profitability of any construction business, especially those aiming to [scale a construction business](/article/how-to-scale-a-construction-business-without-losing-control) effectively. With diesel hitting $4.60 a gallon and oil breaking $103 a barrel, the impact on equipment operating costs—already up 5.6% year-over-year—is immediate and substantial. For a contractor running a fleet of heavy machinery, a 50-cent increase per gallon can translate into thousands of dollars in unbudgeted expenses on a single large project, directly eroding your profit margins. This isn't just an inconvenience; it's an existential threat to your growth trajectory if not managed proactively.
 

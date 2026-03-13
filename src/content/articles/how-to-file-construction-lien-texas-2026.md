@@ -21,7 +21,7 @@ This guide, prepared by the experts at Scaling Legends, provides a direct, no-BS
 
 ### Overview of Texas Mechanics Lien Law
 
-Texas stands out as a state that generally fosters a business-friendly environment, notably by not requiring a statewide general contractor license. This approach, while simplifying entry into the construction market, places a greater burden on participants to understand and enforce their rights, particularly concerning payment. However, this "business-friendly" facade can quickly turn into a legal minefield when it comes to mechanics liens, as local rules and regulations can vary wildly from one city or county to another, adding layers of complexity to an already intricate state law.
+Texas stands out as a state that generally fosters a business-friendly environment, notably by not requiring a statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026). This approach, while simplifying entry into the [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), places a greater burden on participants to understand and enforce their rights, particularly concerning payment. However, this "business-friendly" facade can quickly turn into a legal minefield when it comes to mechanics liens, as local rules and regulations can vary wildly from one city or county to another, adding layers of complexity to an already intricate state law.
 
 The core purpose of a Texas mechanic's lien is straightforward: it provides a security interest in the improved property to those who furnish labor or materials for its improvement. If a property owner, general contractor, or upstream subcontractor fails to pay, the lien claimant can, in theory, force the sale of the property to satisfy the debt. This right is enshrined in the Texas Constitution (Article XVI, Section 37) and detailed extensively in Texas Property Code Chapter 53.
 
@@ -279,11 +279,11 @@ Given the complexity and strictness of Texas lien law, consulting with a qualifi
 
 ### Technology Tools for Tracking Texas Lien Deadlines
 
-The intricate, project-type-specific, and monthly deadlines in Texas make manual tracking a high-risk endeavor. Leveraging technology is no longer a luxury but a strategic imperative for any construction business operating in Texas.
+The intricate, project-type-specific, and monthly deadlines in Texas make manual tracking a high-risk endeavor. Leveraging technology is no longer a luxury but a strategic imperative for any [construction business](/article/how-to-scale-a-construction-business-without-losing-control) operating in Texas.
 
 - **Lien Management Software:** Specialized platforms exist (e.g., Levelset, Handle.com, National Lien & Bond) that are designed to track preliminary notice and lien deadlines, generate statutory forms, and manage the entire lien process. These tools often integrate with project management software and offer automated reminders.
 
-- **Project Management Platforms with Lien Tracking Features:** Some comprehensive construction project management software (e.g., Procore, Buildertrend) include modules or integrations that can help track key dates relevant to lien rights.
+- **Project Management Platforms with Lien Tracking Features:** Some comprehensive [construction project management](/article/surviving-the-messy-middle-of-construction-growth) software (e.g., Procore, Buildertrend) include modules or integrations that can help track key dates relevant to lien rights.
 
 - **Advanced Calendar and Reminder Systems:** While not as robust as dedicated lien software, using shared digital calendars with multiple alerts (e.g., Google Calendar, Outlook Calendar) can serve as a basic failsafe, especially when coupled with a detailed internal process.
 
