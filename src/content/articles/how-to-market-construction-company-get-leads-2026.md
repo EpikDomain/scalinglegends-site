@@ -3,7 +3,6 @@ title: "How to Market a Construction Company and Get More Leads in 2026"
 description: "Stop wasting money on marketing that doesn't work. This guide covers Google Business Profile, local SEO, paid ads, social media, referral systems, and the marketing budget benchmarks for contractors at every revenue level."
 date: "2026-02-20"
 image: "https://scalinglegends.com/og/how-to-market-construction-company-get-leads-2026.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2622758/scalinglegends/2026_03_12_13_57_37_396b49df-4dd5-4903-aaa9-12758143117d.mp3"
 readTime: "83 min read"
 published: true
 season: 2
