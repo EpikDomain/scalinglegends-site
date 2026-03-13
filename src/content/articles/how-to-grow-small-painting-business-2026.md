@@ -115,7 +115,7 @@ Once you have your total costs, add your desired profit margin. This isn't arbit
 
 - **Tiered Pricing:** Offer good, better, best options to clients (e.g., standard paint vs. premium paint, basic prep vs. extensive prep).
 
-Invest in estimating software. It reduces errors, saves time, and presents a professional image. Tools like Estimate Rocket, Jobber, or specialized painting software can transform this process.
+Invest in estimating software. It reduces errors, saves time, and presents a professional image. Purpose-built estimating tools for the trades can transform this process.
 
 ## Marketing That Converts: Filling the Pipeline
 
@@ -203,11 +203,11 @@ Manual processes are bottlenecks. Technology allows you to automate, track, and 
 
 ### Essential Software for Painting Companies
 
-- **CRM (Customer Relationship Management):** Track leads, manage client communications, schedule follow-ups. (e.g., Jobber, Housecall Pro, Zoho CRM)
+- **CRM (Customer Relationship Management):** Track leads, manage client communications, schedule follow-ups. Look for a CRM built for field service businesses, not generic sales tools.
 
 - **Estimating & Invoicing Software:** Create professional bids, track job costs, generate invoices. (e.g., Estimate Rocket, FreshBooks, QuickBooks)
 
-- **Project Management Software:** Schedule jobs, assign tasks to crews, track progress, manage materials. (e.g., Trello, Asana, Jobber, Buildertrend)
+- **Project Management Software:** Schedule jobs, assign tasks to crews, track progress, manage materials. Choose a platform purpose-built for field service, not generic project management tools.
 
 - **Accounting Software:** Manage payroll, expenses, revenue, and financial reporting. (e.g., QuickBooks, Xero)
 

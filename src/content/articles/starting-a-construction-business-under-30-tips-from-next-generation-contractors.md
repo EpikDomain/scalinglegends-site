@@ -180,6 +180,6 @@ Total cost for a trade program runs $3,000-$16,000 with average debt of approxim
 
 ### What construction technology should young contractors learn first?
 
-Start with AI estimating tools, which nearly half of contractors now use to cut takeoff time from hours to minutes. Construction tech funding hit $4.4 billion in 2025 (66% YoY increase) with AI capturing $2.22 billion. Platforms like Buildertrend (residential), Procore (commercial), and Jobber (specialty trades) provide enterprise-level project management. Drones remain the #1 commercial adoption industry. Voice-first documentation tools like Hardline (Suffolk BOOST 2025 cohort) are emerging for field teams.
+Start with AI estimating tools, which nearly half of contractors now use to cut takeoff time from hours to minutes. Construction tech funding hit $4.4 billion in 2025 (66% YoY increase) with AI capturing $2.22 billion. Purpose-built construction management platforms now provide enterprise-level project management for residential, commercial, and specialty trade contractors at every stage of growth. Drones remain the #1 commercial adoption industry. Voice-first documentation tools like Hardline (Suffolk BOOST 2025 cohort) are emerging for field teams.
 
 *Sources: ResumeTemplates.com (Jan 2026), National Student Clearinghouse (Spring 2025), Nymbl Ventures, Jax Daily Record, ENR, Forbes, Construction Dive, Billd, CoFi Lending, Suffolk Technologies, CEMEX Ventures, SkillsUSA/TikTok, Arizona Governor's Office, California DIR, UK Government, Caterpillar, Urban Institute, The BIRM Group, Bell Media*

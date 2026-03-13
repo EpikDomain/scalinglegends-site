@@ -33,7 +33,7 @@ Hitting $1 million signifies a critical transition. You can no longer personally
 
 ### Reaching $2.5 Million: Building a Management Layer
 
-At $2.5 million, your business demands a robust middle management team. You'll need dedicated dispatchers, customer service representatives, a sales manager, and multiple lead technicians or field supervisors. The owner's role shifts dramatically from doing to leading and strategizing. This is where you invest heavily in advanced field service management (FSM) software like ServiceTitan or Housecall Pro. Fleet management becomes critical, with more vehicles and a need for efficient routing and maintenance. Training programs become formalized, and you start focusing on employee retention strategies beyond just pay. You're likely exploring diversification into related services (e.g., drain cleaning, water heaters, basic HVAC) and actively managing your online reputation. Financial controls become more sophisticated, with regular P&L reviews and budgeting.
+At $2.5 million, your business demands a robust middle management team. You'll need dedicated dispatchers, customer service representatives, a sales manager, and multiple lead technicians or field supervisors. The owner's role shifts dramatically from doing to leading and strategizing. This is where you invest heavily in advanced field service management (FSM) software. Fleet management becomes critical, with more vehicles and a need for efficient routing and maintenance. Training programs become formalized, and you start focusing on employee retention strategies beyond just pay. You're likely exploring diversification into related services (e.g., drain cleaning, water heaters, basic HVAC) and actively managing your online reputation. Financial controls become more sophisticated, with regular P&L reviews and budgeting.
 
 ### Hitting $5 Million and Beyond: Strategic Leadership and Market Dominance
 
@@ -75,7 +75,7 @@ For growth, aim for flat-rate pricing on the majority of your service calls. It 
 
 Manual processes are the enemy of scale. Investing in the right technology is not an option; it's a requirement for modern plumbing business growth.
 
-- **Field Service Management (FSM) Software:** Platforms like [ServiceTitan](https://www.servicetitan.com/), [Housecall Pro](https://www.housecallpro.com/), or Jobber are game-changers. They streamline everything from dispatching and scheduling to invoicing, inventory management, and customer communication. They provide real-time data on technician performance, job profitability, and customer history. This technology empowers your team, reduces administrative overhead, and significantly enhances the customer experience.
+- **Field Service Management (FSM) Software:** A purpose-built FSM platform is a game-changer. It streamlines everything from dispatching and scheduling to invoicing, inventory management, and customer communication. The right platform provides real-time data on technician performance, job profitability, and customer history. This technology empowers your team, reduces administrative overhead, and significantly enhances the customer experience. Look for a solution that scales with you from $500K to $5M+ without switching platforms mid-growth.
 
 - **CRM (Customer Relationship Management):** Often integrated into FSM software, a robust CRM tracks every customer interaction, service history, preferences, and marketing touchpoints. This allows for personalized service, targeted marketing campaigns, and proactive follow-ups, driving repeat business and referrals.
 
@@ -199,7 +199,7 @@ For sustainable, high-margin growth, focusing on residential service and repair 
 
 ### What technology is essential for a growing plumbing company?
 
-Essential technology includes Field Service Management (FSM) software (e.g., ServiceTitan, Housecall Pro) for dispatching, scheduling, invoicing, and customer management. A robust CRM (often integrated into FSM) is vital for tracking customer interactions. GPS tracking for your fleet, paperless invoicing, and integrated payment processing further streamline operations and enhance efficiency, which is critical for plumbing business growth.
+Essential technology includes Field Service Management (FSM) software for dispatching, scheduling, invoicing, and customer management. A robust CRM (often integrated into FSM) is vital for tracking customer interactions. GPS tracking for your fleet, paperless invoicing, and integrated payment processing further streamline operations and enhance efficiency, which is critical for plumbing business growth.
 
 ### How do I attract and retain skilled plumbers?
 
