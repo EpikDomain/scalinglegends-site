@@ -2,7 +2,8 @@
 title: "CONEXPO 2026 Decoded: What the Biggest Construction Show on Earth Means for Your Business"
 description: "CONEXPO-CON/AGG 2026 just wrapped in Las Vegas with 2,000 exhibitors across 3 million square feet. Caterpillar debuted its first autonomous soil compactor and AI assistant. HD Hyundai unveiled Real-X autonomous excavation. Electric dozers hit the show floor. But while the big companies are buzzing about autonomous jobsites, nobody is telling the $3M-$20M contractor what this actually means for their business in the next 12-24 months. This episode cuts through the noise: which technologies are ready to deploy, which are 3-5 years out, and where the real ROI opportunities are right now."
 date: "2026-03-06"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/conexpo-2026-decoded-what-the-biggest-construction-show-on-e-1772808245.png"
+image: "/img/articles/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/conexpo-2026-decoded-what-the-biggest-construction-show-on-e-1772808245.png"
 audioUrl: "https://content.rss.com/episodes/332597/2605872/scalinglegends/2026_03_06_15_05_22_47e2ab42-0cb1-4b0b-bd24-bedb21c45c91.mp3"
 readTime: "5 min read"
 published: true
@@ -42,6 +43,6 @@ However, for the $3M-$20M contractor, the immediate implications are more nuance
 
 The real takeaway from CONEXPO 2026 for the scaling contractor is the accelerating integration of *assisted* autonomy and advanced telematics. Features like Cat AI Assistant, designed to reduce fleet management complexity by integrating with systems like Geotab for full fleet visibility, offer immediate, tangible benefits. These systems provide real-time data on machine health, fuel consumption, and utilization, enabling proactive maintenance and optimizing operational efficiency. For contractors grappling with labor shortages, these tools can extend the capabilities of existing crews and improve overall project profitability. The shift is not just about replacing operators, but about augmenting their capabilities and providing data-driven insights to improve [construction project management](/article/construction-project-management-surviving-the-messy-middle).
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 **Callout:** Cat's CS12 autonomous compactor is the first fully autonomous machine for commercial use, but widespread adoption for diverse job sites is estimated to be 3-5
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

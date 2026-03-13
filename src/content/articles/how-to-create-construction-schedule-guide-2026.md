@@ -740,6 +740,6 @@ Stop accepting schedule failures as inevitable. Embrace proactive planning, invo
 
 Take these principles, implement these steps, and transform your scheduling process from a liability into your most powerful asset. Your bottom line, your reputation, and your sanity will thank you.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 For more insights and strategies to scale your construction business, visit [scalinglegends.com](https://scalinglegends.com).
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

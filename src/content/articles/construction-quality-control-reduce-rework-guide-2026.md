@@ -778,6 +778,6 @@ While their participation is ideal, your primary responsibility is to deliver a 
 
 Concealed work (e.g., buried utilities, in-wall MEP rough-ins, waterproofing) is notoriously difficult to inspect once covered. The solution lies in strict hold points and meticulous documentation. Require inspections of concealed elements by your QC team, relevant authorities, and ideally the client/architect, *before* they are covered. Take extensive, timestamped, and geotagged photographs and videos of all concealed work, linking them to specific locations on your plans. This provides irrefutable evidence of compliance.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 Implementing effective **construction quality control** isn't just about avoiding mistakes; it's about building a reputation for excellence, fostering client trust, and most importantly, protecting and growing your profit margins. For ambitious contractors scaling from $1M to $50M+, a robust quality management system is not an option—it's a strategic imperative.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

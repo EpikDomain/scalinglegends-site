@@ -445,3 +445,5 @@ Typical profit margins for general contractors can vary widely, generally fallin
 ### How often should I update my cost database?
 
 Your cost database, including labor rates, material prices, and equipment costs, should be reviewed and updated regularly. For material prices, especially volatile ones, daily or weekly checks might be necessary. Labor burden rates and subcontractor pricing should be reviewed quarterly or at least semi-annually. Regularly updating your database ensures that your estimates reflect current market conditions and internal costs, preventing you from underbidding or overbidding due to outdated information. Leveraging systems that track historical costs, like [Smart Business Automator](https://smartbusinessautomator.com), can automate much of this process.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

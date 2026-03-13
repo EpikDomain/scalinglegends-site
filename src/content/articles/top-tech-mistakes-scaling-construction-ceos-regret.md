@@ -2,7 +2,8 @@
 title: "Top Tech Mistakes Scaling Construction CEOs Regret"
 description: "The most expensive technology decisions construction CEOs make between $1M-$20M. What to buy, what to skip, and the order that matters."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/top-tech-mistakes-scaling-construction-ceos-regret-1772746782.png"
+image: "/img/articles/top-tech-mistakes-scaling-construction-ceos-regret-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/top-tech-mistakes-scaling-construction-ceos-regret-1772746782.png"
 readTime: "8 min read"
 published: true
 season: 2
@@ -55,6 +56,4 @@ Furthermore, data migration nightmares are a common and costly reality. Many fir
 
 Even the most perfectly selected and integrated software is useless if your team doesn't use it. This brings us to **Mistake #3: Adopting tech without a champion.** Data indicates that 67% of tech rollouts fail without strong internal ownership and advocacy. As a CEO, your role is to make critical construction CEO technology decisions, but also to empower a leader within your team to drive adoption. This "tech champion" isn't just an IT person; they're an advocate who understands both the technology and the operational challenges of your team. They facilitate training, troubleshoot issues, gather feedback, and demonstrate the tangible benefits of the new tools, fostering buy-in rather than resistance.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
-Another significant oversight is failing to consider the user experience, particularly for field teams. The mobile-first vs. desktop-first debate is not just a preference; it's a field adoption gap that kills ROI. If your project managers, superintendents, and crew leads are primarily interacting with the software on tablets or smartphones from job sites, the system must be designed for mobile use first. Clunky desktop interfaces crammed onto a small screen, or systems requiring constant internet connectivity, will quickly be abandoned. Prioritizing robust mobile apps with offline capabilities ensures your field teams can input data, access plans, and communicate efficiently from anywhere, directly contributing to the success of your <a href="https://scalinglegends.com/article/how-to-scale-a-construction-business-without-losing-control" style="color: #e94560; text-
+Another significant oversight is failing to consider the user experience, particularly for field teams. The mobile-first vs. desktop-first debate is not just a preference; it's a field adoption gap that kills ROI. If your project managers, superintendents, and crew leads are primarily interacting with the software on tablets or smartphones from job sites, the system must be designed for mobile use first. Clunky desktop interfaces crammed onto a small screen, or systems requiring constant internet connectivity, will quickly be abandoned. Prioritizing robust mobile apps with offline capabilities ensures your field teams can input data, access plans, and communicate efficiently from anywhere, directly contributing to the success of your [Platforms like Smart Business Automator](/article/how-to-scale-a-construction-business-without-losing-control) help contractors systematize their operations so they can scale without the chaos.

@@ -394,6 +394,6 @@ As of 2026, the Virginia Board for Contractors does not mandate specific continu
 
 Getting your General Contractor license in Virginia is a significant milestone. It's not just a formality; it's an investment in your future, a commitment to professionalism, and your ticket to tapping into one of the most dynamic construction markets in the country.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 This guide has laid out the roadmap for 2026. Follow these steps methodically, pay attention to the Virginia-specific details, and leverage the resources available. The process might seem daunting, but with a direct, no-BS approach and a willingness to do the work, you'll soon be building your legacy across the Commonwealth.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

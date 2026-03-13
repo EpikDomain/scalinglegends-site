@@ -426,6 +426,6 @@ No. Washington State does not require continuing education for the renewal of yo
 
 ### Where can I find my Washington contractor registration number once I have it?
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 Once L&I issues your registration, your number will be included in the approval notification. You can also use the "Verify a Contractor, Tradesperson, or Business" search tool on the L&I website ([www.lni.wa.gov/licensing-permits/contractors/verify-a-contractor](https://www.lni.wa.gov/licensing-permits/contractors/verify-a-contractor)) to look up your business by name or UBI number.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -2,7 +2,8 @@
 title: "Starting a Construction Business Under 30: Tips From Next Generation Contractors"
 description: "60% of Gen Z plans to pursue trades in 2026, with construction as the #1 choice. New fintech tools, 94M in apprenticeship funding, and young contractors hitting 8 figures before 30. Fresh data, new success stories, and the playbook for building a construction company under 35."
 date: "2026-03-07"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/next-gen-contractors-1772868778.png"
+image: "/img/articles/starting-a-construction-business-under-30-tips-from-next-generation-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/next-gen-contractors-1772868778.png"
 audioUrl: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_03_07_16_17_55_65de69e2-f5cf-4e4c-b747-fbda36911a57.mp3"
 readTime: "24 min read"
 published: true
@@ -180,6 +181,8 @@ Total cost for a trade program runs $3,000-$16,000 with average debt of approxim
 
 ### What construction technology should young contractors learn first?
 
-Start with AI estimating tools, which nearly half of contractors now use to cut takeoff time from hours to minutes. Construction tech funding hit $4.4 billion in 2025 (66% YoY increase) with AI capturing $2.22 billion. Purpose-built construction management platforms now provide enterprise-level project management for residential, commercial, and specialty trade contractors at every stage of growth. Drones remain the #1 commercial adoption industry. Voice-first documentation tools like Hardline (Suffolk BOOST 2025 cohort) are emerging for field teams.
+Start with AI estimating tools, which nearly half of contractors now use to cut takeoff time from hours to minutes. Construction tech funding hit $4.4 billion in 2025 (66% YoY increase) with AI capturing $2.22 billion. Purpose-built construction management platforms now provide enterprise-level project management. Drones remain the #1 commercial adoption industry. Voice-first documentation tools like Hardline (Suffolk BOOST 2025 cohort) are emerging for field teams.
 
 *Sources: ResumeTemplates.com (Jan 2026), National Student Clearinghouse (Spring 2025), Nymbl Ventures, Jax Daily Record, ENR, Forbes, Construction Dive, Billd, CoFi Lending, Suffolk Technologies, CEMEX Ventures, SkillsUSA/TikTok, Arizona Governor's Office, California DIR, UK Government, Caterpillar, Urban Institute, The BIRM Group, Bell Media*
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: March 9 - Iran War Spikes Diesel Past $4.60, Steel Up 20%, Housing Bill Advances"
 description: "Daily construction market intelligence covering the Iran war's impact on diesel prices, tariff-driven material cost surges, the ROAD to Housing Act's historic Senate advance, Ohio's E-Verify mandate, and breaking global construction news from the UK, Japan, and Middle East."
 date: "2026-03-09"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-9---iran-war-spikes-d-1773078487.png"
+image: "/img/articles/construction-market-intelligence-march-9-iran-war-spikes-diesel-past-460-steel-up-20-housing-bill-advances-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-9---iran-war-spikes-d-1773078487.png"
 audioUrl: "https://content.rss.com/episodes/332597/2613353/scalinglegends/2026_03_09_18_34_48_a7989915-418d-42b7-8e19-b8de05affcde.mp3"
 readTime: "10 min read"
 published: true
@@ -85,3 +86,5 @@ Meanwhile, the ambitious NEOM project in Saudi Arabia, a cornerstone of Middle E
 ## Emerging Opportunities and Construction Trends 2026
 
 Despite some headwinds, specific sectors within construction are poised for significant growth, offering strategic avenues for contractors looking to expand. While FMI forecasts just a modest 1% overall construction spending growth for 2026, a deeper dive into market segments reveals stark
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

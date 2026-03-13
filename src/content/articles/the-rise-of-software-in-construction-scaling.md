@@ -2,7 +2,8 @@
 title: "The Rise of Software in Construction Scaling"
 description: "How construction software is reshaping which companies scale and which get left behind. The platforms, trends, and adoption curve that matter in 2026."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-rise-of-software-in-construction-scaling-1772746905.png"
+image: "/img/articles/the-rise-of-software-in-construction-scaling-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-rise-of-software-in-construction-scaling-1772746905.png"
 readTime: "11 min read"
 published: true
 season: 2
@@ -90,3 +91,5 @@ AI is already transforming preconstruction, as mentioned, by streamlining takeof
 - **Predictive Analytics for Project Delays:** AI algorithms can analyze historical project data, weather patterns, material availability, and team performance to predict potential project delays before they occur, allowing for proactive mitigation strategies.
 
 **Automated Risk Assessment:** Machine learning models can assess project
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

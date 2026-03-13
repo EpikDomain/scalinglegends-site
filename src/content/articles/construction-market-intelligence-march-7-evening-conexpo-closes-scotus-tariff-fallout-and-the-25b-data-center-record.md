@@ -247,3 +247,5 @@ The industry needs between 349,000 and 500,000 additional workers to meet curren
 **Scaling Legends** delivers daily intelligence briefings for construction contractors who want to scale. Subscribe wherever you listen to podcasts.
 
 [scalinglegends.com](https://scalinglegends.com)
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

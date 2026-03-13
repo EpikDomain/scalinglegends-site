@@ -2,7 +2,8 @@
 title: "Operational Secrets Behind $50M General Contractors"
 description: "Inside the operational DNA of $50M+ general contractors. The scheduling systems, team structures, and risk management frameworks that separate them from everyone else."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/operational-secrets-behind-50m-general-contractors-1772746863.png"
+image: "/img/articles/operational-secrets-behind-50m-general-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/operational-secrets-behind-50m-general-contractors-1772746863.png"
 readTime: "9 min read"
 published: true
 season: 2
@@ -130,3 +131,5 @@ Finally, standardized closeout procedures are a non-negotiable secret weapon. Th
 - Proactive lien waiver management
 
     Expedited O&M
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -564,6 +564,6 @@ In South Carolina's dynamic construction environment, where cities like Charlest
 
 From the crucial 90-day preliminary notice for lower-tier claimants to the strict 90-day window for recording your lien after ceasing work, and finally, the 6-month deadline for enforcement, every step is a potential point of failure if not handled with precision. The low $5,000 licensing threshold further underscores the need for vigilance, ensuring your foundational right to a lien is even established.
 
-Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
-
 By understanding SC Code §29-5-10, diligently tracking your project timelines, and leveraging the right resources—including experienced South Carolina construction legal counsel when necessary—you can navigate the complexities of lien law with confidence and secure the payment you've earned. Don't let a procedural misstep cost you your livelihood. Be proactive, be precise, and protect your legend.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

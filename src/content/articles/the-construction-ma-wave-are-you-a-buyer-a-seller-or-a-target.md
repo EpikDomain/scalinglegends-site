@@ -2,7 +2,8 @@
 title: "The Construction M&A Wave: Are You a Buyer, a Seller, or a Target?"
 description: "PwC and Capstone Partners both report surging M&A deal activity in construction for 2026. Data center and power infrastructure targets are generating outsized acquisition interest. Tariff pressures and labor shortages are accelerating the 'acquire for scale' strategy. This episode helps mid-size construction company owners understand whether they should be acquiring competitors, preparing to sell, or defending against being acquired."
 date: "2026-03-08"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-construction-ma-wave-are-you-a-buyer-a-seller-or-a-targe-1772982270.png"
+image: "/img/articles/the-construction-ma-wave-are-you-a-buyer-a-seller-or-a-target-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-construction-ma-wave-are-you-a-buyer-a-seller-or-a-targe-1772982270.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610290/scalinglegends/2026_03_08_17_30_47_653b4efa-4ed2-48ea-821b-46ef0a9f4d4c.mp3"
 readTime: "10 min read"
 published: true
@@ -86,3 +87,5 @@ The "Target Problem" arises when larger, well-funded entities, often backed by p
 Understanding your own `construction company valuation` is the first line of defense. Knowing what your business is truly worth empowers you to evaluate any offer rationally. This involves having up-to-date financials, a clear understanding of your backlog quality, and an assessment of your competitive advantages. Furthermore, building a strong, independent business that is not overly reliant on a single owner or a few key individuals makes you less vulnerable to opportunistic low-ball offers. Investing in your team, systems, and client relationships strengthens your position. For example, promoting `[women in construction](/article/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026)` into leadership roles not only diversifies your talent but also strengthens your organizational resilience and appeal to a broader market, as highlighted by stories of success like that of a `[woman owned construction company](/article/building-roads-and-breaking-barriers-ebony-jennings)` led by Ebony Jennings.
 
 If you haven't decided whether you're a buyer, a seller, or committed to remaining independent, it’s time to decide. The M&A wave is
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

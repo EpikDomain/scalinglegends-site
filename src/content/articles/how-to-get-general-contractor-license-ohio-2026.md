@@ -379,6 +379,6 @@ The Intel plant in Licking County (near Columbus) is driving massive constructio
 
 ### Are there any exams for Ohio general contractors?
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 There is no statewide general contractor exam in Ohio. Some individual municipalities might have a basic knowledge test related to local building codes or administrative procedures, but this is not common for general contractors and is not a comprehensive trade exam.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

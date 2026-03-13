@@ -376,6 +376,6 @@ No, as of 2026, the North Carolina Licensing Board for General Contractors does 
 
 ### What is the project value threshold that requires an NC General Contractor license?
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 In North Carolina, any construction project with a contract value of $30,000 or more requires the contractor to hold a valid General Contractor license issued by the NCLBGC. This threshold applies to both residential and commercial work.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

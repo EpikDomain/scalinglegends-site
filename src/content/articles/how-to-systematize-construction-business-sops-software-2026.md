@@ -458,6 +458,6 @@ Resistance is normal. Overcome it by involving your team in the creation of SOPs
 
 The transition from a contractor trapped in the daily grind to a legendary leader scaling to $50M+ is paved with systems. By embracing [construction SOPs](https://scalinglegends.com/construction-sops), strategically [digitizing construction processes](https://scalinglegends.com/how-to-digitize-construction-processes) with the right software, and diligently working to [automate construction business](https://scalinglegends.com/how-to-automate-construction-business) tasks, you can transform your company into a predictable, profitable, and scalable powerhouse.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 This isn't just about efficiency; it's about building a legacy. It's about creating a business that can thrive with or without your constant presence, allowing you the freedom to innovate, expand, and truly dominate your market. The path to [how to systematize a construction business](https://scalinglegends.com/how-to-systematize-a-construction-business) is clear, but it requires commitment, discipline, and a willingness to evolve. Start today, and build the legend you're destined to become.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

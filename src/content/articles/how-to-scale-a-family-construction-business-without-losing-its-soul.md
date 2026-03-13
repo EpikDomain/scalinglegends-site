@@ -92,3 +92,5 @@ Consider the impact of a streamlined bidding process. By automating data entry, 
 ### How do you define clear roles in a family construction business without causing conflict?
 
 Defining clear roles in a family construction business requires a structured, objective approach. Start by conducting a thorough organizational analysis to identify all necessary positions and their core functions. Then, create detailed job descriptions for each role, outlining responsibilities, required skills, and reporting lines – treat family members as you would any other employee. Use an external facilitator or an advisory board to help mediate discussions and ensure objectivity when assigning roles. Emphasize that roles are based on qualification and contribution, not solely on
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

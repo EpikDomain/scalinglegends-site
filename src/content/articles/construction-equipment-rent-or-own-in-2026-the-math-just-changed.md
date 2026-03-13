@@ -2,7 +2,8 @@
 title: "Construction Equipment: Rent or Own in 2026? The Math Just Changed"
 description: "The US construction equipment rental market is approaching $50 billion. Tariff-driven equipment price increases, rising interest rates, and CONEXPO 2026's telematics showcase are fundamentally changing the rent-vs-own calculation. This episode breaks down the real math, the hidden costs, and the strategic framework every contractor needs to make equipment decisions in 2026."
 date: "2026-03-08"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-equipment-rent-or-own-in-2026-the-math-just-cha-1772982311.png"
+image: "/img/articles/construction-equipment-rent-or-own-in-2026-the-math-just-changed-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-equipment-rent-or-own-in-2026-the-math-just-cha-1772982311.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610340/scalinglegends/2026_03_08_17_53_05_658cbbe9-be96-4883-9f10-1b2cdb227d69.mp3"
 readTime: "8 min read"
 published: true
@@ -72,6 +73,6 @@ Let's dissect the hidden costs of ownership, which are often significantly under
 
 - **Taxes & Licensing:** Annual property taxes and licensing fees add to the operational burden.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 **Opportunity Cost:** Perhaps the most critical hidden cost is the capital tied up in an owned asset. If $300,000 is spent on an excavator, that's $300,000 that cannot be used to fund an additional crew, invest in new technology,
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

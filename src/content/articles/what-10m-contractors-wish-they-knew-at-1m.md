@@ -2,7 +2,8 @@
 title: "What $10M Contractors Wish They Knew at $1M"
 description: "Lessons from contractors who've crossed the $10M threshold. The mistakes, the breakthroughs, and what they'd do differently if they started over."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
+image: "/img/articles/what-10m-contractors-wish-they-knew-at-1m-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
 readTime: "10 min read"
 published: true
 season: 2
@@ -80,3 +81,5 @@ The delegation trap is particularly insidious, snagging many owners between $3M-
 To break through these plateaus, you need to invest heavily in both people and [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation). This isn't just about software; it's about documented processes, clear roles and responsibilities, and performance-based accountability. As [Smart Business Automator](https://smartbusinessautomator.com) data indicates, companies with well-defined operational systems experience 2x faster growth between $3M and $7M, primarily due to reduced errors and increased efficiency. This proactive approach to systems and team building is crucial for any contractor business advice worth its salt.
 
 Practical Tip: Create an organizational chart for your desired $5M and $10M structure. Identify the roles you need, even if you can't fill them all today. This visual roadmap helps clarify hiring
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

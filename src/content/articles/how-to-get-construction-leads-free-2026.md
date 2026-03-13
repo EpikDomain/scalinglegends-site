@@ -544,6 +544,6 @@ The biggest mistake is inconsistency and lack of follow-up. Many contractors sta
 
 While there are no truly "secret" sources that haven't been mentioned in some form, many contractors overlook the power of local non-profit organizations, churches, and school districts. These entities often have smaller, recurring maintenance or renovation needs and are always looking for trusted, community-minded contractors. Offering a small project at a reduced rate or even volunteering for a minor repair can build immense goodwill, leading to paid opportunities and invaluable referrals. Additionally, local real estate investor groups are a fantastic, often untapped source for renovation and flip projects, and they're always seeking reliable contractors.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 There you have it. A comprehensive, no-nonsense guide to how to get construction leads for free in 2026. This isn't about magic bullets; it's about consistent, disciplined effort applied to proven strategies. The tools are available, the roadmap is clear. The only thing standing between you and a packed project pipeline is your willingness to put in the work. Stop waiting for leads to come to you. Go out and get them. Your business, your crews, and your bottom line will thank you.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -666,6 +666,6 @@ Yes, Tennessee has reciprocity agreements with several other states (including A
 
 The Franchise and Excise Tax is a combined tax that applies to most businesses operating in Tennessee (corporations, LLCs, partnerships, etc.). The Excise Tax is 6.5% of your net earnings from business done in Tennessee, and the Franchise Tax is $0.25 per $100 of your net worth or the book value of your tangible property in Tennessee, whichever is greater, with a minimum tax of $100. These are state-level business taxes you'll pay to the Tennessee Department of Revenue.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 Starting a construction company in Tennessee in 2026 demands diligence, a strong understanding of state-specific regulations, and a commitment to building relationships. This isn't a walk in the park, but for those with the drive, the opportunities here are immense. Do your homework, build smart, and you'll carve out your legend in the Volunteer State.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

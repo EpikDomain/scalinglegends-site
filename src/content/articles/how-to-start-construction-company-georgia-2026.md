@@ -514,6 +514,6 @@ The timeline can vary significantly. Once you've met all experience and financia
 
 It depends on the scope of work. If a subcontractor is performing work that falls under one of the state-licensed trades (e.g., plumbing, electrical, HVAC, conditioned air, low-voltage), they must hold the appropriate specialty license. General construction subcontractors (e.g., framing, drywall, roofing) typically do not need a state general contractor license if they are working under a properly licensed general contractor who is pulling the overall building permit. However, local jurisdictions may still require them to have a local business license. Always verify specific requirements based on the project and location.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 Starting a construction company in Georgia is a serious undertaking, but the rewards are substantial for those who do it right. Follow this guide, stay persistent, and build a reputation for quality and integrity. Now, go out there and build something great.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -325,6 +325,6 @@ A: Yes, you can apply for multiple classifications on a single application, prov
 
 ### Q: What if I don't have exactly four years of journeyman experience?
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 A: The CSLB is strict about the four-year requirement. However, they do allow certain education to substitute for a portion of the experience (as detailed above). If you're slightly short, consider taking relevant college courses or vocational training to bridge the gap. Do not exaggerate your experience; it's a common reason for application delays or denial.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

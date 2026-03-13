@@ -2,7 +2,8 @@
 title: "The ROAD to Housing Act Explained: What the First Housing Bill in a Decade Means for Contractors"
 description: "The Senate just voted 84-6 to advance the first comprehensive housing bill in over a decade. This episode breaks down exactly what the 21st Century ROAD to Housing Act means for residential contractors -- new funding channels, streamlined environmental reviews, CDBG money for new construction, and how to position your business before the floodgates open."
 date: "2026-03-09"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-road-to-housing-act-explained-what-the-first-housing-bil-1773078535.png"
+image: "/img/articles/the-road-to-housing-act-explained-what-the-first-housing-bill-in-a-decade-means-for-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-road-to-housing-act-explained-what-the-first-housing-bil-1773078535.png"
 audioUrl: "https://content.rss.com/episodes/332597/2613563/scalinglegends/2026_03_09_19_53_36_ceff9ad5-dd8d-4dbb-bd19-aaa9af58abfb.mp3"
 readTime: "9 min read"
 published: true
@@ -65,3 +66,5 @@ Moreover, the Act's efforts to limit institutional investors from crowding out f
 ## Positioning Your Business: What This Construction Housing Policy 2026 Means for You
 
 The 21st Century ROAD to Housing Act, with its projected implementation and impact extending well into construction housing policy 2026, demands a proactive approach from contractors. The floodgates of funding and streamlined processes won't open instantaneously, but the groundwork for securing future projects must begin now. A critical first step is to get prequalified for federally-funded housing projects. This often involves demonstrating financial stability, a clean track record, and adherence to
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -2,7 +2,8 @@
 title: "Construction Site Theft: The $2 Billion Problem Nobody's Solving"
 description: "11,000 construction site theft incidents per year. $1 billion in equipment, $1 billion in copper. Only 21% recovery rate. GPS tracking reduces theft by 96%. Here's the prevention playbook."
 date: "2026-03-10"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-site-theft-the-2-billion-problem-nobodys-solvin-1773165855.png"
+image: "/img/articles/construction-site-theft-the-2-billion-problem-nobodys-solving-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-site-theft-the-2-billion-problem-nobodys-solvin-1773165855.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616397/scalinglegends/2026_03_10_12_15_57_35324b88-d61b-4d58-a962-0bfbc2786b76.mp3"
 readTime: "13 min read"
 published: true
@@ -98,4 +99,6 @@ Integrating these technologies into your overall [construction workflow automati
 
 ## Integrated Security for Robust [Construction Project Management](/article/surviving-the-messy-middle-of-construction-growth)
 
-Effective theft prevention is an integral part of superior [construction project management](/article/construction-project-management-surviving-the-messy-middle). It requires a multi-layered approach that combines technological solutions with stringent physical security measures and clear site protocols. A well-executed security plan not only protects your assets but also streamlines operations, minimizes disruptions, and enhances overall project efficiency. For instance, a focus on security can also align with broader initiatives, such as creating safer environments for all workers, including the increasing number of <a href="https://scalinglegends
+Effective theft prevention is an integral part of superior [construction project management](/article/construction-project-management-surviving-the-messy-middle). It requires a multi-layered approach that combines technological solutions with stringent physical security measures and clear site protocols. A well-executed security plan not only protects your assets but also streamlines operations, minimizes disruptions, and enhances overall project efficiency. For instance, a focus on security can also align with broader initiatives, such as creating safer environments for all workers, including the increasing number of [Smart Business Automator](https://scalinglegends
+
+Platforms like <a href=) help contractors systematize their operations so they can scale without the chaos.

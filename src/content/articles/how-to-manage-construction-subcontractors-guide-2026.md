@@ -663,6 +663,6 @@ Incorporate your comprehensive safety requirements and site-specific safety plan
 
 ### What's the role of retention in subcontractor payments?
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 Retention (or retainage) is a percentage (typically 5-10%) of each payment withheld until project completion and final acceptance. It serves as financial leverage to ensure subcontractors complete their work satisfactorily, correct defects, fulfill all contractual obligations, and provide final documentation. The amount and release schedule should be clearly defined in your subcontract agreement and must comply with state laws, which often dictate maximum retainage percentages and release timelines.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

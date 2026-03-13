@@ -389,6 +389,6 @@ A: Operating without the proper licenses or registrations in New York carries se
 
 ### Q: Do I need a license if I only work as a subcontractor in New York?
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 A: Even as a subcontractor, you likely need to be licensed or registered depending on your trade and location. For example, if you're a plumbing or electrical subcontractor in NYC, you need a Master Plumber or Master Electrician license from the DOB. If you're a general subcontractor performing residential home improvement work in Nassau County, you'd likely need their HIC license. Always check the specific requirements for your trade and the municipality where you're working.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

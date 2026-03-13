@@ -2,7 +2,8 @@
 title: "The Contractor's Guide to Project Workflow Automation"
 description: "How to automate the repetitive project management tasks that drain your team's time. The workflows, tools, and implementation order that work for contractors."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
+image: "/img/articles/the-contractors-guide-to-project-workflow-automation-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
 readTime: "8 min read"
 published: true
 season: 2
@@ -77,6 +78,6 @@ The field is where the real work happens, but it's also often the source of sign
     *   **Time-Stamped Photo & Video Capture:** Embedding visual proof directly into reports.
 **With these tools, daily reporting time can drop from 45 minutes to an average of just 8 minutes, freeing up superintendents for critical on-site supervision and problem-solving.**
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 2.  **Photo Documentation with AI Tagging:** Field photos are invaluable for progress
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

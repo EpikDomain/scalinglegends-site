@@ -2,7 +2,8 @@
 title: "New Construction Laws 2026: Your State-by-State Compliance Guide"
 description: "California just passed 7 new construction laws. New York mandated electronic payroll. Washington extended sanctions to shell companies. OSHA is switching to targeted inspections. Here's what you need to know before you get fined."
 date: "2026-03-10"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/new-construction-laws-2026-your-state-by-state-compliance-gu-1773165764.png"
+image: "/img/articles/new-construction-laws-2026-your-state-by-state-compliance-guide-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/new-construction-laws-2026-your-state-by-state-compliance-gu-1773165764.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616357/scalinglegends/2026_03_10_11_51_58_3426e639-a6b4-4509-b5b0-3d9a91a53274.mp3"
 readTime: "9 min read"
 published: true
@@ -68,3 +69,5 @@ The ability to quickly adapt to these legislative shifts is a differentiator. Co
 ## State-Specific Mandates: California's Seven Laws and Beyond for How to Scale a Construction Business
 
 The new regulatory environment is highly localized, demanding a state-by-state approach to compliance. California, often a bellwether for national trends, has enacted seven significant new laws taking effect January 1, 2026. These include AB-2101, mandating real-time emissions monitoring for all heavy equipment on projects exceeding $5 million, which alone adds an estimated 2-3% to equipment operating
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -799,6 +799,6 @@ The biggest mistake is assuming that compensation alone will solve all retention
 
 The construction industry is at a crossroads. The labor crisis is real, but it's also an unprecedented opportunity for GCs who are willing to adapt, innovate, and prioritize their people. The strategies outlined in this guide – from aggressive, diversified recruitment to cultivating an unshakeable culture of safety, respect, and growth – are not just best practices; they are the survival guide for scaling your construction business from $1M to $50M+ in 2026 and beyond.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 Stop reacting to the market and start shaping your future. Your workforce is your legacy. Build it strong.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

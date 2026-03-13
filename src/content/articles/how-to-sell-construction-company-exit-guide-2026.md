@@ -297,6 +297,6 @@ A: M&A advisor fees usually consist of a retainer (to cover upfront costs and co
 
 A: A poor safety record, reflected in a high EMR (Experience Modification Rate), has a significant negative impact. It signals higher operational risk, increased insurance premiums, potential legal liabilities from accidents, and reputational damage. Buyers will factor these costs and risks into a lower offer, or it may deter them entirely.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 Selling your construction company is one of the most significant financial events of your life. Treat it with the strategic rigor it deserves. By understanding what buyers truly want – a de-risked, transferable, and profitable enterprise – you can position your business for a premium sale and secure your legacy.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

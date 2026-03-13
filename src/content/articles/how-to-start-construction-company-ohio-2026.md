@@ -642,6 +642,6 @@ The Intel fab plant in New Albany (Licking County) is a massive economic driver.
 
 Starting a construction company in Ohio in 2026 is a smart move, but it's not for the faint of heart. The opportunities are massive, especially in Central Ohio, but success hinges on understanding and meticulously navigating the state's unique regulatory landscape. No statewide GC license means you're dealing with local rules, and Ohio's BWC and tax structure have their own intricacies.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 This isn't a "set it and forget it" venture. You need to be diligent, build strong local relationships, and stay on top of compliance. But if you put in the work, understand the market, and surround yourself with the right advisors, Ohio offers a fertile ground for building a thriving construction business. Now, get out there and start building.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

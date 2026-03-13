@@ -2,7 +2,8 @@
 title: "The OSHA 2026 Crackdown: Fall Protection, Documentation and the New Enforcement Reality"
 description: "OSHA's 2026 enforcement priorities, the new penalty structures, and exactly what documentation contractors need to survive an inspection."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-osha-2026-crackdown-fall-protection-documentation-and-th-1772746695.png"
+image: "/img/articles/the-osha-2026-crackdown-fall-protection-documentation-and-the-new-enforcement-reality-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-osha-2026-crackdown-fall-protection-documentation-and-th-1772746695.png"
 audioUrl: "https://content.rss.com/episodes/332597/2604783/scalinglegends/2026_03_05_23_03_41_912280a3-5213-48b8-b6cb-e6479946538d.mp3"
 readTime: "10 min read"
 published: true
@@ -102,6 +103,4 @@ Another critical aspect of the new enforcement reality is the "72-hour investiga
 
 - Reviewing all relevant safety documentation.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
-Failing to manage this initial phase effectively can severely prejudice your case and increase potential liabilities. Proactive preparation for these scenarios is a hallmark of contractors successfully [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) operations effectively. Data from <a href="https://smartbusinessautomator.com" style="color: #
+Failing to manage this initial phase effectively can severely prejudice your case and increase potential liabilities. Proactive preparation for these scenarios is a hallmark of contractors successfully [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) operations effectively. Data from [Platforms like Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

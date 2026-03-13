@@ -310,3 +310,5 @@ It depends on your firm's size and annual construction volume. For firms doing u
 ### How are AI features changing [construction project management](/article/surviving-the-messy-middle-of-construction-growth) software?
 
 AI is moving beyond basic automation into predictive analytics and autonomous agents. Oracle's Textura now includes an AI agent that can identify why payments are held and provide compliance forms automatically. nPlan's models, trained on 750,000 historical schedules, forecast project bottlenecks. Trimble's Tekla Structures uses AI to create fabrication drawings by learning from your previous projects. AI-driven progress analytics is the fastest-growing segment in the market, projected to expand at 14.12% CAGR through 2031.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

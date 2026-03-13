@@ -972,6 +972,6 @@ Marketing a construction company in 2026 isn't about guesswork or hoping for the
 
 By implementing the strategies outlined in this guide – from dominating local search with your Google Business Profile and SEO, to leveraging targeted Google Ads, building powerful referral networks, and creating compelling content – you will transform your lead generation efforts. Stop leaving money on the table. Invest in your marketing with the same precision and commitment you bring to every construction project, and watch your company scale to new heights.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 Ready to build a marketing strategy that delivers? Explore more resources at [scalinglegends.com](https://scalinglegends.com).
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

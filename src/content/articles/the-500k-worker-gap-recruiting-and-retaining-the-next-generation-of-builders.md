@@ -2,7 +2,8 @@
 title: "The 500K Worker Gap: Recruiting and Retaining the Next Generation of Builders"
 description: "Construction needs 501,000 new workers in 2026 alone. Here is how contractors are solving the labor crisis with apprenticeships, technology, and modern recruiting."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-500k-worker-gap-recruiting-and-retaining-the-next-genera-1772747128.png"
+image: "/img/articles/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-500k-worker-gap-recruiting-and-retaining-the-next-genera-1772747128.png"
 audioUrl: "https://content.rss.com/episodes/332597/2604270/scalinglegends/2026_03_05_18_57_35_78342106-4ba5-459f-92fd-e2faf9201b59.mp3"
 readTime: "10 min read"
 published: true
@@ -100,3 +101,5 @@ The days of posting a "Help Wanted" sign and expecting a flood of skilled applic
 
 3.  **Competitive Compensation & Benefits:**
     *   **Transparent Wages:** Research local market
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -2,7 +2,8 @@
 title: "Employee Transportation Services for Construction: How Sprinter Vans Solve the Labor Shortage"
 description: "Construction workers have the longest commutes of any profession. With turnover at 68.2% in 2025, contractors are using shuttle services, electric Sprinter vans, and vanpool programs to retain crews. Case studies from Walmart, data center mega-projects, and a 0/month vanpool that's proving the model."
 date: "2026-03-07"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/employee-transportation-construction-1772868761.png"
+image: "/img/articles/employee-transportation-services-for-construction-how-sprinter-vans-solve-the-labor-shortage-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/employee-transportation-construction-1772868761.png"
 audioUrl: "https://content.rss.com/episodes/332597/2608578/scalinglegends/2026_03_07_16_17_09_cd1d188b-2a26-4be5-84aa-93dd607ba75b.mp3"
 readTime: "20 min read"
 published: true
@@ -199,3 +200,5 @@ With skilled trades turnover at 73.1% and replacement costs running 30-150% of a
 Large data center campuses with 4,000-5,000 workers are creating transportation challenges rivaling small cities. Workers are earning $200,000+ but losing two hours daily commuting to rural sites. The CHIPS Act has created 102,000 construction jobs at remote semiconductor fabrication sites. Contractors bidding on this work increasingly need transportation plans built into their proposals. Autonomous shuttle companies like May Mobility (30-seat electric minibuses) and Beep ($52.7M raised) are targeting these exact use cases for 2026-2027 deployment.
 
 *Sources: The Resource Company, Swoop/Walmart, Fortune, DataBank, PwC, Edmunds/Mercedes-Benz, Federal Register, Enterprise, iHire, Mercer, ABC, MEED, GoFIFO, AGC, SMART Union, Heavy Vehicle Inspection, CIRTA, SHARE Mobility, Keystone Newsroom, May Mobility/TechCrunch, Beep/SuperbCrew, Priceonomics, FinanceBuzz, Amtec*
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

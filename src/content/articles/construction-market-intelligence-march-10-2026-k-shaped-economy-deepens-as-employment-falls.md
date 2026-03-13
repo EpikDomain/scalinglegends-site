@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: March 10, 2026 - K-Shaped Economy Deepens as Employment Falls"
 description: "Daily intel: Employment drops 11,000, K-shaped economy splits large and small firms, ConstructConnect index shows 8th straight month of expansion, IEEPA tariff refund ruling, NAHB says tariffs add $10,900 per home. Global: Germany's €500B infrastructure fund, Japan's robot-built dams, NEOM pivot to data centers."
 date: "2026-03-10"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-10-2026---k-shaped-ec-1773165675.png"
+image: "/img/articles/construction-market-intelligence-march-10-2026-k-shaped-economy-deepens-as-employment-falls-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-10-2026---k-shaped-ec-1773165675.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616310/scalinglegends/2026_03_10_11_28_32_942ce583-9d18-4679-89c0-123702d42778.mp3"
 readTime: "10 min read"
 published: true
@@ -85,3 +86,5 @@ Strategies to protect and improve profit margins include:
 ## Regulatory Shifts and Operational Efficiency: Optimizing [Construction Workflow Automation](/article/the-contractors-guide-to-project-workflow-automation)
 
 The regulatory landscape for contractors is in constant flux, and 2026 is no exception. Staying ahead of new mandates and enforcement trends is crucial for maintaining compliance and
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

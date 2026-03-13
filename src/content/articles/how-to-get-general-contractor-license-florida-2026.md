@@ -336,6 +336,6 @@ The entire process, from exam preparation to final license approval by the CILB,
 
 ### What are the continuing education requirements for Florida General Contractors?
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
 Florida state-certified General Contractors must complete 14 hours of continuing education every two-year (biennial) renewal cycle. These hours must include specific topics such as workplace safety, workers' compensation, business practices, advanced Florida Building Code, and laws and rules for contractors.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

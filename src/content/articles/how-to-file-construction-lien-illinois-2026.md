@@ -377,6 +377,6 @@ Minor errors that do not prejudice the rights of the owner or other creditors ma
 
 The Illinois Mechanics Lien Act provides a robust framework for securing payment in the construction industry, but it demands precision and strict adherence to its requirements. From the critical 60-day preliminary notice for subcontractors to the 4-month recording deadline for priority and the 2-year enforcement window, every step must be executed flawlessly. Navigating these complexities, especially within the dynamic Illinois market and its unique regulations, underscores the value of proactive planning and, often, expert legal counsel.
 
-Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
-
 Don't let your hard work go unpaid. By understanding and diligently applying the principles outlined in this guide, you can effectively protect your lien rights and ensure you get paid for the value you bring to every project. When in doubt, always consult with an Illinois construction attorney to safeguard your interests.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

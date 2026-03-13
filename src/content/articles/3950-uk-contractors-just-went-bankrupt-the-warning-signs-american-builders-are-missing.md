@@ -2,7 +2,8 @@
 title: "3,950 UK Contractors Just Went Bankrupt: The Warning Signs American Builders Are Missing"
 description: "The UK construction industry just hit a grim milestone -- 3,950 contractor insolvencies in 12 months, the worst sector for business failures four years running. Specialist trades like plumbing, HVAC, and electrical were hit hardest. This episode breaks down why it happened, the identical warning signs showing up in the US market right now, and the specific financial moves that separate survivors from casualties."
 date: "2026-03-09"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/3950-uk-contractors-just-went-bankrupt-the-warning-signs-ame-1773078581.png"
+image: "/img/articles/3950-uk-contractors-just-went-bankrupt-the-warning-signs-american-builders-are-missing-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/3950-uk-contractors-just-went-bankrupt-the-warning-signs-ame-1773078581.png"
 audioUrl: "https://content.rss.com/episodes/332597/2613375/scalinglegends/2026_03_09_18_44_04_547f4860-776c-4438-a951-2e3a59edd7b6.mp3"
 readTime: "11 min read"
 published: true
@@ -98,6 +99,6 @@ First, **refuse to bid below true cost.** This seems obvious, yet it's the most 
 
 Second, **diversify your client base.** No single client should exceed 20% of your total annual revenue. Over-reliance on one major client creates an existential risk. If that client faces financial trouble, delays payment, or decides to take their business elsewhere, a significant portion of your revenue could vanish overnight, leaving your business vulnerable. Spreading your risk across multiple clients provides a buffer against such shocks.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 Third, **maintain a minimum 3-month cash reserve.** This is not negotiable. A healthy cash reserve acts as your emergency fund, covering operating expenses during periods of slow payments, unexpected cost increases, or economic downturns. This buffer allows you to absorb shocks without resorting to high-interest short-term loans or facing immediate liquidity crises. For a business with $10 million in annual operating expenses, this means having at least $2.5 million in readily accessible cash. This isn't profit sitting idle; it's
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

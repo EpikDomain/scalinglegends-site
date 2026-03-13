@@ -2,7 +2,8 @@
 title: "Construction's $15 Million Blind Spot: Why Ransomware Groups Are Targeting YOUR BIM Files"
 description: "Qilin. SafePay. Two ransomware groups you have never heard of that are actively targeting construction companies right now. They are not after your email -- they are after your BIM files, engineering specifications, project schedules, and proprietary construction methods. A successful breach can halt jobsites for weeks. And starting November 2026, any construction company with government contracts must be CMMC Level 2 certified or lose bidding eligibility. This is the cybersecurity episode the construction industry desperately needs and nobody is making."
 date: "2026-03-06"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/constructions-15-million-blind-spot-why-ransomware-groups-ar-1772808702.png"
+image: "/img/articles/constructions-15-million-blind-spot-why-ransomware-groups-are-targeting-your-bim-files-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/constructions-15-million-blind-spot-why-ransomware-groups-ar-1772808702.png"
 audioUrl: "https://content.rss.com/episodes/332597/2605990/scalinglegends/2026_03_06_15_53_22_82e3f141-57a8-4b43-b9ab-7e09d9e42abc.mp3"
 readTime: "5 min read"
 published: true
@@ -42,6 +43,6 @@ Why construction? The reasons are clear and compelling to cybercriminals. First,
 
 A successful ransomware attack can be devastating. One contractor recently reported a complete jobsite shutdown for three weeks following a breach. This downtime led to direct financial losses from stalled work, penalty clauses, and employee wages for non-productive time, estimated to be in the millions. Furthermore, leaked bid documents or proprietary project designs can severely compromise future competitive advantages. The shift from physical security to digital defense is no longer optional for firms looking to continue [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) operations.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 Construction firms are now considered prime targets due to their
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

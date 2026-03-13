@@ -2,7 +2,8 @@
 title: "The IIJA Countdown: $131 Billion in Infrastructure Money and 208 Days to Position Your Company"
 description: "The Infrastructure Investment and Jobs Act expires September 30, 2026 -- 208 days from now. AGC just launched a $2 million campaign called America's Moving Forward to pressure Congress on reauthorization. States have committed $249 billion in highway formula funds so far, supporting 113,000+ projects. But the next bill may be leaner. The Highway Trust Fund faces a $149.7 billion shortfall. And most mid-size contractors have no strategy for capturing infrastructure dollars before the music stops. This episode is the playbook."
 date: "2026-03-06"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-iija-countdown-131-billion-in-infrastructure-money-and-2-1772808646.png"
+image: "/img/articles/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-iija-countdown-131-billion-in-infrastructure-money-and-2-1772808646.png"
 audioUrl: "https://content.rss.com/episodes/332597/2605822/scalinglegends/2026_03_06_14_42_32_877dea37-448e-4669-a8ad-99b0ff02d0b0.mp3"
 readTime: "10 min read"
 published: true
@@ -97,3 +98,5 @@ This strategic diversification ensures that your company isn't putting all its e
 - **Q2:** Actively bid on identified IIJA projects, particularly those with set-aside advantages or as a subcontractor to primes.
 
     Q3:
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

@@ -459,6 +459,6 @@ sponsors:
 
     ### What if the owner pays the general contractor, but the general contractor doesn't pay me (a subcontractor)?
 
-Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
-
     This is where the "lien fund" theory in Virginia becomes critical for subcontractors. A subcontractor's lien is generally limited to the amount the owner owes the general contractor at the time the owner receives notice of the subcontractor's claim (or thereafter becomes indebted). If the owner has already paid the general contractor in full before receiving proper notice of your lien claim, your ability to collect from the owner via a mechanics lien may be limited or extinguished. This underscores why timely notice and filing are paramount for subcontractors.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

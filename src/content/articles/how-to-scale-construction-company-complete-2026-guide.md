@@ -225,3 +225,5 @@ Effective delegation involves clearly defining roles and responsibilities, empow
 Ready to transform your construction company into an industry leader? Subscribe to Scaling Legends today and receive exclusive insights, tactical guides, and expert interviews directly in your inbox. Unlock the secrets to sustainable growth, operational excellence, and unparalleled success in the construction sector. Don't just build projects; build an empire. Join our community of visionary contractors committed to mastering the art of construction business growth.
 
 [Subscribe Now](https://example.com/subscribe)
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

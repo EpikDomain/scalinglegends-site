@@ -563,6 +563,6 @@ sponsors:
 
     Starting a construction company in Illinois isn't for the faint of heart. It demands diligence, a sharp understanding of the state's unique regulatory landscape, and an unwavering commitment to quality. But for those who do it right, the rewards are substantial. The Illinois market is robust, with consistent demand for skilled, reliable contractors.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
-
     This guide has laid out the roadmap. Now it's up to you to put in the work. Get your licenses in order, understand your tax obligations, secure the right insurance, and build the relationships that will propel your business forward. The Prairie State is ready for you to make your mark. Go build something legendary.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

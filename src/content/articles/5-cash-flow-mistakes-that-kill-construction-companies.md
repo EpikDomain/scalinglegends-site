@@ -2,7 +2,8 @@
 title: "5 Cash Flow Mistakes That Kill Construction Companies"
 description: "Most construction companies that fail aren't bad at building. They're bad at managing money. Here are the five cash flow mistakes that take down contractors at every revenue level."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-cash-flow-mistakes-that-kill-construction-companies-1772747404.png"
+image: "/img/articles/5-cash-flow-mistakes-that-kill-construction-companies-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-cash-flow-mistakes-that-kill-construction-companies-1772747404.png"
 readTime: "10 min read"
 published: true
 season: 2
@@ -89,6 +90,6 @@ Many contractors operate their finances reactively, only looking at bank balance
 
 A 13-week rolling cash flow forecast projects all expected cash inflows (client payments, loan disbursements) and outflows (payroll, supplier payments, overhead) for the next three months, updated weekly. This isn't a static budget; it's a dynamic, living document that provides critical visibility.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 **Identify Gaps:** It immediately highlights weeks where
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

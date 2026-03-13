@@ -2,7 +2,8 @@
 title: "The EU Just Regulated AI in Construction. America Is Next. Here's How to Prepare."
 description: "On August 2, 2026, the EU AI Act becomes enforceable -- and it covers construction. If you use AI for safety monitoring, worker tracking, scheduling, or automated decisions on any project touching European supply chains, you'll face compliance obligations. More importantly, US regulation is coming next. This episode breaks down what the EU AI Act means for contractors and how to get ahead of it."
 date: "2026-03-09"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-eu-just-regulated-ai-in-construction-america-is-next-her-1773078671.png"
+image: "/img/articles/the-eu-just-regulated-ai-in-construction-america-is-next-heres-how-to-prepare-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-eu-just-regulated-ai-in-construction-america-is-next-her-1773078671.png"
 audioUrl: "https://content.rss.com/episodes/332597/2613519/scalinglegends/2026_03_09_19_39_16_14b80e06-1943-428b-91ae-e018b9bb1e67.mp3"
 readTime: "10 min read"
 published: true
@@ -96,6 +97,6 @@ Consider the potential benefits:
 
 - **Future-Proofing:** Early adoption of compliant AI practices positions your company at the forefront of innovation. As new AI advancements emerge (perhaps even showcased at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business)), you'll be ready to integrate them responsibly.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
 This strategic advantage extends to market positioning. Companies that can confidently claim their AI systems are transparent, fair, and human-centric will stand out. This is particularly relevant in areas like attracting diverse talent, including [women in construction](/article/women-in-construction-breaking-barriers-2026) or those from underrepresented groups, who may be more sensitive to ethical technology use.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

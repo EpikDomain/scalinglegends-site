@@ -2,7 +2,8 @@
 title: "Iran War Sends Oil Past $120, Steel Hits $1,000, and 92K Jobs Vanish: March 11 Construction Intel"
 description: "BREAKING: The US-Iran war just sent oil past $120/barrel before crashing to $87. Steel broke $1,000/ton. The economy lost 92,000 jobs. A new 15% global tariff starts THIS WEEK. CPI drops today. The Fed meets March 17. E-Verify expands March 19. BlackRock is hosting an infrastructure workforce summit in DC right now. And DOGE just axed $41.5 billion in federal contracts. Everything a contractor needs to know to survive this week."
 date: "2026-03-11"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/iran-war-sends-oil-past-120-steel-hits-1000-and-92k-jobs-van-1773235546.png"
+image: "/img/articles/iran-war-sends-oil-past-120-steel-hits-1000-and-92k-jobs-vanish-march-11-construction-intel-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/iran-war-sends-oil-past-120-steel-hits-1000-and-92k-jobs-van-1773235546.png"
 audioUrl: "https://content.rss.com/episodes/332597/2619679/scalinglegends/2026_03_11_14_07_20_1cb01859-d106-47b4-ada2-ccad61b307ae.mp3"
 readTime: "5 min read"
 published: true
@@ -173,3 +174,5 @@ Immediate steps include reviewing and updating your I-9 verification process, tr
 Diversification strategies include actively pursuing private sector projects (commercial, residential, industrial), expanding into state and local government contracts, exploring new geographic markets, and specializing in emerging construction niches like sustainable building or smart infrastructure. It's crucial to update marketing and business development efforts to target these new client segments and leverage tools like Smart Business Automator for efficient bidding on diverse projects.
 
 Subscribe to Scaling Legends wherever you listen to podcasts. Like, share, and leave a review to help other contractors find us.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

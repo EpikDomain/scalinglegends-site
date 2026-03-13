@@ -494,6 +494,6 @@ sponsors:
 
     Change orders are not an unfortunate anomaly in construction; they are an intrinsic part of the business. The difference between a profitable contractor and one constantly battling margin erosion lies in their approach to managing these changes. It demands discipline, meticulous documentation, a deep understanding of your contract, and a direct, no-BS approach to pricing and negotiation.
 
-Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
-
     By implementing the strategies outlined here—from proactive identification and robust documentation to strategic pricing and leveraging technology—you transform change orders from profit killers into manageable elements of project execution. Master this, and you'll not only protect your margins but also solidify your reputation as a contractor who delivers, even when the scope shifts.
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

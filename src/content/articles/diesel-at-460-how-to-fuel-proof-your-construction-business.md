@@ -2,7 +2,8 @@
 title: "Diesel at $4.60: How to Fuel-Proof Your Construction Business"
 description: "Oil broke $103 a barrel. Diesel is reacting more aggressively than gas. Equipment costs are up 5.6% YoY. Here's how to manage fuel exposure before it eats your margins."
 date: "2026-03-10"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
+image: "/img/articles/diesel-at-460-how-to-fuel-proof-your-construction-business-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616405/scalinglegends/2026_03_10_12_19_54_7fccd1ae-abb4-42c3-980b-613bf68b1c55.mp3"
 readTime: "11 min read"
 published: true
@@ -83,3 +84,5 @@ These insights are crucial for informed decision-making and are a cornerstone of
 The current fuel crisis isn't an isolated incident; it's a stark reminder of the volatile nature of global energy markets. Planning for $5 diesel isn't a pessimistic outlook; it's a prudent strategic move for any construction business aiming for long-term stability and growth. This proactive approach necessitates sophisticated forecasting and the intelligent application of [construction estimating software 2026](/article/construction-estimating-software-2026). Modern estimating platforms go far beyond simple cost calculations, allowing contractors to model various scenarios, including escalating fuel costs, and understand their impact on bids and project profitability.
 
 When preparing bids, it's no longer enough to use historical average fuel costs. Your estimating software should allow you to
+
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
