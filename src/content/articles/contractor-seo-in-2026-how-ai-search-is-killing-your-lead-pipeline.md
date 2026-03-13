@@ -6,8 +6,8 @@ image: "/scaling-legends-cover.jpg"
 audioUrl: "https://content.rss.com/episodes/332597/2608724/scalinglegends/2026_03_07_18_22_00_b259ba4d-04d2-4b85-80b9-9627870d295c.mp3"
 readTime: "30 min read"
 published: true
-pillar: "technology"
 season: 2
+pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

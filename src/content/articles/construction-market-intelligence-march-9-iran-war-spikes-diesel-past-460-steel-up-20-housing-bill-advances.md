@@ -6,8 +6,8 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 audioUrl: "https://content.rss.com/episodes/332597/2613353/scalinglegends/2026_03_09_18_34_48_a7989915-418d-42b7-8e19-b8de05affcde.mp3"
 readTime: "10 min read"
 published: true
-pillar: "market-intelligence"
 season: 2
+pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

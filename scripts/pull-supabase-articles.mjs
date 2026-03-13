@@ -59,6 +59,22 @@ function matchAudio(articleTitle) {
   return '';
 }
 
+// Auto-assign content pillar based on slug and title
+function assignPillar(slug, title) {
+  const s = (slug + ' ' + title).toLowerCase();
+  // Market Intelligence
+  if (/market.intelligence|daily.intelligence|intel.report|backlog.rebound|k-shaped|two-tier|haves.vs.have/.test(s)) return 'market-intelligence';
+  // Technology
+  if (/\bai\b|autonomous|software|3d.print|icon.titan|conexpo|estimat|bim|drone|cyber|seo|cloud.construction|tech.mistake|workflow.automation|contractor.seo/.test(s)) return 'technology';
+  // Workforce & Safety
+  if (/osha|worker.gap|workforce|labor.shortage|safety|blackrock|man.camp|immigration|women.in.construction|hire|retain|apprentice|training|crew/.test(s)) return 'workforce';
+  // Policy & Regulation
+  if (/tariff|supreme.court|doge|construction.law|iija|housing.act|license|lien|diesel|fuel|rent.or.own|war.oil|theft|bankrupt|eu.regulated|regulation|compliance|permit|bond|insurance/.test(s)) return 'policy';
+  // Business Growth (default for scaling/operations/management content)
+  if (/scale|growth|cash.flow|m&a|merger|acqui|operational|secret|contractor.wish|messy.middle|start.*business|bid|price|overhead|profit|estimate|proposal/.test(s)) return 'business-growth';
+  return 'business-growth'; // Default
+}
+
 // Convert HTML to markdown (simplified but handles our content)
 function htmlToMarkdown(html) {
   if (!html) return '';
@@ -231,6 +247,10 @@ async function main() {
         fm.push(`  - "${kw}"`);
       }
     }
+
+    // Auto-assign pillar based on slug/title keywords
+    const pillar = assignPillar(a.slug, a.title);
+    if (pillar) fm.push(`pillar: "${pillar}"`);
 
     fm.push('sponsors:');
     fm.push('  - name: "Smart Business Automator"');

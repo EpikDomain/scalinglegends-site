@@ -5,8 +5,8 @@ date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-cash-flow-mistakes-that-kill-construction-companies-1772747404.png"
 readTime: "10 min read"
 published: true
-pillar: "business-growth"
 season: 2
+pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

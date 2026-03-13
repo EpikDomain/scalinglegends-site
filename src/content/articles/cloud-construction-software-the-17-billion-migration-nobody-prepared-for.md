@@ -5,8 +5,8 @@ date: "2026-03-07"
 image: "/scaling-legends-cover.jpg"
 readTime: "31 min read"
 published: true
-pillar: "technology"
 season: 2
+pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

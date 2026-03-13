@@ -6,8 +6,8 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 audioUrl: "https://content.rss.com/episodes/332597/2619682/scalinglegends/2026_03_11_14_07_42_85463fa8-e41a-48c0-875a-a9c2235ba6a9.mp3"
 readTime: "8 min read"
 published: true
-pillar: "technology"
 season: 2
+pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
