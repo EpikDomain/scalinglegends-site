@@ -1,8 +1,8 @@
 ---
 title: "How to Scale a Construction Business Without Losing Control"
 description: "The systems, structures, and mindset shifts required to scale a construction business from $1M to $10M+ without chaos."
-date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-to-scale-a-construction-business-without-losing-control-1772747363.png"
+date: "2026-03-08"
+image: "https://scalinglegends.com/og/how-to-scale-a-construction-business-without-losing-control.jpg"
 readTime: "8 min read"
 published: true
 season: 2

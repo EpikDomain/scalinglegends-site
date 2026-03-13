@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in Virginia: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in Virginia. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under Virginia Code §43-1 through 43-23."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-04"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-virginia-2026.jpg"
 readTime: "51 min read"
 published: true
 season: 2

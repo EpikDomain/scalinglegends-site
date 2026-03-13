@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Washington: The 2026 Startup Guide"
 description: "Launch your construction company in Washington with this state-specific guide. Covers licensing through Washington Department of Labor & Industries, insurance requirements, SBA financing, finding your first projects, and the Washington market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-09"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-washington-2026.jpg"
 readTime: "54 min read"
 published: true
 season: 2

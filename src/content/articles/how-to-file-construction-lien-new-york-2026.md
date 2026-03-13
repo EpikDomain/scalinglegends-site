@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in New York: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in New York. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under New York Lien Law Article 2."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-24"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-new-york-2026.jpg"
 readTime: "26 min read"
 published: true
 season: 2

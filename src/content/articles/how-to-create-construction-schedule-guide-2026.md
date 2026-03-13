@@ -1,8 +1,8 @@
 ---
 title: "How to Create a Construction Schedule That Actually Works"
 description: "Most construction schedules fail within 2 weeks. This guide covers CPM, pull planning, trade sequencing, look-ahead schedules, and the scheduling software that keeps multi-project GCs on track."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-25"
+image: "https://scalinglegends.com/og/how-to-create-construction-schedule-guide-2026.jpg"
 readTime: "61 min read"
 published: true
 season: 2

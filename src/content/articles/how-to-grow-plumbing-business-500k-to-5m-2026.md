@@ -1,8 +1,8 @@
 ---
 title: "How to Grow a Plumbing Business: From $500K to $5M"
 description: "Scale your plumbing company with proven strategies for service agreements, flat-rate pricing, technician hiring, marketing, and the technology stack that drives growth from startup to multi-million dollar operations."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-12"
+image: "https://scalinglegends.com/og/how-to-grow-plumbing-business-500k-to-5m-2026.jpg"
 readTime: "33 min read"
 published: true
 season: 2

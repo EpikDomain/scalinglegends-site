@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Colorado: The 2026 Startup Guide"
 description: "Launch your construction company in Colorado with this state-specific guide. Covers licensing through No state GC license (local licensing only), insurance requirements, SBA financing, finding your first projects, and the Colorado market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-28"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-colorado-2026.jpg"
 readTime: "45 min read"
 published: true
 season: 2

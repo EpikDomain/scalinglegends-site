@@ -1,8 +1,8 @@
 ---
 title: "How to Get a General Contractor License in Virginia: Complete 2026 Guide"
 description: "Everything you need to get your general contractor license in Virginia. Covers Virginia Board for Contractors, exam requirements, bonds, insurance, fees, and the step-by-step application process for 2026."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-29"
+image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-virginia-2026.jpg"
 readTime: "40 min read"
 published: true
 season: 2

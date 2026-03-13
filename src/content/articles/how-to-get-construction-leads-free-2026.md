@@ -1,8 +1,8 @@
 ---
 title: "How to Get Construction Leads for Free in 2026"
 description: "Stop paying for leads you can generate yourself. Covers Google Business Profile, SEO, referral systems, networking, government bid boards, and the free strategies that top contractors use to fill their pipeline."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-14"
+image: "https://scalinglegends.com/og/how-to-get-construction-leads-free-2026.jpg"
 readTime: "58 min read"
 published: true
 season: 2

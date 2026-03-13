@@ -1,8 +1,8 @@
 ---
 title: "How to Manage Multiple Construction Projects Without Dropping the Ball"
 description: "The operational playbook for running 5-10+ construction projects simultaneously. Covers crew scheduling, resource allocation, PM hiring, tech stack, and the weekly rhythms that keep multi-project GCs profitable."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-17"
+image: "https://scalinglegends.com/og/how-to-manage-multiple-construction-projects-2026.jpg"
 readTime: "64 min read"
 published: true
 season: 2

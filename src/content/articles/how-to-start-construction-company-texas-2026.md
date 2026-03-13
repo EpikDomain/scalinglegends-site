@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Texas: The 2026 Startup Guide"
 description: "Launch your construction company in Texas with this state-specific guide. Covers licensing through No state GC license (local licensing varies by city), insurance requirements, SBA financing, finding your first projects, and the Texas market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-08"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-texas-2026.jpg"
 readTime: "57 min read"
 published: true
 season: 2

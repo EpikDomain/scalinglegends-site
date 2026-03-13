@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in California: The 2026 Startup Guide"
 description: "Launch your construction company in California with this state-specific guide. Covers licensing through Contractors State License Board (CSLB), insurance requirements, SBA financing, finding your first projects, and the California market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-05"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-california-2026.jpg"
 readTime: "58 min read"
 published: true
 season: 2

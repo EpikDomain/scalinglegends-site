@@ -1,8 +1,8 @@
 ---
 title: "How to Manage Construction Subcontractors Without the Headaches"
 description: "Build a reliable sub base and manage them like a pro. Covers pre-qualification, scope coordination, payment management, performance tracking, and the contract clauses that prevent disputes."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-27"
+image: "https://scalinglegends.com/og/how-to-manage-construction-subcontractors-guide-2026.jpg"
 readTime: "60 min read"
 published: true
 season: 2

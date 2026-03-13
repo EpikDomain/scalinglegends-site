@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Florida: The 2026 Startup Guide"
 description: "Launch your construction company in Florida with this state-specific guide. Covers licensing through Construction Industry Licensing Board (CILB), insurance requirements, SBA financing, finding your first projects, and the Florida market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-16"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-florida-2026.jpg"
 readTime: "63 min read"
 published: true
 season: 2

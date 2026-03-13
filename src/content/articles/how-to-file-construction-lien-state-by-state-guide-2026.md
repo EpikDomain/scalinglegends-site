@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien: State-by-State Guide for Contractors in 2026"
 description: "Protect your payment rights with this comprehensive mechanics lien guide. Covers preliminary notices, filing deadlines, lien waivers, state-by-state requirements, and the tools that automate lien management."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-04"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-state-by-state-guide-2026.jpg"
 readTime: "52 min read"
 published: true
 season: 2

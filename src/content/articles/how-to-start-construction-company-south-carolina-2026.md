@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in South Carolina: The 2026 Startup Guide"
 description: "Launch your construction company in South Carolina with this state-specific guide. Covers licensing through SC Contractors' Licensing Board, insurance requirements, SBA financing, finding your first projects, and the South Carolina market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-20"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-south-carolina-2026.jpg"
 readTime: "30 min read"
 published: true
 season: 2

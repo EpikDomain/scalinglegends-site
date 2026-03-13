@@ -1,8 +1,8 @@
 ---
 title: "How to Grow an HVAC Business from Startup to Scale in 2026"
 description: "The HVAC growth playbook from 00K to M+. Covers service agreements, flat-rate pricing, technician hiring, the R-454B refrigerant transition opportunity, and the technology stack that scales HVAC operations."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-05"
+image: "https://scalinglegends.com/og/how-to-grow-hvac-business-startup-to-scale-2026.jpg"
 readTime: "60 min read"
 published: true
 season: 2

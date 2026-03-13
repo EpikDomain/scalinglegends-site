@@ -1,8 +1,8 @@
 ---
 title: "How to Avoid Construction Cost Overruns: A Project Manager's Checklist"
 description: "85% of construction projects exceed budget by an average of 28%. This PM's checklist covers cost forecasting, change order management, EVM, material price locks, and the weekly review cadence that keeps projects on budget."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-09"
+image: "https://scalinglegends.com/og/how-to-avoid-construction-cost-overruns-checklist-2026.jpg"
 readTime: "49 min read"
 published: true
 season: 2

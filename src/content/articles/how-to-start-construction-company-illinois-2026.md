@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Illinois: The 2026 Startup Guide"
 description: "Launch your construction company in Illinois with this state-specific guide. Covers licensing through No state GC license (Chicago and local licensing), insurance requirements, SBA financing, finding your first projects, and the Illinois market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-26"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-illinois-2026.jpg"
 readTime: "27 min read"
 published: true
 season: 2

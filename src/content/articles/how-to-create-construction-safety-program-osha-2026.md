@@ -1,8 +1,8 @@
 ---
 title: "How to Create a Construction Safety Program That Passes Any OSHA Inspection"
 description: "Build a construction safety program that goes beyond checkbox compliance. Covers OSHA's Fatal Four, site-specific safety plans, toolbox talks, fall protection, EMR optimization, and safety tech for 2026."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-26"
+image: "https://scalinglegends.com/og/how-to-create-construction-safety-program-osha-2026.jpg"
 readTime: "32 min read"
 published: true
 season: 2

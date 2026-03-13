@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in North Carolina: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in North Carolina. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under NC General Statutes §44A."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-10"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-north-carolina-2026.jpg"
 readTime: "50 min read"
 published: true
 season: 2

@@ -1,8 +1,8 @@
 ---
 title: "Construction Cash Flow Management: How to Stop the Bleeding and Build Real Reserves"
 description: "82% of construction company failures are cash flow related. This guide covers forecasting, billing optimization, retainage, payment terms, working capital strategies, and the systems that keep GCs solvent."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-14"
+image: "https://scalinglegends.com/og/construction-cash-flow-management-guide-2026.jpg"
 readTime: "59 min read"
 published: true
 season: 2

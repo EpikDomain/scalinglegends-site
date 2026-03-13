@@ -1,8 +1,8 @@
 ---
 title: "How to Hire and Retain Construction Workers in 2026: A GC's Complete Guide"
 description: "Solve your labor shortage with proven recruitment and retention strategies. Covers compensation benchmarks, apprenticeship programs, company culture, and the real cost of construction worker turnover."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-15"
+image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-2026-guide.jpg"
 readTime: "70 min read"
 published: true
 season: 2

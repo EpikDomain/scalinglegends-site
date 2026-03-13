@@ -1,8 +1,8 @@
 ---
 title: "How to Grow a Landscaping Business Without Burning Out"
 description: "Scale your landscaping company from solo operator to multi-crew operation without killing yourself. Covers maintenance contracts, seasonal revenue smoothing, crew management, routing optimization, and the tech stack that runs modern landscape companies."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-07"
+image: "https://scalinglegends.com/og/how-to-grow-landscaping-business-without-burnout-2026.jpg"
 readTime: "37 min read"
 published: true
 season: 2

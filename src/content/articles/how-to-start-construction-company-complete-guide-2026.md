@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company from Scratch: The Complete 2026 Guide"
 description: "Everything you need to launch a construction company in 2026. Covers licensing, insurance, startup costs, SBA financing, first hires, finding projects, and the month-by-month roadmap from /bin/bash to M."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-10"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-complete-guide-2026.jpg"
 audioUrl: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_03_07_16_17_55_65de69e2-f5cf-4e4c-b747-fbda36911a57.mp3"
 readTime: "81 min read"
 published: true

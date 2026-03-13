@@ -1,8 +1,8 @@
 ---
 title: "How to Handle Construction Change Orders Without Killing Your Margins"
 description: "Change orders don't have to wreck your profitability. This guide covers the change order process, pricing strategies, markup recovery, documentation requirements, negotiation tactics, and the contract language that protects your margins."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-01"
+image: "https://scalinglegends.com/og/how-to-handle-construction-change-orders-margins-2026.jpg"
 readTime: "42 min read"
 published: true
 season: 2

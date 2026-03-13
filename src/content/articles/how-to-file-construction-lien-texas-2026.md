@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in Texas: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in Texas. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under Texas Property Code Chapter 53."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-01"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-texas-2026.jpg"
 readTime: "48 min read"
 published: true
 season: 2

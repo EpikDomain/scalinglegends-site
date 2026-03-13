@@ -1,8 +1,8 @@
 ---
 title: "How to Prevent Construction Site Theft: Solving the $2 Billion Problem"
 description: "Construction site theft costs the industry $2B+ annually. This guide covers GPS tracking, surveillance systems, access control, inventory management, and the security tech that's actually stopping thieves in 2026."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-02"
+image: "https://scalinglegends.com/og/how-to-prevent-construction-site-theft-guide-2026.jpg"
 audioUrl: "https://content.rss.com/episodes/332597/2616397/scalinglegends/2026_03_10_12_15_57_35324b88-d61b-4d58-a962-0bfbc2786b76.mp3"
 readTime: "37 min read"
 published: true

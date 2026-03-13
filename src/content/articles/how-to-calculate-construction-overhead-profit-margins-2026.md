@@ -1,8 +1,8 @@
 ---
 title: "How to Calculate Construction Overhead and Profit Margins: The Numbers That Make or Break Your Company"
 description: "Master construction financial management with real overhead rate calculations, profit margin benchmarks by company size, P&L examples, and the formulas that separate profitable GCs from the rest."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-10"
+image: "https://scalinglegends.com/og/how-to-calculate-construction-overhead-profit-margins-2026.jpg"
 readTime: "75 min read"
 published: true
 season: 2

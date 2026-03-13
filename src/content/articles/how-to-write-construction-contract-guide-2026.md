@@ -1,8 +1,8 @@
 ---
 title: "How to Write a Construction Contract That Actually Protects You"
 description: "Stop signing contracts that leave you exposed. Covers essential clauses, scope of work writing, change order procedures, dispute resolution, AIA vs ConsensusDocs, and the red flags every GC should catch."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-23"
+image: "https://scalinglegends.com/og/how-to-write-construction-contract-guide-2026.jpg"
 readTime: "58 min read"
 published: true
 season: 2

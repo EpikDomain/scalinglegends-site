@@ -1,8 +1,8 @@
 ---
 title: "Construction Quality Control: How to Reduce Rework and Defects That Kill Your Margins"
 description: "Rework costs the average project 5-12% of total cost. This guide covers QC programs, inspection checklists by trade, first-time quality culture, punch list management, and the tech that catches defects before they become callbacks."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-07"
+image: "https://scalinglegends.com/og/construction-quality-control-reduce-rework-guide-2026.jpg"
 readTime: "32 min read"
 published: true
 season: 2

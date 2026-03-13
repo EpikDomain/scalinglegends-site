@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Arizona: The 2026 Startup Guide"
 description: "Launch your construction company in Arizona with this state-specific guide. Covers licensing through Arizona Registrar of Contractors (ROC), insurance requirements, SBA financing, finding your first projects, and the Arizona market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-18"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-arizona-2026.jpg"
 readTime: "49 min read"
 published: true
 season: 2

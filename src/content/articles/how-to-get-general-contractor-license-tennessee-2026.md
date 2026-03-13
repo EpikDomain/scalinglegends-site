@@ -2,7 +2,7 @@
 title: "How to Get a General Contractor License in Tennessee: Complete 2026 Guide"
 description: "Everything you need to get your general contractor license in Tennessee. Covers Tennessee Board for Licensing Contractors, exam requirements, bonds, insurance, fees, and the step-by-step application process for 2026."
 date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-tennessee-2026.jpg"
 readTime: "40 min read"
 published: true
 season: 2

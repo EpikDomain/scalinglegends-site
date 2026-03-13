@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in Colorado: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in Colorado. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under Colorado Revised Statutes §38-22-101."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-08"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-colorado-2026.jpg"
 readTime: "30 min read"
 published: true
 season: 2

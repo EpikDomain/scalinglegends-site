@@ -1,8 +1,8 @@
 ---
 title: "Construction Estimating 101: How to Estimate Any Project Like a GC"
 description: "Master construction estimating with this complete guide. Learn how to estimate construction costs, calculate labor, do takeoffs, and build winning bids for residential, commercial, and renovation projects."
-date: "2026-03-12"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-21"
+image: "https://scalinglegends.com/og/construction-estimating-101-how-to-estimate-any-project-2026.jpg"
 readTime: "53 min read"
 published: true
 season: 2

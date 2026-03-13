@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in Georgia: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in Georgia. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under Georgia Code §44-14-360."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-28"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-georgia-2026.jpg"
 readTime: "30 min read"
 published: true
 season: 2

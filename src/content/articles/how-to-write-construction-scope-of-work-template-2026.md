@@ -1,8 +1,8 @@
 ---
 title: "How to Write a Construction Scope of Work That Prevents Disputes (With Template)"
 description: "Vague scopes are the #1 source of construction disputes. This guide covers inclusions vs exclusions, specification references, trade-specific tips, and a template framework you can customize for any project."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-06"
+image: "https://scalinglegends.com/og/how-to-write-construction-scope-of-work-template-2026.jpg"
 readTime: "50 min read"
 published: true
 season: 2

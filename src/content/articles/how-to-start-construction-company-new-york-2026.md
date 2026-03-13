@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in New York: The 2026 Startup Guide"
 description: "Launch your construction company in New York with this state-specific guide. Covers licensing through NYC Department of Buildings (NYC only) / No statewide GC license, insurance requirements, SBA financing, finding your first projects, and the New York market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-14"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-new-york-2026.jpg"
 readTime: "24 min read"
 published: true
 season: 2

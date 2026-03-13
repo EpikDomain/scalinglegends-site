@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in California: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in California. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under California Civil Code §8400-8494."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-20"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-california-2026.jpg"
 readTime: "42 min read"
 published: true
 season: 2

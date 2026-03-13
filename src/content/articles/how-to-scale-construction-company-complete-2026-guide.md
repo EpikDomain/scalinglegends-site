@@ -1,8 +1,8 @@
 ---
 title: "How to Scale a Construction Company in 2026: The Complete Guide"
 description: "The complete roadmap for scaling a construction company from $1M to $50M in 2026. Revenue milestones, systems, hiring, cash flow, and the leadership transitions that separate contractors who grow from those who plateau."
-date: "2026-03-12"
-image: "/scaling-legends-cover.jpg"
+date: "2026-02-12"
+image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete-2026-guide.jpg"
 audioUrl: "https://content.rss.com/episodes/332597/2609071/scalinglegends/2026_03_07_21_45_58_8872c400-b540-4361-a955-77671faf4e60.mp3"
 readTime: "41 min read"
 published: true

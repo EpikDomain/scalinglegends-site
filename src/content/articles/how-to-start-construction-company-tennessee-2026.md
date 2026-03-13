@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Tennessee: The 2026 Startup Guide"
 description: "Launch your construction company in Tennessee with this state-specific guide. Covers licensing through Tennessee Board for Licensing Contractors, insurance requirements, SBA financing, finding your first projects, and the Tennessee market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-22"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-tennessee-2026.jpg"
 readTime: "56 min read"
 published: true
 season: 2

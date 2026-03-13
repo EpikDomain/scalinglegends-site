@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in Illinois: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in Illinois. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under 770 ILCS 60 (Illinois Mechanics Lien Act)."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-14"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-illinois-2026.jpg"
 readTime: "46 min read"
 published: true
 season: 2

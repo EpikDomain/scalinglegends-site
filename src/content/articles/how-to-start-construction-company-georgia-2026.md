@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Georgia: The 2026 Startup Guide"
 description: "Launch your construction company in Georgia with this state-specific guide. Covers licensing through Georgia Division of Professional Licensing, insurance requirements, SBA financing, finding your first projects, and the Georgia market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-03"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-georgia-2026.jpg"
 readTime: "52 min read"
 published: true
 season: 2

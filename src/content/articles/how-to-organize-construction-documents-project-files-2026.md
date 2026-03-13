@@ -1,8 +1,8 @@
 ---
 title: "How to Organize Construction Documents and Project Files Like a Pro"
 description: "End the document chaos. Covers folder structures, naming conventions, digital document management systems, photo documentation, and the retention requirements every contractor needs to know."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-10"
+image: "https://scalinglegends.com/og/how-to-organize-construction-documents-project-files-2026.jpg"
 readTime: "44 min read"
 published: true
 season: 2

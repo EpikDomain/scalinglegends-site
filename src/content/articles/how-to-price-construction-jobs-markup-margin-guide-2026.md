@@ -1,8 +1,8 @@
 ---
 title: "How to Price Construction Jobs: The Math Most Contractors Get Wrong"
 description: "Stop leaving money on the table. This guide breaks down markup vs margin, overhead allocation, pricing models, and the exact formulas GCs use to price jobs profitably in 2026."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-01"
+image: "https://scalinglegends.com/og/how-to-price-construction-jobs-markup-margin-guide-2026.jpg"
 readTime: "66 min read"
 published: true
 season: 2

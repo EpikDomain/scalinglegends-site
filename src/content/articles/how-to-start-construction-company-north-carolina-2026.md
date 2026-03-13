@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in North Carolina: The 2026 Startup Guide"
 description: "Launch your construction company in North Carolina with this state-specific guide. Covers licensing through NC Licensing Board for General Contractors, insurance requirements, SBA financing, finding your first projects, and the North Carolina market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-30"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-north-carolina-2026.jpg"
 readTime: "47 min read"
 published: true
 season: 2

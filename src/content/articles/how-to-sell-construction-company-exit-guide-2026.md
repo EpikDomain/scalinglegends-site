@@ -1,8 +1,8 @@
 ---
 title: "How to Sell a Construction Company: What Buyers Actually Want"
 description: "Plan your construction company exit right. Covers EBITDA multiples, valuation drivers, due diligence prep, deal structures, buyer types, tax implications, and the 3-5 year timeline that maximizes your sale price."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-16"
+image: "https://scalinglegends.com/og/how-to-sell-construction-company-exit-guide-2026.jpg"
 readTime: "42 min read"
 published: true
 season: 2

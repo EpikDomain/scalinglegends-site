@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Virginia: The 2026 Startup Guide"
 description: "Launch your construction company in Virginia with this state-specific guide. Covers licensing through Virginia Board for Contractors, insurance requirements, SBA financing, finding your first projects, and the Virginia market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-01"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-virginia-2026.jpg"
 readTime: "51 min read"
 published: true
 season: 2

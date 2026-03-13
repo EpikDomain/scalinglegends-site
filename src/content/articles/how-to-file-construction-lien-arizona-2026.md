@@ -1,8 +1,8 @@
 ---
 title: "How to File a Construction Lien in Arizona: Deadlines, Forms, and Process for 2026"
 description: "Protect your payment rights in Arizona. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under Arizona Revised Statutes §33-981 through 33-1008."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-04-06"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-arizona-2026.jpg"
 readTime: "28 min read"
 published: true
 season: 2

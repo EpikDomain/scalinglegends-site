@@ -1,8 +1,8 @@
 ---
 title: "How to Start a Construction Company in Pennsylvania: The 2026 Startup Guide"
 description: "Launch your construction company in Pennsylvania with this state-specific guide. Covers licensing through No statewide GC license (Home Improvement Contractor registration required), insurance requirements, SBA financing, finding your first projects, and the Pennsylvania market landscape."
-date: "2026-03-13"
-image: "/scaling-legends-cover.jpg"
+date: "2026-03-12"
+image: "https://scalinglegends.com/og/how-to-start-construction-company-pennsylvania-2026.jpg"
 readTime: "31 min read"
 published: true
 season: 2
