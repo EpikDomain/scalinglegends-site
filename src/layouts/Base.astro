@@ -47,6 +47,11 @@ const fullTitle = title === siteName ? title : `${truncatedTitle}${suffix}`;
 
 const currentPath = Astro.url.pathname;
 
+// Normalize date to full ISO 8601 with timezone for Google structured data
+const isoDate = datePublished && !datePublished.includes('T')
+  ? `${datePublished}T00:00:00Z`
+  : datePublished;
+
 // ── Connected @graph schema for AI citation ──────────────────────────
 // Single @graph gives AI crawlers (ChatGPT, Perplexity, Google AI Overview)
 // a complete knowledge graph to index, rather than disconnected flat blocks.
@@ -119,8 +124,8 @@ if (article) {
     "headline": title,
     "description": description,
     "image": image,
-    "datePublished": datePublished,
-    "dateModified": datePublished,
+    "datePublished": isoDate,
+    "dateModified": isoDate,
     "author": { "@id": "https://scalinglegends.com/#organization" },
     "publisher": { "@id": "https://scalinglegends.com/#organization" },
     "mainEntityOfPage": { "@id": canonicalUrl },
@@ -140,7 +145,7 @@ if (article) {
       "name": title,
       "description": description,
       "url": canonicalUrl,
-      "datePublished": datePublished,
+      "datePublished": isoDate,
       ...(episodeData?.episodeNumber ? { "episodeNumber": episodeData.episodeNumber } : {}),
       ...(episodeData?.seasonNumber ? { "partOfSeason": { "@type": "PodcastSeason", "seasonNumber": episodeData.seasonNumber } } : {}),
       "partOfSeries": { "@id": "https://scalinglegends.com/#podcast" },
@@ -197,7 +202,7 @@ if (article) {
       "name": title,
       "description": description,
       "thumbnailUrl": `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`,
-      "uploadDate": datePublished,
+      "uploadDate": isoDate,
       "contentUrl": `https://www.youtube.com/watch?v=${videoId}`,
       "embedUrl": `https://www.youtube.com/embed/${videoId}`,
       "publisher": { "@id": "https://scalinglegends.com/#organization" },
@@ -286,8 +291,8 @@ const structuredDataGraph = {
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:site_name" content={siteName} />
   <meta property="og:locale" content="en_US" />
-  {datePublished && <meta property="article:published_time" content={datePublished} />}
-  {datePublished && <meta property="article:modified_time" content={datePublished} />}
+  {isoDate && <meta property="article:published_time" content={isoDate} />}
+  {isoDate && <meta property="article:modified_time" content={isoDate} />}
   {article && <meta property="article:publisher" content="https://scalinglegends.com" />}
   {article && <meta property="article:section" content="Construction" />}
   {keywords.length > 0 && keywords.map(kw => <meta property="article:tag" content={kw} />)}
