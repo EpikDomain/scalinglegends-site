@@ -77,4 +77,6 @@ The field is where the real work happens, but it's also often the source of sign
     *   **Time-Stamped Photo & Video Capture:** Embedding visual proof directly into reports.
 **With these tools, daily reporting time can drop from 45 minutes to an average of just 8 minutes, freeing up superintendents for critical on-site supervision and problem-solving.**
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 2.  **Photo Documentation with AI Tagging:** Field photos are invaluable for progress

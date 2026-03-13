@@ -505,4 +505,6 @@ Your out-of-state general contractor license will not be recognized by Colorado 
 
 ### Do I need an office in Colorado to get a license?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 You typically need a Colorado mailing address and a registered agent with a physical address in the state for your business entity, as required by the Colorado Secretary of State. Some municipalities might ask for a local business address for licensing purposes, but often a registered agent address suffices if you operate remotely or from a home office. Always verify with the specific municipality.

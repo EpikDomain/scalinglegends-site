@@ -375,4 +375,6 @@ Yes, a valid oral contract can support a mechanic's lien claim in Texas, provide
 
 ### What if I only supplied materials, but didn't install them?
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
 As long as the materials were delivered to the project site and were intended for incorporation into the improvement, you typically have lien rights, even if you did not perform the installation. The key is that the materials were furnished for the improvement of the property and were actually used or consumed on the project.

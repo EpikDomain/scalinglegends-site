@@ -139,7 +139,7 @@ It’s not enough to just offer them; you need a strategy:
 
 - **Show, Don't Just Tell:** During a maintenance visit, have the technician show the customer what they’re doing, explain the benefits of regular tune-ups, and highlight any potential issues that could be avoided with continued maintenance.
 
-A well-executed service agreement program is the bedrock of how to grow an HVAC business sustainably.
+A well-executed service agreement program is the bedrock of how to grow an HVAC business sustainably. [Smart Business Automator](https://smartbusinessautomator.com) helps contractors automate agreement tracking, renewal reminders, and scheduling so nothing falls through the cracks as you scale.
 
 ## Choosing Your Lane: Residential vs. Commercial HVAC
 
@@ -371,7 +371,7 @@ Manual scheduling is inefficient and costs you money in fuel, labor, and lost op
 
 - **Data for Decision Making:** Provides insights into technician performance, travel times, and service areas.
 
-Many modern FSM platforms include robust route optimization features. Leveraging these tools is a direct path to how to increase HVAC business operational efficiency.
+Many modern FSM platforms include robust route optimization features. [Smart Business Automator](https://smartbusinessautomator.com) integrates dispatch, routing, and real-time crew tracking so you can manage all of this from one dashboard. Leveraging these tools is a direct path to how to increase HVAC business operational efficiency.
 
 ## Your HVAC Tech Stack: Essential Software for Scale
 
@@ -387,7 +387,7 @@ This is the central nervous system of your operation. Choose wisely, as migratin
 
 - **Growth-stage FSM ($1M-$5M):** Some platforms sit right in the sweet spot for businesses in active growth mode. Look for robust dispatch, scheduling, customer management, mobile invoicing, strong reporting capabilities, and seamless integration with your accounting software.
 
-**Key FSM Features to Look For:** Mobile app for technicians, real-time dispatch, customer portal, service agreement management, integrated payment processing, robust reporting, and seamless integration with accounting software (e.g., QuickBooks).
+**Key FSM Features to Look For:** Mobile app for technicians, real-time dispatch, customer portal, service agreement management, integrated payment processing, robust reporting, and seamless integration with accounting software (e.g., QuickBooks). Platforms like [Smart Business Automator](https://smartbusinessautomator.com) are built specifically for contractors who need operations, scheduling, and client management in one system without the enterprise price tag.
 
 ### Other Essential Software
 

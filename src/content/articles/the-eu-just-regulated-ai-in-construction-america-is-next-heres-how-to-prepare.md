@@ -96,4 +96,6 @@ Consider the potential benefits:
 
 - **Future-Proofing:** Early adoption of compliant AI practices positions your company at the forefront of innovation. As new AI advancements emerge (perhaps even showcased at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business)), you'll be ready to integrate them responsibly.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 This strategic advantage extends to market positioning. Companies that can confidently claim their AI systems are transparent, fair, and human-centric will stand out. This is particularly relevant in areas like attracting diverse talent, including [women in construction](/article/women-in-construction-breaking-barriers-2026) or those from underrepresented groups, who may be more sensitive to ethical technology use.

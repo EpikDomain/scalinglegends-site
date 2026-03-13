@@ -329,4 +329,6 @@ Yes, you can use out-of-state experience to qualify for a Tennessee General Cont
 
 Tennessee has a separate "Home Improvement Contractor" license for projects between $3,000 and $24,999.99 for residential projects in specific counties (Shelby, Haywood, Bradley, Davidson, Hamilton, Knox, Robertson, Rutherford, Sumner, Williamson, Wilson). This is distinct from the General Contractor license, which is required for projects $25,000 or more statewide. If your residential projects consistently fall within that smaller range and specific counties, you might need a Home Improvement license instead. However, if you plan to do larger jobs or operate outside those counties, the General Contractor license is what you need.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 There you have it. The path to getting your General Contractor license in Tennessee isn't easy, but nothing worth doing ever is. Follow this guide, stay diligent, and you'll be licensed and ready to build your legend in the booming Tennessee market. Now go get to work.

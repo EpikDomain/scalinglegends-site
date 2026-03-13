@@ -379,4 +379,6 @@ A: No. Under California Civil Code §8200(e)(1), a direct contractor (one who ha
 
 A: A mechanics lien, if not enforced by a lawsuit, automatically expires 90 days after it is recorded. However, if a lawsuit to enforce the lien is filed within that 90-day period and a "lis pendens" (notice of pendency of action) is recorded, the lien remains effective until the lawsuit is resolved, which can take months or even years.
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
 The information provided in this article is for general informational purposes only and does not constitute legal advice. California mechanics lien law is highly complex and specific. Always consult with a qualified California construction attorney for advice regarding your specific situation.

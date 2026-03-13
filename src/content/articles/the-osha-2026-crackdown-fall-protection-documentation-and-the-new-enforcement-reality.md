@@ -102,4 +102,6 @@ Another critical aspect of the new enforcement reality is the "72-hour investiga
 
 - Reviewing all relevant safety documentation.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Failing to manage this initial phase effectively can severely prejudice your case and increase potential liabilities. Proactive preparation for these scenarios is a hallmark of contractors successfully [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) operations effectively. Data from <a href="https://smartbusinessautomator.com" style="color: #

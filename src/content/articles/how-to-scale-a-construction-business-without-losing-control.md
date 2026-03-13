@@ -57,4 +57,6 @@ Effective operations are the backbone of any [growing construction company](/art
 
 Quality control processes that scale are built on a foundation of checklists, inspections, and meticulous documentation. For example, a detailed pre-pour concrete checklist ensures all rebar is correctly placed, forms are secure, and necessary inspections are completed *before* the concrete truck arrives, preventing costly rework. Post-installation inspections by supervisors, not just the installing crew, provide an independent verification of quality. All these steps, along with daily logs, progress reports, and photos, create an auditable trail that protects your company, ensures client satisfaction, and provides valuable data for future projects. This structured approach to quality control is a hallmark of contractors successfully scaling past the $10 million mark.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Technology serves as a force multiplier, enabling your existing team to achieve more without simply adding more bodies. The right tools > more people. Cloud-based project management software allows field teams, project managers, and owners to access schedules, blueprints, change orders, and

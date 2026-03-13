@@ -909,4 +909,6 @@ While profit is a measure of financial performance over a period, cash flow is t
 
 This depends on their role. If a project manager is dedicated 100% to a single, specific project for its duration, their salary (including benefits and payroll taxes) can be considered a direct cost to that project. However, if a project manager oversees multiple projects, provides general project support across the company, or works on pre-construction/estimating for various bids, their salary is classified as overhead. The distinction hinges on whether their time and expense are exclusively tied to one revenue-generating project or support the business generally. Misclassifying this is a common error in .
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Mastering your construction overhead and profit margins isn't just about crunching numbers; it's about building a resilient, profitable, and scalable construction empire. The numbers don't lie. They are the bedrock of every strategic decision you make. Ignore them at your peril, or embrace them as your ultimate tool for scaling legends.

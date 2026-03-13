@@ -133,4 +133,6 @@ Current hyperscaler capital expenditure plans extend through 2028 to 2030, with 
 
 ### What certifications help contractors win data center subcontracting work?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 For electrical contractors: NETA certification for acceptance testing, NFPA 70E arc flash training, and medium-voltage switchgear experience are critical differentiators. For mechanical contractors: ASHRAE data center cooling certifications and experience with liquid cooling systems give a competitive edge. For all trades: OSHA 30 for supervisors, site-specific safety orientation programs, and documentation of zero-incident track records on previous projects are table stakes for prequalification with the major GCs.

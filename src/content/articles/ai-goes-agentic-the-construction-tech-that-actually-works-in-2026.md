@@ -62,4 +62,6 @@ Equally impactful is the rise of computer vision for safety compliance. AI-power
 
 **Safety First:** Computer vision systems are detecting PPE violations and other safety hazards in real-time, drastically improving site safety compliance and reducing incident rates.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Furthermore, predictive scheduling AI is proving instrumental in keeping projects on track. By analyzing countless variables – weather forecasts, material delivery schedules, labor availability, and equipment breakdowns – these systems can predict potential delays with remarkable accuracy. They can then suggest adjustments to the project timeline, reallocate resources, or even automate critical path adjustments, reducing overall project delays by an average of 15-20%. This level of foresight

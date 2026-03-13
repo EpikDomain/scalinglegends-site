@@ -196,4 +196,6 @@ Absolutely. We actively encourage listener input because the best episodes come 
 
 ### Do I need to listen to episodes in order?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 No. While Episode 1 gives you the foundation for what the show is about, every episode is designed to stand on its own. We recommend browsing our episode catalog and starting with the topics most relevant to your current stage of growth. If you are in the early stages of scaling, our episodes on systems, cash flow, and hiring are a great starting point. If you are further along, dive into our case studies and market intelligence content. That said, subscribing and listening weekly is the best way to build a comprehensive understanding of what it takes to scale a construction company successfully.

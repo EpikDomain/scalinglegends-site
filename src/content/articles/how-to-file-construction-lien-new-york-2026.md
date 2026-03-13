@@ -473,4 +473,6 @@ sponsors:
 
     A7: The most reliable way to obtain the legal description is to check the property deed, which is recorded with the County Clerk (or Register's Office in some counties) where the property is located. You can often access these records online or in person. Property tax records or a title report may also provide this information. A street address alone is usually insufficient for a valid lien.
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
     Understanding and leveraging New York's mechanics lien laws is a fundamental skill for any construction business operating in the state. By meticulously adhering to deadlines, accurately preparing documentation, and seeking professional guidance when needed, you can effectively secure your payments and protect your financial interests. Don't let unpaid invoices become lost revenue—master the New York mechanics lien process.

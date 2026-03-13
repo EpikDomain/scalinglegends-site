@@ -785,4 +785,6 @@ For a general contractor in Texas in 2026, the opportunities are vast and varied
 
 ### Q8: Where can I get help starting my general contracting business in Texas?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 **A:** The U.S. Small Business Administration (SBA) has district offices and resource partners across Texas, including SCORE mentors, Small Business Development Centers (SBDCs), and Women's Business Centers. These resources offer free or low-cost business counseling, training, and help with accessing funding and government contracting opportunities. Additionally, consult with a Texas-based attorney, accountant, and insurance broker specializing in construction.

@@ -203,7 +203,7 @@ Manual processes are bottlenecks. Technology allows you to automate, track, and 
 
 ### Essential Software for Painting Companies
 
-- **CRM (Customer Relationship Management):** Track leads, manage client communications, schedule follow-ups. Look for a CRM built for field service businesses, not generic sales tools.
+- **CRM (Customer Relationship Management):** Track leads, manage client communications, schedule follow-ups. [Smart Business Automator](https://smartbusinessautomator.com) combines CRM, scheduling, and crew management in one platform built for trade contractors, not generic sales teams.
 
 - **Estimating & Invoicing Software:** Create professional bids, track job costs, generate invoices. (e.g., Estimate Rocket, FreshBooks, QuickBooks)
 
@@ -320,7 +320,7 @@ Effective seasonal cash flow management is critical. During peak seasons, build 
 
 ### What technology is essential for a growing painting business?
 
-For scaling, essential technology includes CRM software (for managing leads and client relationships), estimating and invoicing software (for accurate bids and professional billing), project management software (for scheduling crews, tracking job progress, and managing materials), and robust accounting software (for payroll, expenses, and financial reporting). These tools automate repetitive tasks, reduce errors, provide critical business insights, and free up your time to focus on growth.
+For scaling, essential technology includes an all-in-one operations platform that handles CRM, estimating, invoicing, crew scheduling, and job tracking in one place. [Smart Business Automator](https://smartbusinessautomator.com) is purpose-built for contractors who need to manage leads, schedule crews, and track profitability without juggling five different tools. Pair that with robust accounting software for payroll and financial reporting. These tools automate repetitive tasks, reduce errors, provide critical business insights, and free up your time to focus on growth.
 
 ### When should I hire my first non-painter employee (e.g., office manager, estimator)?
 
@@ -330,4 +330,4 @@ Hire your first non-painter employee when your administrative tasks, lead qualif
 
 Growing a small painting business into a real company isn't about working harder; it's about working smarter, strategically, and with a clear vision. It demands a fundamental shift from being a painter to becoming a business owner who leads, delegates, and systematizes. You'll move from the tools to the whiteboard, from individual jobs to building a robust, scalable enterprise.
 
-The path is challenging, requiring discipline in hiring, relentless focus on systems, and smart financial management. But the reward is a business that provides true financial freedom and operates as a valuable asset, not just a demanding job. Stop painting your own limitations. Start building a legacy. The time to scale is now.
+The path is challenging, requiring discipline in hiring, relentless focus on systems, and smart financial management. But the reward is a business that provides true financial freedom and operates as a valuable asset, not just a demanding job. Platforms like [Smart Business Automator](https://smartbusinessautomator.com) exist specifically to help contractors systematize operations and scale without the chaos. Stop painting your own limitations. Start building a legacy. The time to scale is now.

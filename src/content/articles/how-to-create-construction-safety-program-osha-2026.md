@@ -448,4 +448,6 @@ For contractors scaling from $1M to $50M+, safety isn't merely a department; it'
 
 The path to scaling legends in construction is paved with proactive safety management. It demands leadership commitment, robust training, diligent hazard control, and a culture where every team member is empowered to prioritize safety. Embrace technology, foster open communication, and view every near-miss as a lesson learned.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 By investing in a world-class **safety program for contractors**, you're not just passing OSHA inspections; you're building a more resilient, reputable, and profitable enterprise. You're creating a legacy where growth and human well-being are inextricably linked. Make safety your competitive advantage, and watch your legend scale.

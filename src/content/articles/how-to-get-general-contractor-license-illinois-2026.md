@@ -555,4 +555,6 @@ Yes, if you're working on public works projects (state, county, municipal, or sc
 
 ### What's the difference between a Class A, B, C, and D General Contractor license in Chicago?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 These are tiered licenses issued by the City of Chicago Department of Buildings, defining the maximum height and area of buildings you can work on. Class A allows for any building regardless of height or area, while Class D is restricted to smaller, typically one- or two-story buildings up to 15,000 square feet. Each class has different experience, exam, insurance, and bond requirements.

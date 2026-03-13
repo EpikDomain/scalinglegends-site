@@ -510,4 +510,6 @@ After losing a construction bid, your most crucial step is to politely and profe
 
 ### How can a contractor scale their construction estimating and bidding operations as they grow?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 As a contractor scales, moving from solo bidding to a dedicated bid team is essential. This involves hiring and training roles such as a Chief Estimator, Senior Estimators, Junior Estimators, and a Bid Coordinator/Proposal Writer. Implement standardized operating procedures (SOPs), bid qualification checklists, and a master bid schedule. Leverage integrated bid management software and CRM to manage increased volume and track performance. Continuous training and internal debriefs are critical for maintaining accuracy and improving your construction bidding strategy across the growing team.

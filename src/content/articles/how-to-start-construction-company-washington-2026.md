@@ -480,4 +480,6 @@ Once you have all your documentation (UBI, bond, insurance), the L&I contractor 
 
 Starting a construction company in Washington in 2026 is a serious undertaking, but it's one with significant rewards for those who are prepared and disciplined. The state’s unique blend of tech-driven growth, infrastructure investment, and housing demand creates a fertile ground for new businesses. But you must respect the process: get your L&I registration dialed in, understand Washington’s tax structure, secure proper insurance, and build a network built on trust and reliability.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 This isn't a walk in the park. It requires grit, smart planning, and a deep understanding of Washington's specific regulatory environment. But if you follow this guide, approach it with a no-BS attitude, and commit to quality and compliance, you'll be well on your way to building a legendary construction company in the Evergreen State.

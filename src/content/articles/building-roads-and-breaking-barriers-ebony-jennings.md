@@ -176,6 +176,8 @@ Bonding capacity is built incrementally. Start with smaller bonded projects and 
 
 - [How to Scale a Family Construction Business Without Losing Its Soul](/how-to-scale-family-construction-business)
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
   View Full Transcript
   
     *Full transcript coming soon. Check back after episode publication for the complete text.*

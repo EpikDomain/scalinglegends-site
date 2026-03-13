@@ -610,4 +610,6 @@ If a required item or task is not explicitly included in the SOW (and not implic
 
 ### How often should scopes of work be updated?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 The SOW itself is typically a static document once agreed upon and signed. However, it is continually referenced and clarified through the RFI process. Any actual changes to the scope of work must be formalized through a change order, which then becomes an addendum to the original SOW. The project team should always be working from the latest approved version, incorporating all addenda.

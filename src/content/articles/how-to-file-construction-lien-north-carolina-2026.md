@@ -399,4 +399,6 @@ A: No. General contractors in North Carolina have a direct contractual relations
 
 Navigating North Carolina's mechanics lien laws requires precision, diligence, and a thorough understanding of statutory requirements. In a rapidly growing state like North Carolina, protecting your right to payment is paramount, and the construction lien remains one of the most effective tools at your disposal.
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
 By understanding the nuances of the Notice of Subcontract, the power of a Claim of Lien Upon Funds, the strict deadlines for filing and enforcing a Claim of Lien on Real Property, and the distinct rules for public project bond claims, you can significantly mitigate your risk of non-payment. Don't leave your hard-earned money to chance. Arm yourself with this knowledge, establish robust internal processes, and when in doubt, consult with a North Carolina construction law expert to safeguard your financial interests.

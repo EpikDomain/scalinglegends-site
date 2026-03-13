@@ -555,4 +555,6 @@ Absolutely not. True value engineering (VE) is a systematic process aimed at opt
 
 The path to scaling your construction business from $1M to $50M+ is paved with disciplined financial management. Cost overruns are not an inevitability; they are a symptom of lax control. Implement this checklist, embrace proactive management, and transform your projects into predictable profit centers.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 For more strategies to scale your construction business, visit [scalinglegends.com](https://scalinglegends.com).

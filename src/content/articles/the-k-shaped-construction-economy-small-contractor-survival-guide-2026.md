@@ -82,4 +82,6 @@ To capitalize on these pivots, contractors should:
 
 - **Assess internal capabilities:** Determine what new skills, certifications, or equipment are needed for target sectors. Partnerships with specialized subcontractors can be a quick entry point.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 **Develop targeted marketing:** Tailor your proposals and marketing materials to speak directly to the needs of education,

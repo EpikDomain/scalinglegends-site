@@ -137,4 +137,6 @@ If you are a CMU contractor or wood framer focused on production housing, monito
 
 ### When will BlackRock's Future Builders graduates be available for hire?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Pre-apprenticeship program graduates could be available as early as late 2026 or early 2027. These are entry-level candidates who need on-the-job training to develop into skilled journeypersons. Full journeyperson-level graduates from the program will not emerge until 2030 to 2031, given the 4 to 5-year apprenticeship cycle for most trades. Build relationships with training programs now so you are first in line when graduates become available.

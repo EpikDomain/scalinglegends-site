@@ -795,4 +795,6 @@ sponsors:
 
     ### What is the role of BIM in document management?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
     Building Information Modeling (BIM) is intrinsically linked to document management, especially for 3D models and associated data. A DDMS often serves as the Common Data Environment (CDE) for BIM projects, storing and managing model versions, clash detection reports, and linking model elements to specifications, submittals, and RFIs. This integration ensures a single source of truth from design through construction and operations.

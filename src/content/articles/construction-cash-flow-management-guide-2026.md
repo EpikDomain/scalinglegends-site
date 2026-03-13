@@ -646,4 +646,6 @@ You're not just building structures; you're building a legacy. That legacy deman
 
 The strategies outlined here aren't suggestions; they are mandates for survival and growth. Implement them. Embed them into your company's DNA. Stop the bleeding, build real reserves, and you won't just scale your business from $1M to $50M+; you'll build a legend that stands the test of time.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Ready to take control? The time to act is now. Your future depends on it.

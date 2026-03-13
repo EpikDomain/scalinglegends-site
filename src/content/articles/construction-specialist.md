@@ -159,4 +159,6 @@ Absolutely, and Webcor is the proof case. Geographic specialization means master
 
 ### How do I know if my niche has enough demand to sustain growth?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Analyze three data sources: historical building permit data for your project type in your geography (available from Census Bureau and local building departments), forward-looking capital project pipelines (check owner capital budgets, bond measures, and planning commission agendas), and demographic or economic trends that drive demand in your sector (population growth for housing, aging infrastructure for renovation, corporate expansion for commercial). If the data supports 5+ years of sustained demand at levels that can fund your growth plan, the niche is viable. If demand is cyclical, build cash reserves to weather the downturns.

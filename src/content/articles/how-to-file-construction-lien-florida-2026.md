@@ -621,4 +621,6 @@ sponsors:
 
     A "Claim of Lien" is the recorded document that formally establishes your legal claim against the property in the public records. It serves as notice of your interest. A "Lien Foreclosure Lawsuit" (or "Complaint to Foreclose Construction Lien") is a judicial action filed in court to enforce that Claim of Lien. If successful, the lawsuit can result in a court order to sell the property to satisfy the unpaid lien amount. The Claim of Lien creates the right; the lawsuit enforces it.
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
     Navigating Florida's construction lien law is a complex endeavor, but with the right knowledge and diligent adherence to statutory requirements, you can effectively protect your payment rights. Don't leave your hard-earned money to chance – understand and utilize the power of Florida's construction lien statute.

@@ -433,4 +433,6 @@ sponsors:
 
     From the precise deadlines for preliminary notices and lien recording to the critical service requirements and the ultimate one-year enforcement window, every step in the Tennessee lien process demands accuracy and vigilance. For remote contractors, the residential property limitations and the Notice of Nonpayment are particularly crucial. For prime contractors, the Notice of Lien Contract on larger residential projects is equally vital.
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
     Don't let the complexities of the law deter you from protecting your right to payment. Leverage this guide, utilize technology for tracking, and when in doubt, consult with a seasoned Tennessee construction attorney. By taking proactive steps to understand and apply these laws, you can confidently navigate the Tennessee construction landscape, secure your payments, and continue building legends.

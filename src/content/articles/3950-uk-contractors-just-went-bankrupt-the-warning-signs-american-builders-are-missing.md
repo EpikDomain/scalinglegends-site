@@ -98,4 +98,6 @@ First, **refuse to bid below true cost.** This seems obvious, yet it's the most 
 
 Second, **diversify your client base.** No single client should exceed 20% of your total annual revenue. Over-reliance on one major client creates an existential risk. If that client faces financial trouble, delays payment, or decides to take their business elsewhere, a significant portion of your revenue could vanish overnight, leaving your business vulnerable. Spreading your risk across multiple clients provides a buffer against such shocks.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Third, **maintain a minimum 3-month cash reserve.** This is not negotiable. A healthy cash reserve acts as your emergency fund, covering operating expenses during periods of slow payments, unexpected cost increases, or economic downturns. This buffer allows you to absorb shocks without resorting to high-interest short-term loans or facing immediate liquidity crises. For a business with $10 million in annual operating expenses, this means having at least $2.5 million in readily accessible cash. This isn't profit sitting idle; it's

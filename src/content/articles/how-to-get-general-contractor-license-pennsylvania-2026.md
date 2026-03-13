@@ -357,4 +357,6 @@ A: No, due to the lack of a statewide general contractor license, Pennsylvania d
 
 ### Q: How long does it take to get the HIC registration in Pennsylvania?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 A: After submitting your online application and paying the $50 fee, the Pennsylvania Office of Attorney General typically processes HIC registrations within 2-4 weeks. It's crucial not to begin work requiring HIC registration until you have received your official registration number.

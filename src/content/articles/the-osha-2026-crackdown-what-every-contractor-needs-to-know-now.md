@@ -14,4 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Fewer warnings. More citations. Document-driven inspections. OSHA's 2026 enforcement is stricter than ever. Here's your compliance playbook.

@@ -42,4 +42,6 @@ Why construction? The reasons are clear and compelling to cybercriminals. First,
 
 A successful ransomware attack can be devastating. One contractor recently reported a complete jobsite shutdown for three weeks following a breach. This downtime led to direct financial losses from stalled work, penalty clauses, and employee wages for non-productive time, estimated to be in the millions. Furthermore, leaked bid documents or proprietary project designs can severely compromise future competitive advantages. The shift from physical security to digital defense is no longer optional for firms looking to continue [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) operations.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Construction firms are now considered prime targets due to their

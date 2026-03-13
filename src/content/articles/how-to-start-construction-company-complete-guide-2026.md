@@ -632,4 +632,6 @@ This depends on your background and network. Residential projects (remodels, sma
 
 ### How important are online reviews and my online presence?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Extremely important. In 2026, most potential clients will research you online before making contact. A strong online presence, particularly an optimized Google Business Profile with numerous positive reviews, is crucial for building trust and attracting leads. Your website acts as your professional brochure and portfolio. Neglecting your online reputation is akin to operating without a phone number – you're invisible to a large segment of your potential market.

@@ -415,4 +415,6 @@ Yes, while Arizona doesn't have a specific state OSHA plan, federal OSHA regulat
 
 ### How do I verify a contractor's license in Arizona?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 You can easily verify any contractor's license in Arizona using the "Contractor Search" tool on the [Arizona Registrar of Contractors (ROC) website](https://roc.az.gov/). You can search by license number, name, or business name to see their license status, classifications, bond information, and any past disciplinary actions.

@@ -710,4 +710,6 @@ The Small Business Administration (SBA) offers a wealth of resources beneficial 
 
 ### Is it better to use markup or margin when discussing profit with my team?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Internally, it's often clearer and more motivating to discuss profit in terms of **margin**. This is because margin directly relates to the percentage of the revenue that becomes profit, which is a common metric for business health. When you say "we need a 20% margin on this job," everyone understands that 20 cents of every dollar collected is profit. While you'll use markup in your calculations to get to the selling price, framing the goal as a margin can provide a clearer perspective on the financial success of the project and the company as a whole.

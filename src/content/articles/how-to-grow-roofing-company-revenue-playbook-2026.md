@@ -517,4 +517,6 @@ Differentiate by focusing on exceptional customer service, superior quality mate
 
 ### Is offering homeowner financing worth the effort?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Absolutely. Offering homeowner financing through third-party lenders (e.g., GreenSky, Hearth) is crucial for increasing close rates and average project value. Many homeowners need a new roof but lack immediate cash. Financing options like 0% interest promotions or low monthly payments make a significant investment manageable, allowing homeowners to choose higher-quality materials or additional services. It removes a major barrier to purchase and positions your company as a problem-solver.

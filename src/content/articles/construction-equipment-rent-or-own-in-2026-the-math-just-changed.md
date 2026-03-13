@@ -72,4 +72,6 @@ Let's dissect the hidden costs of ownership, which are often significantly under
 
 - **Taxes & Licensing:** Annual property taxes and licensing fees add to the operational burden.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 **Opportunity Cost:** Perhaps the most critical hidden cost is the capital tied up in an owned asset. If $300,000 is spent on an excavator, that's $300,000 that cannot be used to fund an additional crew, invest in new technology,

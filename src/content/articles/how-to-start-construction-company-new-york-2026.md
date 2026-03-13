@@ -341,4 +341,6 @@ New York's workers' comp premiums are notoriously high. Several factors determin
 
 Starting a construction company in New York in 2026 is an ambitious undertaking. It demands meticulous planning, unwavering persistence, and a deep understanding of the state's unique regulatory and market landscape. This isn't a place for shortcuts or half-measures.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 Do your homework. Build your network. Hire smart people who know New York. And most importantly, focus on delivering quality work safely and reliably. If you can do that, you won't just build structures; you'll build a legacy in the Empire State. Now go get to work.

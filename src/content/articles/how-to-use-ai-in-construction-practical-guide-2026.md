@@ -1240,4 +1240,6 @@ Yes, indirectly. By making your company more technologically advanced and effici
 
 The era of practical AI in construction is here. For contractors scaling from $1M to $50M+, embracing this technology isn't just about staying current; it's about building a fundamentally more efficient, resilient, and profitable business. From precise estimating to proactive safety, dynamic project management, and intelligent equipment maintenance, AI tools are delivering tangible value across the project lifecycle.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 The journey to AI adoption requires a strategic approach: starting with clear pain points, prioritizing data readiness, and implementing solutions incrementally. It demands an investment not just in software, but in your people, equipping them with the skills to leverage AI as a powerful co-pilot. The future of construction is intelligent, and the legends of tomorrow are those who are building that future today, one data-driven decision at a time.

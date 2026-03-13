@@ -130,4 +130,6 @@ Most existing apprenticeship programs focus on training delivery but struggle wi
 
 ### When will the first Future Builders graduates be available for hire?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 Pre-apprenticeship programs typically run 8 to 14 weeks, so the first candidates completing initial training could be available for placement as early as late 2026 or early 2027. Full journeyperson-level graduates will take 4 to 5 years, meaning the full impact of the program will not be felt until 2030 to 2031. However, even first-year apprentices provide productive labor capacity on job sites, typically performing 60 to 70% of journeyperson-level work by the end of their first year.

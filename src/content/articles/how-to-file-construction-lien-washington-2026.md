@@ -421,4 +421,6 @@ Under RCW 60.04.051, construction liens generally have priority over any lien, m
 
 ### Can I file a lien on a tenant improvement project if I only contracted with the tenant?
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
 Yes, but with significant caveats. If you contracted solely with a tenant, your lien rights may be limited to the tenant's leasehold interest, rather than the fee simple interest of the property owner, unless the property owner authorized or ratified the improvements. If the owner required or consented to the improvements, your lien may attach to the entire property. This is a complex area, and the specific terms of the lease and the owner's involvement are critical. Legal advice is strongly recommended.

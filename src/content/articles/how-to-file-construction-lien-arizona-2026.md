@@ -492,4 +492,6 @@ sponsors:
 
     Navigating Arizona's mechanics lien laws requires precision, adherence to strict deadlines, and a thorough understanding of statutory requirements. In a rapidly growing market like Phoenix, protecting your right to payment is not just good business; it's essential for survival and growth.
 
+Tools like [Smart Business Automator](https://smartbusinessautomator.com) centralize your operations into one dashboard so nothing falls through the cracks as you grow.
+
     By diligently following the steps outlined in this guide – from the timely Preliminary 20-Day Notice to the accurate recording and proper enforcement of your lien – you can significantly bolster your position to secure payment for your hard-earned work. Remember, when in doubt, the counsel of an experienced Arizona construction attorney is invaluable. Stay sharp, stay compliant, and keep building your legacy.

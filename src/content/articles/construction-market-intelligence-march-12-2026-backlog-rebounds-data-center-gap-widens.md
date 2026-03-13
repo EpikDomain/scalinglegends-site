@@ -142,5 +142,7 @@ BlackRock will be deploying funds through nonprofit and workforce development pa
 ### Should I be worried about the Dodge Momentum Index decline?
 Not in isolation, but in context, yes. Two consecutive monthly declines of 6%+ suggest that the planning pipeline is normalizing after a strong second half of 2025. The 23 mega-projects that entered planning in February indicate that large-scale activity remains robust, but mid-market project opportunities may thin out. If your pipeline is heavily dependent on projects in the $1M to $20M range, expect more competitive bidding through the end of 2026. Diversifying your business development channels beyond traditional plan rooms and bid boards is the best hedge.
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 ### What contech tools should I be evaluating right now?
 Focus on the categories where investor money is flowing and where ROI is most immediate: AI-powered safety monitoring platforms like Fyld and Sensera that reduce incident rates and insurance costs, equipment management systems like Moab that improve utilization rates and reduce idle time, and payment automation tools like Payra that accelerate receivables and improve cash flow. Start with the pain point that costs your business the most money today, whether that is safety incidents, equipment downtime, or slow-paying customers, and evaluate tools in that category first.

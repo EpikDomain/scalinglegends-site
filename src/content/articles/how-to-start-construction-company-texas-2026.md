@@ -390,4 +390,6 @@ Texas has no state personal or corporate income tax, which is a significant adva
 
 ### Where are the best places in Texas to find construction work for a new company?
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help new construction companies systematize operations from day one so you're scaling on systems, not chaos.
+
 The major metropolitan areas and their surrounding growth corridors offer the most consistent opportunities. This includes the Dallas-Fort Worth Metroplex, the Houston Metro Area, and the Austin-San Antonio Corridor (along I-35). These regions see continuous residential, commercial, industrial, and infrastructure development. Don't overlook public works projects from TxDOT, state agencies, and local municipalities, which can provide stable work.

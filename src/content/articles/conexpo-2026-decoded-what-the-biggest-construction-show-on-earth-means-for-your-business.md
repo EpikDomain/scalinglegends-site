@@ -42,4 +42,6 @@ However, for the $3M-$20M contractor, the immediate implications are more nuance
 
 The real takeaway from CONEXPO 2026 for the scaling contractor is the accelerating integration of *assisted* autonomy and advanced telematics. Features like Cat AI Assistant, designed to reduce fleet management complexity by integrating with systems like Geotab for full fleet visibility, offer immediate, tangible benefits. These systems provide real-time data on machine health, fuel consumption, and utilization, enabling proactive maintenance and optimizing operational efficiency. For contractors grappling with labor shortages, these tools can extend the capabilities of existing crews and improve overall project profitability. The shift is not just about replacing operators, but about augmenting their capabilities and providing data-driven insights to improve [construction project management](/article/construction-project-management-surviving-the-messy-middle).
 
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
 **Callout:** Cat's CS12 autonomous compactor is the first fully autonomous machine for commercial use, but widespread adoption for diverse job sites is estimated to be 3-5
