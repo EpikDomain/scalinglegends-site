@@ -114,29 +114,25 @@ Earned Value Management is a powerful project management methodology for constru
 ### Performance Indicators:
 
 **Cost Variance (CV): EV - AC**
-        
 
-            - CV > 0: Under budget (good)
+- CV > 0: Under budget (good)
 
-            - CV 
+- CV 
 **Schedule Variance (SV): EV - PV**
-        
 
-            - SV > 0: Ahead of schedule (good)
+- SV > 0: Ahead of schedule (good)
 
-            - SV 
+- SV 
 **Cost Performance Index (CPI): EV / AC**
-        
 
-            - CPI > 1: Under budget (good)
+- CPI > 1: Under budget (good)
 
-            - CPI 
+- CPI 
 **Schedule Performance Index (SPI): EV / PV**
-        
 
-            - SPI > 1: Ahead of schedule (good)
+- SPI > 1: Ahead of schedule (good)
 
-            - SPI 
+- SPI 
 
 EVM provides an early warning system. If your CPI consistently drops below 1.0, you know you're headed for cost overruns. It forces you to ask "why?" and take corrective action before it's too late. Implement EVM, even in a simplified form, to gain real-time insight into your project's financial health.
 
@@ -324,144 +320,83 @@ Invest in the right technology. It's an enabler for scaling your operations and 
 
 This is where the rubber meets the road. This checklist is your non-negotiable weekly ritual to ensure robust construction cost control and keep your project on track. Execute this with discipline, and you will significantly reduce your risk of cost overruns.
 
-    
-        ### Review All Actual Costs Against Budget (This Week & Cumulative)
+### Review All Actual Costs Against Budget (This Week & Cumulative)
 
-        
+- **Drill Down:** Don't just look at summary numbers. Go line-by-line through every cost code: labor, materials, equipment, subcontracts, and general conditions.
 
-            - **Drill Down:** Don't just look at summary numbers. Go line-by-line through every cost code: labor, materials, equipment, subcontracts, and general conditions.
+- **Variance Identification:** Highlight any cost codes with significant positive or negative variances. A 5% variance on a large line item can be catastrophic.
 
-            - **Variance Identification:** Highlight any cost codes with significant positive or negative variances. A 5% variance on a large line item can be catastrophic.
+- **Root Cause Analysis:** For every variance, determine the "why." Was it higher material quantities, increased labor hours, an unbudgeted expense, or a billing error?
 
-            - **Root Cause Analysis:** For every variance, determine the "why." Was it higher material quantities, increased labor hours, an unbudgeted expense, or a billing error?
+### Update Earned Value Management (EVM) Metrics
 
-        
+- **Calculate & Plot:** Update PV, AC, EV, CV, SV, CPI, and SPI. Plot these trends. Are your CPI and SPI moving in the right direction or deteriorating?
 
-    
-    
-        ### Update Earned Value Management (EVM) Metrics
+- **Interpret & Act:** If CPI is below 1.0, you are over budget for the work completed. If SPI is below 1.0, you are behind schedule. These are red flags demanding immediate attention.
 
-        
+### Analyze Labor Productivity
 
-            - **Calculate & Plot:** Update PV, AC, EV, CV, SV, CPI, and SPI. Plot these trends. Are your CPI and SPI moving in the right direction or deteriorating?
+- **Man-Hours vs. Budget:** Compare actual man-hours spent this week and cumulatively against the budgeted man-hours for completed tasks.
 
-            - **Interpret & Act:** If CPI is below 1.0, you are over budget for the work completed. If SPI is below 1.0, you are behind schedule. These are red flags demanding immediate attention.
+- **Productivity Rates:** Review productivity rates for key activities (e.g., units installed per man-hour). Identify any drops in efficiency.
 
-        
+- **Address Issues:** If productivity is low, work with your superintendents to identify and resolve issues: staffing, equipment, material flow, or supervision.
 
-    
-    
-        ### Analyze Labor Productivity
+### Review Material Procurement & Inventory
 
-        
+- **PO Tracking:** Review all outstanding purchase orders. Verify delivery dates and compare against schedule needs.
 
-            - **Man-Hours vs. Budget:** Compare actual man-hours spent this week and cumulatively against the budgeted man-hours for completed tasks.
+- **Price Checks:** For major material purchases, confirm actual pricing matches quoted/locked prices.
 
-            - **Productivity Rates:** Review productivity rates for key activities (e.g., units installed per man-hour). Identify any drops in efficiency.
+- **Waste & Damage:** Check for any unusual material waste or damage reported from the field.
 
-            - **Address Issues:** If productivity is low, work with your superintendents to identify and resolve issues: staffing, equipment, material flow, or supervision.
+- **Inventory Levels:** Ensure critical materials are on-site or in transit for upcoming tasks, but avoid excessive stockpiling.
 
-        
+### Manage Change Orders (COs)
 
-    
-    
-        ### Review Material Procurement & Inventory
+- **Log & Status:** Review the change order log. What's pending, what's approved, what's been billed?
 
-        
+- **Cost & Schedule Impact:** For pending COs, ensure detailed cost and schedule impacts have been calculated and presented to the client.
 
-            - **PO Tracking:** Review all outstanding purchase orders. Verify delivery dates and compare against schedule needs.
+- **Client Approval:** Chase down signed approvals for any unapproved COs where work is either underway or imminent. No signed CO, no work.
 
-            - **Price Checks:** For major material purchases, confirm actual pricing matches quoted/locked prices.
+- **Budget Integration:** Ensure approved COs are immediately integrated into the project budget and schedule.
 
-            - **Waste & Damage:** Check for any unusual material waste or damage reported from the field.
+### Update Project Forecast (Estimate At Completion - EAC)
 
-            - **Inventory Levels:** Ensure critical materials are on-site or in transit for upcoming tasks, but avoid excessive stockpiling.
+- **Re-evaluate Remaining Work:** Based on current progress, actual costs, and identified variances, re-estimate the cost of the remaining work (ETC - Estimate To Complete).
 
-        
+- **Calculate New EAC:** EAC = Actual Cost (AC) + Estimate To Complete (ETC). This is your most realistic projection of the final project cost.
 
-    
-    
-        ### Manage Change Orders (COs)
+- **Communicate & Adjust:** If the EAC exceeds the original budget, this is your critical warning. Develop and implement a recovery plan.
 
-        
+### Review Subcontractor Performance & Billings
 
-            - **Log & Status:** Review the change order log. What's pending, what's approved, what's been billed?
+- **Progress & Payment:** Verify subcontractor progress against their billing requests. Ensure they are billing for work actually completed and approved.
 
-            - **Cost & Schedule Impact:** For pending COs, ensure detailed cost and schedule impacts have been calculated and presented to the client.
+- **Back Charges:** Track any potential or actual back charges for poor performance, delays, or rework caused by subcontractors.
 
-            - **Client Approval:** Chase down signed approvals for any unapproved COs where work is either underway or imminent. No signed CO, no work.
+- **Contract Compliance:** Ensure subs are adhering to their contract terms, including insurance and lien waivers.
 
-            - **Budget Integration:** Ensure approved COs are immediately integrated into the project budget and schedule.
+### Assess Contingency Usage
 
-        
+- **Draw Down Tracking:** Document any draws from the project contingency fund. What was the reason? Who approved it?
 
-    
-    
-        ### Update Project Forecast (Estimate At Completion - EAC)
+- **Remaining Contingency:** Review the remaining contingency. Is it still appropriate for the remaining risks?
 
-        
+- **Risk Retirement:** As risks are retired, consider if contingency can be reduced or released.
 
-            - **Re-evaluate Remaining Work:** Based on current progress, actual costs, and identified variances, re-estimate the cost of the remaining work (ETC - Estimate To Complete).
+### Identify & Mitigate Future Risks
 
-            - **Calculate New EAC:** EAC = Actual Cost (AC) + Estimate To Complete (ETC). This is your most realistic projection of the final project cost.
+- **Look Ahead:** What upcoming activities or phases present the highest cost risk?
 
-            - **Communicate & Adjust:** If the EAC exceeds the original budget, this is your critical warning. Develop and implement a recovery plan.
+- **Proactive Planning:** Develop mitigation strategies for identified risks. Can you pre-order materials, schedule extra labor, or re-sequence tasks?
 
-        
+### Action Item Follow-Up
 
-    
-    
-        ### Review Subcontractor Performance & Billings
+- **Review Previous Actions:** Check the status of action items from the last weekly review. Were they completed? Were they effective?
 
-        
-
-            - **Progress & Payment:** Verify subcontractor progress against their billing requests. Ensure they are billing for work actually completed and approved.
-
-            - **Back Charges:** Track any potential or actual back charges for poor performance, delays, or rework caused by subcontractors.
-
-            - **Contract Compliance:** Ensure subs are adhering to their contract terms, including insurance and lien waivers.
-
-        
-
-    
-    
-        ### Assess Contingency Usage
-
-        
-
-            - **Draw Down Tracking:** Document any draws from the project contingency fund. What was the reason? Who approved it?
-
-            - **Remaining Contingency:** Review the remaining contingency. Is it still appropriate for the remaining risks?
-
-            - **Risk Retirement:** As risks are retired, consider if contingency can be reduced or released.
-
-        
-
-    
-    
-        ### Identify & Mitigate Future Risks
-
-        
-
-            - **Look Ahead:** What upcoming activities or phases present the highest cost risk?
-
-            - **Proactive Planning:** Develop mitigation strategies for identified risks. Can you pre-order materials, schedule extra labor, or re-sequence tasks?
-
-        
-
-    
-    
-        ### Action Item Follow-Up
-
-        
-
-            - **Review Previous Actions:** Check the status of action items from the last weekly review. Were they completed? Were they effective?
-
-            - **Assign New Actions:** Based on this week's review, assign clear action items to team members with specific deadlines.
-
-        
-
-    
+- **Assign New Actions:** Based on this week's review, assign clear action items to team members with specific deadlines.
 
 ## Escalation Clauses in Contracts
 

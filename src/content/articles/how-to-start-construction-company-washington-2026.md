@@ -160,17 +160,14 @@ Beyond the L&I minimums, robust insurance is your shield against the myriad risk
 - **Umbrella/Excess Liability:** Provides additional liability coverage above your primary GL, auto, and employer's liability limits. Highly recommended for increased protection.
 
 **Bid Bonds, Performance Bonds, Payment Bonds:** These are project-specific bonds, often required for public works or larger private projects.
-        
 
-            - **Bid Bond:** Guarantees you'll enter into the contract if your bid is accepted.
+- **Bid Bond:** Guarantees you'll enter into the contract if your bid is accepted.
 
-            - **Performance Bond:** Guarantees you'll complete the project according to the contract.
+- **Performance Bond:** Guarantees you'll complete the project according to the contract.
 
-            - **Payment Bond:** Guarantees you'll pay your subcontractors and suppliers.
+- **Payment Bond:** Guarantees you'll pay your subcontractors and suppliers.
 
-        
-
-        Securing these requires a strong financial history and a good relationship with a surety company.
+Securing these requires a strong financial history and a good relationship with a surety company.
 
 ### Washington State Workers' Compensation: L&I vs. Self-Insured
 
@@ -289,19 +286,15 @@ Relationships are king in construction. You need to be seen, known, and trusted.
 - **General Contractors & Developers:** Many new companies start by subcontracting. Identify active GCs and developers in your target niche and introduce yourself. Offer to bid on their smaller projects or specific scopes. Be reliable, communicate well, and deliver quality work.
 
 **Industry Associations:**
-        
 
-            - **Associated General Contractors of Washington (AGC of Washington):** A powerful voice for commercial contractors. Attending their events is crucial for networking with larger GCs.
+- **Associated General Contractors of Washington (AGC of Washington):** A powerful voice for commercial contractors. Attending their events is crucial for networking with larger GCs.
 
-            - **Building Industry Association of Washington (BIAW):** Focuses on residential construction. Great for connecting with homebuilders and residential developers.
+- **Building Industry Association of Washington (BIAW):** Focuses on residential construction. Great for connecting with homebuilders and residential developers.
 
-            - **National Association of Women in Construction (NAWIC) - Washington Chapters:** For women in the industry.
+- **National Association of Women in Construction (NAWIC) - Washington Chapters:** For women in the industry.
 
-            - **Local Chambers of Commerce:** Good for general business networking.
+- **Local Chambers of Commerce:** Good for general business networking.
 
-        
-
-    
 - **Architects & Engineers:** They often recommend contractors to their clients. Build relationships here.
 
 Attend every industry event, trade show, and local networking meeting you can. Bring business cards. Follow up. Your reputation is your most valuable asset.
@@ -419,19 +412,15 @@ Let's consolidate the journey into actionable steps:
 - **Secure Financial Readiness:** Obtain an EIN from the IRS. Open a dedicated business bank account. Line up your startup capital.
 
 **Obtain Required Insurance & Surety Bond:**
-        
 
-            - Purchase a $12,000 contractor surety bond.
+- Purchase a $12,000 contractor surety bond.
 
-            - Secure commercial general liability (CGL) insurance (minimum $100K combined, but aim for $1M).
+- Secure commercial general liability (CGL) insurance (minimum $100K combined, but aim for $1M).
 
-            - Arrange for workers' compensation coverage through L&I if you'll have employees.
+- Arrange for workers' compensation coverage through L&I if you'll have employees.
 
-            - Consider other essential coverages like commercial auto and inland marine.
+- Consider other essential coverages like commercial auto and inland marine.
 
-        
-
-    
 - **Register as a Contractor with WA L&I:** Complete the L&I contractor registration application, selecting "General" or "Specialty" contractor. Provide proof of your bond, GL insurance, and workers' comp (if applicable).
 
 - **Register with WA Department of Revenue (DOR):** Register for your B&O tax account, sales tax, and any other relevant state taxes. Understand your filing frequency.

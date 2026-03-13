@@ -265,21 +265,16 @@ Your ad copy needs to be compelling and relevant to the search query.
 - **Local Focus:** Mention your city or service area.
 
 **Ad Extensions:** Utilize all relevant extensions:
-        
 
-            - **Sitelink Extensions:** Link to specific pages like your portfolio, services, or about us page.
+- **Sitelink Extensions:** Link to specific pages like your portfolio, services, or about us page.
 
-            - **Callout Extensions:** Highlight unique selling points (e.g., "Licensed & Insured," "Free Estimates").
+- **Callout Extensions:** Highlight unique selling points (e.g., "Licensed & Insured," "Free Estimates").
 
-            - **Structured Snippets:** Showcase specific services (e.g., "Services: New Construction, Remodeling, Additions").
+- **Structured Snippets:** Showcase specific services (e.g., "Services: New Construction, Remodeling, Additions").
 
-            - **Call Extensions:** Display your phone number, allowing mobile users to call directly.
+- **Call Extensions:** Display your phone number, allowing mobile users to call directly.
 
-            - **Location Extensions:** Link to your Google Business Profile.
-
-        
-
-    
+- **Location Extensions:** Link to your Google Business Profile.
 
 ### Landing Page Optimization
 
@@ -368,23 +363,19 @@ Your portfolio is arguably the most important section of your website. It needs 
 - **High-Resolution Imagery:** Professional photos and videos are non-negotiable. Invest in a good photographer or videographer.
 
 **Detailed Project Descriptions:** For each project, include:
-        
 
-            - Project type (e.g., "Commercial Office Build-Out," "Luxury Custom Home," "Industrial Warehouse Expansion").
+- Project type (e.g., "Commercial Office Build-Out," "Luxury Custom Home," "Industrial Warehouse Expansion").
 
-            - Location (general area or specific if client approves).
+- Location (general area or specific if client approves).
 
-            - Challenges faced and solutions implemented.
+- Challenges faced and solutions implemented.
 
-            - Key features or innovative aspects.
+- Key features or innovative aspects.
 
-            - Client objectives and how you met them.
+- Client objectives and how you met them.
 
-            - Before-and-after comparisons (where applicable).
+- Before-and-after comparisons (where applicable).
 
-        
-
-    
 - **Easy Navigation:** Allow visitors to filter projects by type (residential, commercial, industrial), service (new construction, remodel, addition), or industry.
 
 ### Testimonials and Social Proof
@@ -904,37 +895,28 @@ The decision should align with your budget, growth objectives, and internal capa
 You now have a comprehensive understanding of the individual components of effective construction marketing. The next step is to synthesize this knowledge into a cohesive, actionable strategy for 2026. This isn't a one-time task; it's an ongoing process of planning, execution, measurement, and adaptation.
 
 **Define Your Ideal Client & Niche:**
-        Before any marketing activity, get crystal clear on who you serve. Are you targeting high-net-worth homeowners for luxury custom builds? Commercial developers for industrial warehouses? Municipalities for infrastructure projects? The more specific you are, the more effective your marketing will be. Understand their demographics, psychographics, pain points, and where they seek information.
+Before any marketing activity, get crystal clear on who you serve. Are you targeting high-net-worth homeowners for luxury custom builds? Commercial developers for industrial warehouses? Municipalities for infrastructure projects? The more specific you are, the more effective your marketing will be. Understand their demographics, psychographics, pain points, and where they seek information.
 
-    
 **Conduct a Marketing Audit:**
-        Assess your current marketing efforts. What's working? What isn't? Review your website, Google Business Profile, social media presence, current lead sources, and past marketing spend. Identify gaps and areas for improvement. This audit will inform your priorities and budget allocation.
+Assess your current marketing efforts. What's working? What isn't? Review your website, Google Business Profile, social media presence, current lead sources, and past marketing spend. Identify gaps and areas for improvement. This audit will inform your priorities and budget allocation.
 
-    
 **Set SMART Marketing Goals:**
-        Your goals must be Specific, Measurable, Achievable, Relevant, and Time-bound. Instead of "get more leads," aim for "increase qualified commercial leads by 20% by Q4 2026" or "achieve a 4:1 marketing ROI on Google Ads for residential remodels." Link these goals directly to your business growth objectives.
+Your goals must be Specific, Measurable, Achievable, Relevant, and Time-bound. Instead of "get more leads," aim for "increase qualified commercial leads by 20% by Q4 2026" or "achieve a 4:1 marketing ROI on Google Ads for residential remodels." Link these goals directly to your business growth objectives.
 
-    
 **Allocate Your Budget Strategically:**
-        Based on your revenue, growth goals, and audit findings, determine your overall marketing budget (e.g., 5-10% of gross revenue). Then, allocate funds across the most impactful channels: digital (SEO, Google Ads, website), content, social media, networking, and personnel (in-house or agency). Be prepared to adjust this allocation based on performance.
+Based on your revenue, growth goals, and audit findings, determine your overall marketing budget (e.g., 5-10% of gross revenue). Then, allocate funds across the most impactful channels: digital (SEO, Google Ads, website), content, social media, networking, and personnel (in-house or agency). Be prepared to adjust this allocation based on performance.
 
-    
 **Choose Your Core Channels:**
-        You can't do everything at once. Prioritize the 3-5 marketing channels that will provide the highest ROI for your specific niche and goals. For most scaling contractors, this will include Google Business Profile, SEO, a professional website, and potentially Google Ads. Add LinkedIn for commercial, or Instagram/Facebook for residential. Build these out thoroughly before spreading yourself too thin.
+You can't do everything at once. Prioritize the 3-5 marketing channels that will provide the highest ROI for your specific niche and goals. For most scaling contractors, this will include Google Business Profile, SEO, a professional website, and potentially Google Ads. Add LinkedIn for commercial, or Instagram/Facebook for residential. Build these out thoroughly before spreading yourself too thin.
 
-    
 **Create a Content Calendar:**
-        Plan your content for the year. This includes blog posts, social media updates, project showcases, email newsletters, and video production. Align your content with seasonal trends, project milestones, and common client questions. Consistency is key for building authority and driving organic traffic.
+Plan your content for the year. This includes blog posts, social media updates, project showcases, email newsletters, and video production. Align your content with seasonal trends, project milestones, and common client questions. Consistency is key for building authority and driving organic traffic.
 
-    
 **Implement Tracking & Analytics:**
-        Set up Google Analytics, Google Search Console, call tracking, and integrate your CRM. Ensure every lead source and marketing activity is trackable. This is non-negotiable for understanding what works and optimizing your spend. Without data, you're back to "spray and pray."
+Set up Google Analytics, Google Search Console, call tracking, and integrate your CRM. Ensure every lead source and marketing activity is trackable. This is non-negotiable for understanding what works and optimizing your spend. Without data, you're back to "spray and pray."
 
-    
 **Review, Adapt, and Scale:**
-        Marketing is dynamic. Schedule regular (monthly or quarterly) reviews of your marketing performance against your SMART goals. Analyze the data, identify underperforming campaigns, and double down on what's working. Be agile enough to adapt your strategy based on market changes, competitive landscape, and client feedback. This continuous improvement loop is how you scale your construction leads and business effectively.
-
-    
+Marketing is dynamic. Schedule regular (monthly or quarterly) reviews of your marketing performance against your SMART goals. Analyze the data, identify underperforming campaigns, and double down on what's working. Be agile enough to adapt your strategy based on market changes, competitive landscape, and client feedback. This continuous improvement loop is how you scale your construction leads and business effectively.
 
 ## Frequently Asked Questions About Construction Marketing
 

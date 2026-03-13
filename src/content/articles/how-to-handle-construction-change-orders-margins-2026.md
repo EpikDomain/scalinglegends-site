@@ -13,8 +13,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-
-
 How to Handle Construction Change Orders Without Killing Your Margins
 
 # How to Handle Construction Change Orders Without Killing Your Margins
@@ -55,75 +53,55 @@ Mastering the **construction change order process** is about methodical executio
 
 The moment you identify a potential change—whether it's a design conflict, an owner's verbal request, or an unforeseen condition—document it. Do not proceed with the work without formalizing the change. Issue an immediate Notice of Potential Change (NPC) or a Request for Information (RFI) to the owner or architect. This formal notification is crucial for preserving your rights under the contract and establishing a clear timeline.
 
+- **Documentation:** Note the date, time, specific issue, and potential impact. Use photos, videos, and sketches.
 
-
-    - **Documentation:** Note the date, time, specific issue, and potential impact. Use photos, videos, and sketches.
-
-    - **Contract Review:** Understand your contract's specific notice requirements regarding timing and format.
-
-
+- **Contract Review:** Understand your contract's specific notice requirements regarding timing and format.
 
 ### 2. Scope Definition and Impact Analysis
 
 Once the change is acknowledged, work with the owner/architect to clearly define the new scope of work. What exactly needs to be done differently? Then, analyze the full impact:
 
+- **Direct Costs:** Labor (hours, rates), materials (quantities, prices), equipment (hours, rates), subcontractors (quotes).
 
+- **Indirect Costs:** Project supervision, small tools, temporary facilities, site overhead.
 
-    - **Direct Costs:** Labor (hours, rates), materials (quantities, prices), equipment (hours, rates), subcontractors (quotes).
+- **Schedule Impact:** How will this change affect the project timeline? Identify critical path impacts.
 
-    - **Indirect Costs:** Project supervision, small tools, temporary facilities, site overhead.
-
-    - **Schedule Impact:** How will this change affect the project timeline? Identify critical path impacts.
-
-    - **Cumulative Impact:** Consider how this change interacts with previous or anticipated changes.
-
-
+- **Cumulative Impact:** Consider how this change interacts with previous or anticipated changes.
 
 ### 3. Prepare and Submit the Change Order Proposal
 
 This is where you formalize your request for additional time and money. A well-prepared proposal is your strongest tool. This is **how to write a change order** that gets approved.
 
+- **Detailed Scope Description:** Clearly state what work is being added, deleted, or modified.
 
+- **Cost Breakdown:** Present a line-item breakdown of all direct and indirect costs. Justify every number.
 
-    - **Detailed Scope Description:** Clearly state what work is being added, deleted, or modified.
+- **Time Impact Analysis:** Quantify the schedule extension in days and explain the critical path impact. Include costs for extended general conditions.
 
-    - **Cost Breakdown:** Present a line-item breakdown of all direct and indirect costs. Justify every number.
+- **Supporting Documentation:** Attach all relevant backup—RFI responses, daily logs, material quotes, subcontractor bids, photos, marked-up drawings, schedule fragments.
 
-    - **Time Impact Analysis:** Quantify the schedule extension in days and explain the critical path impact. Include costs for extended general conditions.
-
-    - **Supporting Documentation:** Attach all relevant backup—RFI responses, daily logs, material quotes, subcontractor bids, photos, marked-up drawings, schedule fragments.
-
-    - **Reference Contract:** Explicitly state the contract clauses that support your entitlement to the change.
-
-
+- **Reference Contract:** Explicitly state the contract clauses that support your entitlement to the change.
 
 ### 4. Negotiation
 
 Rarely is a change order proposal approved without discussion. Be prepared to negotiate. Your goal is to reach a fair agreement that compensates you fully for the additional work and time.
 
+- **Be Prepared:** Know your numbers inside out.
 
+- **Be Professional:** Stick to the facts, not emotions.
 
-    - **Be Prepared:** Know your numbers inside out.
+- **Understand Their Perspective:** What are the owner's concerns?
 
-    - **Be Professional:** Stick to the facts, not emotions.
-
-    - **Understand Their Perspective:** What are the owner's concerns?
-
-    - **Document Discussions:** Keep detailed notes of all meetings and conversations.
-
-
+- **Document Discussions:** Keep detailed notes of all meetings and conversations.
 
 ### 5. Approval and Execution
 
 Once negotiated, the change order must be formally approved and executed (signed) by all parties. Do not proceed with the changed work without a signed change order or a Construction Change Directive (CCD) that authorizes the work and outlines a method for pricing. A verbal "go-ahead" is a recipe for disaster.
 
+- **Signed Document:** Ensure all necessary signatures are obtained.
 
-
-    - **Signed Document:** Ensure all necessary signatures are obtained.
-
-    - **Update Project Documents:** Integrate the approved change into your budget, schedule, and drawings.
-
-
+- **Update Project Documents:** Integrate the approved change into your budget, schedule, and drawings.
 
 ### 6. Tracking and Payment
 
@@ -137,45 +115,33 @@ This is where many contractors falter, under-pricing changes and eroding their m
 
 These are the easiest to quantify but often underestimated.
 
+- **Labor:** Actual hours spent by your crew on the changed work, multiplied by fully burdened labor rates (wages, benefits, taxes, insurance). Don't forget premium time if acceleration is required.
 
+- **Materials:** Invoice cost of new materials, plus freight, handling, and waste.
 
-    - **Labor:** Actual hours spent by your crew on the changed work, multiplied by fully burdened labor rates (wages, benefits, taxes, insurance). Don't forget premium time if acceleration is required.
+- **Equipment:** Rental costs or your internal ownership/operating costs for equipment used directly on the changed work.
 
-    - **Materials:** Invoice cost of new materials, plus freight, handling, and waste.
-
-    - **Equipment:** Rental costs or your internal ownership/operating costs for equipment used directly on the changed work.
-
-    - **Subcontractors:** Obtain formal quotes from your subs for their portion of the changed work. Add your own markup to their costs.
-
-
+- **Subcontractors:** Obtain formal quotes from your subs for their portion of the changed work. Add your own markup to their costs.
 
 ### Indirect Costs: The Hidden Drain
 
 These are often overlooked but are legitimate costs directly attributable to the change.
 
+- **Project Supervision:** Time spent by project managers, superintendents, and foremen managing the change, coordinating new work, and dealing with its repercussions.
 
+- **Small Tools and Consumables:** Items like saw blades, drill bits, safety gear, and miscellaneous supplies used for the changed work.
 
-    - **Project Supervision:** Time spent by project managers, superintendents, and foremen managing the change, coordinating new work, and dealing with its repercussions.
+- **Project Engineering/Drafting:** Time spent updating drawings, preparing submittals for the changed scope.
 
-    - **Small Tools and Consumables:** Items like saw blades, drill bits, safety gear, and miscellaneous supplies used for the changed work.
-
-    - **Project Engineering/Drafting:** Time spent updating drawings, preparing submittals for the changed scope.
-
-    - **Field Office Overhead:** If the change extends the project duration, your on-site trailer, utilities, project vehicles, and administrative staff costs continue.
-
-
+- **Field Office Overhead:** If the change extends the project duration, your on-site trailer, utilities, project vehicles, and administrative staff costs continue.
 
 ### Overhead Recovery: Your Business Costs
 
 Every dollar of revenue needs to contribute to your company's general and administrative (G&A) overhead. Change orders are no exception.
 
+- **Home Office Overhead:** This covers your rent, executive salaries, accounting, marketing, and other fixed costs. A percentage markup on direct and indirect costs is typically applied to recover this. This is not profit; it's a cost of doing business.
 
-
-    - **Home Office Overhead:** This covers your rent, executive salaries, accounting, marketing, and other fixed costs. A percentage markup on direct and indirect costs is typically applied to recover this. This is not profit; it's a cost of doing business.
-
-    - **Project-Specific Overhead:** If the change requires additional administrative effort, permitting, or specialized resources not covered in indirect costs, include it.
-
-
+- **Project-Specific Overhead:** If the change requires additional administrative effort, permitting, or specialized resources not covered in indirect costs, include it.
 
 ### Profit Markup: Your Reason for Being
 
@@ -185,14 +151,11 @@ After recovering all costs and overhead, you are entitled to a profit. This is y
 
 If a change order extends the project schedule, you incur additional costs for every day the project runs longer. These are "extended general conditions."
 
+- **Daily Rate:** Calculate a daily rate for your on-site overhead (superintendents, project engineers, field office, utilities, temporary services, insurance, bonds, etc.).
 
+- **Quantify Delay:** Accurately determine the number of days the critical path is extended due to the change.
 
-    - **Daily Rate:** Calculate a daily rate for your on-site overhead (superintendents, project engineers, field office, utilities, temporary services, insurance, bonds, etc.).
-
-    - **Quantify Delay:** Accurately determine the number of days the critical path is extended due to the change.
-
-    **Multiply:** Daily rate x number of extended days = your time impact cost. This is often a significant component and frequently overlooked or under-calculated.
-
+**Multiply:** Daily rate x number of extended days = your time impact cost. This is often a significant component and frequently overlooked or under-calculated.
 
 ## Documentation Requirements: Your Armor in Battle
 
@@ -202,23 +165,19 @@ In construction, if it's not documented, it didn't happen. Robust documentation 
 
 Your daily reports should be meticulous. Record:
 
+- Weather conditions.
 
+- Work performed, by whom, and in what area.
 
-    - Weather conditions.
+- Equipment on site and hours operated.
 
-    - Work performed, by whom, and in what area.
+- Deliveries and inspections.
 
-    - Equipment on site and hours operated.
+- Any issues, delays, or potential changes observed.
 
-    - Deliveries and inspections.
+- Verbal instructions received from owner/architect, and your immediate follow-up.
 
-    - Any issues, delays, or potential changes observed.
-
-    - Verbal instructions received from owner/architect, and your immediate follow-up.
-
-    - Manpower for each trade, including hours on specific tasks.
-
-
+- Manpower for each trade, including hours on specific tasks.
 
 ### Requests for Information (RFIs)
 
@@ -402,31 +361,23 @@ Not every potential change order is worth fighting for. Strategic decision-makin
 
 ### Push Back When:
 
+- **Significant Cost/Time Impact:** If the change significantly impacts your direct costs, overhead, profit, or critical path schedule, always push for full compensation.
 
+- **Clear Contractual Entitlement:** When the contract clearly supports your claim (e.g., differing site conditions, owner-directed scope change), stand firm.
 
-    - **Significant Cost/Time Impact:** If the change significantly impacts your direct costs, overhead, profit, or critical path schedule, always push for full compensation.
+- **Setting Precedent:** If absorbing a cost sets a bad precedent for future changes on this or other projects with the same client, push back.
 
-    - **Clear Contractual Entitlement:** When the contract clearly supports your claim (e.g., differing site conditions, owner-directed scope change), stand firm.
-
-    - **Setting Precedent:** If absorbing a cost sets a bad precedent for future changes on this or other projects with the same client, push back.
-
-    - **Risk Transfer:** If the change introduces new or unforeseen risks that were not part of your original scope, you must be compensated for taking on that risk.
-
-
+- **Risk Transfer:** If the change introduces new or unforeseen risks that were not part of your original scope, you must be compensated for taking on that risk.
 
 ### Consider Absorbing When:
 
+- **Minor Impact:** If the cost or time impact is truly negligible and won't affect your overall project profitability.
 
+- **Relationship Management:** For a valued client or strategic partner, absorbing a very minor cost might be a goodwill gesture that pays off in future work. This is a calculated risk, not a regular practice.
 
-    - **Minor Impact:** If the cost or time impact is truly negligible and won't affect your overall project profitability.
+- **Mitigating a Larger Issue:** Sometimes, absorbing a small cost now can prevent a larger, more costly dispute later.
 
-    - **Relationship Management:** For a valued client or strategic partner, absorbing a very minor cost might be a goodwill gesture that pays off in future work. This is a calculated risk, not a regular practice.
-
-    - **Mitigating a Larger Issue:** Sometimes, absorbing a small cost now can prevent a larger, more costly dispute later.
-
-    - **Your Own Error (Rarely):** If a change is undeniably due to your own error or omission, it's often best to absorb it and maintain your reputation, rather than fight an unwinnable battle.
-
-
+- **Your Own Error (Rarely):** If a change is undeniably due to your own error or omission, it's often best to absorb it and maintain your reputation, rather than fight an unwinnable battle.
 
 ## Tracking Cumulative Change Order Impact on Project Profitability
 
@@ -444,17 +395,13 @@ Regularly update your project's financial forecast to incorporate approved, pend
 
 Track KPIs related to change orders:
 
+- **Change Order Value as % of Contract Value:** Helps benchmark project complexity and change activity.
 
+- **Change Order Approval Rate:** Indicates effectiveness of your proposal and negotiation.
 
-    - **Change Order Value as % of Contract Value:** Helps benchmark project complexity and change activity.
+- **Average Change Order Cycle Time:** Measures efficiency from identification to approval.
 
-    - **Change Order Approval Rate:** Indicates effectiveness of your proposal and negotiation.
-
-    - **Average Change Order Cycle Time:** Measures efficiency from identification to approval.
-
-    - **Profit Margin on Change Orders:** Ensures you're not just recovering costs but also making profit.
-
-
+- **Profit Margin on Change Orders:** Ensures you're not just recovering costs but also making profit.
 
 ### Post-Mortem Analysis
 

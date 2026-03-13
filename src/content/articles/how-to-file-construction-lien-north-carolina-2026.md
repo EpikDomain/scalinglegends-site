@@ -214,15 +214,11 @@ Lien waivers are common documents in North Carolina construction projects, used 
 North Carolina law generally recognizes and enforces lien waivers. However, there are specific considerations:
 
 **Conditional vs. Unconditional Waivers:**
-        
 
-            - **Conditional Waiver:** This type of waiver becomes effective *only upon actual receipt of payment*. It's typically used for progress payments, stating that the waiver is effective once the specified payment has cleared. For example, "This waiver is effective upon receipt of $X payment."
+- **Conditional Waiver:** This type of waiver becomes effective *only upon actual receipt of payment*. It's typically used for progress payments, stating that the waiver is effective once the specified payment has cleared. For example, "This waiver is effective upon receipt of $X payment."
 
-            - **Unconditional Waiver:** This waiver is effective immediately upon signing, regardless of whether payment has actually been received. You should generally avoid signing unconditional waivers for progress payments unless you have already received and confirmed the funds.
+- **Unconditional Waiver:** This waiver is effective immediately upon signing, regardless of whether payment has actually been received. You should generally avoid signing unconditional waivers for progress payments unless you have already received and confirmed the funds.
 
-        
-
-    
 - **Best Practice:** Always use conditional waivers for progress payments. Only provide an unconditional waiver after you have verified that the payment has cleared your bank.
 
 - **Final Payment Waivers:** For final payment, an unconditional waiver is often required. Ensure that the final payment amount covers all outstanding balances before signing.
@@ -314,15 +310,11 @@ While the exact fees can vary slightly by county, here's a general overview of c
 - **Recording Fees:** The Clerk of Superior Court charges a fee for recording the Claim of Lien on Real Property and for recording the subsequent lien release. These fees are typically in the range of $20-$30 per document. It's best to call the specific county's Clerk of Superior Court office for current rates.
 
 **Service Fees:**
-        
 
-            - **Certified Mail:** The cost of sending documents via certified mail with return receipt requested (e.g., Notice of Subcontract, Claim of Lien service) is typically around $8-$10 per mailing.
+- **Certified Mail:** The cost of sending documents via certified mail with return receipt requested (e.g., Notice of Subcontract, Claim of Lien service) is typically around $8-$10 per mailing.
 
-            - **Sheriff's Service:** If you opt for personal service by a sheriff's deputy, there will be a service fee, generally in the range of $30-$50 per attempt.
+- **Sheriff's Service:** If you opt for personal service by a sheriff's deputy, there will be a service fee, generally in the range of $30-$50 per attempt.
 
-        
-
-    
 - **Notarization Fees:** You'll incur small fees for notarizing your lien claim and release documents.
 
 - **Attorney Fees:** If you engage a North Carolina construction attorney to draft, file, serve, or enforce your lien, these will be the most significant costs. While some statutes allow for recovery of attorney fees in enforcement actions, it's not guaranteed.

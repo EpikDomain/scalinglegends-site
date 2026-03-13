@@ -58,21 +58,16 @@ For those furnishing labor, services, or materials on **residential property** (
 - **Recipients:** The owner or the contractor (or both). It's always best practice to send it to both if their identities are known.
 
 **Required Content:** The Notice to Contractor must contain:
-        
 
-            - The name, address, and telephone number of the person or entity furnishing labor, services, or materials.
+- The name, address, and telephone number of the person or entity furnishing labor, services, or materials.
 
-            - The name and address of the general contractor.
+- The name and address of the general contractor.
 
-            - The name of the owner of the real estate.
+- The name of the owner of the real estate.
 
-            - A description of the real estate (sufficient to identify it).
+- A description of the real estate (sufficient to identify it).
 
-            - A general description of the labor, services, or materials furnished or to be furnished.
-
-        
-
-    
+- A general description of the labor, services, or materials furnished or to be furnished.
 
 **Crucial Note:** If you fail to send this Notice to Contractor within the 30-day window on a residential project, your lien rights are extinguished, regardless of whether you've been paid.
 
@@ -90,100 +85,75 @@ Always check the public records for a Notice of Commencement at the start of any
 
 Filing a construction lien in Georgia is a precise, multi-step process. Each step must be executed flawlessly to ensure your lien is valid and enforceable. Below is a detailed breakdown:
 
-    
-        ### Step 1: Confirm Your Eligibility and Gather Documentation
+### Step 1: Confirm Your Eligibility and Gather Documentation
 
-        Before you even begin drafting, ensure you meet the criteria for filing a lien in Georgia. You must have provided lienable labor, services, or materials to a specific property and have an outstanding balance due. Gather all relevant documentation:
+Before you even begin drafting, ensure you meet the criteria for filing a lien in Georgia. You must have provided lienable labor, services, or materials to a specific property and have an outstanding balance due. Gather all relevant documentation:
 
-        
+- Contracts, subcontracts, and purchase orders.
 
-            - Contracts, subcontracts, and purchase orders.
+- Invoices and payment applications.
 
-            - Invoices and payment applications.
+- Delivery tickets and time sheets.
 
-            - Delivery tickets and time sheets.
+- Correspondence related to non-payment.
 
-            - Correspondence related to non-payment.
+- Proof of sending any required preliminary notices (e.g., certified mail receipts).
 
-            - Proof of sending any required preliminary notices (e.g., certified mail receipts).
+- Accurate legal description of the property.
 
-            - Accurate legal description of the property.
+- Name of the property owner (as listed in public records).
 
-            - Name of the property owner (as listed in public records).
+- Date of last furnishing of labor or materials.
 
-            - Date of last furnishing of labor or materials.
+### Step 2: Draft the Claim of Lien Affidavit
 
-        
+The "Claim of Lien" (often referred to as an Affidavit of Claim of Lien) is the document you will file. Its content is strictly dictated by O.C.G.A. §44-14-361.1(a)(2). Missing any of these elements can invalidate your lien. The affidavit must be sworn to and signed by the lien claimant or their authorized agent.
 
-    
-    
-        ### Step 2: Draft the Claim of Lien Affidavit
+**Mandatory Content for a Georgia Claim of Lien:**
 
-        The "Claim of Lien" (often referred to as an Affidavit of Claim of Lien) is the document you will file. Its content is strictly dictated by O.C.G.A. §44-14-361.1(a)(2). Missing any of these elements can invalidate your lien. The affidavit must be sworn to and signed by the lien claimant or their authorized agent.
+- **Name of Lien Claimant:** Your full legal name or company name.
 
-        **Mandatory Content for a Georgia Claim of Lien:**
+- **Name of Owner:** The name of the true owner of the real estate against which the lien is claimed, if known. It's crucial to identify the correct legal owner, often found through county tax assessor records.
 
-        
+- **Description of Real Property:** A full and accurate legal description of the property. A street address alone is usually insufficient. This description must be sufficient to identify the property on the public records.
 
-            - **Name of Lien Claimant:** Your full legal name or company name.
+- **Amount Claimed:** The exact amount for which the lien is claimed. This should be the unpaid balance for lienable work performed.
 
-            - **Name of Owner:** The name of the true owner of the real estate against which the lien is claimed, if known. It's crucial to identify the correct legal owner, often found through county tax assessor records.
+- **Date Last Furnished:** The date upon which the last labor, services, or materials were furnished. This is critical for calculating the 90-day filing deadline.
 
-            - **Description of Real Property:** A full and accurate legal description of the property. A street address alone is usually insufficient. This description must be sufficient to identify the property on the public records.
+- **Statement of Due Claim:** A statement that the claim has become due.
 
-            - **Amount Claimed:** The exact amount for which the lien is claimed. This should be the unpaid balance for lienable work performed.
+- **Statement of Substantial Compliance:** A statement that the lien claimant has substantially complied with the contract, plans, and specifications, as the case may be, for the work performed or materials furnished.
 
-            - **Date Last Furnished:** The date upon which the last labor, services, or materials were furnished. This is critical for calculating the 90-day filing deadline.
+- **Statement Regarding Preliminary Notice:** A statement that the lien claimant has provided the Notice to Contractor required by O.C.G.A. §44-14-361.5, if such notice was required. If no such notice was required, the lien claim should state that no Notice to Contractor was required.
 
-            - **Statement of Due Claim:** A statement that the claim has become due.
+- **Sworn Statement:** The claim must be sworn to by the claimant or their agent. This typically involves notarization.
 
-            - **Statement of Substantial Compliance:** A statement that the lien claimant has substantially complied with the contract, plans, and specifications, as the case may be, for the work performed or materials furnished.
+Use clear, concise language. Avoid jargon where possible, but ensure legal terms are used accurately. It is highly recommended to use a template specifically designed for Georgia liens or consult with a Georgia construction attorney for drafting.
 
-            - **Statement Regarding Preliminary Notice:** A statement that the lien claimant has provided the Notice to Contractor required by O.C.G.A. §44-14-361.5, if such notice was required. If no such notice was required, the lien claim should state that no Notice to Contractor was required.
+### Step 3: File the Lien with the Clerk of Superior Court
 
-            - **Sworn Statement:** The claim must be sworn to by the claimant or their agent. This typically involves notarization.
+Once drafted and properly sworn, the Claim of Lien must be filed with the Clerk of Superior Court in the county where the property is located. This is the official recording office for real estate documents.
 
-        
+- **Filing Deadline:** The Claim of Lien must be filed within **90 days** of the date upon which the last labor, services, or materials were furnished to the property. This 90-day clock is strict. Missing it by even one day will invalidate your lien.
 
-        Use clear, concise language. Avoid jargon where possible, but ensure legal terms are used accurately. It is highly recommended to use a template specifically designed for Georgia liens or consult with a Georgia construction attorney for drafting.
+- **Location:** Clerk of Superior Court in the county where the improved property is situated. For example, if the property is in Fulton County, you file with the Fulton County Clerk of Superior Court.
 
-    
-    
-        ### Step 3: File the Lien with the Clerk of Superior Court
+- **Fees:** Be prepared to pay filing fees, which vary by county. Check the specific county clerk's website for current fee schedules.
 
-        Once drafted and properly sworn, the Claim of Lien must be filed with the Clerk of Superior Court in the county where the property is located. This is the official recording office for real estate documents.
+Upon filing, the Clerk will record the lien and assign it a book and page number or instrument number. This officially places the lien on the property's title.
 
-        
+### Step 4: Serve the Claim of Lien
 
-            - **Filing Deadline:** The Claim of Lien must be filed within **90 days** of the date upon which the last labor, services, or materials were furnished to the property. This 90-day clock is strict. Missing it by even one day will invalidate your lien.
+Filing the lien is only half the battle. You must also formally notify the property owner (and possibly the contractor) that the lien has been filed. This is known as "serving" the lien.
 
-            - **Location:** Clerk of Superior Court in the county where the improved property is situated. For example, if the property is in Fulton County, you file with the Fulton County Clerk of Superior Court.
+- **Service Deadline:** Within **2 business days** after the date the Claim of Lien is filed, you must send a copy of the filed lien to the owner of the property or the contractor, or both.
 
-            - **Fees:** Be prepared to pay filing fees, which vary by county. Check the specific county clerk's website for current fee schedules.
+- **Method of Service:** Service must be made by registered or certified mail or statutory overnight delivery. This method provides proof of delivery, which is essential for legal compliance.
 
-        
+- **Recipients:** The law states "the owner of the property or the contractor, or both." To be safe, it is always best practice to serve both the property owner and the general contractor, if known, at their last known address.
 
-        Upon filing, the Clerk will record the lien and assign it a book and page number or instrument number. This officially places the lien on the property's title.
-
-    
-    
-        ### Step 4: Serve the Claim of Lien
-
-        Filing the lien is only half the battle. You must also formally notify the property owner (and possibly the contractor) that the lien has been filed. This is known as "serving" the lien.
-
-        
-
-            - **Service Deadline:** Within **2 business days** after the date the Claim of Lien is filed, you must send a copy of the filed lien to the owner of the property or the contractor, or both.
-
-            - **Method of Service:** Service must be made by registered or certified mail or statutory overnight delivery. This method provides proof of delivery, which is essential for legal compliance.
-
-            - **Recipients:** The law states "the owner of the property or the contractor, or both." To be safe, it is always best practice to serve both the property owner and the general contractor, if known, at their last known address.
-
-        
-
-        Retain the proof of mailing (e.g., certified mail receipt, return receipt requested) as evidence that you fulfilled this requirement. Failure to properly serve the lien can render it unenforceable.
-
-    
+Retain the proof of mailing (e.g., certified mail receipt, return receipt requested) as evidence that you fulfilled this requirement. Failure to properly serve the lien can render it unenforceable.
 
 ## Navigating Georgia's Critical Lien Deadlines
 

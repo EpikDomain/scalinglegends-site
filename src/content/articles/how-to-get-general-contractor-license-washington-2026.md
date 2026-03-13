@@ -29,77 +29,50 @@ The key takeaway: Washington doesn't require a competency exam for general contr
 
 Getting your contractor registration in Washington is a multi-step process. Don't rush it. Each step is critical, and L&I will verify everything. This isn't a suggestion; it's the law if you want to perform contracting work in Washington State.
 
-    
-        **Establish Your Business Entity with the Washington Secretary of State:**
-        Before you even think about L&I, you need a legal business structure. Most contractors in Washington opt for an LLC (Limited Liability Company) or a Corporation to protect personal assets. You'll register your business name and entity type with the [Washington Secretary of State](https://www.sos.wa.gov). This process will yield a Unified Business Identifier (UBI) number, which is essential for all subsequent state registrations. Head to their website, navigate to the Corporations & Charities Filing System, and get your business officially recognized in Olympia.
+**Establish Your Business Entity with the Washington Secretary of State:**
+Before you even think about L&I, you need a legal business structure. Most contractors in Washington opt for an LLC (Limited Liability Company) or a Corporation to protect personal assets. You'll register your business name and entity type with the [Washington Secretary of State](https://www.sos.wa.gov). This process will yield a Unified Business Identifier (UBI) number, which is essential for all subsequent state registrations. Head to their website, navigate to the Corporations & Charities Filing System, and get your business officially recognized in Olympia.
 
-    
-    
-        **Obtain an Employer Identification Number (EIN) from the IRS:**
-        If you plan to hire employees or operate as a corporation or partnership, you'll need an EIN from the IRS. Even sole proprietors often get one to keep business and personal finances separate. It's free and takes minutes on the IRS website.
+**Obtain an Employer Identification Number (EIN) from the IRS:**
+If you plan to hire employees or operate as a corporation or partnership, you'll need an EIN from the IRS. Even sole proprietors often get one to keep business and personal finances separate. It's free and takes minutes on the IRS website.
 
-    
-    
-        **Secure Your Washington Contractor Surety Bond:**
-        This is non-negotiable. Washington law mandates a surety bond to protect your clients from incomplete work, property damage, or unpaid bills. The amount depends on your contractor classification:
+**Secure Your Washington Contractor Surety Bond:**
+This is non-negotiable. Washington law mandates a surety bond to protect your clients from incomplete work, property damage, or unpaid bills. The amount depends on your contractor classification:
 
-        
+- **General Contractor:** $12,000 surety bond.
 
-            - **General Contractor:** $12,000 surety bond.
+- **Specialty Contractor:** $6,000 surety bond (if you only perform one specific trade like plumbing or electrical).
 
-            - **Specialty Contractor:** $6,000 surety bond (if you only perform one specific trade like plumbing or electrical).
+You'll purchase this bond from a licensed surety company. The cost to you will be a small percentage of the bond amount, usually 1-5%, depending on your credit history. Ensure the bond names the Washington Department of Labor & Industries as the obligee.
 
-        
+**Obtain Washington General Liability Insurance:**
+Beyond the bond, you need liability insurance to protect against accidents and damages that occur during your work. Washington L&I requires specific minimums:
 
-        You'll purchase this bond from a licensed surety company. The cost to you will be a small percentage of the bond amount, usually 1-5%, depending on your credit history. Ensure the bond names the Washington Department of Labor & Industries as the obligee.
+- **Minimum Liability Coverage:** At least $50,000 for property damage and $100,000 for public liability.
 
-    
-    
-        **Obtain Washington General Liability Insurance:**
-        Beyond the bond, you need liability insurance to protect against accidents and damages that occur during your work. Washington L&I requires specific minimums:
+- **Combined Single Limit (CSL):** Many contractors opt for a CSL policy of $300,000 or $500,000, which covers both property damage and bodily injury under one limit. This is often a good idea for additional protection in a litigious market like Washington.
 
-        
+Get quotes from several insurance providers licensed to operate in Washington State.
 
-            - **Minimum Liability Coverage:** At least $50,000 for property damage and $100,000 for public liability.
+**Address Washington Workers' Compensation Insurance:**
+If you plan to hire employees in Washington, you *must* provide workers' compensation coverage. Washington is one of the few states with a monopolistic state fund for workers' comp. This means you generally get your workers' comp coverage directly through L&I, not a private insurer. You'll register your business with L&I as an employer and report payroll quarterly. There are very limited exceptions for self-insurance for large employers, but for most new contractors, L&I is your go-to for workers' comp.
 
-            - **Combined Single Limit (CSL):** Many contractors opt for a CSL policy of $300,000 or $500,000, which covers both property damage and bodily injury under one limit. This is often a good idea for additional protection in a litigious market like Washington.
+**Complete the Washington Contractor Registration Application:**
+With your UBI number, bond, and insurance in hand, you're ready for the main event. Head to the [L&I website's contractor registration section](https://www.lni.wa.gov/licensing-permits/contractors/register-a-contractor). You can apply online or by mail. You'll need to provide:
 
-        
+- Your UBI number.
 
-        Get quotes from several insurance providers licensed to operate in Washington State.
+- Proof of your surety bond (the original bond form).
 
-    
-    
-        **Address Washington Workers' Compensation Insurance:**
-        If you plan to hire employees in Washington, you *must* provide workers' compensation coverage. Washington is one of the few states with a monopolistic state fund for workers' comp. This means you generally get your workers' comp coverage directly through L&I, not a private insurer. You'll register your business with L&I as an employer and report payroll quarterly. There are very limited exceptions for self-insurance for large employers, but for most new contractors, L&I is your go-to for workers' comp.
+- Proof of your general liability insurance.
 
-    
-    
-        **Complete the Washington Contractor Registration Application:**
-        With your UBI number, bond, and insurance in hand, you're ready for the main event. Head to the [L&I website's contractor registration section](https://www.lni.wa.gov/licensing-permits/contractors/register-a-contractor). You can apply online or by mail. You'll need to provide:
+- Your business structure and owner information.
 
-        
+- The required registration fee.
 
-            - Your UBI number.
+Double-check every field. Mistakes here are the most common cause of delays.
 
-            - Proof of your surety bond (the original bond form).
-
-            - Proof of your general liability insurance.
-
-            - Your business structure and owner information.
-
-            - The required registration fee.
-
-        
-
-        Double-check every field. Mistakes here are the most common cause of delays.
-
-    
-    
-        **Receive Your Washington Contractor Registration Number:**
-        Once L&I processes your application and verifies all documentation, they will issue your contractor registration number. This number must be included on all advertising, business cards, contracts, and vehicles. Display it proudly – it signifies you're operating legally in Washington.
-
-    
+**Receive Your Washington Contractor Registration Number:**
+Once L&I processes your application and verifies all documentation, they will issue your contractor registration number. This number must be included on all advertising, business cards, contracts, and vehicles. Display it proudly – it signifies you're operating legally in Washington.
 
 ### Exam Requirements and Prep Resources Specific to Washington
 
@@ -178,15 +151,11 @@ Budgeting for your startup costs and understanding the timeline is crucial for a
 - **Federal EIN:** Free.
 
 **Surety Bond:** The premium is typically 1-5% of the bond amount annually.
-        
 
-            - For a $12,000 general contractor bond, expect $120-$600 per year.
+- For a $12,000 general contractor bond, expect $120-$600 per year.
 
-            - For a $6,000 specialty contractor bond, expect $60-$300 per year.
+- For a $6,000 specialty contractor bond, expect $60-$300 per year.
 
-        
-
-    
 - **General Liability Insurance:** Varies widely based on your trade, claims history, and coverage limits. Expect $500 - $2,000+ per year for minimum coverage for a new business.
 
 - **Workers' Compensation Insurance:** Premiums are based on your payroll, risk classification, and experience modification factor. This will be an ongoing cost, not an upfront fee for registration.
@@ -234,17 +203,13 @@ Your business entity provides legal protection and defines your operational fram
 - **Name Availability Search:** Before filing, check if your desired business name is available on the Secretary of State's website.
 
 **File Formation Documents:**
-        
 
-            - For an LLC, file "Articles of Organization."
+- For an LLC, file "Articles of Organization."
 
-            - For a Corporation, file "Articles of Incorporation."
+- For a Corporation, file "Articles of Incorporation."
 
-        
+This can be done online through their Corporations & Charities Filing System. You'll need to designate a Registered Agent, which is a person or entity with a physical street address in Washington who can receive legal documents on behalf of your business.
 
-        This can be done online through their Corporations & Charities Filing System. You'll need to designate a Registered Agent, which is a person or entity with a physical street address in Washington who can receive legal documents on behalf of your business.
-
-    
 - **Receive Your UBI Number:** Upon successful filing, the Secretary of State will issue your Unique Business Identifier (UBI) number. This nine-digit number is your primary identification for all state agencies, including L&I, the Department of Revenue, and Employment Security.
 
 - **Obtain Business Licenses (If Applicable):** Some cities or counties in Washington may require additional local business licenses. Always check with the specific jurisdiction where you plan to operate. For example, Seattle has its own business license requirements.
@@ -331,58 +296,38 @@ While competition is always present, the sheer volume and diversity of construct
 
 Ready to get that official L&I registration number? Here's the streamlined process, assuming you've done your homework on business formation, bond, and insurance.
 
-    
-        **Verify All Prerequisites Are Met:**
-        
+**Verify All Prerequisites Are Met:**
 
-            - Your business entity is registered with the Washington Secretary of State (you have a UBI number).
+- Your business entity is registered with the Washington Secretary of State (you have a UBI number).
 
-            - You have an EIN from the IRS (if applicable).
+- You have an EIN from the IRS (if applicable).
 
-            - You have secured the correct Washington contractor surety bond ($12K General, $6K Specialty).
+- You have secured the correct Washington contractor surety bond ($12K General, $6K Specialty).
 
-            - You have general liability insurance meeting Washington's minimums ($50K property, $100K public liability).
+- You have general liability insurance meeting Washington's minimums ($50K property, $100K public liability).
 
-            - If you'll have employees, you're prepared to register with L&I for workers' compensation.
+- If you'll have employees, you're prepared to register with L&I for workers' compensation.
 
-        
+**Access the L&I Contractor Registration Application:**
+Go directly to the [Washington Department of Labor & Industries contractor registration page](https://www.lni.wa.gov/licensing-permits/contractors/register-a-contractor). You can apply online, which is generally faster.
 
-    
-    
-        **Access the L&I Contractor Registration Application:**
-        Go directly to the [Washington Department of Labor & Industries contractor registration page](https://www.lni.wa.gov/licensing-permits/contractors/register-a-contractor). You can apply online, which is generally faster.
+**Complete the Online Application Form:**
+Fill out all required fields accurately. This will include your UBI number, business name, legal structure, contact information, and details about your surety bond and general liability insurance policies (policy numbers, effective dates, provider names).
 
-    
-    
-        **Complete the Online Application Form:**
-        Fill out all required fields accurately. This will include your UBI number, business name, legal structure, contact information, and details about your surety bond and general liability insurance policies (policy numbers, effective dates, provider names).
+**Upload Required Documentation:**
+You will typically need to upload digital copies of your original surety bond and your certificate of general liability insurance. Ensure these documents clearly show the required coverage amounts and name the Washington Department of Labor & Industries as a certificate holder or obligee where appropriate.
 
-    
-    
-        **Upload Required Documentation:**
-        You will typically need to upload digital copies of your original surety bond and your certificate of general liability insurance. Ensure these documents clearly show the required coverage amounts and name the Washington Department of Labor & Industries as a certificate holder or obligee where appropriate.
+**Pay the Registration Fee:**
+Submit the non-refundable two-year registration fee (approximately $124.70, check L&I for current rates) using a credit card or electronic check through the online system.
 
-    
-    
-        **Pay the Registration Fee:**
-        Submit the non-refundable two-year registration fee (approximately $124.70, check L&I for current rates) using a credit card or electronic check through the online system.
+**Review and Submit:**
+Before hitting submit, carefully review every piece of information for accuracy. One small typo can cause significant delays.
 
-    
-    
-        **Review and Submit:**
-        Before hitting submit, carefully review every piece of information for accuracy. One small typo can cause significant delays.
+**Monitor Your Application Status:**
+L&I usually provides a way to track your application status online. Check it periodically. If L&I requires additional information or clarification, respond promptly to avoid further delays.
 
-    
-    
-        **Monitor Your Application Status:**
-        L&I usually provides a way to track your application status online. Check it periodically. If L&I requires additional information or clarification, respond promptly to avoid further delays.
-
-    
-    
-        **Receive Your Washington Contractor Registration Number:**
-        Once approved, L&I will issue your unique contractor registration number. This number signifies that you are legally registered to perform contracting work in Washington State. It is typically sent via email or postal mail and will be searchable on the L&I website's contractor look-up tool.
-
-    
+**Receive Your Washington Contractor Registration Number:**
+Once approved, L&I will issue your unique contractor registration number. This number signifies that you are legally registered to perform contracting work in Washington State. It is typically sent via email or postal mail and will be searchable on the L&I website's contractor look-up tool.
 
 You are now officially a registered contractor in Washington State. Display your registration number prominently and use it on all business communications.
 

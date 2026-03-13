@@ -70,21 +70,17 @@ The Notice of Furnishing is arguably the most critical preliminary notice for su
 - **When to Send It:** The Notice of Furnishing must be served upon the owner and original contractor within **21 days** after your first furnishing of labor, work, or materials to the improvement. This 21-day clock starts ticking from the very first day you are on-site or your first delivery.
 
 **What it Must Contain:** According to ORC §1311.05, the Notice of Furnishing must include:
-        
 
-            - A statement that the person furnishing the materials or performing the labor intends to look to the lien law to secure payment.
+- A statement that the person furnishing the materials or performing the labor intends to look to the lien law to secure payment.
 
-            - The name and address of the person furnishing the materials or performing the labor.
+- The name and address of the person furnishing the materials or performing the labor.
 
-            - The name and address of the person for whom the materials or labor were furnished.
+- The name and address of the person for whom the materials or labor were furnished.
 
-            - A description of the property sufficient to identify it.
+- A description of the property sufficient to identify it.
 
-            - The date when the first of the materials or labor was furnished.
+- The date when the first of the materials or labor was furnished.
 
-        
-
-    
 - **How to Send It:** The notice must be sent by certified mail, return receipt requested, or served personally. Retain proof of delivery.
 
 - **Consequences of Not Sending It:** Failure to send a timely and proper Notice of Furnishing will, in most cases, invalidate your lien rights for any labor or materials furnished more than 21 days before the notice was sent. You can still lien for work performed 21 days prior to the date the notice was sent and all subsequent work. This is a critical trap for the unwary.
@@ -184,17 +180,13 @@ Once prepared and notarized, the Affidavit of Mechanics' Lien must be recorded i
 - **Where to File:** Locate the specific County Recorder's Office for the county where the improved property resides.
 
 **What to Bring:**
-        
 
-            - The original, signed, and notarized Affidavit of Mechanics' Lien.
+- The original, signed, and notarized Affidavit of Mechanics' Lien.
 
-            - Several copies for your records and for service.
+- Several copies for your records and for service.
 
-            - Payment for recording fees.
+- Payment for recording fees.
 
-        
-
-    
 - **Filing Fees:** Recording fees vary by county but typically consist of a base fee for the first page and a smaller fee for each subsequent page. Expect to pay anywhere from $28 to $40 for the first page and a few dollars for each additional page. Check the specific county recorder's website for their current fee schedule.
 
 - **Proof of Recording:** The recorder's office will stamp your document with the date and time of filing and assign it a unique instrument number. Ensure your copies are similarly stamped for your records.
@@ -268,17 +260,13 @@ The strict nature of Ohio lien law means that even minor errors can be fatal to 
 Once your claim is satisfied, or if the lien is otherwise resolved, you have a legal obligation to release or discharge the lien from the property record. This is done by filing an "Affidavit of Discharge" or "Lien Release" with the county recorder.
 
 **When to Release:**
-        
 
-            - Upon full payment of the lien amount.
+- Upon full payment of the lien amount.
 
-            - If the lien is deemed invalid by a court.
+- If the lien is deemed invalid by a court.
 
-            - If a settlement is reached.
+- If a settlement is reached.
 
-        
-
-    
 - **Process (ORC §1311.11):** The lien claimant (or their attorney) must prepare an affidavit stating that the lien has been satisfied, released, or discharged. This affidavit must reference the original lien by its recording information (date and instrument number). It must be signed by the claimant and notarized, then recorded with the same county recorder's office where the original lien was filed.
 
 - **Consequences of Not Releasing:** If you fail to release a lien after it has been satisfied, the property owner can petition a court to have it removed and may seek damages from you for wrongful refusal to release the lien.

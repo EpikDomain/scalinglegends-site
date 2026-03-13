@@ -97,6 +97,6 @@ This strategic diversification ensures that your company isn't putting all its e
 
 - **Q2:** Actively bid on identified IIJA projects, particularly those with set-aside advantages or as a subcontractor to primes.
 
-    Q3:
+Q3:
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

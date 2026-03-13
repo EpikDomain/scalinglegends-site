@@ -80,17 +80,13 @@ Once you've chosen your entity, you need to register it with the North Carolina 
 - **Name Availability:** First, check if your desired business name is available on the NC Secretary of State's website. It needs to be unique and distinguishable from other registered entities.
 
 **File Formation Documents:**
-        
 
-            - For an LLC: File Articles of Organization.
+- For an LLC: File Articles of Organization.
 
-            - For a Corporation: File Articles of Incorporation.
+- For a Corporation: File Articles of Incorporation.
 
-        
+These documents will specify your business name, registered agent (a person or entity authorized to receive legal documents on your behalf, who must have a physical address in NC), and other basic information.
 
-        These documents will specify your business name, registered agent (a person or entity authorized to receive legal documents on your behalf, who must have a physical address in NC), and other basic information.
-
-    
 - **Obtain Operating Agreement/Bylaws:** While not filed with the state, an Operating Agreement (for LLCs) or Bylaws (for corporations) are crucial internal documents outlining ownership, management structure, and operational procedures. Get this done right from the start.
 
 The NC Secretary of State's website ([www.sosnc.gov](https://www.sosnc.gov/)) is your primary resource for these filings.
@@ -224,19 +220,15 @@ Starting a construction company in NC isn't cheap, especially if you plan to tac
 - **Business Registration Fees:** ~$125 for LLC Articles of Organization/Incorporation with the NC Secretary of State.
 
 **NC General Contractor License:**
-        
 
-            - Application Fee: ~$100-125.
+- Application Fee: ~$100-125.
 
-            - Exam Fees: ~$100-150 per section, potentially more if you need to retake.
+- Exam Fees: ~$100-150 per section, potentially more if you need to retake.
 
-            - Financial Statement Preparation: $2,000 - $10,000+ for a CPA-reviewed or audited statement, depending on complexity and the CPA firm. This is a significant cost.
+- Financial Statement Preparation: $2,000 - $10,000+ for a CPA-reviewed or audited statement, depending on complexity and the CPA firm. This is a significant cost.
 
-            - Study Materials/Prep Course: $300 - $1,500.
+- Study Materials/Prep Course: $300 - $1,500.
 
-        
-
-    
 - **Insurance Premiums:** Highly variable, but expect to pay several thousand dollars annually for GL, WC, and commercial auto, at a minimum. Your initial WC rates might be higher until you establish an experience mod.
 
 - **Bonding:** If required, premiums are typically 1-3% of the bond amount for well-qualified contractors.

@@ -102,15 +102,11 @@ This 2-year period is an absolute statute of limitations. There are very limited
 - **Subcontractor 60-Day Notice:** Within 60 days of first furnishing labor/materials.
 
 **Recording Claim for Lien:**
-        
 
-            - **4 months** from completion for priority against third parties.
+- **4 months** from completion for priority against third parties.
 
-            - **2 years** from completion against the owner.
+- **2 years** from completion against the owner.
 
-        
-
-    
 - **Post-Recording Notice (Subcontractors):** Within 90 days after recording the lien.
 
 - **Enforcement Lawsuit:** Within **2 years** from completion of work.

@@ -54,11 +54,11 @@ Every formal business entity in New York State must be registered with the **New
 #### LLC vs. Corporation: Which One for You?
 
 *   **Limited Liability Company (LLC):** This is often the preferred choice for many small to medium-sized construction companies.
-    *   **Pros:** Offers personal liability protection (separates your personal assets from business debts), flexible taxation (can be taxed as a sole proprietorship, partnership, S-corp, or C-corp), and less formal operational requirements than a corporation.
-    *   **Cons:** The New York publication requirement can be an added cost and administrative hurdle.
+*   **Pros:** Offers personal liability protection (separates your personal assets from business debts), flexible taxation (can be taxed as a sole proprietorship, partnership, S-corp, or C-corp), and less formal operational requirements than a corporation.
+*   **Cons:** The New York publication requirement can be an added cost and administrative hurdle.
 *   **Corporation (S-Corp or C-Corp):**
-    *   **Pros:** Also offers personal liability protection. C-corps can raise capital more easily, and S-corps can offer tax advantages by allowing owners to pay themselves a reasonable salary and take distributions that aren't subject to self-employment tax.
-    *   **Cons:** More complex to set up and maintain (requires bylaws, board meetings, minutes, etc.). C-corps are subject to "double taxation" (corporate profits are taxed, and then dividends paid to shareholders are taxed again at the individual level).
+*   **Pros:** Also offers personal liability protection. C-corps can raise capital more easily, and S-corps can offer tax advantages by allowing owners to pay themselves a reasonable salary and take distributions that aren't subject to self-employment tax.
+*   **Cons:** More complex to set up and maintain (requires bylaws, board meetings, minutes, etc.). C-corps are subject to "double taxation" (corporate profits are taxed, and then dividends paid to shareholders are taxed again at the individual level).
 
 **Recommendation:** For most startups, an LLC taxed as an S-Corp (after a few years of growth) offers a good balance of liability protection and tax efficiency. Consult with a qualified New York business attorney and a CPA to determine the best structure for your specific situation and long-term goals.
 
@@ -81,20 +81,20 @@ Let's be crystal clear: **New York State does NOT have a statewide general contr
 If you plan to work in any of the five boroughs of New York City (Manhattan, Brooklyn, Queens, Bronx, Staten Island), the **NYC Department of Buildings (DOB)** is your gatekeeper. This is a complex and stringent system.
 
 *   **General Contractor Registration:** For many types of construction projects in NYC, particularly those involving structural work or significant alterations, you'll need to be a **Registered General Contractor** with the DOB. This is not a "license" in the traditional sense, but a registration that allows you to pull permits and supervise work. Requirements include:
-    *   Experience: Typically 5 years of experience in construction, with at least 3 years as a supervisor.
-    *   OSHA 30-hour certification.
-    *   FDNY Certificate of Fitness for Construction Site Fire Safety Manager (CSM) or other relevant FDNY certificates.
-    *   Proof of workers' compensation and general liability insurance.
-    *   Passing a background check.
-    *   There are different classes of registration (e.g., General Contractor, Construction Superintendent).
+*   Experience: Typically 5 years of experience in construction, with at least 3 years as a supervisor.
+*   OSHA 30-hour certification.
+*   FDNY Certificate of Fitness for Construction Site Fire Safety Manager (CSM) or other relevant FDNY certificates.
+*   Proof of workers' compensation and general liability insurance.
+*   Passing a background check.
+*   There are different classes of registration (e.g., General Contractor, Construction Superintendent).
 *   **Specific Trade Licenses (NYC Only):** For certain specialized trades, you absolutely need a DOB-issued license to operate in NYC. These include:
-    *   **Master Plumber / Master Fire Suppression Piping Contractor:** Highly regulated, requires extensive experience, examinations, and bonding.
-    *   **Master Electrician:** Similar stringent requirements.
-    *   **Concrete Safety Manager:** Required for major concrete projects.
-    *   **Hoisting Machine Operator:** For cranes and derricks.
-    *   **Site Safety Manager / Coordinator:** For larger, more complex projects.
-    *   **Rigger / Sign Hanger:** For specific types of installations.
-    *   If your company will perform these trades in NYC, you must employ or be a properly licensed individual.
+*   **Master Plumber / Master Fire Suppression Piping Contractor:** Highly regulated, requires extensive experience, examinations, and bonding.
+*   **Master Electrician:** Similar stringent requirements.
+*   **Concrete Safety Manager:** Required for major concrete projects.
+*   **Hoisting Machine Operator:** For cranes and derricks.
+*   **Site Safety Manager / Coordinator:** For larger, more complex projects.
+*   **Rigger / Sign Hanger:** For specific types of installations.
+*   If your company will perform these trades in NYC, you must employ or be a properly licensed individual.
 
 #### Local Requirements Outside NYC
 
@@ -290,11 +290,11 @@ New York isn't for the faint of heart. Be prepared for unique challenges.
 As a new company, you'll likely start as a subcontractor. Your success hinges on strong relationships with General Contractors (GCs) and developers.
 
 *   **Networking Events:**
-    *   **Associated General Contractors of New York State (AGC NYS):** A powerful voice for the construction industry statewide.
-    *   **New York Building Congress (NYBC):** Focuses heavily on NYC.
-    *   **Local Chambers of Commerce:** Great for connecting with smaller developers and businesses.
-    *   **Trade-Specific Associations:** Join associations related to your specialty (e.g., electrical contractors, concrete contractors).
-    *   **Business Improvement Districts (BIDs):** In specific neighborhoods, BIDs can connect you to local property owners and developers.
+*   **Associated General Contractors of New York State (AGC NYS):** A powerful voice for the construction industry statewide.
+*   **New York Building Congress (NYBC):** Focuses heavily on NYC.
+*   **Local Chambers of Commerce:** Great for connecting with smaller developers and businesses.
+*   **Trade-Specific Associations:** Join associations related to your specialty (e.g., electrical contractors, concrete contractors).
+*   **Business Improvement Districts (BIDs):** In specific neighborhoods, BIDs can connect you to local property owners and developers.
 *   **Subcontractor Pre-Qualification:** Many GCs and developers have rigorous pre-qualification processes. Have your financials, insurance certificates, safety plan, and references in order.
 *   **Reputation and Reliability:** In New York, your word is your bond. Deliver on time, within budget, and to high quality. Communicate proactively. A bad reputation spreads fast.
 *   **Specialization:** Become known as the go-to expert for a particular type of work. This makes you more valuable to GCs.
@@ -325,9 +325,9 @@ New York's workers' comp premiums are notoriously high. Several factors determin
 *   **Classification Codes:** Each type of construction work (e.g., carpentry, concrete, electrical, excavation) has a specific classification code with an associated rate. High-risk trades have higher rates.
 *   **Payroll:** Premiums are calculated as a rate per $100 of payroll for each classification code.
 *   **Experience Modification Rate (EMR):** After three years, your company will receive an EMR based on your claims history.
-    *   An EMR below 1.0 means your claims are better than average, resulting in discounts.
-    *   An EMR above 1.0 means your claims are worse than average, leading to surcharges.
-    *   A high EMR can make you uncompetitive for bids, as GCs often look for subs with good EMRs.
+*   An EMR below 1.0 means your claims are better than average, resulting in discounts.
+*   An EMR above 1.0 means your claims are worse than average, leading to surcharges.
+*   A high EMR can make you uncompetitive for bids, as GCs often look for subs with good EMRs.
 *   **Safety Programs:** Implementing robust safety programs, training, and a strong safety culture can significantly reduce accidents, lower your EMR over time, and ultimately save you money on premiums.
 *   **Premium Audits:** Workers' comp policies are subject to annual audits where the insurer verifies your actual payroll and classification codes. Accurate record-keeping is crucial.
 

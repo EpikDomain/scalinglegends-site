@@ -34,47 +34,35 @@ Alright, let's get down to brass tacks. Applying for your Florida State Certifie
 - **Verify Eligibility:** Before you even fill out a form, make sure you meet the core requirements. This means age (18+), social security number, and a clean criminal record (minor offenses might be reviewed, but serious felonies can be disqualifying).
 
 **Gain Required Experience/Education:** This is often the biggest hurdle. For a state-certified General Contractor, you need a minimum of four years of proven experience in the construction industry. This experience must be hands-on, supervisory, and relevant to the scope of a general contractor.
-        
 
-            - **Option A: Four Years of Experience:** This must include at least one year as a foreman or supervisor. The experience needs to be verifiable and directly related to construction, covering various aspects like foundations, framing, electrical, plumbing, roofing, etc.
+- **Option A: Four Years of Experience:** This must include at least one year as a foreman or supervisor. The experience needs to be verifiable and directly related to construction, covering various aspects like foundations, framing, electrical, plumbing, roofing, etc.
 
-            **Option B: Education + Experience:** You can substitute some experience with college education. For example:
-                
+**Option B: Education + Experience:** You can substitute some experience with college education. For example:
 
-                    - A four-year construction-related degree (e.g., Bachelor of Science in Building Construction) counts for three years of experience, meaning you'd only need one year of practical experience, with at least six months as a foreman.
+- A four-year construction-related degree (e.g., Bachelor of Science in Building Construction) counts for three years of experience, meaning you'd only need one year of practical experience, with at least six months as a foreman.
 
-                    - A two-year construction-related degree (e.g., Associate of Science in Building Construction) counts for one year of experience, requiring three years of practical experience, with at least one year as a foreman.
+- A two-year construction-related degree (e.g., Associate of Science in Building Construction) counts for one year of experience, requiring three years of practical experience, with at least one year as a foreman.
 
-                
+- **Documentation:** You'll need to provide detailed documentation of your experience, including affidavits from previous employers, project descriptions, and possibly W-2s or 1099s. Be precise; vague descriptions will get your application kicked back.
 
-            
-            - **Documentation:** You'll need to provide detailed documentation of your experience, including affidavits from previous employers, project descriptions, and possibly W-2s or 1099s. Be precise; vague descriptions will get your application kicked back.
-
-        
-
-    
 - **Pass the Florida Contractor Exams:** This is a two-part beast: the Business and Finance exam and the Trade Knowledge exam. Both are open-book, but don't let that fool you. You need to know those reference books inside and out to navigate them efficiently. More on this below.
 
 **Complete the Application:** Once you've got your experience locked down and passed your exams, you'll submit your application to the CILB via [www.myfloridalicense.com](https://www.myfloridalicense.com). The application is thorough. You’ll need to provide:
-        
 
-            - Personal information, including any criminal history (be honest; they'll find out anyway).
+- Personal information, including any criminal history (be honest; they'll find out anyway).
 
-            - Detailed work experience, including dates, employer contact information, and specific duties.
+- Detailed work experience, including dates, employer contact information, and specific duties.
 
-            - Financial information (more on this below).
+- Financial information (more on this below).
 
-            - Proof of exam passage.
+- Proof of exam passage.
 
-            - Proof of general liability and workers' compensation insurance.
+- Proof of general liability and workers' compensation insurance.
 
-            - A credit report.
+- A credit report.
 
-        
+**Pro Tip:** Don't rush this. An incomplete application is the fastest way to add months to your timeline. Double-check everything.
 
-        **Pro Tip:** Don't rush this. An incomplete application is the fastest way to add months to your timeline. Double-check everything.
-
-    
 - **Demonstrate Financial Stability:** Florida requires applicants to demonstrate financial responsibility. You must submit a credit report (typically from a CILB-approved provider) that shows a minimum FICO score (often 660 or higher). If your score is below the threshold, or you have liens, judgments, or bankruptcies, you may still qualify but will be required to obtain a contractor's bond. The bond amount varies but is typically $10,000 for general contractors, designed to protect the public if you default on a contract.
 
 - **Fingerprinting and Background Check:** You'll need to submit fingerprints through a CILB-approved vendor for a thorough background check. This is standard procedure for any licensed professional in Florida.
@@ -130,15 +118,11 @@ Don't try to wing these. The sheer volume of material is overwhelming. Invest in
 Before the CILB issues your license, you'll need to provide proof of insurance. This isn't optional; it's a requirement to protect yourself, your clients, and your workers.
 
 **General Liability Insurance:** All Florida certified contractors must carry general liability insurance. The minimum coverage amounts are specific to Florida and are currently:
-        
 
-            - **General Contractor:** $300,000 per occurrence, $500,000 aggregate.
+- **General Contractor:** $300,000 per occurrence, $500,000 aggregate.
 
-        
+This covers property damage, bodily injury, and other liabilities that might arise from your construction activities.
 
-        This covers property damage, bodily injury, and other liabilities that might arise from your construction activities.
-
-    
 - **Workers' Compensation Insurance:** If you have employees (even just one), you are required by Florida law to carry workers' compensation insurance. This protects your employees if they're injured on the job and protects you from potential lawsuits. Even if you're a sole proprietor with no employees, you might need an exemption from the Division of Workers' Compensation, but it's often wise to carry it anyway if you plan on hiring. The state minimums are set by Florida Statute Chapter 440.
 
 - **Contractor's Bond:** As mentioned, if you fail to meet the financial stability requirements (low credit score, liens, judgments, bankruptcies), the CILB will likely require you to obtain a contractor's bond. For General Contractors, this bond is typically $10,000. This bond ensures that if you fail to perform a contract or pay subcontractors/suppliers, there's a financial recourse for the aggrieved party.
@@ -202,25 +186,16 @@ Consult with a Florida business attorney or accountant to determine the best str
 Let's reiterate the minimums for Florida, because getting this wrong can shut you down fast.
 
 **General Liability Insurance:**
-        
 
-            - **Minimum for General Contractors:** $300,000 per occurrence, $500,000 aggregate.
+- **Minimum for General Contractors:** $300,000 per occurrence, $500,000 aggregate.
 
-        
+This is the baseline. Many contractors opt for higher limits due to the high-value projects and potential risks in Florida's construction market.
 
-        This is the baseline. Many contractors opt for higher limits due to the high-value projects and potential risks in Florida's construction market.
-
-    
 **Workers' Compensation Insurance:**
-        
 
-            - **Requirement:** If you have one or more employees (including yourself if you're an officer in a corporation or LLC and don't file for exemption), you are required to carry workers' compensation insurance.
+- **Requirement:** If you have one or more employees (including yourself if you're an officer in a corporation or LLC and don't file for exemption), you are required to carry workers' compensation insurance.
 
-            - **Construction Industry Specifics:** In the construction industry, the requirement for workers' compensation kicks in even if you only have one employee. Exemptions are available for corporate officers who meet specific criteria and elect to be excluded, but this is a complex area. Always verify your specific situation with the Florida Division of Workers' Compensation.
-
-        
-
-    
+- **Construction Industry Specifics:** In the construction industry, the requirement for workers' compensation kicks in even if you only have one employee. Exemptions are available for corporate officers who meet specific criteria and elect to be excluded, but this is a complex area. Always verify your specific situation with the Florida Division of Workers' Compensation.
 
 Do not skimp on insurance. Florida is a litigious state, and one major incident without proper coverage can sink your entire business and personal assets.
 
@@ -249,23 +224,19 @@ Your Florida State Certified General Contractor license isn't a "set it and forg
 - **CE Hours:** Florida requires 14 hours of continuing education every biennial cycle.
 
 **Specific Topics:** These 14 hours must include specific topics mandated by the CILB:
-        
 
-            - At least 1 hour of workplace safety.
+- At least 1 hour of workplace safety.
 
-            - At least 1 hour of workers' compensation.
+- At least 1 hour of workers' compensation.
 
-            - At least 1 hour of business practices.
+- At least 1 hour of business practices.
 
-            - At least 1 hour of advanced Florida Building Code (technical building codes).
+- At least 1 hour of advanced Florida Building Code (technical building codes).
 
-            - At least 1 hour of laws and rules specific to Florida contractors.
+- At least 1 hour of laws and rules specific to Florida contractors.
 
-            - The remaining hours can be in general construction-related topics.
+- The remaining hours can be in general construction-related topics.
 
-        
-
-    
 - **Approved Providers:** Make sure your CE courses are from CILB-approved providers. You can find a list on the DBPR website.
 
 - **Renewal Fees:** There will be a renewal fee, typically around $300, due at the time of renewal.

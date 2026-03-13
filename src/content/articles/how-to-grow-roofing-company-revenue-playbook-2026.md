@@ -168,25 +168,16 @@ The labor shortage is real. You can't just expect skilled roofers to appear. You
 ### Subcontractors vs. W2 Employees: A Strategic Decision
 
 **Subcontractors:**
-        
 
-            - **Pros:** Flexibility, lower overhead (no payroll taxes, benefits), rapid scaling for storm work.
+- **Pros:** Flexibility, lower overhead (no payroll taxes, benefits), rapid scaling for storm work.
 
-            - **Cons:** Less control over quality, potential misclassification risks (IRS), less loyalty, can be harder to train on your specific processes.
+- **Cons:** Less control over quality, potential misclassification risks (IRS), less loyalty, can be harder to train on your specific processes.
 
-        
-
-    
 **W2 Employees:**
-        
 
-            - **Pros:** Greater control over quality and safety, fosters company culture, long-term investment, easier to train and standardize.
+- **Pros:** Greater control over quality and safety, fosters company culture, long-term investment, easier to train and standardize.
 
-            - **Cons:** Higher overhead (taxes, insurance, benefits), less flexibility, requires more HR infrastructure.
-
-        
-
-    
+- **Cons:** Higher overhead (taxes, insurance, benefits), less flexibility, requires more HR infrastructure.
 
 Most scaling companies use a hybrid model: a core team of W2 employees for critical roles (supervisors, lead installers) and subcontractors for flexible labor. Ensure all subcontractors are properly insured and licensed, and clearly define scope of work and quality expectations.
 
@@ -462,36 +453,25 @@ Diversification should be strategic, not haphazard. Start with services that lev
 
 Knowing what to do is one thing; executing it is another. Here's a concise plan to get you started:
 
-    
-        ### Step 1: Implement a Robust CRM and Project Management System
+### Step 1: Implement a Robust CRM and Project Management System
 
-        Stop managing your business on whiteboards and spreadsheets. Invest in and fully implement a dedicated roofing CRM/project management software like AccuLynx or JobNimbus. This is the central nervous system of your scaling operation. Train every employee—sales, production, admin—on its use. Track every lead, every job, every dollar. This provides the data you need to make informed decisions, identify bottlenecks, and ensure consistent customer experience. Without this, you cannot scale past $3M efficiently.
+Stop managing your business on whiteboards and spreadsheets. Invest in and fully implement a dedicated roofing CRM/project management software like AccuLynx or JobNimbus. This is the central nervous system of your scaling operation. Train every employee—sales, production, admin—on its use. Track every lead, every job, every dollar. This provides the data you need to make informed decisions, identify bottlenecks, and ensure consistent customer experience. Without this, you cannot scale past $3M efficiently.
 
-    
-    
-        ### Step 2: Professionalize Your Sales Process & Team
+### Step 2: Professionalize Your Sales Process & Team
 
-        Transition from owner-selling to leading a high-performing sales team. Document your entire sales process, from lead intake to closing and follow-up. Create a comprehensive training program for new sales hires, covering product knowledge, estimating, financing options, and ethical sales practices. Implement a clear commission structure that incentivizes profitable sales. Use technology (CRM, EagleView, CompanyCam) to empower your sales reps with accurate data and powerful visual aids. Your sales team is your revenue engine; invest in it.
+Transition from owner-selling to leading a high-performing sales team. Document your entire sales process, from lead intake to closing and follow-up. Create a comprehensive training program for new sales hires, covering product knowledge, estimating, financing options, and ethical sales practices. Implement a clear commission structure that incentivizes profitable sales. Use technology (CRM, EagleView, CompanyCam) to empower your sales reps with accurate data and powerful visual aids. Your sales team is your revenue engine; invest in it.
 
-    
-    
-        ### Step 3: Diversify Your Lead Generation Beyond Referrals and Storms
+### Step 3: Diversify Your Lead Generation Beyond Referrals and Storms
 
-        While referrals and storm work are valuable, they are not predictable or scalable enough for consistent growth. Allocate a dedicated budget for proactive marketing. Implement Google Local Services Ads immediately. Optimize your Google My Business profile for local SEO dominance. Develop a content strategy that answers common homeowner questions and positions you as an expert. Explore targeted social media ads. Build a website that converts visitors into leads. Aim for a balanced lead flow from multiple channels to stabilize revenue.
+While referrals and storm work are valuable, they are not predictable or scalable enough for consistent growth. Allocate a dedicated budget for proactive marketing. Implement Google Local Services Ads immediately. Optimize your Google My Business profile for local SEO dominance. Develop a content strategy that answers common homeowner questions and positions you as an expert. Explore targeted social media ads. Build a website that converts visitors into leads. Aim for a balanced lead flow from multiple channels to stabilize revenue.
 
-    
-    
-        ### Step 4: Master Profitability Through Precise Job Costing and Pricing
+### Step 4: Master Profitability Through Precise Job Costing and Pricing
 
-        Many roofing companies operate on razor-thin margins because they don't truly understand their costs. Implement detailed job costing for every project. Track materials, labor, subcontractors, permits, and your allocated overhead. Use estimating software to ensure accuracy and consistency. Develop a clear pricing strategy that ensures a healthy profit margin on every job, rather than just being the cheapest. Train your sales team to sell value and differentiate your services, not just price. Regularly review your P&L to ensure your actual margins align with your targets.
+Many roofing companies operate on razor-thin margins because they don't truly understand their costs. Implement detailed job costing for every project. Track materials, labor, subcontractors, permits, and your allocated overhead. Use estimating software to ensure accuracy and consistency. Develop a clear pricing strategy that ensures a healthy profit margin on every job, rather than just being the cheapest. Train your sales team to sell value and differentiate your services, not just price. Regularly review your P&L to ensure your actual margins align with your targets.
 
-    
-    
-        ### Step 5: Invest in Crew Development and a Safety-First Culture
+### Step 5: Invest in Crew Development and a Safety-First Culture
 
-        Your crews are your product. The labor shortage is real, so you must proactively recruit, train, and retain top talent. Implement an internal training program for installation techniques and product specifics. Establish a non-negotiable safety program that adheres to all OSHA regulations, with regular training, proper PPE, and a clear incident reporting process. Foster a culture where safety is paramount, and employees feel valued and respected. This reduces turnover, improves quality, lowers insurance costs, and enhances your brand reputation, directly impacting your ability to scale.
-
-    
+Your crews are your product. The labor shortage is real, so you must proactively recruit, train, and retain top talent. Implement an internal training program for installation techniques and product specifics. Establish a non-negotiable safety program that adheres to all OSHA regulations, with regular training, proper PPE, and a clear incident reporting process. Foster a culture where safety is paramount, and employees feel valued and respected. This reduces turnover, improves quality, lowers insurance costs, and enhances your brand reputation, directly impacting your ability to scale.
 
 ## FAQ: Growing Your Roofing Company
 

@@ -366,19 +366,16 @@ This framework provides a solid starting point for "how to write a scope of work
 **1.4. Key Objectives:** [e.g., "Deliver a high-quality, energy-efficient building within the allocated budget and schedule, achieving LEED Silver certification."]
 
 **1.5. Parties Involved:**
-    
 
-        - Owner: [Owner Name]
+- Owner: [Owner Name]
 
-        - General Contractor: [GC Name]
+- General Contractor: [GC Name]
 
-        - Architect: [Architect Name]
+- Architect: [Architect Name]
 
-        - Engineer(s): [Structural, MEP, Civil Engineer Names]
+- Engineer(s): [Structural, MEP, Civil Engineer Names]
 
-        - Subcontractor (if applicable): [Subcontractor Name]
-
-    
+- Subcontractor (if applicable): [Subcontractor Name]
 
 ### 2. General Conditions
 
@@ -397,28 +394,22 @@ This framework provides a solid starting point for "how to write a scope of work
 ### 3. Scope of Inclusions (Detailed Work Breakdown)
 
 **3.1. [Division/Trade Name - e.g., Division 03 - Concrete]**
-    
 
-        - [Specific task 1, e.g., "Provide all labor, materials, and equipment for pouring and finishing 4,000 PSI slab-on-grade per structural drawings S-201, S-202."]
+- [Specific task 1, e.g., "Provide all labor, materials, and equipment for pouring and finishing 4,000 PSI slab-on-grade per structural drawings S-201, S-202."]
 
-        - [Specific task 2, e.g., "Includes saw-cut control joints as detailed on A-501."]
+- [Specific task 2, e.g., "Includes saw-cut control joints as detailed on A-501."]
 
-        - [Specific task 3, e.g., "Includes placement of 6x6 W2.9x2.9 welded wire fabric over vapor barrier."]
+- [Specific task 3, e.g., "Includes placement of 6x6 W2.9x2.9 welded wire fabric over vapor barrier."]
 
-        - [...continue with all detailed inclusions for this trade...]
-
-    
+- [...continue with all detailed inclusions for this trade...]
 
 **3.2. [Division/Trade Name - e.g., Division 09 - Finishes]**
-    
 
-        - [Specific task 1, e.g., "Install 5/8" Type X gypsum board to all interior walls and ceilings, achieving a Level 4 finish ready for paint, per architectural drawings A-301, A-302."]
+- [Specific task 1, e.g., "Install 5/8" Type X gypsum board to all interior walls and ceilings, achieving a Level 4 finish ready for paint, per architectural drawings A-301, A-302."]
 
-        - [Specific task 2, e.g., "Apply two coats of specified latex paint to all drywall surfaces per finish schedule A-601."]
+- [Specific task 2, e.g., "Apply two coats of specified latex paint to all drywall surfaces per finish schedule A-601."]
 
-        - [...continue with all detailed inclusions for this trade...]
-
-    
+- [...continue with all detailed inclusions for this trade...]
 
 **3.3. [Add more divisions/trades as necessary]**
 
@@ -479,18 +470,12 @@ This framework provides a solid starting point for "how to write a scope of work
 ### 9. Allowances & Alternates
 
 **9.1. Allowances:**
-    
 
-        - [Allowance 1: e.g., "An allowance of $5,000 is included for the purchase of custom reception desk finishes. This allowance covers material cost only; installation labor and GC's mark-up are included in the base bid."]
-
-    
+- [Allowance 1: e.g., "An allowance of $5,000 is included for the purchase of custom reception desk finishes. This allowance covers material cost only; installation labor and GC's mark-up are included in the base bid."]
 
 **9.2. Alternates:**
-    
 
-        - [Alternate 1: e.g., "Alternate A-1: Deduct $2,500 if standard vinyl composition tile (VCT) is used in lieu of specified luxury vinyl plank (LVP) in office areas."]
-
-    
+- [Alternate 1: e.g., "Alternate A-1: Deduct $2,500 if standard vinyl composition tile (VCT) is used in lieu of specified luxury vinyl plank (LVP) in office areas."]
 
 ### 10. Submittals & Closeout
 

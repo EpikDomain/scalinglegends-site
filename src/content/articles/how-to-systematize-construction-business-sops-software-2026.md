@@ -245,36 +245,26 @@ These are powerful "integration platforms as a service" (iPaaS) that allow you t
 - **How they work:** You define a "trigger" in one app (e.g., "new entry in Google Sheet") and an "action" in another (e.g., "create new task in Asana"). You can build multi-step workflows with conditional logic.
 
 **Construction Examples:**
-        
 
-            - New lead in CRM (trigger) > Create new project in PM software > Notify estimating team via Slack/email (actions).
+- New lead in CRM (trigger) > Create new project in PM software > Notify estimating team via Slack/email (actions).
 
-            - Completed daily report in field app (trigger) > Extract key data to a master spreadsheet > Send summary email to PM (actions).
+- Completed daily report in field app (trigger) > Extract key data to a master spreadsheet > Send summary email to PM (actions).
 
-            - New employee added in HR software (trigger) > Create user account in key software > Assign training modules in Trainual (actions).
-
-        
-
-    
+- New employee added in HR software (trigger) > Create user account in key software > Assign training modules in Trainual (actions).
 
 #### Built-in Software Automations
 
 Many of your core construction software platforms (Procore, QuickBooks, Buildertrend, etc.) come with their own automation features. Don't overlook these; they are often the simplest to implement for tasks within a single system.
 
 **Examples:**
-        
 
-            - Recurring invoices in QuickBooks.
+- Recurring invoices in QuickBooks.
 
-            - Automated RFI reminders or submittal workflows in Procore.
+- Automated RFI reminders or submittal workflows in Procore.
 
-            - Scheduled report generation in your PM software.
+- Scheduled report generation in your PM software.
 
-            - Automated payment reminders in your accounting system.
-
-        
-
-    
+- Automated payment reminders in your accounting system.
 
 By strategically applying automation, you can significantly reduce administrative overhead, improve data accuracy, and accelerate your business processes, allowing your team to focus on the value-adding work that drives project success and client satisfaction.
 

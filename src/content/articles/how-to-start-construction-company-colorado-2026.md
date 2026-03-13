@@ -362,19 +362,15 @@ In Colorado's competitive landscape, relationships are currency. Whether you're 
 ### Key Strategies:
 
 **Join Industry Associations:**
-        
 
-            - **Associated General Contractors of Colorado (AGC Colorado):** A powerful voice for the industry, offering networking events, training, and advocacy.
+- **Associated General Contractors of Colorado (AGC Colorado):** A powerful voice for the industry, offering networking events, training, and advocacy.
 
-            - **Associated Builders and Contractors Rocky Mountain Chapter (ABC Rocky Mountain):** Another excellent resource for networking and business development.
+- **Associated Builders and Contractors Rocky Mountain Chapter (ABC Rocky Mountain):** Another excellent resource for networking and business development.
 
-            - **Colorado Association of Home Builders (CAHB):** Essential for residential contractors.
+- **Colorado Association of Home Builders (CAHB):** Essential for residential contractors.
 
-            - **Local Chambers of Commerce:** Great for connecting with local businesses and potential clients.
+- **Local Chambers of Commerce:** Great for connecting with local businesses and potential clients.
 
-        
-
-    
 - **Attend Industry Events:** Trade shows, conferences, and association meetings are prime opportunities to meet GCs, developers, architects, and other potential partners.
 
 - **Subcontractor Prequalification:** Many larger GCs require subs to go through a prequalification process. Have your financials, insurance, safety records, and references in order.

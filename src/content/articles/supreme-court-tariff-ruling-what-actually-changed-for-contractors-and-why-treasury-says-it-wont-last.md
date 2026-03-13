@@ -66,13 +66,13 @@ The surge in Time & Materials (T&M) contracts is another clear indicator of the 
 In this turbulent environment, a robust [contractor tariff strategy](/article/contractor tariff strategy) is not a luxury, but a necessity for survival and growth. Protecting your margins requires a multi-faceted approach, starting with the bid process itself. The days of absorbing material price risk are over for scaling contractors.
 
 **1. Master the Escalation Clause Construction:**
-    *   **Tie to BLS PPI Indexes:** The most effective escalation clauses are not vague. They explicitly link material cost adjustments to specific Bureau of Labor Statistics (BLS) Producer Price Index (PPI) categories. This provides an objective, verifiable benchmark.
-    *   **Both Upward and Downward Adjustments:** Crucially, your escalation clause construction must allow for *both* upward and downward adjustments. This demonstrates fairness to the client and protects you if prices drop unexpectedly, while still safeguarding your profit if they rise.
-    *   **Trigger Points:** Define clear trigger points for adjustment (e.g., if the PPI for steel rises or falls by more than 5% from the bid date, a recalculation occurs).
-    *   **Communication:** Proactively educate clients on why these clauses are necessary in the current market. Frame it as shared risk, not an attempt to pass on your problems.
+*   **Tie to BLS PPI Indexes:** The most effective escalation clauses are not vague. They explicitly link material cost adjustments to specific Bureau of Labor Statistics (BLS) Producer Price Index (PPI) categories. This provides an objective, verifiable benchmark.
+*   **Both Upward and Downward Adjustments:** Crucially, your escalation clause construction must allow for *both* upward and downward adjustments. This demonstrates fairness to the client and protects you if prices drop unexpectedly, while still safeguarding your profit if they rise.
+*   **Trigger Points:** Define clear trigger points for adjustment (e.g., if the PPI for steel rises or falls by more than 5% from the bid date, a recalculation occurs).
+*   **Communication:** Proactively educate clients on why these clauses are necessary in the current market. Frame it as shared risk, not an attempt to pass on your problems.
 
 **2. Proactive Procurement and [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign):**
-    *   **Shorten Bid-to-Procurement Cycle:** With supplier quotes valid for weeks, not months, your internal processes must accelerate. Streamline approvals and purchasing decisions.
-    *   **Leverage Technology:** Tools like Smart
+*   **Shorten Bid-to-Procurement Cycle:** With supplier quotes valid for weeks, not months, your internal processes must accelerate. Streamline approvals and purchasing decisions.
+*   **Leverage Technology:** Tools like Smart
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

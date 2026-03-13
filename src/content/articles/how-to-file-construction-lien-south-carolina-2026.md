@@ -98,43 +98,30 @@ The notice must be served upon the owner (or the owner's agent) by certified mai
 South Carolina's lien deadlines are among the most critical aspects of the process. Missing a deadline, even by a single day, can irrevocably invalidate your lien claim. There are three primary deadlines to be aware of:
 
 **Preliminary Notice (Notice of Furnishing):**
-        
 
-            - **Deadline:** Within **90 days** of the date you first furnish labor, materials, or services to the project.
+- **Deadline:** Within **90 days** of the date you first furnish labor, materials, or services to the project.
 
-            - **Applies To:** Subcontractors, sub-subcontractors, and material suppliers not in direct contract with the owner.
+- **Applies To:** Subcontractors, sub-subcontractors, and material suppliers not in direct contract with the owner.
 
-            - **Consequence of Missing:** Loss of lien rights for lower-tier claimants.
+- **Consequence of Missing:** Loss of lien rights for lower-tier claimants.
 
-        
-
-    
 **Filing the Mechanics Lien (Notice of Lien):**
-        
 
-            - **Deadline:** Within **90 days** after the claimant ceases to labor on or furnish material for the building or structure.
+- **Deadline:** Within **90 days** after the claimant ceases to labor on or furnish material for the building or structure.
 
-            - **Applies To:** All potential lien claimants (GCs, subs, suppliers, etc.).
+- **Applies To:** All potential lien claimants (GCs, subs, suppliers, etc.).
 
-            - **Key Distinction:** This 90-day period begins from the claimant's last date of furnishing, not necessarily the project's overall completion date. If you perform punch-list work or deliver a final small item, that might extend your 90-day window, but it must be legitimate work or delivery, not merely an attempt to revive an expired lien.
+- **Key Distinction:** This 90-day period begins from the claimant's last date of furnishing, not necessarily the project's overall completion date. If you perform punch-list work or deliver a final small item, that might extend your 90-day window, but it must be legitimate work or delivery, not merely an attempt to revive an expired lien.
 
-            - **Consequence of Missing:** The lien right is extinguished.
+- **Consequence of Missing:** The lien right is extinguished.
 
-        
-
-    
 **Enforcing the Lien (Filing a Lawsuit):**
-        
 
-            - **Deadline:** An action to enforce the lien must be commenced within **6 months** from the date the Notice of Lien is recorded with the Register of Deeds.
+- **Deadline:** An action to enforce the lien must be commenced within **6 months** from the date the Notice of Lien is recorded with the Register of Deeds.
 
-            - **Applies To:** All claimants who have recorded a lien and seek to enforce it.
+- **Applies To:** All claimants who have recorded a lien and seek to enforce it.
 
-            - **Consequence of Missing:** The lien is dissolved, and you lose the ability to foreclose on the property. You may still pursue a breach of contract claim, but without the security of the lien.
-
-        
-
-    
+- **Consequence of Missing:** The lien is dissolved, and you lose the ability to foreclose on the property. You may still pursue a breach of contract claim, but without the security of the lien.
 
 **Example Timeline for a Subcontractor:**
 
@@ -224,27 +211,19 @@ Once your Notice of Lien is accurately drafted and notarized, the next step is t
 - **Determine the Correct County:** The lien must be recorded in the county where the property is located. South Carolina's recording offices are typically called the "Register of Deeds" (or sometimes "Clerk of Court" in smaller counties).
 
 **Prepare for Recording:**
-        
 
-            - Ensure the document is legible and meets any specific formatting requirements of the county (e.g., paper size, margin requirements).
+- Ensure the document is legible and meets any specific formatting requirements of the county (e.g., paper size, margin requirements).
 
-            - Make sure the original notarized document is ready.
+- Make sure the original notarized document is ready.
 
-            - Prepare payment for the filing fees (see "South Carolina-Specific Filing Fees and Costs" below).
+- Prepare payment for the filing fees (see "South Carolina-Specific Filing Fees and Costs" below).
 
-        
-
-    
 **Submit for Recording:**
-        
 
-            - You can typically record the lien in person, by mail, or in some counties, electronically. In-person filing often allows for immediate review and correction if minor issues are found.
+- You can typically record the lien in person, by mail, or in some counties, electronically. In-person filing often allows for immediate review and correction if minor issues are found.
 
-            - Upon successful recording, the Register of Deeds will stamp the document with the date and time of recording and assign it a book and page number (or instrument number). This date is critical for calculating the 6-month enforcement deadline.
+- Upon successful recording, the Register of Deeds will stamp the document with the date and time of recording and assign it a book and page number (or instrument number). This date is critical for calculating the 6-month enforcement deadline.
 
-        
-
-    
 - **Obtain Certified Copies:** Request certified copies of the recorded lien for your records and for service upon the necessary parties.
 
 Remember, the 90-day deadline for filing the lien is based on the *date of recording*, not the date you mail it or drop it off. It must be physically recorded by the Register of Deeds within that 90-day window.
@@ -440,93 +419,60 @@ Implementing a robust system for tracking your projects and potential lien deadl
 This is a simplified overview of the process. Always refer to the detailed sections above and consult legal counsel.
 
 **Verify Your Eligibility & Licensing:**
-        
 
-            - Ensure you are a contractor, subcontractor, supplier, or design professional eligible to file a lien in South Carolina.
+- Ensure you are a contractor, subcontractor, supplier, or design professional eligible to file a lien in South Carolina.
 
-            - Confirm you hold the necessary South Carolina contractor's license if your contract value is $5,000 or more.
+- Confirm you hold the necessary South Carolina contractor's license if your contract value is $5,000 or more.
 
-        
-
-    
 **Send Preliminary Notice (If Required):**
-        
 
-            - If you are a subcontractor or supplier NOT in direct contract with the owner, send a "Notice of Furnishing Labor or Material" to the owner by certified mail, return receipt requested.
+- If you are a subcontractor or supplier NOT in direct contract with the owner, send a "Notice of Furnishing Labor or Material" to the owner by certified mail, return receipt requested.
 
-            - **Deadline:** Within **90 days** of your first date of furnishing labor or materials to the project.
+- **Deadline:** Within **90 days** of your first date of furnishing labor or materials to the project.
 
-        
-
-    
 **Gather Required Information for the Lien Claim:**
-        
 
-            - Exact amount due ("just and true account").
+- Exact amount due ("just and true account").
 
-            - Precise legal description and address of the property.
+- Precise legal description and address of the property.
 
-            - Name of the property owner.
+- Name of the property owner.
 
-            - Name of the party who hired you or to whom you furnished materials.
+- Name of the party who hired you or to whom you furnished materials.
 
-            - Your exact last date of furnishing labor or materials.
+- Your exact last date of furnishing labor or materials.
 
-        
-
-    
 **Draft the Notice of Lien:**
-        
 
-            - Prepare the lien document, ensuring it contains all information required by SC Code §29-5-40.
+- Prepare the lien document, ensuring it contains all information required by SC Code §29-5-40.
 
-            - Do NOT overstate the amount due.
+- Do NOT overstate the amount due.
 
-        
-
-    
 **Notarize the Notice of Lien:**
-        
 
-            - Sign the Notice of Lien before a notary public, swearing to the truthfulness of its contents.
+- Sign the Notice of Lien before a notary public, swearing to the truthfulness of its contents.
 
-        
-
-    
 **Record the Notice of Lien:**
-        
 
-            - File the original notarized Notice of Lien with the Register of Deeds in the South Carolina county where the property is located.
+- File the original notarized Notice of Lien with the Register of Deeds in the South Carolina county where the property is located.
 
-            - **Deadline:** Within **90 days** after your last date of furnishing labor or materials.
+- **Deadline:** Within **90 days** after your last date of furnishing labor or materials.
 
-            - Pay the required recording fees.
+- Pay the required recording fees.
 
-            - Obtain certified copies of the recorded lien.
+- Obtain certified copies of the recorded lien.
 
-        
-
-    
 **Serve the Recorded Lien (Best Practice):**
-        
 
-            - Although not explicitly required to perfect the lien, it is strongly recommended to serve a copy of the recorded Notice of Lien on the property owner (and general contractor if applicable) by certified mail, return receipt requested.
+- Although not explicitly required to perfect the lien, it is strongly recommended to serve a copy of the recorded Notice of Lien on the property owner (and general contractor if applicable) by certified mail, return receipt requested.
 
-        
-
-    
 **Track the Enforcement Deadline:**
-        
 
-            - If payment is still not received, you must file a lawsuit to enforce the lien.
+- If payment is still not received, you must file a lawsuit to enforce the lien.
 
-            - **Deadline:** Within **6 months** from the date the lien was recorded.
+- **Deadline:** Within **6 months** from the date the lien was recorded.
 
-            - Consult a South Carolina construction attorney to file this lawsuit.
-
-        
-
-    
+- Consult a South Carolina construction attorney to file this lawsuit.
 
 ## Frequently Asked Questions About South Carolina Construction Liens
 

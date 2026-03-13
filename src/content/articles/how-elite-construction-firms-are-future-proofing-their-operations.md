@@ -74,10 +74,10 @@ Key elements of an elite construction procurement strategy include:
 *   **Strategic Vendor Partnerships:** Developing long-term relationships with a smaller, vetted group of suppliers and subcontractors who understand the firm's quality standards, delivery expectations, and payment terms. This stability often leads to better pricing and service.
 *   **Early Engagement:** Involving procurement specialists early in the pre-construction phase to influence material selection, identify long-lead items, and secure favorable terms before the project breaks ground.
 *   **Equipment Utilization Tracking:** Beyond materials, elite firms meticulously track their equipment. Most firms operate at 55-65% utilization, meaning a significant portion of their capital investment sits idle. Top firms, however, hit **80%+ utilization** through sophisticated tracking and scheduling systems. This involves:
-    *   GPS tracking on all major equipment.
-    *   Daily or weekly utilization reporting.
-    *   Cross-project sharing and scheduling of equipment to maximize uptime.
-    *   Proactive maintenance schedules based on usage, not just calendar dates.
+*   GPS tracking on all major equipment.
+*   Daily or weekly utilization reporting.
+*   Cross-project sharing and scheduling of equipment to maximize uptime.
+*   Proactive maintenance schedules based on usage, not just calendar dates.
 
 By optimizing both material acquisition and equipment deployment, elite firms turn what is often a cost center into a significant competitive advantage. This strategic approach to procurement is a cornerstone of robust [construction firm operations](/article/women-in-construction-breaking-barriers-2026), directly impacting the bottom line.
 

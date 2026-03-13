@@ -85,16 +85,11 @@ California Civil Code §8202 specifies the mandatory information that must be in
 
 - A statement that the claimant may file a mechanics lien, stop payment notice, or bond claim if not paid.
 
-    A specific statutory warning statement, printed in boldface type (Civil Code §8202(a)(5)):
+A specific statutory warning statement, printed in boldface type (Civil Code §8202(a)(5)):
 
-        
+**NOTICE TO PROPERTY OWNER**
 
-        **NOTICE TO PROPERTY OWNER**
-
-        
-
-        **EVEN THOUGH YOU HAVE PAID YOUR CONTRACTOR IN FULL, if the contractor fails to pay the subcontractors, sub-subcontractors, or property suppliers who furnished labor, services, equipment, or materials to your job site, you may have a lien placed on your property. A lien can be enforced by the sale of your property. To protect yourself, you may request from your contractor all lien releases signed by subcontractors, sub-subcontractors, or property suppliers, or you may issue joint checks for payment.**
-    
+**EVEN THOUGH YOU HAVE PAID YOUR CONTRACTOR IN FULL, if the contractor fails to pay the subcontractors, sub-subcontractors, or property suppliers who furnished labor, services, equipment, or materials to your job site, you may have a lien placed on your property. A lien can be enforced by the sale of your property. To protect yourself, you may request from your contractor all lien releases signed by subcontractors, sub-subcontractors, or property suppliers, or you may issue joint checks for payment.**
 
 ### Method of Service
 
@@ -105,69 +100,43 @@ The 20-Day Preliminary Notice must be served by **certified mail, return receipt
 California's lien deadlines are precise and unforgiving. Missing a deadline, even by a single day, can irrevocably extinguish your lien rights. Pay close attention to these critical timeframes:
 
 **20-Day Preliminary Notice:**
-        
 
-            - **Deadline:** No later than **20 days** after the claimant first furnishes labor, services, equipment, or materials to the job site.
+- **Deadline:** No later than **20 days** after the claimant first furnishes labor, services, equipment, or materials to the job site.
 
-            - **Impact:** If served late, it only covers work furnished 20 days prior to service and thereafter.
+- **Impact:** If served late, it only covers work furnished 20 days prior to service and thereafter.
 
-        
-
-    
 **Recording the Mechanics Lien:**
-        This deadline depends on whether the owner records a Notice of Completion or Notice of Cessation.
+This deadline depends on whether the owner records a Notice of Completion or Notice of Cessation.
 
-        
+**If a Notice of Completion or Notice of Cessation IS RECORDED:**
 
-            **If a Notice of Completion or Notice of Cessation IS RECORDED:**
-                
+- **Direct Contractor:** Must record their mechanics lien within **60 days** after the owner records the Notice of Completion or Notice of Cessation.
 
-                    - **Direct Contractor:** Must record their mechanics lien within **60 days** after the owner records the Notice of Completion or Notice of Cessation.
+- **All Other Claimants (Subcontractors, Suppliers, etc.):** Must record their mechanics lien within **30 days** after the owner records the Notice of Completion or Notice of Cessation.
 
-                    - **All Other Claimants (Subcontractors, Suppliers, etc.):** Must record their mechanics lien within **30 days** after the owner records the Notice of Completion or Notice of Cessation.
+- **Note:** A Notice of Completion must be recorded within 15 days of actual project completion. If it's recorded later, it's generally considered invalid, and the 90-day default deadline applies.
 
-                    - **Note:** A Notice of Completion must be recorded within 15 days of actual project completion. If it's recorded later, it's generally considered invalid, and the 90-day default deadline applies.
+**If NO Notice of Completion or Notice of Cessation IS RECORDED (or is invalid):**
 
-                
+- **All Claimants (including Direct Contractors, Subcontractors, Suppliers, etc.):** Must record their mechanics lien within **90 days** after the "completion" of the work of improvement.
 
-            
-            **If NO Notice of Completion or Notice of Cessation IS RECORDED (or is invalid):**
-                
+**Defining "Completion":** California Civil Code §8180 defines completion in several ways:
 
-                    - **All Claimants (including Direct Contractors, Subcontractors, Suppliers, etc.):** Must record their mechanics lien within **90 days** after the "completion" of the work of improvement.
+- Actual completion of the work of improvement.
 
-                    **Defining "Completion":** California Civil Code §8180 defines completion in several ways:
-                        
+- Occupation or use of the work of improvement by the owner or owner's agent, accompanied by cessation of labor.
 
-                            - Actual completion of the work of improvement.
+- Acceptance by the owner of the work of improvement.
 
-                            - Occupation or use of the work of improvement by the owner or owner's agent, accompanied by cessation of labor.
+- Cessation of labor for a continuous period of 60 days.
 
-                            - Acceptance by the owner of the work of improvement.
+- Cessation of labor for a continuous period of 30 days or more if the owner records a notice of cessation.
 
-                            - Cessation of labor for a continuous period of 60 days.
-
-                            - Cessation of labor for a continuous period of 30 days or more if the owner records a notice of cessation.
-
-                        
-
-                    
-                
-
-            
-        
-
-    
 **Enforcement Deadline (Filing Lawsuit):**
-        
 
-            - **Deadline:** A lawsuit to enforce the mechanics lien (foreclosure action) must be filed within **90 days** after the mechanics lien is recorded.
+- **Deadline:** A lawsuit to enforce the mechanics lien (foreclosure action) must be filed within **90 days** after the mechanics lien is recorded.
 
-            - **Impact:** If a lawsuit is not filed within 90 days, the lien automatically expires and becomes unenforceable. There are very few exceptions to this rule.
-
-        
-
-    
+- **Impact:** If a lawsuit is not filed within 90 days, the lien automatically expires and becomes unenforceable. There are very few exceptions to this rule.
 
 ## Step-by-Step Filing Process with California County Recorder
 
@@ -199,14 +168,10 @@ The mechanics lien document itself must contain specific information as mandated
 
 **Statutory Notice:** The lien claim must include a specific statutory notice printed in at least 10-point boldface type (Civil Code §8416(b)(8)):
 
-        
+**"NOTICE OF MECHANICS LIEN**
 
-        **"NOTICE OF MECHANICS LIEN**
+**ATTENTION PROPERTY OWNER: A mechanics lien has been filed against the property described in this document. This document creates a lien against your property. If the lien is not paid, your property may be sold to pay the lien. You may have the right to order the claimant to release this lien. For more information, you may contact an attorney, or refer to the State Contractor's License Board (CSLB) for information and assistance."**
 
-        
-
-        **ATTENTION PROPERTY OWNER: A mechanics lien has been filed against the property described in this document. This document creates a lien against your property. If the lien is not paid, your property may be sold to pay the lien. You may have the right to order the claimant to release this lien. For more information, you may contact an attorney, or refer to the State Contractor's License Board (CSLB) for information and assistance."**
-    
 - **Verification:** The lien claim must be signed by the claimant (or someone authorized to act on their behalf) and verified under oath. This typically means signing it in front of a notary public.
 
 ### Step 4: Record the Mechanics Lien with the County Recorder
@@ -298,15 +263,11 @@ The costs associated with filing a mechanics lien in California primarily consis
 - **County Recorder Recording Fees:** These vary by county. Typically, expect to pay around $15-$20 for the first page of the document and a few dollars for each subsequent page. A standard mechanics lien is often 2-3 pages. Check the specific county recorder's website for their current fee schedule.
 
 **Service Fees:**
-        
 
-            - **Certified Mail:** Expect to pay for certified mail with return receipt requested (usually $5-$10 per mailing). You will need to send the preliminary notice, and then a copy of the recorded lien.
+- **Certified Mail:** Expect to pay for certified mail with return receipt requested (usually $5-$10 per mailing). You will need to send the preliminary notice, and then a copy of the recorded lien.
 
-            - **Process Server:** If you opt for personal service (especially for a lawsuit), professional process server fees can range from $75-$150 or more, depending on location and difficulty of service.
+- **Process Server:** If you opt for personal service (especially for a lawsuit), professional process server fees can range from $75-$150 or more, depending on location and difficulty of service.
 
-        
-
-    
 - **Notary Fees:** Most documents (preliminary notice, lien claim, release) require notarization. Notary fees are typically $15 per signature.
 
 - **Legal Fees (If Applicable):** If you hire an attorney to draft the lien, review documents, or pursue litigation, these costs will be significantly higher, often ranging from several hundred to several thousand dollars, depending on the complexity and stage of the process.

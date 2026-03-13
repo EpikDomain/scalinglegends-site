@@ -52,15 +52,10 @@ Most new construction companies in Arizona opt for one of two structures:
 - **Limited Liability Company (LLC):** This is popular for a reason. It offers personal liability protection (separating your personal assets from business debts) and flexible taxation. You can choose to be taxed as a sole proprietorship, partnership, S-Corp, or even a C-Corp for federal tax purposes. For state income tax, Arizona treats LLCs as pass-through entities by default, meaning profits and losses are reported on your personal income tax return.
 
 **Corporation (S-Corp or C-Corp):**
-    
 
-        - **S-Corporation:** Also offers liability protection and pass-through taxation, avoiding "double taxation" on corporate profits. It can be beneficial if you plan to take a reasonable salary and distribute remaining profits, potentially saving on self-employment taxes.
+- **S-Corporation:** Also offers liability protection and pass-through taxation, avoiding "double taxation" on corporate profits. It can be beneficial if you plan to take a reasonable salary and distribute remaining profits, potentially saving on self-employment taxes.
 
-        - **C-Corporation:** Subject to double taxation (corporate profits taxed, then dividends to shareholders taxed). Less common for small to medium construction firms due to this, but might be considered for larger ventures seeking to attract significant outside investment.
-
-    
-
-
+- **C-Corporation:** Subject to double taxation (corporate profits taxed, then dividends to shareholders taxed). Less common for small to medium construction firms due to this, but might be considered for larger ventures seeking to attract significant outside investment.
 
 **Recommendation:** For most startups, an LLC taxed as an S-Corp (or a direct S-Corp) offers the best balance of liability protection, tax efficiency, and operational simplicity. Consult with an Arizona-based CPA or business attorney to determine the optimal structure for your specific situation.
 
@@ -191,16 +186,12 @@ With Arizona's growth, work isn't hard to find, but finding the *right* work for
 #### Best Metros and Growth Corridors
 
 **Phoenix-Mesa-Chandler MSA:** This is your primary hunting ground.
-    
 
-        - **West Valley (Buckeye, Goodyear, Surprise, Glendale):** Massive residential and industrial growth. Look for new master-planned communities and large logistics/manufacturing parks.
+- **West Valley (Buckeye, Goodyear, Surprise, Glendale):** Massive residential and industrial growth. Look for new master-planned communities and large logistics/manufacturing parks.
 
-        - **East Valley (Mesa, Chandler, Gilbert, Queen Creek, Florence):** Continued residential expansion, tech sector growth (Intel, TSMC in Chandler/North Phoenix), and new commercial centers.
+- **East Valley (Mesa, Chandler, Gilbert, Queen Creek, Florence):** Continued residential expansion, tech sector growth (Intel, TSMC in Chandler/North Phoenix), and new commercial centers.
 
-        - **Central Phoenix:** Infill development, urban revitalization, multi-family projects, and hospitality.
-
-    
-
+- **Central Phoenix:** Infill development, urban revitalization, multi-family projects, and hospitality.
 
 - **Tucson Metro:** Strong in aerospace, defense, and cross-border logistics. University of Arizona projects.
 
@@ -211,16 +202,12 @@ With Arizona's growth, work isn't hard to find, but finding the *right* work for
 Public works contracts are a stable source of work, but often come with specific requirements (like prevailing wage, covered next).
 
 **State Agencies:**
-    
 
-        - [Arizona Department of Transportation (ADOT)](https://azdot.gov/): Highways, bridges, infrastructure.
+- [Arizona Department of Transportation (ADOT)](https://azdot.gov/): Highways, bridges, infrastructure.
 
-        - [Arizona Department of Water Resources (ADWR)](https://azwater.gov/): Water infrastructure, treatment plants.
+- [Arizona Department of Water Resources (ADWR)](https://azwater.gov/): Water infrastructure, treatment plants.
 
-        - [Arizona Department of Administration (DAS)](https://das.az.gov/): State building projects.
-
-    
-
+- [Arizona Department of Administration (DAS)](https://das.az.gov/): State building projects.
 
 - **County & City Governments:** Maricopa County, City of Phoenix, City of Tucson, Mesa, Chandler, Scottsdale, Gilbert, etc., all issue bids for municipal buildings, parks, roads, and utilities. Register as a vendor with these entities.
 
@@ -253,17 +240,12 @@ Don't try to go it alone. The U.S. Small Business Administration (SBA) and its p
 - **SBA Arizona District Office:** Located in Phoenix, the [SBA Arizona District Office](https://www.sba.gov/offices/district/az/phoenix) is your gateway to federal resources. They provide information on government contracting, access to capital (loans), and business counseling.
 
 **SCORE Chapters in Arizona:** SCORE provides free, confidential business mentoring from experienced volunteers.
-    
 
-        - **SCORE Phoenix:** Covers the greater Phoenix metro area.
+- **SCORE Phoenix:** Covers the greater Phoenix metro area.
 
-        - **SCORE Tucson:** Serves Southern Arizona.
+- **SCORE Tucson:** Serves Southern Arizona.
 
-        - **SCORE Northern Arizona:** Covers areas like Flagstaff and Prescott.
-
-    
-
-
+- **SCORE Northern Arizona:** Covers areas like Flagstaff and Prescott.
 
 These resources can help you with business planning, financial projections, marketing strategies, and navigating government contracting. Leverage them.
 
@@ -300,19 +282,16 @@ Arizona’s boom isn’t without its headaches. Be prepared for these unique cha
 In the Arizona construction scene, who you know is almost as important as what you know. Relationships drive business.
 
 **Join Industry Associations:**
-    
 
-        - [Associated General Contractors (AGC) Arizona Chapter](https://www.azagc.org/)
+- [Associated General Contractors (AGC) Arizona Chapter](https://www.azagc.org/)
 
-        - [Associated Builders and Contractors (ABC) Arizona Chapter](https://arizona.abc.org/)
+- [Associated Builders and Contractors (ABC) Arizona Chapter](https://arizona.abc.org/)
 
-        - [American Subcontractors Association (ASA) of Arizona](https://www.asahome.org/)
+- [American Subcontractors Association (ASA) of Arizona](https://www.asahome.org/)
 
-        - [Arizona Home Builders Association (AHBA)](https://www.nahb.org/nahb-community/states/state-associations/arizona-home-builders-association)
+- [Arizona Home Builders Association (AHBA)](https://www.nahb.org/nahb-community/states/state-associations/arizona-home-builders-association)
 
-    
-
-    Attend their meetings, events, and golf tournaments. These are prime networking opportunities.
+Attend their meetings, events, and golf tournaments. These are prime networking opportunities.
 - **Attend Trade Shows & Conferences:** Look for events like the Phoenix Build Expo or local construction summits.
 
 - **Subcontract Smart:** Start by subcontracting for reputable GCs. Prove your reliability, quality, and ability to meet deadlines in the Arizona market. This builds your reputation and opens doors to more direct work.
@@ -330,18 +309,14 @@ As covered briefly under insurance, workers' compensation is mandatory in Arizon
 - **Mandatory Coverage:** If you have one or more employees (even part-time), you must carry workers' compensation insurance. This protects your employees and you from lawsuits related to workplace injuries.
 
 **How Costs are Determined:**
-    
 
-        - **Industry Classification Codes (NCCI Codes):** Your premium is heavily influenced by your specific construction trade (e.g., roofing is higher risk than interior trim).
+- **Industry Classification Codes (NCCI Codes):** Your premium is heavily influenced by your specific construction trade (e.g., roofing is higher risk than interior trim).
 
-        - **Payroll:** Premiums are calculated as a rate per $100 of payroll.
+- **Payroll:** Premiums are calculated as a rate per $100 of payroll.
 
-        - **Experience Modification Rate (EMR):** After a few years, your company will receive an EMR based on your claims history. A low EMR (below 1.0) means fewer claims and lower premiums; a high EMR means more claims and higher premiums. Prioritize safety from day one to keep your EMR low.
+- **Experience Modification Rate (EMR):** After a few years, your company will receive an EMR based on your claims history. A low EMR (below 1.0) means fewer claims and lower premiums; a high EMR means more claims and higher premiums. Prioritize safety from day one to keep your EMR low.
 
-        - **Deductibles/Policy Structure:** You can often choose different policy structures that impact premiums.
-
-    
-
+- **Deductibles/Policy Structure:** You can often choose different policy structures that impact premiums.
 
 - **Self-Insurance:** Larger, financially robust companies may apply to the ICA to self-insure, but this is rare for startups.
 
@@ -356,20 +331,16 @@ Work with an Arizona-licensed insurance broker who specializes in construction t
 - **Form Your Business Entity:** Register your LLC or Corporation with the Arizona Corporation Commission (ACC) in Phoenix. Obtain your EIN from the IRS.
 
 **Secure Your Arizona Contractor's License:**
-    
 
-        - Identify your Qualifying Party.
+- Identify your Qualifying Party.
 
-        - Determine required license classification(s) (residential, commercial, specific trade).
+- Determine required license classification(s) (residential, commercial, specific trade).
 
-        - Prepare for and pass the Arizona Trade Exam and Business Management Exam.
+- Prepare for and pass the Arizona Trade Exam and Business Management Exam.
 
-        - Obtain a surety bond for the required amount.
+- Obtain a surety bond for the required amount.
 
-        - Submit your comprehensive application to the Arizona Registrar of Contractors (ROC).
-
-    
-
+- Submit your comprehensive application to the Arizona Registrar of Contractors (ROC).
 
 - **Obtain Necessary Insurance:** Secure General Liability, Workers' Compensation (if hiring), Commercial Auto, and other essential coverage through an Arizona-licensed broker.
 

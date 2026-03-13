@@ -52,19 +52,15 @@ The process generally involves:
 - **Name Availability Search:** Before you get attached to a name, check if it's available through the Secretary of State's online portal. Your name must be distinguishable from other registered entities.
 
 **Choosing Your Business Structure:**
-        
 
-            - **Sole Proprietorship/Partnership:** Easiest to set up, but offers no personal liability protection. Your personal assets are on the line. Not recommended for construction due to inherent risks.
+- **Sole Proprietorship/Partnership:** Easiest to set up, but offers no personal liability protection. Your personal assets are on the line. Not recommended for construction due to inherent risks.
 
-            - **Limited Liability Company (LLC):** This is the most popular choice for small to medium construction businesses in SC. It offers personal liability protection for its owners (members) and flexible tax treatment. You'll file Articles of Organization with the SC Secretary of State.
+- **Limited Liability Company (LLC):** This is the most popular choice for small to medium construction businesses in SC. It offers personal liability protection for its owners (members) and flexible tax treatment. You'll file Articles of Organization with the SC Secretary of State.
 
-            - **Corporation (S-Corp or C-Corp):** Provides the strongest liability protection but has more formal compliance requirements. C-Corps face "double taxation" (corporate profits taxed, then dividends taxed to shareholders). S-Corps avoid double taxation by passing profits/losses through to owners' personal income, similar to an LLC, but have stricter eligibility rules. You'll file Articles of Incorporation.
+- **Corporation (S-Corp or C-Corp):** Provides the strongest liability protection but has more formal compliance requirements. C-Corps face "double taxation" (corporate profits taxed, then dividends taxed to shareholders). S-Corps avoid double taxation by passing profits/losses through to owners' personal income, similar to an LLC, but have stricter eligibility rules. You'll file Articles of Incorporation.
 
-        
+For most startups, an LLC or S-Corp election for an LLC is the sweet spot. Consult with an attorney and accountant to determine the best structure for your specific situation and long-term goals.
 
-        For most startups, an LLC or S-Corp election for an LLC is the sweet spot. Consult with an attorney and accountant to determine the best structure for your specific situation and long-term goals.
-
-    
 - **Filing Required Documents:** For an LLC, you'll file Articles of Organization. For a Corporation, it's Articles of Incorporation. These forms are available on the SC Secretary of State website. There are associated filing fees.
 
 - **Obtain an Employer Identification Number (EIN):** Once registered with the state, you'll need an EIN from the IRS, even if you don't plan to hire employees immediately. This is your business's federal tax ID and is required for opening bank accounts, filing taxes, and more.
@@ -94,35 +90,27 @@ The primary agency for most commercial and industrial construction licensing is 
 - **Application:** Submit a detailed application to the SC CLB, specifying the classifications you're applying for (e.g., General Contractor, Heavy Construction, Specialty Contractor like HVAC, Electrical, Plumbing, etc.).
 
 **Examinations:** You must pass two exams:
-        
 
-            - **Trade Exam:** Specific to your chosen classification (e.g., General Contractor, Building, Highway, Public Utilities). This tests your technical knowledge.
+- **Trade Exam:** Specific to your chosen classification (e.g., General Contractor, Building, Highway, Public Utilities). This tests your technical knowledge.
 
-            - **Business and Law Exam:** Covers general business practices, licensing laws, contract law, safety, and financial management pertinent to operating in South Carolina.
+- **Business and Law Exam:** Covers general business practices, licensing laws, contract law, safety, and financial management pertinent to operating in South Carolina.
 
-        
+These exams are administered by PSI Services LLC. You'll need to register and schedule them after your application is approved.
 
-        These exams are administered by PSI Services LLC. You'll need to register and schedule them after your application is approved.
-
-    
 **Financial Statement:** This is a significant hurdle for many. You must submit a financial statement prepared by a Certified Public Accountant (CPA). The level of assurance required depends on your desired Group Classification:
-        
 
-            - **Group 1 (up to $50,000 project size):** CPA-prepared Review or Audit.
+- **Group 1 (up to $50,000 project size):** CPA-prepared Review or Audit.
 
-            - **Group 2 (up to $200,000 project size):** CPA-prepared Review or Audit.
+- **Group 2 (up to $200,000 project size):** CPA-prepared Review or Audit.
 
-            - **Group 3 (up to $500,000 project size):** CPA-prepared Review or Audit.
+- **Group 3 (up to $500,000 project size):** CPA-prepared Review or Audit.
 
-            - **Group 4 (up to $1,000,000 project size):** CPA-prepared Audit.
+- **Group 4 (up to $1,000,000 project size):** CPA-prepared Audit.
 
-            - **Group 5 (over $1,000,000 project size):** CPA-prepared Audit.
+- **Group 5 (over $1,000,000 project size):** CPA-prepared Audit.
 
-        
+The financial statement must demonstrate a minimum net worth appropriate for the group classification you're seeking. For example, Group 1 might require a net worth of $10,000, while Group 5 requires $250,000. These figures are subject to change, so always check the latest CLB regulations.
 
-        The financial statement must demonstrate a minimum net worth appropriate for the group classification you're seeking. For example, Group 1 might require a net worth of $10,000, while Group 5 requires $250,000. These figures are subject to change, so always check the latest CLB regulations.
-
-    
 - **Surety Bond (Alternative):** If your net worth doesn't meet the requirements for your desired group classification, you may be able to substitute a portion of the net worth with a surety bond. This is a common path for new businesses.
 
 - **Experience:** While not always a hard requirement for all classifications, demonstrating relevant experience in the field you're applying for is often beneficial and can be a factor.
@@ -212,17 +200,13 @@ Starting any business costs money, but construction has specific outlays that ca
 - **Surety Bond Costs:** If you need a bond for licensing or projects, premiums typically range from 1-3% of the bond amount annually, depending on your credit and financial strength.
 
 **Insurance Premiums:**
-        
 
-            - **General Liability:** For a new construction company, expect to pay anywhere from $1,500 to $5,000+ annually for a $1M/$2M policy, depending on your trade, location, and payroll.
+- **General Liability:** For a new construction company, expect to pay anywhere from $1,500 to $5,000+ annually for a $1M/$2M policy, depending on your trade, location, and payroll.
 
-            - **Workers' Compensation:** This can be a major expense. Rates vary wildly by classification code (e.g., roofing is much higher than interior trim). For a small crew, annual premiums can easily run $5,000 - $20,000+, sometimes more, especially if you're in a high-risk trade.
+- **Workers' Compensation:** This can be a major expense. Rates vary wildly by classification code (e.g., roofing is much higher than interior trim). For a small crew, annual premiums can easily run $5,000 - $20,000+, sometimes more, especially if you're in a high-risk trade.
 
-            - **Commercial Auto, Inland Marine, Builders Risk:** Budget several thousand dollars annually for these combined.
+- **Commercial Auto, Inland Marine, Builders Risk:** Budget several thousand dollars annually for these combined.
 
-        
-
-    
 - **Equipment:** Whether you rent or buy, equipment is a major expense. Consider renting initially to conserve capital. Heavy equipment rental in SC can range from hundreds to thousands per day/week.
 
 - **Vehicles:** Work trucks are essential. Purchase, lease, or acquire used vehicles. Don't forget registration fees and property taxes on vehicles.
@@ -280,25 +264,20 @@ You don't have to go it alone. The U.S. Small Business Administration (SBA) and 
 - **SBA South Carolina District Office:** Located in Columbia, the SBA district office provides resources, counseling, and access to capital programs (like SBA-backed loans). They can connect you with local lenders and provide guidance on federal contracting.
 
 **SCORE Chapters in South Carolina:** SCORE offers free, confidential business mentoring from experienced volunteers. They can help with business planning, financial projections, marketing strategies, and more. South Carolina has active SCORE chapters in major cities:
-        
 
-            - Charleston
+- Charleston
 
-            - Columbia
+- Columbia
 
-            - Greenville
+- Greenville
 
-            - Myrtle Beach
+- Myrtle Beach
 
-            - Spartanburg
+- Spartanburg
 
-            - Hilton Head/Bluffton
+- Hilton Head/Bluffton
 
-        
-
-        Utilize these resources. A mentor who has navigated the business landscape can be a game-changer.
-
-    
+Utilize these resources. A mentor who has navigated the business landscape can be a game-changer.
 
 ### Leveling the Playing Field: South Carolina Minority/Disadvantaged Business Certifications
 

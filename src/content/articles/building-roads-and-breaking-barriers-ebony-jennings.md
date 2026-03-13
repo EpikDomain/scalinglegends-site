@@ -179,7 +179,7 @@ Bonding capacity is built incrementally. Start with smaller bonded projects and 
 
   View Full Transcript
   
-    *Full transcript coming soon. Check back after episode publication for the complete text.*
+*Full transcript coming soon. Check back after episode publication for the complete text.*
 
   
 

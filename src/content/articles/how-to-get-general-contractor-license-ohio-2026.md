@@ -224,15 +224,12 @@ This is where you make your business official at the state level.
 - **Name Availability Search:** Before filing, check the Ohio SOS website to ensure your desired business name is available.
 
 **File Articles of Organization/Incorporation:**
-        
 
-            - For an LLC, you'll file [Articles of Organization (Form 533)](https://www.ohiosos.gov/businesses/filing-forms/llc-forms/).
+- For an LLC, you'll file [Articles of Organization (Form 533)](https://www.ohiosos.gov/businesses/filing-forms/llc-forms/).
 
-            - For a Corporation, you'll file [Articles of Incorporation (Form 532)](https://www.ohiosos.gov/businesses/filing-forms/corporation-forms/).
+- For a Corporation, you'll file [Articles of Incorporation (Form 532)](https://www.ohiosos.gov/businesses/filing-forms/corporation-forms/).
 
-        
-
-        You can file these online for faster processing.
+You can file these online for faster processing.
 - **Designate a Registered Agent:** Your business must have a registered agent with a physical street address in Ohio (not a P.O. Box) who is available during business hours to accept legal documents on behalf of your company. This can be you, another business principal, or a professional registered agent service.
 
 - **Operating Agreement/Bylaws:** For LLCs, draft an Operating Agreement. For Corporations, adopt Corporate Bylaws. These internal documents define how your business will be run, ownership percentages, decision-making processes, etc. While not filed with the state, they are legally binding for your business.

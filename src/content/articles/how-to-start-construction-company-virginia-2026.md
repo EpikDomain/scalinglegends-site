@@ -126,15 +126,11 @@ Regardless of the class, all applicants must meet certain criteria:
 - **Submit the Application to DPOR:** The application is comprehensive and requires detailed information about your business, its principals, and the experience of your Qualified Individual(s). Ensure everything is accurate and complete to avoid delays.
 
 **Pass the PSI Exams:** Once your application is approved, DPOR will authorize you to take the required exams administered by PSI.
-        
 
-            - **Business Law Exam:** Taken by the Designated Employee for all license classes.
+- **Business Law Exam:** Taken by the Designated Employee for all license classes.
 
-            - **Trade Exam(s):** Taken by the Qualified Individual for the specific classification(s) (e.g., Building, Electrical, HVAC, Plumbing).
+- **Trade Exam(s):** Taken by the Qualified Individual for the specific classification(s) (e.g., Building, Electrical, HVAC, Plumbing).
 
-        
-
-    
 - **Receive Your License:** Once all steps are completed and passed, DPOR will issue your Virginia Contractor License.
 
 Don't underestimate the exams. They require dedicated study. PSI offers candidate information bulletins with content outlines and practice tests. Virginia has numerous approved providers for the mandatory 8-hour business course.
@@ -440,23 +436,19 @@ Use this as your step-by-step guide to ensure you hit all the critical points:
 - **Register for Local Business Licenses & BPOL Tax:** Contact the Commissioner of the Revenue or Treasurer’s office in your operating locality.
 
 **Secure Your Virginia Contractor's License (DPOR):**
-        
 
-            - Determine Class (A, B, or C) and specialties.
+- Determine Class (A, B, or C) and specialties.
 
-            - Ensure your Designated Employee completes the 8-hour pre-license course (Class A/B).
+- Ensure your Designated Employee completes the 8-hour pre-license course (Class A/B).
 
-            - Identify Qualified Individual(s) with required experience.
+- Identify Qualified Individual(s) with required experience.
 
-            - Gather financial documentation.
+- Gather financial documentation.
 
-            - Submit a complete application to DPOR.
+- Submit a complete application to DPOR.
 
-            - Pass the PSI Business Law and Trade Exams.
+- Pass the PSI Business Law and Trade Exams.
 
-        
-
-    
 - **Obtain Necessary Insurance:** Secure General Liability, Workers' Compensation (if 2+ employees), Commercial Auto, and consider Inland Marine/Umbrella.
 
 - **Register for Virginia Tax Accounts:** Set up accounts with the Virginia Department of Taxation for corporate/individual income tax, sales and use tax, and employer withholding tax.

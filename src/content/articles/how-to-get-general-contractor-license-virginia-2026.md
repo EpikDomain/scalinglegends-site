@@ -73,70 +73,51 @@ Your first critical decision is determining which class of contractor license yo
 
 Alright, let's break down the process. This isn't rocket science, but it requires attention to detail and patience. Follow these steps, and you'll be well on your way to operating legally in the Commonwealth.
 
-    
-        ### Step 1: Designate Your Qualified Individual (QI) and Determine Your License Class
+### Step 1: Designate Your Qualified Individual (QI) and Determine Your License Class
 
-        As discussed, identify who in your company (or you, if you’re a sole proprietor) meets the experience requirements for a Class A, B, or C license. This person will be your QI and their experience will be vetted by DPOR. Simultaneously, based on your QI's experience and your business goals, firmly decide on your target license class. Do not proceed until this is clear.
+As discussed, identify who in your company (or you, if you’re a sole proprietor) meets the experience requirements for a Class A, B, or C license. This person will be your QI and their experience will be vetted by DPOR. Simultaneously, based on your QI's experience and your business goals, firmly decide on your target license class. Do not proceed until this is clear.
 
-    
-    
-        ### Step 2: Complete the Mandatory 8-Hour Pre-Licensure Course
+### Step 2: Complete the Mandatory 8-Hour Pre-Licensure Course
 
-        This isn't optional, regardless of your experience or license class. Every applicant for a Class A, B, or C Virginia contractor license must complete an 8-hour business and law course. This course covers Virginia-specific regulations, laws, business practices, and essential information for contractors. It must be provided by a DPOR-approved education provider. You’ll receive a certificate upon completion, which you must submit with your application.
+This isn't optional, regardless of your experience or license class. Every applicant for a Class A, B, or C Virginia contractor license must complete an 8-hour business and law course. This course covers Virginia-specific regulations, laws, business practices, and essential information for contractors. It must be provided by a DPOR-approved education provider. You’ll receive a certificate upon completion, which you must submit with your application.
 
-    
-    
-        ### Step 3: Pass Your Virginia Contractor Exams (General, Law, & Specialty)
+### Step 3: Pass Your Virginia Contractor Exams (General, Law, & Specialty)
 
-        Once you’ve completed your pre-licensure course, it's time for the exams. Virginia uses PSI Exams as its testing provider. You'll need to pass three core exams, administered by PSI, for Class A and B licenses (Class C typically only requires the Business Law exam):
+Once you’ve completed your pre-licensure course, it's time for the exams. Virginia uses PSI Exams as its testing provider. You'll need to pass three core exams, administered by PSI, for Class A and B licenses (Class C typically only requires the Business Law exam):
 
-        
+- **Virginia Board for Contractors Business Law Exam:** This is mandatory for all Class A, B, and C applicants. It covers state-specific statutes and regulations relevant to contractors.
 
-            - **Virginia Board for Contractors Business Law Exam:** This is mandatory for all Class A, B, and C applicants. It covers state-specific statutes and regulations relevant to contractors.
+- **Virginia Board for Contractors General Contractor Exam:** Required for Class A and B licenses. This covers general construction knowledge, project management, estimating, and safety.
 
-            - **Virginia Board for Contractors General Contractor Exam:** Required for Class A and B licenses. This covers general construction knowledge, project management, estimating, and safety.
+- **Virginia Board for Contractors Specialty Exam:** Depending on the specific license specialties you're applying for (e.g., Residential Building (RBC), Commercial Building (CBC), Highway/Heavy (H/H)), you may need to pass additional specialty exams. Most general contractors will focus on RBC or CBC.
 
-            - **Virginia Board for Contractors Specialty Exam:** Depending on the specific license specialties you're applying for (e.g., Residential Building (RBC), Commercial Building (CBC), Highway/Heavy (H/H)), you may need to pass additional specialty exams. Most general contractors will focus on RBC or CBC.
+You must register for these exams directly through the PSI website. The Candidate Information Bulletin (CIB) available on PSI's website will provide detailed outlines of what each exam covers, recommended reference materials, and testing procedures. We'll dive deeper into prep resources shortly.
 
-        
+### Step 4: Secure Your Business Entity and Financial Standing
 
-        You must register for these exams directly through the PSI website. The Candidate Information Bulletin (CIB) available on PSI's website will provide detailed outlines of what each exam covers, recommended reference materials, and testing procedures. We'll dive deeper into prep resources shortly.
+Before you even think about submitting your license application, your business needs to be a legal entity in Virginia. This means registering with the **Virginia State Corporation Commission (SCC)** in Richmond. Whether you choose to operate as a Sole Proprietorship, Partnership, LLC, or Corporation, the SCC is where you'll make it official. You'll also need an Employer Identification Number (EIN) from the IRS if you plan to hire employees or operate as a corporation/LLC. Additionally, ensure you have the required financial capacity (net worth or credit line) for Class A or B, and secure your necessary insurance policies (General Liability and Workers' Comp, if applicable).
 
-    
-    
-        ### Step 4: Secure Your Business Entity and Financial Standing
+### Step 5: Compile and Submit Your Application to DPOR
 
-        Before you even think about submitting your license application, your business needs to be a legal entity in Virginia. This means registering with the **Virginia State Corporation Commission (SCC)** in Richmond. Whether you choose to operate as a Sole Proprietorship, Partnership, LLC, or Corporation, the SCC is where you'll make it official. You'll also need an Employer Identification Number (EIN) from the IRS if you plan to hire employees or operate as a corporation/LLC. Additionally, ensure you have the required financial capacity (net worth or credit line) for Class A or B, and secure your necessary insurance policies (General Liability and Workers' Comp, if applicable).
+This is where all your hard work comes together. Download the comprehensive application package from the DPOR Virginia Board for Contractors website. It's a detailed document, so read every line carefully. You'll need to include:
 
-    
-    
-        ### Step 5: Compile and Submit Your Application to DPOR
+- Completed application form.
 
-        This is where all your hard work comes together. Download the comprehensive application package from the DPOR Virginia Board for Contractors website. It's a detailed document, so read every line carefully. You'll need to include:
+- Proof of completion for the 8-hour pre-licensure course.
 
-        
+- Original exam score reports from PSI.
 
-            - Completed application form.
+- Detailed experience verification for your QI.
 
-            - Proof of completion for the 8-hour pre-licensure course.
+- Financial statements or credit line verification (for Class A and B).
 
-            - Original exam score reports from PSI.
+- Proof of general liability insurance.
 
-            - Detailed experience verification for your QI.
+- Any required supporting documents, such as criminal background checks or disciplinary actions (if applicable).
 
-            - Financial statements or credit line verification (for Class A and B).
+- The non-refundable application fee.
 
-            - Proof of general liability insurance.
-
-            - Any required supporting documents, such as criminal background checks or disciplinary actions (if applicable).
-
-            - The non-refundable application fee.
-
-        
-
-        Submit everything to DPOR. Incomplete applications are the #1 reason for delays. Double-check everything before sending it in. The DPOR typically states a processing time of 30 days, but it can often take longer, especially if there are any discrepancies or if they require additional information.
-
-    
+Submit everything to DPOR. Incomplete applications are the #1 reason for delays. Double-check everything before sending it in. The DPOR typically states a processing time of 30 days, but it can often take longer, especially if there are any discrepancies or if they require additional information.
 
 ## Deep Dive into Virginia's Specific Requirements
 
@@ -243,29 +224,21 @@ Budgeting your time and money is crucial. Here's an overview of what to expect.
 These fees are subject to change, so always verify the latest amounts on the DPOR and PSI websites.
 
 **Application Fee (DPOR):**
-        
 
-            - Class A: Approximately $385
+- Class A: Approximately $385
 
-            - Class B: Approximately $375
+- Class B: Approximately $375
 
-            - Class C: Approximately $235
+- Class C: Approximately $235
 
-        
-
-    
 **Exam Fees (PSI):**
-        
 
-            - Virginia Business Law Exam: ~$60-$70
+- Virginia Business Law Exam: ~$60-$70
 
-            - General Contractor Exam: ~$60-$70
+- General Contractor Exam: ~$60-$70
 
-            - Specialty Exams (per exam): ~$60-$70
+- Specialty Exams (per exam): ~$60-$70
 
-        
-
-    
 - **Pre-Licensure Course:** Varies by provider, typically $150-$300.
 
 - **Other Costs:** Background checks (if required), notary fees, business entity registration fees with SCC (approx. $100 for LLC/Corp).

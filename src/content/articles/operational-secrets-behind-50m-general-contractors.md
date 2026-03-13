@@ -130,6 +130,6 @@ Finally, standardized closeout procedures are a non-negotiable secret weapon. Th
 
 - Proactive lien waiver management
 
-    Expedited O&M
+Expedited O&M
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

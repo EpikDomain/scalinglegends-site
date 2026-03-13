@@ -330,15 +330,11 @@ The costs associated with filing a construction lien in Washington are generally
 - **Recording Fees:** The fee to record a Claim of Lien or a Lien Release with the county auditor varies by county. Expect to pay approximately $20-$50 for the first page and a few dollars for each additional page. Check the specific county auditor's website for their current fee schedule.
 
 **Service Costs:**
-        
 
-            - **Certified/Registered Mail:** Typically $5-$10 per mailing, including return receipt.
+- **Certified/Registered Mail:** Typically $5-$10 per mailing, including return receipt.
 
-            - **Personal Service:** If you hire a process server, costs can range from $75-$150 or more, depending on the number of attempts and location.
+- **Personal Service:** If you hire a process server, costs can range from $75-$150 or more, depending on the number of attempts and location.
 
-        
-
-    
 - **Notary Fees:** Usually a few dollars per signature.
 
 - **Attorney Fees:** If you engage a Washington construction attorney to prepare, file, or enforce your lien, these costs will be significantly higher. However, in a successful lien foreclosure action, Washington law (RCW 60.04.181) allows for the recovery of reasonable attorneys' fees and costs. This can make retaining legal counsel a worthwhile investment.

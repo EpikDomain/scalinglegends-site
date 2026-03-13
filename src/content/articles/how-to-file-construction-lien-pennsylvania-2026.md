@@ -84,13 +84,9 @@ Strict adherence to deadlines is non-negotiable in Pennsylvania mechanics' lien 
 - **For Subcontractors: Notice of Intent to File Claim (Section 501):** Must be served at least **30 days before the date of filing the actual lien claim**.
 
 **Filing the Mechanics' Lien Claim:** The actual lien claim must be filed within **six (6) months after the completion of your work** (or furnishing of materials).
-        
 
-            - **Completion of Work Defined:** This is a critical date. "Completion of work" refers to the last day labor was performed or materials were furnished to the project, or, if the work was abandoned, the last day of actual work or furnishing. It does not mean the issuance of a certificate of occupancy or project closeout.
+- **Completion of Work Defined:** This is a critical date. "Completion of work" refers to the last day labor was performed or materials were furnished to the project, or, if the work was abandoned, the last day of actual work or furnishing. It does not mean the issuance of a certificate of occupancy or project closeout.
 
-        
-
-    
 - **Serving Notice of Filing the Lien Claim:** Within **one (1) month after the date of filing the lien claim**, you must serve written notice of the filing to the owner of the property. An affidavit of service must then be filed with the court within 20 days of serving this notice.
 
 - **Enforcement Deadline (Writ of Scire Facias):** A lawsuit to enforce the lien, known as a "Writ of Scire Facias," must be filed within **two (2) years from the date the lien claim was filed**. If this action is not commenced within two years, the lien expires.
@@ -102,123 +98,78 @@ These deadlines are statutory and are strictly enforced by Pennsylvania courts. 
 Filing a mechanics' lien in Pennsylvania is a multi-step process that requires precision. Follow these steps carefully:
 
 **Verify Eligibility and HICPA Registration (Residential Projects):**
-        
 
-            - Ensure you are a party with valid lien rights under the Pennsylvania Mechanics' Lien Law.
+- Ensure you are a party with valid lien rights under the Pennsylvania Mechanics' Lien Law.
 
-            - If the project is residential, confirm your active registration with the Pennsylvania Attorney General as a Home Improvement Contractor.
+- If the project is residential, confirm your active registration with the Pennsylvania Attorney General as a Home Improvement Contractor.
 
-        
-
-    
 **Identify the Proper Parties and Property:**
-        
 
-            - Accurately identify the full legal name of the property owner(s). This may require a property record search.
+- Accurately identify the full legal name of the property owner(s). This may require a property record search.
 
-            - Obtain a precise legal description of the property. A street address alone is often insufficient. Refer to the deed or property records.
+- Obtain a precise legal description of the property. A street address alone is often insufficient. Refer to the deed or property records.
 
-            - Identify the general contractor (if you are a subcontractor) and any other relevant parties.
+- Identify the general contractor (if you are a subcontractor) and any other relevant parties.
 
-        
-
-    
 **Calculate the Lien Amount:**
-        
 
-            - Determine the exact amount owed for labor, materials, or services furnished to the property. This should be based on your contract price or the reasonable value of the work, less any credits or payments received.
+- Determine the exact amount owed for labor, materials, or services furnished to the property. This should be based on your contract price or the reasonable value of the work, less any credits or payments received.
 
-            - Ensure the amount claimed is only for work that directly improved the specific property.
+- Ensure the amount claimed is only for work that directly improved the specific property.
 
-        
-
-    
 **Prepare the Section 501 Notice of Intent to File Claim (Subcontractors ONLY):**
-        
 
-            - Draft the notice with all required information (names, amounts, nature of work, completion date, property description, owner name).
+- Draft the notice with all required information (names, amounts, nature of work, completion date, property description, owner name).
 
-            - Ensure accuracy and completeness.
+- Ensure accuracy and completeness.
 
-        
-
-    
 **Serve the Section 501 Notice of Intent (Subcontractors ONLY):**
-        
 
-            - Serve this notice to the property owner(s) at least 30 days before you intend to file the actual lien claim.
+- Serve this notice to the property owner(s) at least 30 days before you intend to file the actual lien claim.
 
-            Service methods:
-                
+Service methods:
 
-                    - Personal service by an adult.
+- Personal service by an adult.
 
-                    - Certified mail, return receipt requested.
+- Certified mail, return receipt requested.
 
-                    - If service cannot be made by these methods, by posting on a conspicuous public part of the improvement.
+- If service cannot be made by these methods, by posting on a conspicuous public part of the improvement.
 
-                
+- Retain proof of service (e.g., certified mail receipt, affidavit of service).
 
-            
-            - Retain proof of service (e.g., certified mail receipt, affidavit of service).
-
-        
-
-    
 **Prepare the Mechanics' Lien Claim:**
-        
 
-            - Draft the formal lien claim document. Pennsylvania law does not provide a standard form, but it strictly dictates the content. (See "Required Content" section below).
+- Draft the formal lien claim document. Pennsylvania law does not provide a standard form, but it strictly dictates the content. (See "Required Content" section below).
 
-            - Ensure the document is meticulously accurate, especially the property description and the amount claimed.
+- Ensure the document is meticulously accurate, especially the property description and the amount claimed.
 
-            - The claim must be verified by affidavit, meaning it must be sworn to under oath before a notary public.
+- The claim must be verified by affidavit, meaning it must be sworn to under oath before a notary public.
 
-        
-
-    
 **File the Mechanics' Lien Claim:**
-        
 
-            - File the prepared lien claim with the Prothonotary's Office in the Court of Common Pleas in the county where the property is located.
+- File the prepared lien claim with the Prothonotary's Office in the Court of Common Pleas in the county where the property is located.
 
-            - Pay the required filing fees. These vary by county.
+- Pay the required filing fees. These vary by county.
 
-            - The filing must occur within six (6) months of the completion of your work.
+- The filing must occur within six (6) months of the completion of your work.
 
-        
-
-    
 **Serve Notice of Filing the Lien Claim:**
-        
 
-            - Within one (1) month after the date you filed the lien claim, you must serve written notice of the filing to the property owner(s).
+- Within one (1) month after the date you filed the lien claim, you must serve written notice of the filing to the property owner(s).
 
-            - This notice must state the court, term, and number, and the date of filing the claim.
+- This notice must state the court, term, and number, and the date of filing the claim.
 
-            - Service methods are the same as for the Notice of Intent: personal service, certified mail (return receipt requested), or posting if other methods fail.
+- Service methods are the same as for the Notice of Intent: personal service, certified mail (return receipt requested), or posting if other methods fail.
 
-            - Retain proof of service.
+- Retain proof of service.
 
-        
-
-    
 **File Affidavit of Service:**
-        
 
-            - Within twenty (20) days after serving the notice of filing the lien claim, you must file an affidavit of service with the Prothonotary. This affidavit confirms that the owner was properly notified.
+- Within twenty (20) days after serving the notice of filing the lien claim, you must file an affidavit of service with the Prothonotary. This affidavit confirms that the owner was properly notified.
 
-        
-
-    
 **Monitor Deadlines for Enforcement:**
-        
 
-            - Remember the two-year deadline for filing a Writ of Scire Facias to enforce the lien. This is a critical step to prevent the lien from expiring.
-
-        
-
-    
+- Remember the two-year deadline for filing a Writ of Scire Facias to enforce the lien. This is a critical step to prevent the lien from expiring.
 
 ### Required Content for a Valid Pennsylvania Lien Claim
 

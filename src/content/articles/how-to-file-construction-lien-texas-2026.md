@@ -54,25 +54,16 @@ This is where many lien claims in Texas fail. Unlike some states where prelimina
 #### Preliminary Notice Deadlines for Subcontractors and Suppliers:
 
 **Residential Projects (Homestead & Non-Homestead):**
-        
 
-            - **First-Tier Subcontractors/Suppliers (contract with GC):** You must send notice to the owner and the original contractor by the **15th day of the second month** following each month in which you furnished labor or materials for which you have not been paid.
+- **First-Tier Subcontractors/Suppliers (contract with GC):** You must send notice to the owner and the original contractor by the **15th day of the second month** following each month in which you furnished labor or materials for which you have not been paid.
 
-            - **Second-Tier and Lower Subcontractors/Suppliers:** You must send notice to the owner, the original contractor, and the upstream subcontractor (the party you contracted with) by the **15th day of the second month** following each month in which you furnished labor or materials for which you have not been paid.
+- **Second-Tier and Lower Subcontractors/Suppliers:** You must send notice to the owner, the original contractor, and the upstream subcontractor (the party you contracted with) by the **15th day of the second month** following each month in which you furnished labor or materials for which you have not been paid.
 
-        
-
-    
 **Commercial Projects:**
-        
 
-            - **First-Tier Subcontractors/Suppliers (contract with GC):** You must send notice to the owner and the original contractor by the **15th day of the third month** following each month in which you furnished labor or materials for which you have not been paid.
+- **First-Tier Subcontractors/Suppliers (contract with GC):** You must send notice to the owner and the original contractor by the **15th day of the third month** following each month in which you furnished labor or materials for which you have not been paid.
 
-            - **Second-Tier and Lower Subcontractors/Suppliers:** You must send notice to the owner, the original contractor, and the upstream subcontractor (the party you contracted with) by the **15th day of the third month** following each month in which you furnished labor or materials for which you have not been paid.
-
-        
-
-    
+- **Second-Tier and Lower Subcontractors/Suppliers:** You must send notice to the owner, the original contractor, and the upstream subcontractor (the party you contracted with) by the **15th day of the third month** following each month in which you furnished labor or materials for which you have not been paid.
 
 #### Content and Method of Preliminary Notice:
 
@@ -91,35 +82,22 @@ The deadlines are generally calculated from the last day of the month in which s
 #### Lien Affidavit Filing Deadlines:
 
 **Residential Homestead Projects:** (These are subject to extremely strict rules and often require a written contract filed before work begins and dual spouse signatures.)
-        
 
-            - **Original Contractor:** The **15th day of the second month** after the month in which the original contract has been terminated, completed, or abandoned.
+- **Original Contractor:** The **15th day of the second month** after the month in which the original contract has been terminated, completed, or abandoned.
 
-            - **Subcontractor/Supplier:** The **15th day of the second month** after the month in which the claimant last furnished labor or materials OR the **15th day of the second month** after the month in which the original contract was terminated, completed, or abandoned, *whichever is earlier*.
+- **Subcontractor/Supplier:** The **15th day of the second month** after the month in which the claimant last furnished labor or materials OR the **15th day of the second month** after the month in which the original contract was terminated, completed, or abandoned, *whichever is earlier*.
 
-        
-
-    
 **Residential Non-Homestead Projects:**
-        
 
-            - **Original Contractor:** The **15th day of the third month** after the month in which the original contract has been terminated, completed, or abandoned.
+- **Original Contractor:** The **15th day of the third month** after the month in which the original contract has been terminated, completed, or abandoned.
 
-            - **Subcontractor/Supplier:** The **15th day of the fourth month** after the month in which the claimant last furnished labor or materials OR the **15th day of the fourth month** after the month in which the original contract was terminated, completed, or abandoned, *whichever is earlier*.
+- **Subcontractor/Supplier:** The **15th day of the fourth month** after the month in which the claimant last furnished labor or materials OR the **15th day of the fourth month** after the month in which the original contract was terminated, completed, or abandoned, *whichever is earlier*.
 
-        
-
-    
 **Commercial Projects:**
-        
 
-            - **Original Contractor:** The **15th day of the fourth month** after the month in which the original contract has been terminated, completed, or abandoned.
+- **Original Contractor:** The **15th day of the fourth month** after the month in which the original contract has been terminated, completed, or abandoned.
 
-            - **Subcontractor/Supplier:** The **15th day of the fourth month** after the month in which the claimant last furnished labor or materials OR the **15th day of the fourth month** after the month in which the original contract was terminated, completed, or abandoned, *whichever is earlier*.
-
-        
-
-    
+- **Subcontractor/Supplier:** The **15th day of the fourth month** after the month in which the claimant last furnished labor or materials OR the **15th day of the fourth month** after the month in which the original contract was terminated, completed, or abandoned, *whichever is earlier*.
 
 **Important Note on "Last Day of Work":** This refers to the last day you physically performed work or delivered materials to the project site. Warranty work or punch list items performed long after substantial completion generally do not extend the "last day of work" for lien purposes. Consult an attorney if you are unsure.
 
@@ -170,15 +148,11 @@ Once your Affidavit of Mechanic's Lien is accurately prepared and notarized, fol
 Filing the lien affidavit with the county clerk is only half the battle. You must also notify the relevant parties that a lien has been filed against the property.
 
 **Who to Notify:**
-        
 
-            - The property owner or reputed owner.
+- The property owner or reputed owner.
 
-            - If you are a subcontractor or supplier, you must also notify the original contractor.
+- If you are a subcontractor or supplier, you must also notify the original contractor.
 
-        
-
-    
 - **Timing:** A copy of the filed lien affidavit must be sent to the required parties no later than the **5th day after the date the affidavit is filed** with the county clerk. This is a strict deadline.
 
 - **Method of Service:** The notice must be sent by Certified Mail, Return Receipt Requested, to the owner's and/or original contractor's last known business or residence address. Personal service by a process server is also an option and provides the same legal weight.
@@ -200,15 +174,11 @@ This deadline is a statute of limitations. Missing it will permanently bar your 
 Lien waivers are common documents exchanged during the payment process on construction projects. They are used to relinquish lien rights in exchange for payment. Texas law provides specific guidance and statutory forms for these waivers to protect claimants from inadvertently waiving more rights than intended.
 
 **Conditional vs. Unconditional Waivers:**
-        
 
-            - **Conditional Waiver:** This type of waiver becomes effective only upon the claimant's receipt of payment. It essentially states, "I waive my lien rights if and when I receive this payment."
+- **Conditional Waiver:** This type of waiver becomes effective only upon the claimant's receipt of payment. It essentially states, "I waive my lien rights if and when I receive this payment."
 
-            - **Unconditional Waiver:** This waiver is effective immediately upon signing, regardless of whether payment has actually been received. Signing an unconditional waiver without having received funds is a significant risk.
+- **Unconditional Waiver:** This waiver is effective immediately upon signing, regardless of whether payment has actually been received. Signing an unconditional waiver without having received funds is a significant risk.
 
-        
-
-    
 - **Statutory Forms:** [Texas Property Code § 53.284](https://statutes.capitol.texas.gov/Docs/PR/htm/PR.53.htm#53.284) provides specific, mandatory forms for both conditional and unconditional waivers for progress payments and final payments. Using these statutory forms is highly recommended, as they offer clear language and legal protection. Deviating from these forms can lead to disputes about the waiver's enforceability.
 
 - **"Pay-if-Paid" Clauses:** While "pay-if-paid" clauses in contracts are generally enforceable in Texas, they do not automatically waive a subcontractor's or supplier's lien rights. A lien waiver must be explicit and in a statutory form to waive lien rights. You cannot contractually waive lien rights in advance of furnishing labor or materials.
@@ -230,15 +200,11 @@ These payment bonds act as a substitute for a lien, providing a fund from which 
 - **Who Can Claim:** Subcontractors, suppliers, and laborers who furnish labor or materials for the public project.
 
 **Notice Requirements:**
-        
 
-            - **Claimants with a direct contract with the prime contractor:** Generally, no preliminary notice is required. You can proceed directly to sending a bond claim.
+- **Claimants with a direct contract with the prime contractor:** Generally, no preliminary notice is required. You can proceed directly to sending a bond claim.
 
-            - **Claimants without a direct contract with the prime contractor (second-tier and lower):** You must send written notice of the unpaid claim to the prime contractor and the surety company by the **15th day of the third month** following each month in which you furnished labor or materials. This notice should detail the amount claimed and the nature of the work or materials.
+- **Claimants without a direct contract with the prime contractor (second-tier and lower):** You must send written notice of the unpaid claim to the prime contractor and the surety company by the **15th day of the third month** following each month in which you furnished labor or materials. This notice should detail the amount claimed and the nature of the work or materials.
 
-        
-
-    
 - **Deadline to File Suit:** A lawsuit to enforce a bond claim must be filed within **one year** after the date the bond claim notice (or affidavit) is sent to the prime contractor and surety.
 
 Just like with private project liens, strict adherence to notice and filing deadlines is crucial for bond claims. Missing a deadline can extinguish your right to recover.

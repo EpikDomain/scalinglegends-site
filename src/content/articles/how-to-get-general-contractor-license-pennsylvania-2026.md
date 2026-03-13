@@ -46,23 +46,19 @@ This is the closest thing Pennsylvania has to a statewide general contractor lic
 - **Understand Who Needs It:** If you perform home improvements in Pennsylvania totaling more than $5,000 in a calendar year, you need to be registered. This includes sole proprietors, partnerships, and corporations. "Home improvement" is broadly defined and includes repair, replacement, remodeling, demolition, removal, renovation, installation, alteration, conversion, modernization, improvement, rehabilitation, or addition to any land or building or that portion thereof which is used or designed to be used as a private residence or dwelling place.
 
 **Gather Your Business Information:** Before you start the online application, have all your ducks in a row. You'll need:
-        
 
-            - Your legal business name and any "doing business as" (DBA) names.
+- Your legal business name and any "doing business as" (DBA) names.
 
-            - Your federal Employer Identification Number (EIN) if you have employees or are incorporated. If you're a sole proprietor without employees, you'll use your Social Security Number.
+- Your federal Employer Identification Number (EIN) if you have employees or are incorporated. If you're a sole proprietor without employees, you'll use your Social Security Number.
 
-            - Your business address and contact information.
+- Your business address and contact information.
 
-            - The names, addresses, and Social Security Numbers of all owners, partners, corporate officers, and/or members.
+- The names, addresses, and Social Security Numbers of all owners, partners, corporate officers, and/or members.
 
-            - Proof of general liability insurance (more on this below).
+- Proof of general liability insurance (more on this below).
 
-            - Details of any prior home improvement-related convictions, judgments, or administrative actions against you or your business. Be honest here.
+- Details of any prior home improvement-related convictions, judgments, or administrative actions against you or your business. Be honest here.
 
-        
-
-    
 - **Complete the Online Application:** Head directly to the Pennsylvania Office of Attorney General's Bureau of Consumer Protection website (www.attorneygeneral.gov). Look for the "Home Improvement Contractor Registration" section. The application is typically submitted online. It's a straightforward form, but accuracy is key.
 
 - **Pay the Registration Fee:** There's an application fee, which is usually around $50-$60. This can be paid online via credit card.
@@ -178,33 +174,25 @@ If you plan to work across state lines, you must investigate and comply with the
 Before you even think about the HIC registration or local licenses, you need to establish your legal business entity. This is done at the state level through the Pennsylvania Department of State in Harrisburg.
 
 **Choose Your Business Structure:**
-        
 
-            - **Sole Proprietorship:** Easiest to set up, but offers no personal liability protection. Your personal assets are at risk.
+- **Sole Proprietorship:** Easiest to set up, but offers no personal liability protection. Your personal assets are at risk.
 
-            - **Partnership:** Similar to a sole proprietorship for liability, but with multiple owners.
+- **Partnership:** Similar to a sole proprietorship for liability, but with multiple owners.
 
-            - **Limited Liability Company (LLC):** A popular choice for contractors. It offers personal liability protection for owners, separating business assets from personal ones. It's relatively simple to set up and manage.
+- **Limited Liability Company (LLC):** A popular choice for contractors. It offers personal liability protection for owners, separating business assets from personal ones. It's relatively simple to set up and manage.
 
-            - **Corporation (S-Corp or C-Corp):** Offers the strongest liability protection but has more complex setup and ongoing compliance requirements.
+- **Corporation (S-Corp or C-Corp):** Offers the strongest liability protection but has more complex setup and ongoing compliance requirements.
 
-        
+Most contractors start with an LLC for the liability protection and relative simplicity.
 
-        Most contractors start with an LLC for the liability protection and relative simplicity.
-
-    
 - **Name Your Business:** Choose a unique name. You can check for availability on the PA Department of State's website.
 
 **Register with the PA Department of State:**
-        
 
-            - For LLCs and Corporations, you'll file a Certificate of Organization (for LLCs) or Articles of Incorporation (for Corporations) with the Bureau of Corporations and Charitable Organizations. This is typically done online via the PA Department of State's website.
+- For LLCs and Corporations, you'll file a Certificate of Organization (for LLCs) or Articles of Incorporation (for Corporations) with the Bureau of Corporations and Charitable Organizations. This is typically done online via the PA Department of State's website.
 
-            - If you're a sole proprietorship or general partnership operating under a name different from your personal name(s), you'll need to file a Fictitious Name Registration (DBA) with the Department of State.
+- If you're a sole proprietorship or general partnership operating under a name different from your personal name(s), you'll need to file a Fictitious Name Registration (DBA) with the Department of State.
 
-        
-
-    
 - **Obtain an EIN (Employer Identification Number):** This is your federal tax ID, issued by the IRS. You'll need it if you're an LLC (even a single-member LLC), corporation, or if you plan to hire employees. You can apply for this online directly through the IRS website – it's free.
 
 - **Register for Pennsylvania Taxes:** You'll need to register your business with the Pennsylvania Department of Revenue for state taxes, such as sales tax (if applicable), employer withholding tax, and corporate net income tax. This is usually done through the PA-100 Enterprise Registration Form.

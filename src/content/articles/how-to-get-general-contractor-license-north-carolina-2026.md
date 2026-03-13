@@ -45,62 +45,41 @@ These financial requirements are critical. The NCLBGC will require a detailed fi
 
 Alright, let's get down to brass tacks. This is the practical process you'll follow to obtain your North Carolina General Contractor license. Follow these steps meticulously, and you'll be well on your way.
 
-    
-        ### Step 1: Determine Your License Classification and Financial Capacity
+### Step 1: Determine Your License Classification and Financial Capacity
 
-        As discussed above, your first move is to figure out which license class (Limited, Intermediate, or Unlimited) aligns with your business goals and financial reality. If you're just starting, a Limited license might be your entry point, but always consider where you want to be in a few years. The financial statement, certified by a CPA, is non-negotiable for proving your net worth or working capital. This document is a cornerstone of your application, so get it in order early.
+As discussed above, your first move is to figure out which license class (Limited, Intermediate, or Unlimited) aligns with your business goals and financial reality. If you're just starting, a Limited license might be your entry point, but always consider where you want to be in a few years. The financial statement, certified by a CPA, is non-negotiable for proving your net worth or working capital. This document is a cornerstone of your application, so get it in order early.
 
-    
-    
-        ### Step 2: Gain Necessary Experience (Implicit, Not Explicit)
+### Step 2: Gain Necessary Experience (Implicit, Not Explicit)
 
-        Unlike some states that mandate a specific number of years of experience, North Carolina doesn't have a rigid "four years as a foreman" rule for general contractors. However, don't mistake this for a lack of need for experience. The NCLBGC exam is rigorous, and you won't pass it without a solid understanding of construction principles, project management, business law, and the North Carolina State Building Code. Your ability to demonstrate financial capacity also indirectly reflects your experience and business acumen. Practically speaking, you'll need hands-on experience to confidently tackle the exam and, more importantly, to actually run a successful construction business in North Carolina.
+Unlike some states that mandate a specific number of years of experience, North Carolina doesn't have a rigid "four years as a foreman" rule for general contractors. However, don't mistake this for a lack of need for experience. The NCLBGC exam is rigorous, and you won't pass it without a solid understanding of construction principles, project management, business law, and the North Carolina State Building Code. Your ability to demonstrate financial capacity also indirectly reflects your experience and business acumen. Practically speaking, you'll need hands-on experience to confidently tackle the exam and, more importantly, to actually run a successful construction business in North Carolina.
 
-    
-    
-        ### Step 3: Prepare for and Pass the North Carolina General Contractor Exam
+### Step 3: Prepare for and Pass the North Carolina General Contractor Exam
 
-        This is arguably the most significant hurdle. The exam is administered by PSI Services LLC and is specific to North Carolina. It's not just a general knowledge test; it delves into NC-specific building codes, business law, and project management practices. More details on the exam itself are below, but understand that dedicated study is required.
+This is arguably the most significant hurdle. The exam is administered by PSI Services LLC and is specific to North Carolina. It's not just a general knowledge test; it delves into NC-specific building codes, business law, and project management practices. More details on the exam itself are below, but understand that dedicated study is required.
 
-    
-    
-        ### Step 4: Complete the North Carolina General Contractor Application Form
+### Step 4: Complete the North Carolina General Contractor Application Form
 
-        Once you've passed your exam, you'll complete the official application form through the NCLBGC's online portal ([www.nclbgc.org](https://www.nclbgc.org)). The application requires detailed information about your business entity (if applicable), your personal background, and your financial statement. Be thorough, accurate, and ensure all sections are completed. Any missing information or discrepancies will cause delays.
+Once you've passed your exam, you'll complete the official application form through the NCLBGC's online portal ([www.nclbgc.org](https://www.nclbgc.org)). The application requires detailed information about your business entity (if applicable), your personal background, and your financial statement. Be thorough, accurate, and ensure all sections are completed. Any missing information or discrepancies will cause delays.
 
-        
+- **Sole Proprietorship:** You apply as an individual.
 
-            - **Sole Proprietorship:** You apply as an individual.
+- **Corporation, LLC, or Partnership:** The business entity applies, and you (or another qualified individual) will be designated as the "qualifying party" who passed the exam. Ensure your business is properly registered with the NC Secretary of State *before* applying to the NCLBGC.
 
-            - **Corporation, LLC, or Partnership:** The business entity applies, and you (or another qualified individual) will be designated as the "qualifying party" who passed the exam. Ensure your business is properly registered with the NC Secretary of State *before* applying to the NCLBGC.
+You'll also need to submit:
 
-        
+- Your certified financial statement.
 
-        You'll also need to submit:
+- Proof of passing the exam.
 
-        
+- Any other supporting documentation requested by the Board.
 
-            - Your certified financial statement.
+### Step 5: Submit Application and Pay Fees
 
-            - Proof of passing the exam.
+Double-check everything. Then, submit your completed application online and pay the non-refundable application fee. As of early 2026, the application fees are typically: **$75 for Limited/Intermediate** licenses and **$125 for an Unlimited** license. Always verify current fees directly on the NCLBGC website before submitting.
 
-            - Any other supporting documentation requested by the Board.
+### Step 6: Await Board Review and License Issuance
 
-        
-
-    
-    
-        ### Step 5: Submit Application and Pay Fees
-
-        Double-check everything. Then, submit your completed application online and pay the non-refundable application fee. As of early 2026, the application fees are typically: **$75 for Limited/Intermediate** licenses and **$125 for an Unlimited** license. Always verify current fees directly on the NCLBGC website before submitting.
-
-    
-    
-        ### Step 6: Await Board Review and License Issuance
-
-        After submission, the NCLBGC will review your application. This process can take several weeks, typically 30-60 days, especially during peak application periods. The Board may contact you for additional information or clarification. Once your application is approved, your license will be issued. Congratulations, you're officially a licensed General Contractor in North Carolina!
-
-    
+After submission, the NCLBGC will review your application. This process can take several weeks, typically 30-60 days, especially during peak application periods. The Board may contact you for additional information or clarification. Once your application is approved, your license will be issued. Congratulations, you're officially a licensed General Contractor in North Carolina!
 
 ### North Carolina General Contractor Exam Requirements and Prep Resources
 

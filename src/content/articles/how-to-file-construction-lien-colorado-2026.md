@@ -151,86 +151,61 @@ It is also good practice to attach a copy of the Notice of Intent and proof of i
 
 Here's a concise, step-by-step guide to filing your Colorado mechanics lien:
 
-    
-        ### Identify Your "Last Work" Date and Calculate Deadlines:
+### Identify Your "Last Work" Date and Calculate Deadlines:
 
-        Determine the exact date you last furnished labor or materials to the project. This is your anchor date. From this date, calculate:
+Determine the exact date you last furnished labor or materials to the project. This is your anchor date. From this date, calculate:
 
-        
+- **Lien Recording Deadline:** 6 months from your "last work" date.
 
-            - **Lien Recording Deadline:** 6 months from your "last work" date.
+- **Notice of Intent Service Deadline:** At least 10 days BEFORE your lien recording deadline.
 
-            - **Notice of Intent Service Deadline:** At least 10 days BEFORE your lien recording deadline.
+Work backward to ensure you have ample time for all steps.
 
-        
+### Gather All Necessary Information and Documentation:
 
-        Work backward to ensure you have ample time for all steps.
+Before drafting your NOI or lien, collect:
 
-    
-    
-        ### Gather All Necessary Information and Documentation:
+- Your contract(s) and any change orders.
 
-        Before drafting your NOI or lien, collect:
+- Invoices, payment applications, and statements of account.
 
-        
+- Daily logs, time sheets, and delivery tickets proving your contribution.
 
-            - Your contract(s) and any change orders.
+- The full legal name and address of the property owner(s).
 
-            - Invoices, payment applications, and statements of account.
+- The full legal name and address of the general contractor (if applicable).
 
-            - Daily logs, time sheets, and delivery tickets proving your contribution.
+- The full legal description of the property (obtain from county assessor or deed records).
 
-            - The full legal name and address of the property owner(s).
+- The street address of the property.
 
-            - The full legal name and address of the general contractor (if applicable).
+- The exact amount you are owed.
 
-            - The full legal description of the property (obtain from county assessor or deed records).
+### Prepare and Serve the Notice of Intent to File a Lien (NOI):
 
-            - The street address of the property.
+Draft the NOI, ensuring it includes all required information (your name, owner's name, property description, amount claimed, statement of intent). Serve the NOI via certified mail (return receipt requested) or personal service to the property owner and general contractor (if applicable). Retain proof of service. Remember, you must wait at least 10 days after proper service before recording your lien.
 
-            - The exact amount you are owed.
+### Draft the Affidavit of Lien (Lien Statement):
 
-        
+Carefully draft the Affidavit of Lien, ensuring it meets all the content requirements of C.R.S. §38-22-109(1). Double-check the property description, the amount claimed, and especially the "last work" date. Ensure it includes the statement that the NOI was properly served.
 
-    
-    
-        ### Prepare and Serve the Notice of Intent to File a Lien (NOI):
+### Sign and Notarize the Affidavit of Lien:
 
-        Draft the NOI, ensuring it includes all required information (your name, owner's name, property description, amount claimed, statement of intent). Serve the NOI via certified mail (return receipt requested) or personal service to the property owner and general contractor (if applicable). Retain proof of service. Remember, you must wait at least 10 days after proper service before recording your lien.
+The lien claimant (or their authorized agent/attorney) must sign the Affidavit of Lien in the presence of a notary public. The notary will then affix their seal.
 
-    
-    
-        ### Draft the Affidavit of Lien (Lien Statement):
+### Record the Affidavit of Lien with the County Clerk and Recorder:
 
-        Carefully draft the Affidavit of Lien, ensuring it meets all the content requirements of C.R.S. §38-22-109(1). Double-check the property description, the amount claimed, and especially the "last work" date. Ensure it includes the statement that the NOI was properly served.
+Take the original, notarized Affidavit of Lien to the County Clerk and Recorder's office in the county where the property is located. Most counties in Colorado accept physical filings, and many also offer e-recording options. Pay the required recording fees. The Clerk will stamp the document with a recording date and time. This is the date that starts your 6-month enforcement clock.
 
-    
-    
-        ### Sign and Notarize the Affidavit of Lien:
+**Crucial Reminder:** This must be done within 6 months of your last work date and at least 10 days after serving the NOI.
 
-        The lien claimant (or their authorized agent/attorney) must sign the Affidavit of Lien in the presence of a notary public. The notary will then affix their seal.
+### Serve a Copy of the Recorded Lien Statement:
 
-    
-    
-        ### Record the Affidavit of Lien with the County Clerk and Recorder:
+Although not explicitly required by C.R.S. §38-22-109, it is best practice and highly recommended to serve a copy of the recorded Affidavit of Lien (with the recording information stamped on it) on the property owner and general contractor. This provides them with formal notice that the lien has been recorded. Use certified mail with return receipt requested for proof of service.
 
-        Take the original, notarized Affidavit of Lien to the County Clerk and Recorder's office in the county where the property is located. Most counties in Colorado accept physical filings, and many also offer e-recording options. Pay the required recording fees. The Clerk will stamp the document with a recording date and time. This is the date that starts your 6-month enforcement clock.
+### Monitor the Enforcement Deadline:
 
-        **Crucial Reminder:** This must be done within 6 months of your last work date and at least 10 days after serving the NOI.
-
-    
-    
-        ### Serve a Copy of the Recorded Lien Statement:
-
-        Although not explicitly required by C.R.S. §38-22-109, it is best practice and highly recommended to serve a copy of the recorded Affidavit of Lien (with the recording information stamped on it) on the property owner and general contractor. This provides them with formal notice that the lien has been recorded. Use certified mail with return receipt requested for proof of service.
-
-    
-    
-        ### Monitor the Enforcement Deadline:
-
-        Once your lien is recorded, mark your calendar for the 6-month deadline to file a lawsuit to enforce the lien. This is a hard deadline, and failure to meet it will render your lien void. If payment is not received, consult with a Colorado construction attorney well before this deadline to discuss enforcement options.
-
-    
+Once your lien is recorded, mark your calendar for the 6-month deadline to file a lawsuit to enforce the lien. This is a hard deadline, and failure to meet it will render your lien void. If payment is not received, consult with a Colorado construction attorney well before this deadline to discuss enforcement options.
 
 ## Service Requirements for the Recorded Lien Statement
 
@@ -260,14 +235,9 @@ Lien waivers are documents exchanged during the payment process where a contract
 
 ### Conditional vs. Unconditional Lien Waivers:
 
-    
-        **Conditional Lien Waiver:** This type of waiver becomes effective *only upon the actual receipt of payment*. It typically states that the waiver is conditioned upon the payment clearing the bank. For example, "This waiver is effective upon receipt of payment of $X." This is the safer option for a lien claimant, as it protects their lien rights until they have confirmed funds.
+**Conditional Lien Waiver:** This type of waiver becomes effective *only upon the actual receipt of payment*. It typically states that the waiver is conditioned upon the payment clearing the bank. For example, "This waiver is effective upon receipt of payment of $X." This is the safer option for a lien claimant, as it protects their lien rights until they have confirmed funds.
 
-    
-    
-        **Unconditional Lien Waiver:** This type of waiver is effective *immediately upon signing*, regardless of whether payment has actually been received. It essentially states, "I hereby waive all lien rights for work performed through [date] in exchange for payment of $X," and it's effective the moment you sign it. **You should NEVER sign an unconditional lien waiver unless you have already received and confirmed the payment.** Signing an unconditional waiver before payment can lead to you releasing your lien rights without ever getting paid.
-
-    
+**Unconditional Lien Waiver:** This type of waiver is effective *immediately upon signing*, regardless of whether payment has actually been received. It essentially states, "I hereby waive all lien rights for work performed through [date] in exchange for payment of $X," and it's effective the moment you sign it. **You should NEVER sign an unconditional lien waiver unless you have already received and confirmed the payment.** Signing an unconditional waiver before payment can lead to you releasing your lien rights without ever getting paid.
 
 Colorado law does not mandate specific statutory forms for lien waivers, meaning parties are free to negotiate their terms. However, courts will generally enforce them as written. Always read lien waivers carefully and understand what rights you are giving up. Be especially cautious of "through date" language, ensuring it accurately reflects the period for which you are being paid. If you have any doubts, consult with a Colorado construction attorney before signing.
 
@@ -279,26 +249,15 @@ This statute requires general contractors on most public construction projects t
 
 ### Key Requirements for a Colorado Little Miller Act Bond Claim:
 
-    
-        **Who Can Claim:** Generally, those who have furnished labor or materials to the principal contractor or to a subcontractor on a public project. This includes subcontractors, sub-subcontractors, and material suppliers.
+**Who Can Claim:** Generally, those who have furnished labor or materials to the principal contractor or to a subcontractor on a public project. This includes subcontractors, sub-subcontractors, and material suppliers.
 
-    
-    
-        **Notice Requirements:**
+**Notice Requirements:**
 
-        
+- **For those contracting directly with the principal contractor:** No specific preliminary notice is required.
 
-            - **For those contracting directly with the principal contractor:** No specific preliminary notice is required.
+- **For those NOT contracting directly with the principal contractor (e.g., sub-subcontractors, suppliers to subs):** You must provide written notice to the principal contractor within **ninety (90) days** after the date on which you last performed labor or furnished materials for which the claim is made. This notice must state with substantial accuracy the amount claimed and the name of the party to whom the material was furnished or for whom the labor was performed.
 
-            - **For those NOT contracting directly with the principal contractor (e.g., sub-subcontractors, suppliers to subs):** You must provide written notice to the principal contractor within **ninety (90) days** after the date on which you last performed labor or furnished materials for which the claim is made. This notice must state with substantial accuracy the amount claimed and the name of the party to whom the material was furnished or for whom the labor was performed.
-
-        
-
-    
-    
-        **Enforcement Deadline:** A lawsuit to enforce a bond claim must be commenced within **one (1) year** after the date on which the last labor was performed or material supplied by the claimant. This deadline is strictly enforced.
-
-    
+**Enforcement Deadline:** A lawsuit to enforce a bond claim must be commenced within **one (1) year** after the date on which the last labor was performed or material supplied by the claimant. This deadline is strictly enforced.
 
 Just like mechanics liens, strict compliance with the Little Miller Act's requirements is essential. Public projects often have different contractual and administrative hurdles, making it prudent to consult with an attorney experienced in Colorado public contracting law if you face a payment issue on such a project.
 
@@ -334,21 +293,15 @@ Once a mechanics lien has been satisfied (i.e., you have received full payment f
 
 ### Steps for Releasing a Lien:
 
-    
-        **Confirm Full Payment:** Ensure you have received and confirmed all funds due, and that the payment has cleared.
-    
-    
-        **Prepare a Lien Release Document:** This document should clearly identify the original lien by its recording information (date, book/page number, or reception number), state that the lien has been satisfied, and release the property from the lien claim. It should include the property description and the names of the lien claimant and property owner.
-    
-    
-        **Sign and Notarize:** The lien claimant (or an authorized agent) must sign the Lien Release in the presence of a notary public.
-    
-    
-        **Record the Release:** File the original, notarized Lien Release with the County Clerk and Recorder's office where the original lien was recorded. Pay any applicable recording fees.
-    
-    
-        **Provide a Copy to the Owner:** It is good practice to send a copy of the recorded Lien Release to the property owner for their records, confirming the lien has been officially cleared.
-    
+**Confirm Full Payment:** Ensure you have received and confirmed all funds due, and that the payment has cleared.
+
+**Prepare a Lien Release Document:** This document should clearly identify the original lien by its recording information (date, book/page number, or reception number), state that the lien has been satisfied, and release the property from the lien claim. It should include the property description and the names of the lien claimant and property owner.
+
+**Sign and Notarize:** The lien claimant (or an authorized agent) must sign the Lien Release in the presence of a notary public.
+
+**Record the Release:** File the original, notarized Lien Release with the County Clerk and Recorder's office where the original lien was recorded. Pay any applicable recording fees.
+
+**Provide a Copy to the Owner:** It is good practice to send a copy of the recorded Lien Release to the property owner for their records, confirming the lien has been officially cleared.
 
 C.R.S. §38-22-118 specifies that if a lien claimant fails or refuses to release a satisfied lien within **ten (10) days** after a written request and tender of the recording fee, they may be liable to the property owner for ten dollars per day for each day the lien remains unreleased, and potentially for attorney fees and costs incurred by the owner in compelling the release. This underscores the importance of prompt lien release once payment is secured.
 
@@ -356,22 +309,13 @@ C.R.S. §38-22-118 specifies that if a lien claimant fails or refuses to release
 
 The costs associated with filing a Colorado mechanics lien primarily include recording fees and, if applicable, attorney fees.
 
-    
-        **Recording Fees:** These fees vary by county in Colorado but are generally modest. Expect to pay between $10 to $20 for the first page of the document and a few dollars for each additional page. Some counties may have slightly higher fees. You can typically find the exact fee schedule on the website of the specific County Clerk and Recorder's office where you plan to file.
+**Recording Fees:** These fees vary by county in Colorado but are generally modest. Expect to pay between $10 to $20 for the first page of the document and a few dollars for each additional page. Some counties may have slightly higher fees. You can typically find the exact fee schedule on the website of the specific County Clerk and Recorder's office where you plan to file.
 
-    
-    
-        **Service Fees:** If you use a professional process server for the Notice of Intent or other documents, their fees will apply, typically ranging from $50 to $150 per service attempt.
+**Service Fees:** If you use a professional process server for the Notice of Intent or other documents, their fees will apply, typically ranging from $50 to $150 per service attempt.
 
-    
-    
-        **Certified Mail Costs:** Budget for the cost of certified mail with return receipt requested for the Notice of Intent and recommended service of the recorded lien. This is usually under $10 per mailing.
+**Certified Mail Costs:** Budget for the cost of certified mail with return receipt requested for the Notice of Intent and recommended service of the recorded lien. This is usually under $10 per mailing.
 
-    
-    
-        **Attorney Fees:** This is potentially the most significant cost if you engage legal counsel. While you can prepare and file a lien yourself, hiring a Colorado construction attorney is highly recommended, especially for complex situations or when significant amounts are at stake. Attorney fees can range widely based on the complexity of the case, the amount in dispute, and whether enforcement (litigation) becomes necessary. However, these costs are often justified by the increased likelihood of a valid and enforceable lien, and the potential for recovery.
-
-    
+**Attorney Fees:** This is potentially the most significant cost if you engage legal counsel. While you can prepare and file a lien yourself, hiring a Colorado construction attorney is highly recommended, especially for complex situations or when significant amounts are at stake. Attorney fees can range widely based on the complexity of the case, the amount in dispute, and whether enforcement (litigation) becomes necessary. However, these costs are often justified by the increased likelihood of a valid and enforceable lien, and the potential for recovery.
 
 In Colorado, attorney fees are generally not recoverable as part of the lien amount itself, unless specifically provided for in your contract or if the court finds the defense of the lien claim to be frivolous or groundless. However, if you have a contractual provision for attorney fees, you may be able to recover them in a subsequent lawsuit to enforce the lien.
 
@@ -379,42 +323,23 @@ In Colorado, attorney fees are generally not recoverable as part of the lien amo
 
 While this guide provides a detailed overview, the nuances of Colorado lien law can be complex. Engaging a Colorado construction attorney is a strategic decision that can save you significant time, money, and headaches in the long run. Here are situations where legal counsel is highly advisable:
 
-    
-        **Large Claim Amounts:** If the amount you are owed is substantial, the risk of error and the potential financial loss from an invalid lien justify the investment in legal expertise.
+**Large Claim Amounts:** If the amount you are owed is substantial, the risk of error and the potential financial loss from an invalid lien justify the investment in legal expertise.
 
-    
-    
-        **Complex Projects or Contracts:** Projects with multiple tiers of contractors, complex contractual language, or unusual payment terms can introduce ambiguities that an attorney can help navigate.
+**Complex Projects or Contracts:** Projects with multiple tiers of contractors, complex contractual language, or unusual payment terms can introduce ambiguities that an attorney can help navigate.
 
-    
-    
-        **Disputes Over the "Last Work" Date:** If there's any ambiguity about your last date of furnishing labor or materials, an attorney can help you establish the correct date to avoid missing deadlines.
+**Disputes Over the "Last Work" Date:** If there's any ambiguity about your last date of furnishing labor or materials, an attorney can help you establish the correct date to avoid missing deadlines.
 
-    
-    
-        **Property Description Issues:** If obtaining an accurate legal description of the property is challenging, or if the property includes multiple parcels, an attorney can ensure the lien covers the correct property.
+**Property Description Issues:** If obtaining an accurate legal description of the property is challenging, or if the property includes multiple parcels, an attorney can ensure the lien covers the correct property.
 
-    
-    
-        **Owner Bankruptcy or Foreclosure:** If the property owner is facing bankruptcy or the property is already in foreclosure, asserting your lien rights becomes significantly more complex and requires specialized legal knowledge.
+**Owner Bankruptcy or Foreclosure:** If the property owner is facing bankruptcy or the property is already in foreclosure, asserting your lien rights becomes significantly more complex and requires specialized legal knowledge.
 
-    
-    
-        **Disputed Lien Amounts or Lien Waivers:** If there are disagreements over the amount owed, or if you are presented with ambiguous lien waivers, an attorney can protect your interests.
+**Disputed Lien Amounts or Lien Waivers:** If there are disagreements over the amount owed, or if you are presented with ambiguous lien waivers, an attorney can protect your interests.
 
-    
-    
-        **Enforcement/Foreclosure:** The process of filing a lawsuit to enforce a mechanics lien is a litigation matter that absolutely requires an attorney. This is not a DIY task.
+**Enforcement/Foreclosure:** The process of filing a lawsuit to enforce a mechanics lien is a litigation matter that absolutely requires an attorney. This is not a DIY task.
 
-    
-    
-        **Public Projects (Bond Claims):** Navigating Colorado's Little Miller Act requirements and bond claim procedures is distinct from private liens and benefits greatly from legal expertise.
+**Public Projects (Bond Claims):** Navigating Colorado's Little Miller Act requirements and bond claim procedures is distinct from private liens and benefits greatly from legal expertise.
 
-    
-    
-        **Any Doubt or Uncertainty:** If you are unsure about any step of the process, the specific language in the statutes, or the validity of your claim, consulting an attorney early can prevent costly mistakes.
-
-    
+**Any Doubt or Uncertainty:** If you are unsure about any step of the process, the specific language in the statutes, or the validity of your claim, consulting an attorney early can prevent costly mistakes.
 
 A Colorado construction attorney can ensure your lien is properly drafted, timely filed, and correctly enforced, maximizing your chances of successful payment recovery.
 
@@ -422,26 +347,15 @@ A Colorado construction attorney can ensure your lien is properly drafted, timel
 
 In the fast-paced construction environment, managing multiple projects and their corresponding lien deadlines can be a significant challenge. Fortunately, technology offers robust solutions to help you stay organized and compliant with Colorado's strict timelines:
 
-    
-        **Lien Management Software:** Specialized lien management platforms (e.g., Levelset, Handle, Lienwaivers.io) are designed to track critical dates, generate required notices (like the Colorado Notice of Intent), and even assist with drafting lien documents. Many integrate with accounting and project management systems, providing a centralized hub for all lien-related activities.
+**Lien Management Software:** Specialized lien management platforms (e.g., Levelset, Handle, Lienwaivers.io) are designed to track critical dates, generate required notices (like the Colorado Notice of Intent), and even assist with drafting lien documents. Many integrate with accounting and project management systems, providing a centralized hub for all lien-related activities.
 
-    
-    
-        **Project Management Software:** Tools like Procore, Autodesk Construction Cloud, or Buildertrend often have robust scheduling and task management features that can be customized to include lien deadline tracking. You can set up automated reminders for your "last work" date, NOI service date, and lien recording deadline.
+**Project Management Software:** Tools like Procore, Autodesk Construction Cloud, or Buildertrend often have robust scheduling and task management features that can be customized to include lien deadline tracking. You can set up automated reminders for your "last work" date, NOI service date, and lien recording deadline.
 
-    
-    
-        **CRM Systems:** Customer Relationship Management (CRM) software can be adapted to track project milestones and payment statuses, helping you identify potential payment issues early, which is crucial for timely lien action.
+**CRM Systems:** Customer Relationship Management (CRM) software can be adapted to track project milestones and payment statuses, helping you identify potential payment issues early, which is crucial for timely lien action.
 
-    
-    
-        **Calendar and Reminder Apps:** Even simpler tools like Google Calendar, Outlook Calendar, or dedicated reminder apps can be invaluable. Set multiple reminders for each critical deadline, well in advance, to ensure you have time to act.
+**Calendar and Reminder Apps:** Even simpler tools like Google Calendar, Outlook Calendar, or dedicated reminder apps can be invaluable. Set multiple reminders for each critical deadline, well in advance, to ensure you have time to act.
 
-    
-    
-        **Spreadsheets (Excel/Google Sheets):** For smaller operations or fewer projects, a well-organized spreadsheet can be effective. Create columns for project name, owner, GC, last work date, NOI deadline, lien filing deadline, and enforcement deadline. Use conditional formatting to highlight approaching deadlines.
-
-    
+**Spreadsheets (Excel/Google Sheets):** For smaller operations or fewer projects, a well-organized spreadsheet can be effective. Create columns for project name, owner, GC, last work date, NOI deadline, lien filing deadline, and enforcement deadline. Use conditional formatting to highlight approaching deadlines.
 
 Regardless of the tool you choose, the key is consistency and diligent data entry. Regular review of your project pipeline and payment statuses will ensure that no Colorado lien deadline slips through the cracks.
 
