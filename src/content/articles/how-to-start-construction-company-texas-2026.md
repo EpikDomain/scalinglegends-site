@@ -96,7 +96,7 @@ While the state doesn't license GCs, many cities and counties *do* have their ow
 *   **San Antonio:** The City of San Antonio Development Services Department requires contractor registration for various trades and general contractors to pull permits.
 *   **Dallas/Fort Worth/Austin:** These cities also have their own specific registration processes, often tied to permitting and ensuring you have appropriate insurance.
 
-**Action Item:** Before starting any project, always contact the Building Department or Planning Department of the city or county where the work will be performed. Ask them directly: "What are the contractor licensing or registration requirements for a general contractor (or my specific trade) to pull permits for [type of project]?"
+**Action Item:** Before starting any project, always contact the Building Department or Planning Department of the city or county where the work will be performed. Ask them directly: "What are the contractor licensing or registration requirements for [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) (or my specific trade) to pull permits for [type of project]?"
 
 ### State-Level Licensing for Specific Trades
 
