@@ -2,7 +2,8 @@
 title: "Why Two-Thirds of Construction Projects Are Delayed in 2026: The Compounding Crisis Nobody Is Talking About"
 description: "Deep dive into why commercial construction timelines are stretching from 18 months to 24+ in 2026. Analysis of the compounding delay cycle: labor shortage triggers material delay triggers inspection backlog triggers overtime costs triggers quality failures. Practical strategies for breaking the cycle."
 date: "2026-03-13"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/why-two-thirds-of-construction-projects-are-delayed-in-2026--1773393850.png"
+image: "/img/articles/why-two-thirds-of-construction-projects-are-delayed-in-2026-the-compounding-crisis-nobody-is-talking-about-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/why-two-thirds-of-construction-projects-are-delayed-in-2026--1773393850.png"
 audioUrl: "https://content.rss.com/episodes/332597/2625116/scalinglegends/2026_03_13_09_30_41_253b2708-9c76-4eea-b1d2-d82747486087.mp3"
 readTime: "9 min read"
 published: true

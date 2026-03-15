@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: March 13 - BlackRock Bets $100M on Skilled Trades as Project Delays Hit Crisis Level"
 description: "Daily market intelligence covering BlackRock's $100M Future Builders skilled trades initiative, $126M in contech funding, ICON's Titan 3D printer commercial rollout, commercial project delays reaching crisis proportions, CSL Behring's $1.5B Illinois plant, Skanska's $534M LA bridge contract, Canada's housing construction collapse, UK construction returning to growth, and Middle East conflict reshaping global lumber trade flows."
 date: "2026-03-13"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-13---blackrock-bets-1-1773393804.png"
+image: "/img/articles/construction-market-intelligence-march-13-blackrock-bets-100m-on-skilled-trades-as-project-delays-hit-crisis-level-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-13---blackrock-bets-1-1773393804.png"
 audioUrl: "https://content.rss.com/episodes/332597/2625114/scalinglegends/2026_03_13_09_30_31_52b1df67-0b6c-4574-8ab7-d5a17f57d286.mp3"
 readTime: "10 min read"
 published: true

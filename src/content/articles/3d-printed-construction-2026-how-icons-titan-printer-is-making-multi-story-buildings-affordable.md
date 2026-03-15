@@ -2,7 +2,8 @@
 title: "3D Printed Construction 2026: How ICON's Titan Printer Is Making Multi-Story Buildings Affordable"
 description: "Deep dive into 3D printed construction going mainstream in 2026. ICON's Titan printer prints structures up to 35 feet tall at $20/sqft -- 40% cheaper than traditional methods. Plus Australia's underwater 3D concrete printing and robotic prefab for extreme environments. What contractors need to know."
 date: "2026-03-13"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/3d-printed-construction-2026-how-icons-titan-printer-is-maki-1773393899.png"
+image: "/img/articles/3d-printed-construction-2026-how-icons-titan-printer-is-making-multi-story-buildings-affordable-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/3d-printed-construction-2026-how-icons-titan-printer-is-maki-1773393899.png"
 audioUrl: "https://content.rss.com/episodes/332597/2625117/scalinglegends/2026_03_13_09_30_49_112783f1-5cc6-4c6f-9fe6-26faef3e4a36.mp3"
 readTime: "6 min read"
 published: true
