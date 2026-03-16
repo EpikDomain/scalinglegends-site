@@ -17,6 +17,8 @@ sponsors:
 
 You’re looking to get licensed as a General Contractor in North Carolina. Good. You’ve picked one of the hottest construction markets in the country. From the rapidly expanding tech and research hubs of the Research Triangle to the financial and logistics powerhouse that is Charlotte, North Carolina is booming. But to truly capitalize on this growth, you need to play by the rules, and that means getting your General Contractor license from the North Carolina Licensing Board for General Contractors (NCLBGC).
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This isn't some generic guide. This is your no-BS roadmap, straight from someone who understands the grind and the opportunity here in the Tar Heel State. We'll cut through the fluff and give you exactly what you need to know, specific to North Carolina, to get your license in 2026.
 
 ### The North Carolina Licensing Landscape: Why It Matters More Than Ever

@@ -25,6 +25,8 @@ At Scaling Legends, we equip construction professionals with the knowledge to pr
 
 The foundation of construction lien rights in New York is found in **New York Lien Law Article 2**. This statute provides a powerful remedy for contractors, subcontractors, suppliers, and other parties who contribute to the improvement of real property but are not paid for their work. Unlike a traditional lawsuit, a mechanics lien directly attaches to the improved property, making it difficult for the owner to sell or refinance without first satisfying the lien.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 In essence, the New York Lien Law recognizes that those who enhance the value of real estate through their labor and materials deserve a secured interest in that property until they are paid. It's a statutory right, meaning it exists solely because the legislature created it, and therefore, strict adherence to its requirements is paramount. Any deviation, no matter how minor, can invalidate your lien.
 
 A unique aspect of New York's construction landscape, particularly relevant to this discussion, is the regulatory environment. While many parts of the state have relatively unregulated general contracting, New York City operates under its own beast: the Department of Buildings (DOB) licensing requirements. This distinction doesn't directly alter the mechanics lien filing process itself, but it underscores the varied operational complexities across the state and emphasizes the need for meticulous compliance with all legal frameworks, including payment security.
@@ -378,3 +380,19 @@ A7: The most reliable way to obtain the legal description is to check the proper
 Understanding and leveraging New York's mechanics lien laws is a fundamental skill for any [construction business](/article/how-to-scale-a-construction-business-without-losing-control) operating in the state. By meticulously adhering to deadlines, accurately preparing documentation, and seeking professional guidance when needed, you can effectively secure your payments and protect your financial interests. Don't let unpaid invoices become lost revenue—master the New York mechanics lien process.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Prepare to File a Construction Lien in New York for 2026
+
+- **Confirm Your Eligibility for a Lien.** Review New York Lien Law Article 2 to ensure your role (e.g., general contractor, subcontractor, material supplier) grants you lien rights for the private construction project.
+
+- **Gather All Project Documentation.** Compile contracts, invoices, proof of delivery, work logs, and communication related to the unpaid labor, services, or materials provided to the property.
+
+- **Identify the Property and Owner Details.** Secure the accurate legal description of the improved real property and the full legal name(s) of the property owner(s) from public records or project documents.
+
+- **Identify Your Specific Filing Deadline.** Given the critical nature of deadlines highlighted, immediately research the precise statutory timeframe for filing your Notice of Lien, as strict adherence is paramount for validity.
+
+- **Obtain the Official Notice of Lien Form.** Locate and download the correct New York Notice of Lien form from the appropriate county clerk's office website or a reputable legal forms provider, ensuring it's current for 2026.
+
+- **Draft Your Lien Document Carefully.** Populate the Notice of Lien form with all gathered project, owner, and claim details, meticulously verifying accuracy as any error can invalidate the lien.
+
+- **Plan for Proper Filing and Service.** Prepare to file the completed Notice of Lien with the County Clerk in the county where the property is located, and arrange for proper service on the property owner as required by New York Lien Law.

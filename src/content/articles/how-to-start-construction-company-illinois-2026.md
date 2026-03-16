@@ -25,6 +25,8 @@ This isn't some fluffy, theoretical article. This is a no-BS, actionable bluepri
 
 Illinois, and specifically the Chicago metropolitan area, is a dynamic construction market. Don't let the headlines fool you; there's serious money being spent and serious projects getting built. In 2026, we're seeing continued momentum, driven by a mix of factors.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Growth Areas and Hot Sectors
 
 - **Commercial & Mixed-Use in Chicago:** The city's core continues to see high-rise development, particularly in areas like the West Loop, Fulton Market, and River North. Think office towers, luxury residential, and mixed-use complexes that blend retail, living, and workspaces. Developers are still bullish on Chicago as a global city.

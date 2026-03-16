@@ -17,6 +17,8 @@ sponsors:
 
 So, you're looking to build in South Carolina? Smart move. The Palmetto State is booming, and the construction market is red-hot. But before you can break ground on that next big project in Charleston or put up a new commercial building in Greenville, you need to be properly licensed. And in South Carolina, that means getting your General Contractor license through the SC Contractors' Licensing Board.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Listen up. This isn't some generic guide you found floating around online. This is the real deal, straight talk from someone who's been there, done that, and seen what works and what doesn't in South Carolina. We're going to walk you through every step, every requirement, and every pitfall to avoid, specifically for the South Carolina contractor looking to get licensed in 2026. No BS, just the facts you need to get your license and get to work.
 
 ### The South Carolina Edge: Growth and Opportunity

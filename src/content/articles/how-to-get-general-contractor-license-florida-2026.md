@@ -17,6 +17,8 @@ sponsors:
 
 So, you want to be a general contractor in Florida? Good. You've picked the right state if you're looking for work. Florida's booming. Population growth is relentless, and let's be honest, the hurricanes aren't stopping. That means a constant, massive demand for skilled, licensed contractors. But getting that license isn't just about showing up; it's a rigorous process designed to weed out the unqualified. This isn't some fly-by-night operation. You need to know the rules, follow the steps, and prove you're ready. This guide is your no-BS roadmap to getting your Florida General Contractor license in 2026, straight from someone who's been there.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The Florida Licensing Landscape: State Certified vs. County Registered
 
 First things first, let's clear up the biggest point of confusion in Florida contracting: the two types of licenses. You've got options, but only one gives you true statewide freedom.

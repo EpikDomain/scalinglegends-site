@@ -23,6 +23,8 @@ This comprehensive guide, brought to you by Scaling Legends, is designed to arm 
 
 In South Carolina, a mechanics lien, often referred to simply as a "construction lien," is a powerful legal tool that allows those who furnish labor, materials, or services for the improvement of real property to secure payment. If the property owner or general contractor fails to pay, the lien claimant can force the sale of the improved property to satisfy the debt.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The core of South Carolina's mechanics lien law is found in [South Carolina Code of Laws Title 29, Chapter 5, Section 10 (SC Code §29-5-10)](https://www.scstatehouse.gov/code/t29c005.php), which states that "Any person to whom a debt is due for labor performed or furnished or for materials furnished and actually used in the erection, alteration, or repair of any building or structure upon any real estate... shall have a lien upon such building or structure and upon the interest of the owner thereof in the lot of land upon which it is situated..."
 
 This statute is designed to prevent unjust enrichment of property owners who benefit from improvements without paying for them. However, the right to a lien is conditional upon strict compliance with statutory requirements regarding notice, timing, and content. Unlike some other states, South Carolina's lien laws are relatively unforgiving of procedural mistakes.

@@ -594,6 +594,8 @@ Starting as a highly specialized concrete contractor, for instance, allows you t
 
 While you might start a very lean, specialized operation with as little as $10,000-$20,000, a more realistic and well-prepared general contracting startup typically requires $30,000-$75,000. This covers licensing, insurance, essential tools, a work vehicle, and crucial working capital to sustain operations before consistent revenue flows in. Heavy equipment purchases can push this well over $100,000.
 
+<iframe src="https://www.youtube.com/embed/qNx-M-xqE6g" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### How long does it take to get a contractor license?
 
 The timeline varies significantly by state and your personal preparation. The process can take anywhere from 2-3 months to over a year. Key factors include the time it takes to gather verifiable experience documentation, the scheduling and passing of required exams (Business & Law, Trade), and the processing time of the state licensing board. It's crucial to start this process as early as possible.

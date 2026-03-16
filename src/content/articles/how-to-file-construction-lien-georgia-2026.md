@@ -17,6 +17,8 @@ sponsors:
 
 For construction professionals operating in Georgia's booming market, particularly within the bustling Atlanta metropolitan area, understanding the mechanics lien process isn't just good practice—it's essential for protecting your bottom line. Georgia's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), fueled by significant residential and commercial development, relies heavily on a clear understanding of payment security mechanisms. While the state's licensing structure, often tied to project value limits, aims to ensure qualified professionals, securing payment remains a paramount concern for general contractors, subcontractors, suppliers, and design professionals alike.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This comprehensive guide, specifically tailored to Georgia law, provides a direct, no-BS explanation of how to file a construction lien, adhering to the precise deadlines, forms, and procedures mandated by the state. We'll cut through the complexities, presenting the information as a Georgia construction attorney would, ensuring you have the actionable intelligence needed to navigate the system effectively in 2026.
 
 ## Understanding Georgia's Mechanics Lien Law (O.C.G.A. §44-14-360 et seq.)

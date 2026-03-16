@@ -422,6 +422,8 @@ Navigating the complexities of construction safety often raises specific questio
 
 A **company safety program** is an overarching document that outlines your organization's general safety policies, procedures, and responsibilities applicable to all projects. It's your foundational safety framework. A **site-specific safety plan (SSSP)**, on the other hand, is tailored to the unique hazards, conditions, and scope of a particular jobsite. It adapts the general company program to address specific site challenges like unique fall hazards, excavation depths, traffic patterns, or emergency response for that specific location. Both are essential for a comprehensive **safety program for contractors**.
 
+<iframe src="https://www.youtube.com/embed/WtpA_R6SKkM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 #### How often should we conduct toolbox talks?
 
 For optimal effectiveness and to maintain a strong **jobsite safety program**, toolbox talks should ideally be conducted daily or at least several times a week. Their informal, brief nature makes them perfect for reinforcing safety messages, discussing immediate job-specific hazards, and addressing any safety concerns before work begins. Consistency is key to embedding safety as a daily priority.

@@ -17,6 +17,8 @@ sponsors:
 
 Alright, listen up. You're looking to get your General Contractor license in Tennessee, and that's a smart move. The Volunteer State, especially places like Nashville, is booming, and there's serious money to be made if you play by the rules. But let's be clear: Tennessee isn't handing out licenses like candy. You need to know the ropes, follow the process to the letter, and prove you're serious. This isn't generic advice; this is your no-nonsense guide to getting licensed in Tennessee, specific for 2026. Let's get to work.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The Tennessee Licensing Landscape: Why It Matters
 
 First off, why bother with a license? Simple: it's the law, and it protects you, your clients, and your business. In Tennessee, if you're taking on any project – residential, commercial, or industrial – that totals **$25,000 or more**, you absolutely need a General Contractor license. That threshold covers pretty much anything beyond a small repair job, so don't even think about trying to fly under the radar. The Tennessee Board for Licensing Contractors (www.tn.gov/commerce/regboards/contractors.html) doesn't mess around, and penalties for unlicensed contracting are steep, including fines and potential legal action. Don't risk it.

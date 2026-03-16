@@ -75,3 +75,35 @@ In this turbulent environment, a robust [contractor tariff strategy](/article/co
 *   **Leverage Technology:** Tools like Smart
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Protect Your Margins Amidst Ongoing Tariff Volatility
+
+- **Immediately Review Active Bids.** Check any bids or proposals submitted in the last 48 hours for bulk commodities like steel and aluminum, as the anticipated tariff relief for these materials did not materialize. Adjust pricing and client expectations this week if assumptions were made based on initial news.
+
+- **Strengthen Escalation Clauses.** Implement robust escalation clauses in all new contracts, linking material costs directly to relevant BLS Producer Price Index (PPI) data for steel, aluminum, and copper to safeguard against price volatility. This should be a standard practice for all bids moving forward.
+
+- **Proactively Communicate Tariff Realities.** Engage with clients during bid presentations and contract negotiations to clearly explain the persistent impact of Section 232 tariffs on major material costs and the necessity of price adjustment mechanisms. Do this for every new project discussion.
+
+- **Monitor Key Material PPIs Weekly.** Designate a team member to regularly track the Producer Price Index for construction inputs (e.g., steel, aluminum, copper) on BLS.gov. Use these weekly insights to inform accurate bidding and strategic material procurement.
+
+- **Re-evaluate Specialty Component Costs.** For projects involving specialty equipment, HVAC components, or electrical fixtures, verify if supplier quotes reflect any modest tariff reductions. Request updated pricing from suppliers this week for these specific items to capture potential savings.
+
+- **Avoid Long-Term Tariff Holiday Assumptions.** Do not factor in significant, lasting tariff reductions for bulk commodities when planning or bidding on projects extending beyond August 2026, as Treasury expects rates to effectively return to pre-ruling levels. Base long-term bids on current high tariff rates.
+
+## Frequently Asked Questions
+
+### Did the Supreme Court ruling lower construction material costs?
+
+The Supreme Court's ruling in June 2026 had a very narrow impact, primarily striking down "reciprocal tariffs" on some specialty equipment and HVAC components. Crucially, the 50% tariffs on steel and aluminum, 10% on lumber, and 50% on copper remain fully in effect. Treasury expects any temporary dips to revert to pre-ruling levels by August 2026.
+
+### Are steel and aluminum tariffs still in effect for contractors?
+
+Yes, absolutely. The Supreme Court ruling did not affect the significant Section 232 tariffs. Contractors still face 50% tariffs on steel, 50% on aluminum, 10% on lumber, and 50% on copper. These major tariffs continue to impact bulk commodity costs, despite the brief confusion following the ruling.
+
+### Will contractors receive tariff refunds from prior purchases?
+
+No, contractors should not expect any refund checks for materials purchased under previous tariff periods. The Associated General Contractors (AGC) confirmed this ruling is forward-looking and does not provide retroactive relief. Therefore, past tariff costs incurred remain as is.
+
+### How can construction companies protect project margins from volatile material prices?
+
+Implementing robust escalation clauses is critical. These clauses should be tied to specific BLS Producer Price Index (PPI) data for materials like aluminum (+33% YoY) and steel (+20.7% YoY). This strategy ensures adjustments for both rising and falling costs, safeguarding your bids and profitability in chaotic market conditions.

@@ -17,6 +17,8 @@ sponsors:
 
 So, you're looking to run your own show in Washington's construction scene. Good move. The Evergreen State offers immense opportunity, but you need to play by the rules. This isn't about getting a "license" in the traditional sense like other states; Washington operates on a contractor *registration* system. Don't confuse the two, or you'll find yourself on the wrong side of the Washington Department of Labor & Industries (L&I).
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This guide cuts through the noise. We're talking Washington-specific requirements, agencies, and market realities for 2026. No generic fluff. Just the facts you need to get your contractor registration squared away and start building legally in Washington State.
 
 ### Washington's Contractor Registration Landscape: Why It Matters

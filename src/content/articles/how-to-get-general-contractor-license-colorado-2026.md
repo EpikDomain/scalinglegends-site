@@ -17,6 +17,8 @@ sponsors:
 
 So, you're looking to get licensed as a general contractor in Colorado. Smart move. The Centennial State, especially the Front Range, is absolutely booming. But here's the first thing you need to understand, and it's critical: **there is no statewide general contractor license in Colorado.**
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Let's be clear upfront: this isn't like other states where you go to one central agency, take one exam, and you're good to go across the entire state. In Colorado, the responsibility for licensing general contractors falls squarely on the individual cities and counties. That means if you plan to build in Denver, you need a Denver license. If you're building in Colorado Springs, you need a Colorado Springs license. And yes, they're different.
 
 This guide from Scaling Legends is going to cut through the noise and give you the direct, no-BS rundown on how to navigate Colorado's unique licensing landscape. We'll cover everything from local requirements to the high-altitude challenges that make building here different. Consider this your mentor session from someone who's already been through it.

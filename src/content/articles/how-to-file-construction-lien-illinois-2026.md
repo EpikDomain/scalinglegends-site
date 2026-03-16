@@ -25,6 +25,8 @@ Whether you're [a general contractor](/article/how-to-get-general-contractor-lic
 
 The Illinois Mechanics Lien Act (770 ILCS 60) is the cornerstone of payment protection for those who improve real property in the state. Enacted to prevent unjust enrichment, the Act allows contractors, subcontractors, and suppliers to place a lien on the improved property itself if they are not paid for their work, essentially giving them a security interest in the property. This security interest can then be foreclosed upon, leading to the sale of the property to satisfy the debt.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The Act is highly technical and unforgiving of errors. Strict compliance with all statutory requirements – from preliminary notices to filing deadlines and content of the lien claim – is absolutely mandatory. Any deviation can result in the forfeiture of your lien rights, leaving you without this powerful collection tool.
 
 It's crucial to understand that a mechanics lien is a powerful remedy, often forcing property owners to resolve payment disputes to avoid the cloud on their title and potential foreclosure. However, its power is directly tied to the precision of its execution.

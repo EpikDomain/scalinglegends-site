@@ -23,6 +23,8 @@ This isn't about chasing every storm or undercutting every bid. This is about bu
 
 Catastrophic weather events are no longer anomalies; they are increasingly common. The frequency and severity of hailstorms, high winds, and hurricanes continue to climb, driving a consistent, albeit unpredictable, demand for roofing services. Recent data from the National Oceanic and Atmospheric Administration (NOAA) shows a clear upward trend in billion-dollar weather disasters, with 2023 recording 28 such events – a new record. This translates directly to increased insurance claims and a robust market for storm restoration specialists.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 For roofing companies, this means being prepared to mobilize, understand insurance processes inside out, and manage rapid spikes in demand. It also means recognizing that while storm work is lucrative, it’s not the sole pillar of sustainable growth.
 
 ### The Re-Roofing Cycle: A Foundation of Demand

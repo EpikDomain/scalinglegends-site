@@ -17,6 +17,8 @@ sponsors:
 
 In Florida's dynamic construction landscape, especially with the persistent demand driven by hurricane rebuilds and rapid development, securing payment for your labor and materials is paramount. While opportunity abounds, so does the risk of non-payment. This is precisely why Florida's construction lien law exists: to provide a powerful legal remedy for contractors, subcontractors, suppliers, and other eligible parties to secure payment for their contributions to a construction project.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This guide, crafted for construction professionals operating under Florida's unique legal framework, including both state-certified contractors (who can work statewide) and county-registered contractors (who are limited to specific counties), cuts through the noise. We will provide a direct, no-BS breakdown of how to navigate Florida's construction lien process, ensuring you understand the critical deadlines, required forms, and precise steps to protect your financial interests.
 
 Understanding Florida's lien law, primarily governed by [Florida Statutes Chapter 713](http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0713/0713.html), is not optional; it is a fundamental requirement for operating successfully in the state. Missed deadlines or procedural errors can permanently extinguish your lien rights, leaving you without recourse. Let's get started.

@@ -23,6 +23,8 @@ This guide cuts through the noise. We're going to lay out exactly what drives bu
 
 If you're thinking about selling next quarter, you're already behind. A successful sale, one that maximizes your return, is not an impulse decision. It's a meticulously planned operation that often takes years to execute properly. This isn't just about financials; it's about transforming your business into an attractive, de-risked asset.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The 3-5 Year Horizon: Why Time Is Your Ally
 
 Why so long? Because significant value drivers aren't built overnight. Cleaning up your financials, diversifying your customer base, building a robust management team, implementing scalable systems, and reducing owner dependence are all multi-year projects. Rushing this process inevitably leads to leaving money on the table, or worse, a deal falling apart during due diligence.

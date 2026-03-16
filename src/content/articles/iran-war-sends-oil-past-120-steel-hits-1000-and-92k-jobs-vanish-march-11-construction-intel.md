@@ -130,7 +130,7 @@ Technology plays a crucial role in this. Platforms like Smart Business Automator
 
 - **Scenario Planning:** Regularly conduct scenario planning exercises to anticipate potential disruptions and develop contingency plans for different outcomes (e.g., further oil price spikes, new trade wars, sustained labor shortages).
 
-- **Data-Driven Decision Making:** Implement systems for collecting and analyzing internal project data (costs, schedules, labor productivity) alongside external market data to identify trends and inform strategic choices.
+- **[Data-Driven Decision Making](/article/the-moneyball-contractor-how-data-driven-decision-making-is-replacing-gut-instinct-in-construction):** Implement systems for collecting and analyzing internal project data (costs, schedules, labor productivity) alongside external market data to identify trends and inform strategic choices.
 
 - **Technology Adoption:** Invest in project management, ERP, and business intelligence software that can provide real-time insights and automate reporting, reducing manual effort and improving accuracy.
 

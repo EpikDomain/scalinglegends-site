@@ -25,6 +25,8 @@ We'll cut through the noise, reveal why most schedules are dead on arrival, and 
 
 Let's be brutally honest: most construction schedules are aspirational documents, not operational blueprints. They're often built in a vacuum, driven by optimism, and destined to collapse under the weight of real-world variables. The industry average for project completion on time and within budget is abysmal. A [KPMG study](https://assets.kpmg/content/dam/kpmg/pdf/2016/06/global-construction-project-owner-survey-2016.pdf) revealed that only 25% of projects came within 10% of their original deadlines. Another [McKinsey report](https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/the-next-normal-in-construction-how-disruptions-are-reshaping-the-world-s-largest-ecosystem) highlighted that large projects typically take 20% longer to finish than scheduled and are up to 80% over budget.
 
+<iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Why such a high failure rate? It boils down to several critical, often overlooked, factors:
 
 - **Unrealistic Durations and Dependencies:** Schedules are frequently built on "best-case scenario" assumptions, not historical data or realistic productivity rates. Activities are compressed, and critical dependencies between trades are ignored or oversimplified.

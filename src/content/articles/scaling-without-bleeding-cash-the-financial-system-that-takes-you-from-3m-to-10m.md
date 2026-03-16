@@ -80,3 +80,37 @@ As your revenue grows, so does the complexity of your financial operations. The 
 *   **Controller (typically $5M-$15M):** Oversees the accounting functions, manages financial reporting, ensures compliance, and often supervises book
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
+## How to Scale Your Construction Business Without Bleeding Cash
+
+- **Set Up Profit First Accounts.** Immediately open three new bank accounts: one for Operating Expenses, one for Tax Reserves, and one for Profit. Start allocating incoming revenue to these accounts weekly based on a predetermined percentage to ensure financial discipline.
+
+- **Launch Weekly WIP Reporting.** Design and implement a basic Work-in-Progress (WIP) report template to track project billing versus actual costs. Commit to generating and reviewing this report every Friday morning to catch overbilling or underbilling issues proactively.
+
+- **Initiate a 13-Week Cash Flow Forecast.** Download a rolling 13-week cash flow forecast template (available online or from your accountant). Begin populating it with known receivables, payables, and projected project milestones to gain immediate visibility into future liquidity.
+
+- **Assess Financial System Adequacy.** Dedicate a few hours this week to review your current financial tracking methods (e.g., spreadsheets, basic accounting software). Identify specific areas where job costing accuracy or real-time data visibility is lacking for your larger projects.
+
+- **Calculate & Start Liquid Buffer.** Determine 10% of your current annual revenue as your target liquid buffer for working capital. Immediately transfer a foundational amount, even if small, to a dedicated savings account to begin building this essential financial cushion.
+
+- **Evaluate Financial Oversight Needs.** Schedule a 30-minute meeting with your current bookkeeper or accountant to discuss your growth targets and their capacity. Identify specific areas where more strategic financial oversight, such as a controller or fractional CFO, could support your scaling ambitions.
+
+## Frequently Asked Questions
+
+### Why do construction companies struggle to scale from $3M to $10M?
+
+Many contractors hit the "$3M wall" because their existing financial systems, sufficient at lower revenues, buckle under increased job complexity. 78% of contractors failing in this bracket cite cash flow issues, not bad work. Without robust systems, scaling becomes accumulating risk, turning profitable projects into cash traps due to invisible drains that compound with scale.
+
+### What financial systems are critical for contractors scaling past $3M?
+
+Implementing a "Profit First" approach to segment cash, mastering weekly Work-in-Progress (WIP) reporting, and maintaining a 10% liquid buffer are crucial. A rolling 13-week cash flow forecast provides vital visibility. These dedicated systems prevent a 40% drop in job costing accuracy and ensure proactive financial management as project complexity increases.
+
+### When should a construction company invest in financial expertise like a controller or CFO?
+
+As you scale from $3M to $10M, your financial oversight needs evolve significantly. It's time to transition from a bookkeeper to a controller, and eventually a CFO, when job complexity increases. This investment ensures your financial management matches your scaling ambitions, providing the expertise to navigate cash flow challenges and drive strategic growth effectively.
+
+### How does clean financial data impact a construction company's ability to grow?
+
+Clean, accurate financial statements directly impact your bonding capacity, which is essential for bidding on larger, more profitable projects. Without precise job costing, which can drop 40% without dedicated systems, and clear real-time data, lenders and insurers see increased risk. High-quality financial data is foundational for sustained growth and securing future work.

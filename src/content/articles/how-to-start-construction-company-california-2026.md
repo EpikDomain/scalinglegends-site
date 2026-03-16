@@ -17,6 +17,8 @@ sponsors:
 
 So, you're looking to start a construction company in California. Good. That tells me you're not afraid of a challenge, and you've got your sights set on one of the most dynamic, demanding, and ultimately, rewarding construction markets in the world. As a successful California contractor, I'm here to tell you straight: this isn't for the faint of heart. California is the most regulated state in the union, and that applies double to construction. But with high barriers come high rewards. If you do it right, if you understand the rules, and if you execute with precision, the opportunities here are immense.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This isn't some generic guide with "California" swapped in. This is the real deal, built on the specifics of operating in the Golden State in 2026. We're talking Contractors State License Board (CSLB) enforcement, Sacramento's Secretary of State, prevailing wage, and a market that demands excellence. Let's get to work.
 
 ### The Golden State's Construction Landscape in 2026

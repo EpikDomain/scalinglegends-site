@@ -82,3 +82,37 @@ To break through these plateaus, you need to invest heavily in both people and [
 Practical Tip: Create an organizational chart for your desired $5M and $10M structure. Identify the roles you need, even if you can't fill them all today. This visual roadmap helps clarify hiring
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
+## How to Scale Your Construction Business from $1M to $10M
+
+- **Initiate Operations Manager Recruitment.** Dedicate 3-4 hours this week to drafting a comprehensive job description for your first operations manager and post it on industry job boards or LinkedIn.
+
+- **Schedule a Bonding Capacity Review.** Book a meeting with your CPA or financial advisor within the next five business days to analyze your balance sheet and strategize improvements for higher bonding limits.
+
+- **Conduct a Decisive Performance Check.** Immediately evaluate any underperforming team members; commit to a 48-hour window to either provide a clear Performance Improvement Plan (PIP) or begin termination procedures.
+
+- **Pinpoint Your Profitable Niche.** Allocate 2-3 hours this week to review your last 10 projects, identifying common characteristics of your most successful and highest-margin work to define your specialization.
+
+- **Craft a Client Vetting System.** Develop a concise 5-point client pre-qualification checklist by Friday, ensuring new leads meet criteria for budget, project scope, and payment reliability before engagement.
+
+- **Map Out Your Delegation Strategy.** For 30 minutes each day, list every task you perform and identify at least three tasks by Friday that you can immediately delegate to existing staff or train them to handle.
+
+## Frequently Asked Questions
+
+### What is the most important first hire for a construction company scaling past $1M?
+
+The most important first non-field hire when scaling past $1M is an operations manager, not another project manager. This critical hire frees the owner from day-to-day logistics, scheduling, and subcontractor coordination, allowing them to focus on strategic growth, sales, and business development. One contractor found it shifted their time from 80% on job sites to 80% on business development.
+
+### How much can a bad hire cost a construction company?
+
+Keeping a bad hire for just six months can cost your construction company upwards of $100,000. This significant expense comes from lost productivity, decreased team morale, and direct financial outlays. Acting decisively to "fire fast" is crucial to mitigate these substantial costs and protect your company's financial health and growth trajectory.
+
+### What revenue plateaus should a scaling construction business expect?
+
+Scaling construction businesses should anticipate revenue plateaus or bottlenecks at approximately $1M, $3M, $7M, and $15M. Each threshold demands specific structural changes to overcome. These often involve implementing new systems, establishing middle management, or developing a robust leadership team to support continued growth and prevent stagnation.
+
+### Why is delegating tasks crucial for construction business owners to grow?
+
+Delegating tasks is crucial because the owner's inability to let go is the primary reason construction companies get stuck, particularly between $3M and $5M in revenue. The transition from "doer" to "manager" is essential. By offloading operational tasks, owners free themselves to focus on strategic growth, sales, and developing

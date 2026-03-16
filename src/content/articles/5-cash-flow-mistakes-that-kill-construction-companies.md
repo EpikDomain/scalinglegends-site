@@ -92,3 +92,41 @@ A 13-week rolling cash flow forecast projects all expected cash inflows (client 
 **Identify Gaps:** It immediately highlights weeks where
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
+## How to Protect Your Construction Company's Cash Flow
+
+- **Front-Load Your Schedule of Values.** For all active projects, review your Schedule of Values (SOV) and immediately adjust the weighting to aggressively bill for materials and mobilization in the early stages to improve immediate cash flow.
+
+- **Implement a 13-Week Cash Flow Forecast.** Dedicate 2-3 hours this week to set up a simple spreadsheet for a rolling 13-week cash flow forecast, updating it weekly to gain a 30-60 day warning system for potential shortfalls.
+
+- **Set Up Separate Bank Accounts.** Contact your bank today to begin the process of setting up distinct bank accounts for Operating Expenses, Tax Reserves, and Profit, clearly delineating your capital.
+
+- **Address Underbilling on Active Jobs.** Review your current project progress and billing against actual costs and work completed; adjust any immediate invoices this week to accurately reflect work and avoid underbilling.
+
+- **Audit Retainage in Contracts.** Pull out your active project contracts and specifically identify retainage percentages and release terms, then update your short-term cash flow projections to accurately account for these withheld funds.
+
+- **Initiate Proactive Financing Discussions.** Schedule an initial meeting with your current bank or a new financial institution this week to discuss establishing or increasing a line of credit or bonding capacity, well before a crisis hits.
+
+## Frequently Asked Questions
+
+### Why is cash flow management crucial for construction companies?
+
+Cash flow is paramount because 82% of small business failures are attributed to cash flow problems, not operational incompetence. In construction, the unique timing gap between earning and receiving money often leaves profitable companies bankrupt on paper, draining operating capital. Mastering this flow is essential for scaling from $1M to $50M.
+
+### How can construction companies improve early-stage project cash flow?
+
+A single impactful lever is to front-load your Schedule of Values. Aggressively weighting your early billing for materials and mobilization significantly improves early-stage cash flow. This strategy reduces your reliance on internal capital, helping to maintain liquidity and avoid shortfalls during critical project phases.
+
+### What is the biggest financial mistake construction companies make with profit?
+
+The #1 cognitive error is treating recorded profit as available cash. To avoid this, establish separate bank accounts for operating expenses, tax reserves, and profit. This ensures capital is properly allocated and protected, preventing the depletion of funds needed for ongoing operations, even when projects appear profitable on paper.
+
+### How far in advance should a construction company secure financing?
+
+Construction companies should secure lines of credit and bonding capacity proactively, 6-12 months before they are actually needed. Waiting for a crisis moment means facing higher interest rates, stricter terms, or even outright denial. Proactive financing ensures better terms and provides a crucial safety net for operating capital.
+
+### How does underbilling impact a construction company's working capital?
+
+Consistently underbilling, often to avoid client conflict or prematurely accelerate projects, compounds into a severe cash crisis. This practice essentially forces you to finance a portion of your client's project from your own pocket. Across multiple jobs, it rapidly erodes working capital, leading to insufficient funds for payroll, materials, or equipment, even if projects are technically profitable.

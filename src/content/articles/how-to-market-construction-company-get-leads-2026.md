@@ -17,6 +17,8 @@ sponsors:
 
 You’re a construction contractor scaling from $1M to $50M+. You build things. You manage complex projects, teams, and budgets. But when it comes to marketing, many contractors hit a wall. You’ve probably tried a few things – a website that looks okay, maybe some social media posts, a few ads here and there. And if you’re like most, you’ve seen mediocre results, wasted money, and wondered if marketing is just a black hole for your hard-earned cash.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This article isn't about quick fixes or marketing fads. This is a direct, no-BS guide for serious [construction business](/article/how-to-scale-a-construction-business-without-losing-control) owners ready to implement a robust, results-driven marketing strategy [that actually works](/article/ai-goes-agentic-the-construction-tech-that-actually-works-in-2026) in 2026. We’ll cut through the noise, show you what to focus on, and arm you with the actionable tactics to consistently get more construction leads and scale your business.
 
 ## Why Most Contractor Marketing Fails (And What Works)

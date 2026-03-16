@@ -343,6 +343,8 @@ For small businesses, these costs can be prohibitive. The SBA (Small Business Ad
 
 There is no functional difference. The terms "mechanics lien" and "construction lien" are used interchangeably across different states to refer to the same legal concept: a security interest in real property granted to those who have supplied labor, materials, or services for its improvement and have not been paid.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Can I file a lien if I don't have a direct contract with the property owner?
 
 Yes, absolutely. In most states, subcontractors, sub-subcontractors, and material suppliers (parties without a direct contract with the owner) have construction lien rights. However, these parties almost always have stricter preliminary notice requirements and shorter deadlines than general contractors, making diligent tracking of these requirements crucial.

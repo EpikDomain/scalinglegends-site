@@ -21,6 +21,8 @@ We're talking about real Tennessee agencies, real rules, and real money. Forget 
 
 Tennessee's construction market isn't just growing; in many areas, it's exploding. The state's business-friendly environment, favorable tax structure (no state income tax for individuals!), and strategic location continue to attract major corporations and a steady stream of new residents. This translates directly into a robust and diverse construction pipeline.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Growth Areas and Hot Sectors
 
 - **Nashville Metropolitan Area:** Let's be blunt: Nashville is a beast. It's one of the fastest-growing markets in the entire country. Commercial construction, particularly office towers, mixed-use developments, hospitality (hotels, entertainment venues), and healthcare facilities, remains incredibly strong. Residential construction, both multi-family and single-family, struggles to keep up with demand. Infrastructure projects, driven by the city's rapid expansion, are also a constant.

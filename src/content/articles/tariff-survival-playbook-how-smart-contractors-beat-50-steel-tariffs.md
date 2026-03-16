@@ -71,3 +71,35 @@ Effective procurement in this climate demands agility and proactive engagement. 
 The broader economic impact of these tariffs is significant. The projection of 450,000 fewer homes through 2
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
+## How to Beat 50% Steel Tariffs This Week
+
+- **Implement Robust Escalation Clauses.** Draft or update your contract templates this week to include escalation clauses tied to objective, third-party indices like the BLS Producer Price Index (PPI) for construction materials, protecting your margins from immediate cost hikes.
+
+- **Prioritize Time & Materials (T&M) Contracts.** Shift new project negotiations towards Time & Materials (T&M) agreements, especially for projects with high material cost volatility, to mitigate fixed-price risks and adapt to rapidly changing supplier quotes.
+
+- **Establish Agile Supplier Networks.** Contact your key suppliers this week to discuss shortening quote validity periods (e.g., to 1-2 weeks maximum) and explore alternative material sources to build a more resilient and responsive procurement pipeline.
+
+- **Develop Dynamic Bidding Strategies.** Incorporate scenario planning into your bidding process, modeling potential material cost increases (e.g., 5%, 10%, 15%) to present flexible pricing options and contingencies to clients.
+
+- **Leverage Real-time Market Intelligence.** Subscribe to industry-specific material cost reports or utilize platforms that provide real-time data on steel and aluminum prices to inform pricing, contract negotiations, and procurement decisions immediately.
+
+## Frequently Asked Questions
+
+### How much do steel tariffs add to the cost of a new home?
+
+The current 50% tariffs on imported steel and aluminum are significantly increasing construction costs. Data from the National Association of Home Builders (NAHB) indicates these tariffs add an average of $10,900 to the cost of every new home built in America. This tangible burden is either passed to consumers or absorbed by contractors, directly eroding profit margins.
+
+### What percentage of contractors are affected by steel tariffs?
+
+A significant portion of general contractors are experiencing project disruptions due to the 50% steel tariffs. Data reveals that 43% of general contractors have already reported project cancellations or significant scaling back. Additionally, 36% of homebuilders are cutting prices to survive, creating a challenging market and compressing margins across the industry.
+
+### How can contractors protect against rising material costs from tariffs?
+
+Contractors can protect against tariff-driven material cost increases by implementing robust escalation clauses tied to objective, third-party indices like the BLS Producer Price Index (PPI). Shifting to agile Time and Materials (T&M) contracts is also surging as a safer alternative to fixed-price agreements. Proactive procurement and leveraging real-time market intelligence are crucial for dynamic bidding and stronger supplier relationships.
+
+### Are fixed-price contracts still viable for contractors with high steel tariffs?
+
+With 50% steel tariffs and extreme market volatility, fixed-price contracts have become increasingly risky for contractors. Suppliers are shortening quote validity from months to weeks, sometimes days, making accurate long-term pricing difficult. Time and Materials (T&M) contracts are surging as a safer alternative, allowing contractors to adapt to fluctuating input costs and protect project margins.

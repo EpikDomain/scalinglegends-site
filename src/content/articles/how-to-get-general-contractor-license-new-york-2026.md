@@ -17,6 +17,8 @@ sponsors:
 
 So, you want to be a general contractor in New York, huh? Good. You're looking at one of the most dynamic, demanding, and ultimately rewarding construction markets in the world. But let's get one thing straight right from the jump: New York ain't like other states. There's no single, statewide "General Contractor License" here. Don't get it twisted. If you're looking for that one magic card that lets you build anywhere from Buffalo to Montauk, you're out of luck. New York plays by its own rules, and understanding them is your first, most critical step.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This isn't some generic guide. This is the real deal, specifically tailored for anyone looking to navigate the unique licensing landscape of the Empire State in 2026. We're talking New York City, we're talking Long Island, we're talking upstate municipalities. Pay attention, because skipping a step or misunderstanding a nuance here can cost you time, money, and your reputation.
 
 ### The New York Licensing Landscape: It's Complicated, But Not Impossible

@@ -17,6 +17,8 @@ sponsors:
 
 The construction management software market is on a trajectory that should make every contractor pay attention. Valued at **$10.64 billion in 2025**, it is projected to reach **$17.72 billion by 2031**, according to Mordor Intelligence. Cloud solutions already hold **62.35% of the market share**, growing at a 12.08% CAGR. And yet, 70% of contractors still have no formal technology roadmap. That disconnect is costing real money, real margins, and real competitive advantage.
 
+<iframe src="https://www.youtube.com/embed/S7kWq9mbvws" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This episode of Scaling Legends breaks down the entire landscape: real pricing for Procore, Buildertrend, Fieldwire, and more, the ROI data that proves optimized adopters see 4-point profit margin increases, and how AI agents are already changing payment management and scheduling. If you are running a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) and still stitching together spreadsheets and text messages, this is the buyer's guide you need.
 
 ## The Market Reality: $17 Billion and Climbing

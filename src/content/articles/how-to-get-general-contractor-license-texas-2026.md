@@ -17,6 +17,8 @@ sponsors:
 
 Alright, listen up. You're looking to get into the contracting game in Texas, and you've heard some talk about licenses. Let me cut through the noise for you. This isn't some wishy-washy guide. This is the straight dope, Texas-style, for anyone serious about building in the Lone Star State in 2026. We’re talking specifics, no fluff, just what you need to know to get your boots on the ground and get to work.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The biggest myth we need to bust right out of the gate is the idea of a "state general contractor license" in Texas. It doesn't exist. That's right. The State of Texas doesn't issue a statewide general contractor license. This is a critical distinction that trips up a lot of folks coming from other states. But don't let that fool you into thinking it's a free-for-all. Texas might be business-friendly, but local rules vary wildly from city to city, and ignoring them will shut you down faster than a bad weather front.
 
 So, how do you navigate this unique landscape? You read this guide. We're going to break down everything you need to know to operate legally and successfully as a general contractor in Texas, from understanding the local requirements to setting up your business right, securing the proper insurance, and tapping into the booming Texas [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign).
@@ -666,3 +668,21 @@ For a general contractor in Texas in 2026, the opportunities are vast and varied
 **A:** The U.S. Small Business Administration (SBA) has district offices and resource partners across Texas, including SCORE mentors, Small Business Development Centers (SBDCs), and Women's Business Centers. These resources offer free or low-cost business counseling, training, and help with accessing funding and government contracting opportunities. Additionally, consult with a Texas-based attorney, accountant, and insurance broker specializing in construction.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## Frequently Asked Questions
+
+### Is a general contractor license required in Texas?
+
+No, Texas does not issue a statewide general contractor license. This is a crucial distinction from many other states. However, many individual cities and counties within Texas have their own specific registration, permitting, or licensing requirements that general contractors must fulfill to operate legally in those jurisdictions.
+
+### What do I need to do to operate as a general contractor in Texas?
+
+To operate legally in Texas, you must conduct thorough due diligence to understand and comply with local city and county-specific registration and permitting requirements. This also involves properly setting up your business, securing appropriate general liability and workers' compensation insurance, and ensuring any specialized trade work is performed by state-licensed professionals.
+
+### Do specialized trade contractors like plumbers and electricians need a state license in Texas?
+
+Yes, unlike general contractors, specialized trades such as electricians, plumbers, and HVAC technicians *do* require state-level licenses in Texas. These are issued and regulated by the Texas Department of Licensing and Regulation (TDLR) to ensure public safety and professional standards for these specific fields.
+
+### What are the risks of not having the proper general contractor registrations in Texas?
+
+Operating without the necessary local city or county registrations and permits in Texas can lead to significant risks. You could face substantial fines, immediate project shutdowns, and potential legal liabilities. It's crucial for general contractors to conduct due diligence and comply with all local regulations to avoid these consequences and ensure lawful operation.

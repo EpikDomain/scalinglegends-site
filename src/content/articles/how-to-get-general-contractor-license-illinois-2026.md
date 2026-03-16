@@ -477,6 +477,8 @@ Since Illinois does not issue a statewide General Contractor license, your journ
 **Understand the Illinois Licensing Landscape: No State GC License.**
 Internalize this fundamental truth: the State of Illinois does not issue a General Contractor license. Your licensing efforts will be directed at the specific cities and counties where you intend to work, with Chicago being the primary focus for most serious GCs.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 **Identify Your Target Municipality: Chicago is Key.**
 Determine your primary area of operation. If you plan to work in the City of Chicago, prepare for its rigorous licensing process. If you operate exclusively in other municipalities, research their specific, often simpler, requirements.
 

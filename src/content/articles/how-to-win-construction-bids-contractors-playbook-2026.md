@@ -17,6 +17,8 @@ sponsors:
 
 The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is a relentless arena. Every project is a battle, and every bid is a strategic maneuver. For contractors scaling from $1M to $50M+, the stakes are higher than ever. You're past the startup hustle but not yet an untouchable titan. You're in the crucial growth phase where winning more construction bids isn't just about survival; it's about scaling, market dominance, and securing your legacy.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Forget the outdated notion that the lowest price always wins. That's a race to the bottom, a quick path to burnout and thin margins. In 2026, winning isn't about being cheap; it's about being smart, strategic, and relentlessly value-driven. This isn't a guide filled with generic platitudes. This is your no-BS playbook, forged from the trenches, designed to arm you with the strategies, tools, and mindset required to elevate your **win rate construction** and dominate your market.
 
 The average construction bid win rate hovers around 10-15%. That's a brutal reality: you're losing 85-90% of the bids you submit. For Scaling Legends contractors, that's unacceptable. Our goal for you? A consistent 20-30% win rate, achieved not by bidding on everything, but by bidding smarter, better, and with an unshakeable understanding of your value proposition. Are you ready to stop leaving money on the table and start building your empire?

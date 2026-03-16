@@ -23,6 +23,8 @@ At Scaling Legends, we understand that true growth isn't just about revenue; it'
 
 Every landscaping titan started somewhere. Understanding these growth stages isn't just about celebrating milestones; it's about anticipating challenges, structuring your business for the next leap, and avoiding the traps that can derail even the most ambitious entrepreneurs. This is how to grow a small landscaping business into a major player.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### $100K: The Owner-Operator Grind
 
 This is where most start. You're the CEO, sales team, crew chief, and bookkeeper. Your hands are dirty, literally and figuratively. At this stage, growth means maximizing your personal efficiency. Every minute counts. Your focus should be on delivering exceptional service, building a small but loyal client base, and understanding your costs down to the penny. You need to prove the service, prove the demand, and prove you can get paid. Systems are minimal, often residing in your head, but a basic understanding of your numbers is paramount. This is the proving ground for "how to grow my landscaping business" from the ground up.

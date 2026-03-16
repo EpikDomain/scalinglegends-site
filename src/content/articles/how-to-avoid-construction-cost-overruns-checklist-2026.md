@@ -23,6 +23,8 @@ This isn't a theoretical exercise. This is a direct, no-BS guide for project man
 
 Let's cut straight to the chase: construction cost overruns are an epidemic, not an anomaly. The data is damning. Studies consistently show that a staggering **85% of [construction projects](/article/surviving-the-messy-middle-of-construction-growth) exceed their original budget**. And it’s not by a small margin; the average project sees a budget overrun of approximately **28%**.
 
+<iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This isn't just a number on a spreadsheet; it translates into lost profits, strained client relationships, reputational damage, and, for scaling contractors, a direct threat to your ability to reinvest and grow. When you're aiming for $50M+, these percentages represent millions of dollars evaporating from your potential earnings. Ignoring this reality is a luxury you cannot afford.
 
 ## Root Causes of Construction Cost Overruns
@@ -493,3 +495,17 @@ The path to scaling your [construction business](/article/how-to-scale-a-constru
 For more strategies to scale [your construction business](/article/how-to-systematize-construction-business-sops-software-2026), visit [scalinglegends.com](https://scalinglegends.com).
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Proactively Control Construction Costs This Week
+
+- **Define & Lock Scope Clearly.** Conduct a 1-hour "Scope Lock" meeting with the client and key stakeholders for every new project this week, documenting all deliverables and exclusions in detail to prevent initial ambiguity.
+
+- **Implement a Strict Change Order Protocol.** For any current project, immediately implement a mandatory digital change order form (e.g., using Procore, e-Builder, or a simple Google Form) that requires client sign-off and re-estimation before any additional work begins.
+
+- **Audit Your Estimating Data.** Dedicate 4 hours this week to review the last three completed projects, extracting actual material and labor costs to update your internal estimating database for more accurate future bids.
+
+- **Account for All Indirect Costs.** Use a comprehensive checklist to ensure every new estimate includes a line item for all overheads, project management fees, permits, and contingency (e.g., 5-10% buffer) to avoid hidden financial drains.
+
+- **Formalize Design Review Cycles.** Schedule a mandatory weekly 30-minute design review meeting with architects, engineers, and the client for all projects in the design phase to catch and address potential changes early, before construction starts.
+
+- **Conduct a Risk Assessment Workshop.** Spend 2 hours with your project team to brainstorm potential project risks (site conditions, material availability, labor shortages) for upcoming projects, assigning a probability and impact score to each, and developing mitigation strategies.

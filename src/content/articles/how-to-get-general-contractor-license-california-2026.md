@@ -17,6 +17,8 @@ sponsors:
 
 So, you're looking to become a licensed general contractor in California. Good. That tells me you're serious about your craft and serious about doing business the right way. Let's be clear upfront: California isn't like other states. This isn't a walk in the park. The Golden State has the most stringent licensing requirements in the nation, and the Contractors State License Board (CSLB) actively enforces them. But if you've got the grit, the experience, and you're willing to put in the work, earning your CSLB license is one of the smartest moves you'll ever make. This guide will cut through the BS and give you the direct, California-specific roadmap you need to get licensed in 2026.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The California Licensing Landscape: Why It Matters to You
 
 First, understand this: if you want to perform any construction work in California that totals $500 or more (labor and materials combined), you **must** be a licensed contractor. This isn't a suggestion; it's California Business and Professions Code. The CSLB (www.cslb.ca.gov) is the agency that issues, monitors, and enforces these licenses. They do not mess around. Unlicensed contracting is a serious offense, carrying hefty fines, civil penalties, and even jail time. They run sting operations, and they pursue complaints vigorously.

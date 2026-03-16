@@ -25,6 +25,8 @@ This comprehensive guide from Scaling Legends cuts through the complexity, provi
 
 Arizona's mechanics lien law, codified primarily in Arizona Revised Statutes (A.R.S.) Title 33, Chapter 7, Article 6 (§33-981 et seq.), provides a powerful remedy for those who furnish labor, materials, or services for the improvement of real property but are not paid for their work. A mechanics lien, often referred to as a construction lien, is a security interest in the title to property for the benefit of those who have supplied labor or materials that improve the property.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The fundamental principle behind a mechanics lien is that those who enhance the value of real property through their work or materials should have a claim against that property if they are not compensated. In Arizona, this right is enshrined in statute and strictly interpreted by the courts. Failing to adhere to the precise statutory requirements can invalidate your lien, making a deep understanding of these rules non-negotiable.
 
 It’s important to note that Arizona law is highly specific. Unlike some states, Arizona does not generally tolerate significant deviations from its lien requirements. This means attention to detail in every step—from preliminary notice to the final recording and enforcement—is crucial for a valid and enforceable lien.

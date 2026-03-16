@@ -19,6 +19,8 @@ Navigating how to scale a [construction company from](/article/how-to-start-cons
 
 Scaling a construction company isn't merely about taking on more projects; it's about building a robust infrastructure that can support increased volume without compromising quality or profitability. It starts with a clear, well-defined strategy.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Defining Your Niche and Market Position
 
 Many [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) struggle to scale because they try to be everything to everyone. In 2026, specialization is key. Identifying a specific niche allows you to become an expert, command higher margins, and attract targeted clients. Consider emerging markets like the booming [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) sector, advanced manufacturing facilities driven by reshoring initiatives, or specialized infrastructure projects funded by government programs. For example, a firm that dedicates itself to sustainable modular construction for commercial buildings can differentiate itself significantly from general commercial builders.
@@ -181,7 +183,7 @@ Non-compliance can lead to hefty fines, legal disputes, reputational damage, and
 
 - **Prioritize Talent Acquisition and Development.** Implement innovative recruitment strategies to attract skilled workers in a tight labor market. Invest in ongoing training, mentorship programs, and career development pathways to retain your most valuable assets.
 
-- **Embrace Data-Driven Decision Making.** Utilize analytics from all aspects of your operations to identify trends, optimize processes, and inform strategic choices. Continuously monitor key performance indicators (KPIs) to track progress against your growth goals.
+- **Embrace [Data-Driven Decision Making](/article/the-moneyball-contractor-how-data-driven-decision-making-is-replacing-gut-instinct-in-construction).** Utilize analytics from all aspects of your operations to identify trends, optimize processes, and inform strategic choices. Continuously monitor key performance indicators (KPIs) to track progress against your growth goals.
 
 - **Focus on Continuous Improvement.** Regularly review your processes, technologies, and strategies. Solicit feedback from employees and clients, and be prepared to adapt and innovate in response to market changes and new opportunities.
 

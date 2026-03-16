@@ -24,6 +24,8 @@ This is your evening intelligence briefing from Scaling Legends. Every number in
 
 CONEXPO wrapped today in Las Vegas after a five-day run that drew an estimated 140,000 attendees and over 2,000 exhibitors across nearly 3 million square feet. The closing day theme was unmistakable: **autonomous equipment, AI-assisted operations, and electrification** are no longer future concepts. They're shipping products.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Caterpillar Stole the Show
 
 Cat demonstrated a fully autonomous soil compactor (the CS12) with **zero operator in the cab** at a live trade show for the first time in the company's history. That alone would have been the headline, but Cat also launched:
@@ -249,3 +251,17 @@ The industry needs between 349,000 and 500,000 additional workers to meet curren
 [scalinglegends.com](https://scalinglegends.com)
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Leverage CONEXPO's Emerging Tech for Your Construction Business
+
+- **Investigate Cat Compact Services.** Contact Caterpillar or visit their website this week to understand the Cat Compact platform, specifically designed for small to mid-size contractors for buying, renting, and servicing equipment.
+
+- **Evaluate AI-Assisted Fleet Management.** Research tools like the Cat AI Assistant or Bobcat's Jobsite Companion to see how AI can improve your fleet management, predictive maintenance, and operational efficiency starting immediately.
+
+- **Explore Electric and Hybrid Equipment.** Dedicate time this week to review new electric or hybrid-electric machines from manufacturers like John Deere (7 units) and Volvo CE (EC230 electric excavator) to understand their operational benefits and charging needs.
+
+- **Assess Automation for Task Efficiency.** Look into automation systems such as Volvo Active Control, claiming up to 45% faster task completion, or Deere's SmartGrade/SmartWeigh/SmartDetect systems, to identify immediate efficiency gains.
+
+- **Review Equipment Service Guarantees.** Check current and new service models, like Caterpillar's next-day parts guarantee and 2-day repair commitment (with Cat Credits), to ensure optimal uptime and cost-effectiveness for your fleet.
+
+- **Begin Planning for Autonomous Equipment Integration.** While not an immediate purchase, start researching fully autonomous solutions like Caterpillar's CS12 compactor or Bobcat's RogueX3 concept loader to understand future operational shifts and prepare your team.

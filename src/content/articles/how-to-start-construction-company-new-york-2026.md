@@ -344,3 +344,17 @@ New York's workers' comp premiums are notoriously high. Several factors determin
 Do your homework. Build your network. Hire smart people who know New York. And most importantly, focus on delivering quality work safely and reliably. If you can do that, you won't just build structures; you'll build a legacy in the Empire State. Now go get to work.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
+## Frequently Asked Questions
+
+### What construction projects are booming in New York in 2026?
+
+New York's 2026 construction market is booming due to infrastructure investments (MTA, Port Authority, bridge repairs), renewable energy (offshore wind, large-scale solar), and life sciences facilities. There's also high demand for affordable housing and adaptive reuse of commercial buildings, with significant growth in upstate revitalization areas like Buffalo and Rochester.
+
+### How can a new construction company start getting work in New York?
+
+New companies should focus on specialized subcontracting, such as excavation, concrete flatwork, or interior fit-outs. Smaller commercial projects like tenant improvements or restaurant renovations are also excellent entry points. Residential renovations and additions, particularly outside NYC, provide strong opportunities to build your portfolio and reputation effectively.
+
+Is there construction work outside of New York City

@@ -17,6 +17,8 @@ sponsors:
 
 Alright, let's cut to the chase. You want to build in Ohio, and you're looking for the straight talk on getting your General Contractor license. Good. Because if you're expecting some complex state-level bureaucracy like other places, you're in for a surprise. Ohio does things a little differently, and that can be a massive advantage if you know how to play your cards right.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This isn't some generic guide. This is your no-BS roadmap, straight from the trenches, on how to navigate the Ohio construction landscape in 2026. We're talking about the specifics, the agencies, the opportunities, and exactly what you need to do to get your projects off the ground here.
 
 ## The Ohio GC Licensing Landscape: No State License, Big Opportunity

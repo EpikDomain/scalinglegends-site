@@ -17,6 +17,8 @@ sponsors:
 
 Forget the "war for talent" – in construction, it's a full-blown existential battle for skilled labor. If you're [a General Contractor](/article/how-to-get-general-contractor-license-florida-2026) scaling from $1M to $50M+, you already know this isn't hyperbole. The ground is shifting beneath our feet. The strategies that worked five, even three years ago, are obsolete. Relying on a "post and pray" approach to hiring will leave your projects stalled, your margins eroded, and your growth trajectory flatlining.
 
+<iframe src="https://www.youtube.com/embed/LMYk4UNjka0" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This isn't a problem for HR to solve in a vacuum; it's a strategic imperative that demands your immediate, direct attention. The ability to consistently attract, develop, and keep top-tier talent isn't just a competitive advantage in 2026 – it's the bedrock of your business's survival and scale. At Scaling Legends, we don't just talk about the problem; we arm you with the actionable solutions. This guide cuts through the noise, offering a no-BS roadmap for navigating the most challenging labor market in a generation.
 
 We're going to dive deep into where the workers actually are, what they demand, and how you can build a company culture so compelling that your best people won't even consider leaving. This isn't about quick fixes; it's about fundamentally reshaping your approach to people, transforming your workforce from a liability into your greatest asset.

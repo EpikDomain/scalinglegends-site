@@ -27,6 +27,8 @@ This isn't a theoretical exercise. This is a direct, no-BS breakdown from a cons
 
 Let's get this straight: profit is what you make; cash flow is what you have. You can be wildly profitable on paper, with signed contracts and completed work, yet be completely broke. Why? Because the money isn't in your bank account. It's tied up in receivables, materials on site, or retainage. A profitable company that can't pay its bills is insolvent. It's dead. This is the harsh truth behind the 82% statistic. Most construction companies don't fail because they aren't profitable; they fail because they run out of cash.
 
+<iframe src="https://www.youtube.com/embed/SQ9FefBVrAk" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Think about it: you've got payroll every week or two. Your suppliers demand payment in 30 days, often less. Your subcontractors expect their checks. Meanwhile, your client might take 45, 60, or even 90 days to pay you, and then they hold back retainage. This fundamental disconnect creates the notorious construction cash flow gap – a chasm that swallows unprepared contractors whole.
 
 ### The Construction Cash Flow Gap: A Fundamental Flaw

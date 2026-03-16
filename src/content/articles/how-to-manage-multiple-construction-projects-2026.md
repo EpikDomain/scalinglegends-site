@@ -218,6 +218,8 @@ Effective construction project scheduling is the backbone of successful multi-pr
 **Develop a Master Company Schedule:**
 This is your overarching roadmap. It visually represents all active and planned projects, their start/end dates, major milestones, and estimated resource requirements (e.g., number of crews, critical equipment). This high-level view helps you identify potential conflicts or resource overloads months in advance. Tools like Microsoft Project, Primavera P6 (for larger, more complex operations), or even advanced features within your construction project management software (e.g., Procore's Portfolio tool) are essential here. The goal is to see your entire portfolio at a glance, allowing you to make strategic decisions about bidding on new work or allocating resources.
 
+<iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 **Create Detailed Individual Project Schedules:**
 Each project needs its own comprehensive schedule, broken down into specific tasks, durations, dependencies, and assigned responsibilities. Use Gantt charts to visualize the critical path – the sequence of tasks that must be completed on time for the project to finish by its deadline. Involve your project managers, superintendents, and key subcontractors in the creation of these schedules to ensure buy-in and realistic timelines. Software like Buildertrend, CoConstruct, or Fieldwire offers intuitive scheduling features for individual projects.
 

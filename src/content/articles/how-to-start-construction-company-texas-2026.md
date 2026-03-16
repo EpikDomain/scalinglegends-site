@@ -313,6 +313,8 @@ Ready to get started? Here’s a streamlined action plan for launching [your con
 
 This isn't just a formality; it's your roadmap. Define your niche (residential, commercial, specific trade), target market (which Texas metros or regions?), competitive advantages, marketing strategy, and financial projections. Include a detailed analysis of the Texas market and how you'll navigate local licensing and regulatory variations. Research your specific target cities for their unique requirements.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ## Choose Your Business Structure & Register with the Texas SOS
 
 Decide on an LLC or Corporation. Perform a name availability search with the Texas Secretary of State. File your Certificate of Formation online via SOSDirect. Appoint a registered agent with a physical Texas street address. Obtain your EIN from the IRS after registration. Draft your Operating Agreement (LLC) or Bylaws (Corp).

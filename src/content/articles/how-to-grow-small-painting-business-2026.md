@@ -23,6 +23,8 @@ Scaling a painting company means breaking free from the owner-operator trap, bui
 
 The biggest hurdle for most small painting businesses is the owner themselves. You're the estimator, the painter, the project manager, the marketer, the bookkeeper, and often, the cleaner. This might work for a while, but it's a dead end for growth. You have a finite amount of time and energy. When you're constantly on the tools, you can't work *on* the business – developing systems, training staff, or strategizing for the future. You're trading dollars for hours, not building equity.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Breaking Out of the One-Crew Mentality
 
 To grow a painting company, you must delegate. Your first hire should free up your time, not just add another pair of hands to an already overloaded schedule. This means hiring someone capable of handling tasks you currently perform, allowing you to focus on high-leverage activities like sales, marketing, and system development. The goal is to build a business that can run without you needing to paint every single stroke.
@@ -306,6 +308,20 @@ For scaling, essential technology includes CRM software (for managing leads and 
 ### When should I hire my first non-painter employee (e.g., office manager, estimator)?
 
 Hire your first non-painter employee when your administrative tasks, lead qualification, or estimating workload consistently prevents you from focusing on high-level strategic growth activities. If you're spending more than 10-15 hours a week on administrative tasks that could be delegated, it's time to hire an office manager. If you're constantly missing out on bids or rushing estimates because you're on a job site, an estimator is a smart investment. The goal is to offload tasks that don't directly contribute to your highest-value work.
+
+## How to Systemize Your Painting Business for Growth
+
+- **Audit Your Time & Identify Delegation Targets.** For the next 3 days, track every hour you spend on your business using a simple spreadsheet or free time-tracking app; identify the top 3 tasks you perform that could realistically be handed off to someone else.
+
+- **Document Your Basic Sales & Estimating Process.** Spend 2-3 hours this week writing down your current step-by-step process from initial client contact to sending a proposal, even if it's just a bulleted list in a Google Doc.
+
+- **Create a Simple Pre-Job Quality Checklist.** Design a 5-10 point checklist (e.g., "Surface prepped?", "Drop cloths secured?", "Right paint color confirmed?") that you or a helper can use before starting any new painting area, taking about 1 hour to draft.
+
+- **Set Up a Dedicated Financial Tracking System.** If you're not already, sign up for a basic accounting software like QuickBooks Self-Employed (around $15/month) or FreshBooks (starting at $15/month) and input your last 5 transactions to start tracking income and expenses.
+
+- **Plan for Your First "Time-Freeing" Hire.** Based on your time audit, write a brief 1-page job description for the role that would free up the most of your time (e.g., a dedicated painter to take lead on a small job), focusing on specific tasks they'd own.
+
+- **Schedule Weekly "CEO Time" for Business Development.** Block out 2-4 hours on your calendar each week (e.g., Friday morning) dedicated *solely* to working *on* your business – reviewing systems, planning hires, or strategizing, away from the tools.
 
 ## Conclusion
 

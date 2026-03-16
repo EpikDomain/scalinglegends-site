@@ -17,6 +17,8 @@ sponsors:
 
 Alright, let's cut to the chase. You're looking to get your general contractor license in Georgia, and you want the straight goods, no fluff. Good. Because in the Peach State, especially with the kind of growth we're seeing in the Atlanta metro area and beyond, playing by the rules isn't just a suggestion—it's how you build a legitimate, profitable business. This isn't some generic guide; this is your roadmap, specific to what it takes to get licensed through the [Georgia Division of Professional Licensing (DPL)](https://sos.ga.gov/contractors) in 2026.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Operating unlicensed in Georgia is a fast track to fines, project shutdowns, and a ruined reputation. Don't risk it. Follow this guide, understand the Georgia-specific requirements, and set yourself up for success in one of the most dynamic construction markets in the Southeast.
 
 ## Georgia Contractor Licensing: Why It's Non-Negotiable for 2026
@@ -356,3 +358,25 @@ A: In Georgia, if your business has three or more employees (including corporate
 The path to becoming a licensed general contractor in Georgia might seem daunting, but it's a clear, well-defined process. By understanding the specific requirements of the Georgia Division of Professional Licensing, preparing thoroughly for your exams, and meticulously completing your application, you'll be well on your way to building a successful and legitimate construction business in the thriving Georgia market. Don't cut corners; do it right, and legend will follow.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## Frequently Asked Questions
+
+### What are the different types of contractor licenses in Georgia?
+
+Georgia offers classifications like Residential-Basic, covering projects up to $100,000 for single-family and small multi-family homes. The Residential-Light Commercial license extends this to projects up to $500,000, including larger multi-family (up to 4 units) and light commercial up to 25,000 sq ft. The General Contractor license covers even larger, broader projects.
+
+### Who issues general contractor licenses in Georgia?
+
+General contractor licenses in Georgia are issued by the Georgia State Licensing Board for Residential and General Contractors. This board operates under the Georgia Division of Professional Licensing (DPL). They set the standards, administer exams, and are the statewide authority for legal contractor operations.
+
+### What is the project value limit for a Residential-Basic Contractor license in Georgia?
+
+For a Residential-Basic Contractor license in Georgia, the total value of any single contract or project cannot exceed $100,000. This license is intended for smaller residential jobs, including single-family homes, multi-family dwellings up to two units and three stories, and accessory buildings.
+
+### What happens if you operate without a general contractor license in Georgia?
+
+Operating without the proper general contractor license in Georgia, especially for projects exceeding specific value thresholds, carries serious consequences. You risk significant fines, mandatory project shutdowns, and a severely damaged professional reputation. The Georgia DPL strictly enforces these statewide requirements.
+
+### Is a contractor license required for all construction projects in Georgia?
+
+A state contractor license is required in Georgia for anyone undertaking projects above specific value thresholds set by the Georgia Division of Professional Licensing (DPL). For instance, even the Residential-Basic license covers projects up to $100,000, indicating that most substantial work requires proper licensing to avoid legal issues.

@@ -19,6 +19,8 @@ How to File a Construction Lien in Tennessee: Deadlines, Forms, and Process for 
 
 Tennessee's construction landscape is dynamic, with Nashville leading the charge as one of the nation's fastest-growing markets. This growth, coupled with the state's appealing lack of state income tax, draws contractors and suppliers from across the country. Yet, rapid expansion and new players also bring increased risk. Protecting your right to payment is paramount. For construction professionals in Tennessee, understanding how to file a mechanics lien is not just good practice—it's essential business.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 A Tennessee mechanics lien, governed primarily by [Tennessee Code §66-11-101 et seq.](https://law.justia.com/codes/tennessee/2022/title-66/chapter-11/part-1/), serves as a powerful legal tool that allows contractors, subcontractors, suppliers, and other eligible parties to secure payment for labor, materials, and services provided to improve real property. When payment disputes arise, a properly filed lien can compel property owners to resolve outstanding debts, often by forcing the sale of the property if necessary. However, Tennessee's lien laws are precise, with strict deadlines and requirements. Miss a step, and you could forfeit your right to payment.
 
 This guide from Scaling Legends provides a direct, no-BS walkthrough of the Tennessee mechanics lien process for 2026. Consider this your roadmap to navigating the Volunteer State's lien laws, ensuring you protect your financial interests on every project.

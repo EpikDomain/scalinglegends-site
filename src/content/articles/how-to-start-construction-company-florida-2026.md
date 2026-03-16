@@ -25,6 +25,8 @@ Florida isn't for the faint of heart, but for those who understand its pulse, th
 
 Florida's construction market isn't just booming; it's a perpetual growth engine. What’s driving it, and where are the opportunities for you in 2026?
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Population Influx and Housing Demand
 
 People are still flocking to Florida at an astonishing rate, drawn by the climate, lower taxes, and economic opportunities. Retirees, families, businesses – they all need places to live and work. This translates directly into massive demand for residential construction, both single-family homes and multi-family developments. Expect continued robust activity in major metropolitan areas like Miami-Dade, Broward, Palm Beach, Orlando, Tampa Bay, and Jacksonville. Don't overlook Southwest Florida (Naples, Fort Myers, Sarasota) and the Panhandle, which continue to see significant growth and recovery. Developers are pushing into exurban areas and secondary markets, creating new frontiers for residential builders.

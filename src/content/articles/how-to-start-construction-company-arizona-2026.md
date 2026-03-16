@@ -17,6 +17,8 @@ sponsors:
 
 You’re looking to start a construction company in Arizona. Good. You’ve picked one of the most dynamic, fastest-growing markets in the country. But let’s be clear: this isn't a walk in the park. Arizona has its own rules, its own pace, and its own unique set of opportunities and challenges. If you’re serious about building something real here, you need a blueprint. This isn’t some generic, swap-the-state-name guide. This is your no-BS, Arizona-specific roadmap to getting your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) off the ground and scaled for success by 2026.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The Arizona Construction Market in 2026: Opportunity Knocks Hard
 
 Arizona, particularly the Phoenix metropolitan area, is a construction boomtown. We’re not just talking growth; we’re talking explosive, sustained growth that shows no signs of slowing down by 2026. This isn't just hype; it's driven by significant factors that create consistent demand across multiple sectors.

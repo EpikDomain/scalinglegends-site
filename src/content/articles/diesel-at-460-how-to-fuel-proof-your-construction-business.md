@@ -85,3 +85,17 @@ The current fuel crisis isn't an isolated incident; it's a stark reminder of the
 When preparing bids, it's no longer enough to use historical average fuel costs. Your estimating software should allow you to
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Fuel-Proof Your Construction Business Against Rising Diesel Costs
+
+- **Implement Fuel Escalation Clauses in Contracts.** For projects lasting over 90 days, add a fuel escalation clause referencing the DOE weekly diesel price index. This allows automatic price adjustments if diesel costs rise 10-15% above bid time.
+
+- **Deploy GPS-Based Idle Monitoring Systems.** Install GPS tracking on heavy equipment to monitor and reduce idle times, aiming to cut fuel waste by 15-20% starting this week. Many systems offer real-time alerts and reporting.
+
+- **Optimize Delivery Routes with Telematics.** Utilize telematics software for your delivery trucks to plan the most efficient routes, potentially saving 8-12% per route on fuel costs immediately. Review and adjust routes daily.
+
+- **Right-Size Equipment for Every Task.** Before starting a job, assess if you're using the smallest, most fuel-efficient machine capable of completing the task effectively. This prevents unnecessary fuel consumption from oversized equipment.
+
+- **Prioritize Scheduled Preventive Maintenance.** Ensure all equipment receives timely preventive maintenance, including clean filters and proper tire pressure, which can improve fuel efficiency by 5-10%. Schedule checks this week.
+
+- **Negotiate Fuel Price Protection with Suppliers.** For monthly fuel spends above $10,000, contact your fuel supplier to negotiate a fixed-price contract for 6-12 months or a price cap 5-8% above current rates to protect against sudden spikes.

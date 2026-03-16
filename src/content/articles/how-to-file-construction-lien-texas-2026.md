@@ -17,6 +17,8 @@ sponsors:
 
 Securing payment for labor and materials furnished on a construction project is paramount for any contractor, subcontractor, or supplier in Texas. When direct payment fails, a mechanic's lien serves as a powerful legal tool to protect your right to compensation. However, navigating Texas lien law is not for the faint of heart. It is a highly technical and unforgiving process, governed primarily by [Texas Property Code Chapter 53](https://statutes.capitol.texas.gov/Docs/PR/htm/PR.53.htm), which demands strict adherence to deadlines, notice requirements, and specific forms.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This guide, prepared by the experts at Scaling Legends, provides a direct, no-BS roadmap to understanding and executing a construction lien in Texas for 2026. Consider this your essential reference, but always remember: when in doubt, consult a qualified Texas construction attorney. The stakes are too high to guess.
 
 ### Overview of Texas Mechanics Lien Law

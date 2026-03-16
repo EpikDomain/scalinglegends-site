@@ -25,6 +25,8 @@ If you take one thing from this article, let it be this: understanding the diffe
 
 **Markup** is the percentage added to your total costs to arrive at your selling price. It's calculated on your *cost*.
 
+<iframe src="https://www.youtube.com/embed/qNx-M-xqE6g" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 **Margin (or Gross Profit Margin)** is the percentage of your selling price that is profit. It's calculated on your *price*.
 
 #### The Formulas:

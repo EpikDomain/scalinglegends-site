@@ -23,6 +23,8 @@ North Carolina's [construction industry](/article/building-roads-and-breaking-ba
 
 Forget what you thought you knew about the construction industry elsewhere. North Carolina operates on its own rhythm, and in 2026, that rhythm is an aggressive, upward beat. The state is a magnet for new residents and businesses, translating directly into a massive demand for residential, commercial, and infrastructure development.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The Boomtowns: Charlotte & The Research Triangle
 
 If you're not looking at Charlotte and the Research Triangle (Raleigh, Durham, Chapel Hill), you're missing the core of the action. These metros are economic powerhouses, experiencing unprecedented growth:

@@ -23,6 +23,8 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 Before diving into the specifics of **how to do quality control in construction**, it's crucial to distinguish between two often-confused but fundamentally different concepts: Quality Assurance (QA) and Quality Control (QC). While both aim for quality outcomes, their approaches and timing within a project lifecycle differ significantly.
 
+<iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Quality Assurance: Proactive Planning for Prevention
 
 Quality Assurance is about prevention. It encompasses the systematic activities and processes designed to ensure that quality requirements will be met. Think of QA as setting up the entire framework, the rules, and the systems before any work even begins. It's about building quality into the process itself, making sure that the methods, materials, and personnel are all aligned to achieve the desired standards.

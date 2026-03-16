@@ -201,3 +201,19 @@ Large data center campuses with 4,000-5,000 workers are creating transportation 
 *Sources: The Resource Company, Swoop/Walmart, Fortune, DataBank, PwC, Edmunds/Mercedes-Benz, Federal Register, Enterprise, iHire, Mercer, ABC, MEED, GoFIFO, AGC, SMART Union, Heavy Vehicle Inspection, CIRTA, SHARE Mobility, Keystone Newsroom, May Mobility/TechCrunch, Beep/SuperbCrew, Priceonomics, FinanceBuzz, Amtec*
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Launch a Sprinter Van Employee Shuttle Program This Week
+
+- **Gather Commute Data.** Conduct a quick, anonymous survey (e.g., Google Forms, SurveyMonkey) this week to understand where your current workforce lives and their biggest commute challenges, aiming for 15-30 minutes of employee time.
+
+- **Visualize Employee Locations.** Use a free online mapping tool (like Google My Maps) to plot employee home addresses, identifying geographic clusters to inform potential pickup zones within a few hours.
+
+- **Outline Pilot Routes.** Based on your mapped clusters, sketch out 1-3 preliminary Sprinter van routes that could serve the highest concentration of workers, aiming for routes under 45 minutes each way.
+
+- **Source Sprinter Vans & Drivers.** Contact local commercial van rental companies (e.g., Enterprise Commercial, Penske) for Sprinter van leasing options or research local shuttle service partnerships, getting quotes within 2-3 business days.
+
+- **Set Up a Simple Booking System.** For a pilot, utilize a shared spreadsheet (Google Sheets) or a dedicated WhatsApp group for employees to sign up for rides and receive real-time route updates daily.
+
+- **Launch Your Pilot Program.** Select a specific project site or shift and begin your first Sprinter van shuttle service this week, gathering immediate feedback from participating employees.
+
+- **Track & Optimize.** Monitor ridership, on-time performance, and employee satisfaction daily, making data-driven adjustments to routes or schedules to refine and improve the service.

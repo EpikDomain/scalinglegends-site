@@ -19,6 +19,8 @@ How to File a Construction Lien in Virginia: Deadlines, Forms, and Process for 2
 
 Virginia's construction landscape is dynamic, particularly in the bustling NoVA/DC metro area, where projects abound. For contractors, subcontractors, and suppliers operating in this vibrant market, understanding your rights to payment is paramount. When payment disputes arise, a mechanics lien is often the most powerful tool available to secure what you've earned. However, Virginia's mechanics lien laws are precise, with strict deadlines and procedural requirements. Missing a single step can invalidate your claim and jeopardize your financial recovery.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This guide, brought to you by Scaling Legends, cuts through the complexity. We provide a direct, no-BS walkthrough of how to effectively file a construction lien in Virginia, accurate to Virginia Code §43-1 through 43-23. Consider this your roadmap to navigating the Virginia mechanics lien process with confidence.
 
 ### Overview of Virginia Mechanics Lien Law

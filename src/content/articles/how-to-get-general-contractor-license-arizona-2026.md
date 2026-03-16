@@ -17,6 +17,8 @@ sponsors:
 
 You're looking to get licensed in Arizona. Good. You've picked one of the hottest markets in the country. Phoenix isn't just a big city; it's the fastest-growing metro in the nation. That means opportunity, but only if you're legit. This isn't a place for fly-by-night operations. Arizona's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is booming, and the Arizona Registrar of Contractors (ROC) ensures that only qualified, responsible professionals get to build here.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 At Scaling Legends, we don't mess around. We understand you're not looking for fluff; you want the straight goods, a no-BS roadmap from someone who's been there, done that, and built a legacy in the Grand Canyon State. This guide is your blueprint to navigating the Arizona licensing landscape, securing your General Contractor license, and staking your claim in a market ripe for growth. We're talking 2026 readiness, right now.
 
 ## Understanding Arizona's Contractor Licensing Landscape: ROC Rules Everything

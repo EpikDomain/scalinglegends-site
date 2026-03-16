@@ -23,6 +23,8 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 Let's cut to the chase: Ohio is experiencing a construction surge, and it's not slowing down soon. You've got to understand where the money is flowing to position your company for success.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Growth Areas and Hot Sectors
 
 - **Central Ohio & "Silicon Heartland":** The Intel mega-fab plant in New Albany is the undisputed heavyweight champion driving growth. This isn't just about the plant itself; it's about the entire ecosystem it's creating. We're talking massive demand for ancillary industrial facilities, data centers, housing for thousands of new employees, retail, and hospitality to support that population influx. This impact stretches across Licking County, Franklin County, and beyond. If you’re not thinking about how to get a piece of the Intel pie, directly or indirectly, you’re missing out.

@@ -21,6 +21,8 @@ You’re not just building structures; you’re building a business. And like an
 
 This is where most contractors draw the line incorrectly, often to their detriment. Understanding the difference between direct costs and overhead is fundamental to accurate job costing, competitive bidding, and ultimately, sustainable [construction business profitability](https://scalinglegends.com/articles/construction-business-profitability). Get this wrong, and every bid, every project, every financial report becomes a house of cards.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### What Are Direct Costs?
 
 Direct costs are expenses directly attributable to a specific project. They wouldn't exist if that project didn't exist. They are typically easy to trace and directly impact the gross profit of a job.

@@ -26,6 +26,8 @@ For any [construction business](/article/how-to-scale-a-construction-business-wi
 
 The statistics paint a grim picture. Every year, thousands of pieces of heavy equipment, countless power tools, and tons of raw materials vanish from construction sites across the nation. This isn't just opportunistic petty theft; it's often organized crime, with professional thieves targeting specific items for their high resale value.
 
+<iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Understanding the Financial and Operational Impact
 
 The direct cost of replacing stolen items is only the tip of the iceberg. When a critical piece of equipment or a crucial delivery of materials goes missing, the ripple effects are immediate and severe:

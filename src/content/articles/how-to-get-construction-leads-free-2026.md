@@ -23,6 +23,8 @@ Forget the fluff. This guide is your no-BS roadmap to consistently finding high-
 
 If you're not optimized on Google Business Profile (formerly Google My Business), you're leaving money on the table – plain and simple. For local construction businesses, GBP is not just important; it's mission-critical. When a potential client needs a contractor, what's the first thing they do? They Google it. "Contractor near me," "remodeling services [city]," "commercial builder [area]." Your GBP listing is often the first, and sometimes only, impression you'll make. It’s the digital storefront that connects high-intent local searchers directly to your business, and it costs you nothing but a little time to set up and maintain.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Think of GBP as your ultimate free advertising billboard, strategically placed exactly where your hottest prospects are looking. It influences your visibility in Google Maps, the local pack results (the top three businesses shown directly in search results), and even organic search rankings. Missing out on GBP optimization is like having the best product in town but keeping your shop doors closed. In 2026, a well-managed GBP isn't an option; it's a necessity for how to get construction leads free.
 
 ### Claim and Verify Your Profile
@@ -535,3 +537,17 @@ While there are no truly "secret" sources that haven't been mentioned in some fo
 There you have it. A comprehensive, no-nonsense guide to how to get construction leads for free in 2026. This isn't about magic bullets; it's about consistent, disciplined effort applied to proven strategies. The tools are available, the roadmap is clear. The only thing standing between you and a packed project pipeline is your willingness to put in the work. Stop waiting for leads to come to you. Go out and get them. Your business, your crews, and your bottom line will thank you.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Optimize Your Google Business Profile for Free Construction Leads
+
+- **Claim and Verify Your Google Business Profile.** Go to business.google.com, search for your business, and follow the prompts to claim it; Google will mail a verification postcard to your physical address, which typically arrives in 5-14 days.
+
+- **Ensure Business Name Consistency.** Verify your GBP business name precisely matches your official registration; avoid keyword stuffing in the name to prevent profile suspension.
+
+- **Complete All Profile Fields.** Fill out every section of your profile, including your services, operating hours, detailed business description, and website link, for maximum visibility and search relevance.
+
+- **Upload High-Quality Photos and Videos.** Add at least 5-10 professional images of your finished projects, team, and facility to visually showcase your work and build trust.
+
+- **Actively Request Customer Reviews.** Encourage satisfied clients to leave positive reviews on your GBP; consider providing a direct link to make the process easy for them.
+
+- **Post Regular Updates and Offers.** Utilize the "Posts" feature on your GBP weekly to share project updates, special promotions, or relevant industry news, keeping your profile active and engaging.

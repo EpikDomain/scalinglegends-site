@@ -28,6 +28,8 @@ This article isn't about quick fixes or magic bullets. It's a direct, no-BS guid
 
 Many [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), despite their initial success, eventually hit a ceiling. This ceiling isn't always about market demand or lack of capital; it's often an internal limitation: the owner. You're the visionary, the rainmaker, the problem-solver, and often, the only one who truly knows how everything works. This "owner's head" phenomenon creates a dangerous dependency.
 
+<iframe src="https://www.youtube.com/embed/S7kWq9mbvws" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Consider the stark realities: nearly 50% of small businesses fail within their first five years, and a significant portion of those that survive never scale beyond a handful of employees or a few million in revenue. While many factors contribute, a critical one is the failure to build repeatable systems. Without systems, every project is a fresh start, every problem a novel crisis, and every new hire a blank slate requiring your personal, undivided attention.
 
 This dependency manifests in several ways:

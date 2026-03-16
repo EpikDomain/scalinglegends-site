@@ -17,6 +17,8 @@ sponsors:
 
 So, you're looking to start a construction company in Georgia. Good. That tells me you've got ambition, and in this state, ambition pays off – if you know how to play the game. Forget the generic advice; this isn't about starting a business anywhere. This is about building a legitimate, profitable construction operation right here in the Peach State, with your boots on the ground, navigating Georgia's specific rules, opportunities, and challenges. Consider this your no-BS roadmap from someone who's been there.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The Georgia construction market is booming, but it's also competitive. Success isn't handed out; it's earned through diligence, understanding the regulations, and building the right relationships. We're going to break down every critical step, from getting licensed to finding your first big job, all tailored specifically for Georgia in 2026. Let's get to work.
 
 ## The Georgia Construction Market in 2026: Opportunities and Hot Sectors
@@ -442,3 +444,17 @@ It depends on the scope of work. If a subcontractor is performing work that fall
 Starting a construction company in Georgia is a serious undertaking, but the rewards are substantial for those who do it right. Follow this guide, stay persistent, and build a reputation for quality and integrity. Now, go out there and build something great.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Launch Your Construction Company in Georgia for 2026
+
+- **Define Your Georgia Niche.** Based on Georgia's booming market (e.g., EV plants in Bryan County, Atlanta's multi-family demand), identify 1-2 specific construction niches you'll target to focus your initial efforts.
+
+- **Choose Your Legal Business Structure.** Decide on your legal entity (e.g., LLC, S-Corp, Sole Proprietorship) and consult with a Georgia business attorney, typically costing $500-$1500 for initial setup advice.
+
+- **Register Your Business with the State.** File your Articles of Organization (for LLCs) or Incorporation with the Georgia Secretary of State, a process that can be completed online for approximately $100 within 1-3 business days.
+
+- **Obtain Required Georgia Contractor Licenses.** Research and apply for the specific contractor licenses mandated by the Georgia Secretary of State's Professional Licensing Boards for your chosen scope of work, allowing 4-8 weeks for processing.
+
+- **Secure Comprehensive Business Insurance.** Contact a Georgia-based commercial insurance broker to secure essential policies like General Liability, Worker's Compensation (if hiring), and Commercial Auto insurance, getting quotes this week.
+
+**Establish Your Financial Foundations.** Open a dedicated business bank account and explore initial funding options,

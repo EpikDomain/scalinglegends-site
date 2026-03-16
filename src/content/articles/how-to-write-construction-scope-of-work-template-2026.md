@@ -17,6 +17,8 @@ sponsors:
 
 In construction, a vague scope of work isn't just a minor oversight; it's a ticking time bomb. It's the silent killer of budgets, schedules, and professional relationships. At Scaling Legends, we've seen firsthand how poorly defined scopes transform straightforward projects into protracted battles, leading to astronomical change orders, costly delays, and, ultimately, litigation. This isn't theoretical; it's the reality for contractors who fail to master the art of the bulletproof scope.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The problem is simple: assumptions. When a scope of work is open to interpretation, every party involved—owner, general contractor, subcontractor—fills in the blanks with their own understanding, often to their own advantage. This leads to:
 
 - **Unforeseen Costs:** Items assumed to be included by one party but excluded by another become immediate change orders, often at inflated rates under duress.

@@ -17,6 +17,8 @@ sponsors:
 
 So, you’re looking to get your General Contractor license in Virginia. Good. You're in the right place, and you're thinking smart. Virginia isn't a state where you can just wing it with a handshake and a pickup truck. The Commonwealth has a clear, structured system, and for good reason: it protects consumers, levels the playing field, and ensures that legitimate professionals are the ones building Virginia's future.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 At Scaling Legends, we cut through the noise. This isn't some generic guide. This is your no-BS, Virginia-specific roadmap for getting your contractor license in 2026. We're talking DPOR, SCC, Class A, B, and C – everything you need to know from someone who’s been there.
 
 ### Understanding Virginia's Contractor Licensing Landscape for 2026

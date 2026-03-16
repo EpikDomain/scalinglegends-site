@@ -23,6 +23,8 @@ Scaling your [construction business](/article/how-to-scale-a-construction-busine
 
 For too long, the general contractor-subcontractor relationship has been framed as adversarial. This outdated mindset breeds distrust, hinders collaboration, and ultimately undermines project success. To scale effectively, your approach must shift: view your subcontractors as an extension of your team, as critical partners in achieving shared goals. A strong, respectful partnership built on trust and transparent communication leads to better performance, fewer disputes, and a more efficient workflow. When subs feel valued, they're more invested in the project's success, more likely to go the extra mile, and more inclined to bring issues to your attention proactively rather than concealing them.
 
+<iframe src="https://www.youtube.com/embed/WtpA_R6SKkM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The Cost of Poor Relationships
 
 The financial and operational costs of a contentious GC-sub relationship are staggering. They include:

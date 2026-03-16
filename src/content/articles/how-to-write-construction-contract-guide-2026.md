@@ -23,6 +23,8 @@ At Scaling Legends, we see it time and again: contractors who hit a ceiling or c
 
 Let's get one thing straight: if you're still relying on handshake deals, you're playing Russian roulette with your company's future. For contractors scaling beyond $1M, a handshake isn't a sign of trust; it's a gaping liability. The informal agreement, the verbal promise, the "we'll figure it out later" mentality – these are the silent killers of growing construction businesses.
 
+<iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Consider the data: A recent study by J.D. Power found that construction disputes cost the industry billions annually, with ambiguity in contracts being a leading cause. While specific stats on handshake deals leading to business failure are hard to isolate, legal professionals consistently report that a significant percentage of litigation stems from poorly defined or non-existent written agreements. The U.S. Small Business Administration (SBA) consistently advises small businesses, especially those in high-risk industries like construction, to formalize all agreements in writing to protect against misunderstandings and financial loss.
 
 When you operate without a solid construction contract agreement:

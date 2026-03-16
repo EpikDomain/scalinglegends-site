@@ -23,6 +23,8 @@ Washington isn't just another state; it's a unique economic powerhouse with its 
 
 Forget what you think you know about national trends. In Washington, we’re operating on a different wavelength. The market here is robust, driven by a unique confluence of factors that make it attractive for new construction businesses, provided you know where to look and how to adapt.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Driving Forces: Tech, Infrastructure, and Housing
 
 The Seattle tech boom isn't just a buzzword; it's the engine driving significant commercial construction across the Puget Sound region. Amazon, Microsoft, Google, Meta – these giants continue to expand their footprints, demanding new office spaces, data centers, and the supporting infrastructure that comes with them. This isn't slowing down in 2026; if anything, the demand for specialized commercial builds and tenant improvements remains incredibly high.

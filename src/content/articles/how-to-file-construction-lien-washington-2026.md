@@ -25,6 +25,8 @@ This comprehensive guide, specifically tailored for 2026, cuts through the compl
 
 In Washington State, construction liens are governed primarily by Revised Code of Washington (RCW) Chapter 60.04, often referred to as the "mechanics' and materialmen's lien" statute. This legislation provides a powerful legal tool for those who furnish labor, professional services, materials, or equipment for the improvement of real property. A lien essentially grants a security interest in the improved property, allowing the claimant to potentially force the sale of that property to satisfy an unpaid debt.
 
+<iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The intent of RCW 60.04 is to protect those who contribute to the value of real property. Unlike some states, Washington's contractor registration process is administrative (registration-based with no exam for general contractors), placing even greater emphasis on contractors knowing and enforcing their rights. While the protections are strong, they are also highly technical. Failure to adhere strictly to the statutory requirements can invalidate an otherwise legitimate lien claim.
 
 ## Who Has Lien Rights in Washington?
@@ -420,3 +422,19 @@ Under RCW 60.04.051, construction liens generally have priority over any lien, m
 Yes, but with significant caveats. If you contracted solely with a tenant, your lien rights may be limited to the tenant's leasehold interest, rather than the fee simple interest of the property owner, unless the property owner authorized or ratified the improvements. If the owner required or consented to the improvements, your lien may attach to the entire property. This is a complex area, and the specific terms of the lease and the owner's involvement are critical. Legal advice is strongly recommended.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to File a Construction Lien in Washington
+
+- **Verify Your Eligibility for a Lien.** This week, review RCW 60.04.021 to confirm if you, as a General Contractor, Subcontractor, Material Supplier, Laborer, Design Professional, or Equipment Lessor, have the legal standing to file a lien for your contribution to property improvement.
+
+- **Understand Preliminary Notice Requirements.** Immediately identify if your project requires a "Notice to Owner" and understand its specific deadlines and delivery methods to preserve your lien rights, as failure to comply can invalidate a claim.
+
+- **Collect All Project Documentation.** Compile your contract, invoices, proof of services/materials furnished, payment records, and property details. This documentation is crucial for accurately calculating the lien amount and describing the improved property.
+
+- **Research Specific Deadlines.** While not detailed here, research the exact statutory deadlines for filing your lien claim from your last day of furnishing labor or materials, as Washington's laws are highly technical and strict.
+
+- **Obtain and Prepare the Lien Form.** Locate the correct Washington State construction lien form (often referred to as a "Claim of Lien" or "Notice of Claim of Lien") and meticulously fill it out with all required project and claimant information.
+
+- **File Your Lien with the County Recorder.** Submit the completed lien form to the county auditor or recorder's office in the county where the property is located, ensuring it is filed within the strict statutory deadline.
+
+- **Serve Notice of Filed Lien.** After filing, ensure proper notice of the recorded lien is served to the property owner and other interested parties as required by RCW 60.04, typically within a specific timeframe.

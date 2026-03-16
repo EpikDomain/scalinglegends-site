@@ -17,6 +17,8 @@ sponsors:
 
 So, you're looking to get into the contracting game in Pennsylvania. Good choice. It's a solid state with plenty of work, but let's cut to the chase: the licensing landscape here isn't what most folks expect. Forget what you've heard about a single, statewide general contractor license, because that's not how we do things in the Commonwealth.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 This guide is your no-nonsense roadmap. We're going to break down exactly what you need to do, what registrations you absolutely must have, and where the real opportunities lie. We're talking Pennsylvania-specific, from Harrisburg to Philly, Pittsburgh to Erie. No generic fluff, just the facts you need to get your business off the ground and stay compliant in 2026.
 
 ### The Pennsylvania Licensing Landscape: It's Not What You Think

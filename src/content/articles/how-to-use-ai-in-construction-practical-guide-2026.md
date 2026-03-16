@@ -17,6 +17,8 @@ sponsors:
 
 The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is at an inflection point. For years, "AI" was a buzzword, a futuristic promise whispered at conferences. In 2026, that narrative has shifted dramatically. AI is no longer a concept; it's a suite of powerful, practical tools that are fundamentally changing how contractors operate, from the $1M general contractor to the $50M powerhouse. This isn't about robots building skyscrapers autonomously; it's about leveraging intelligent systems to make smarter decisions, optimize workflows, reduce risk, and boost profitability.
 
+<iframe src="https://www.youtube.com/embed/EBAYgWptmqo" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 At Scaling Legends, we cut through the hype to deliver actionable intelligence. This guide is for contractors ready to move beyond curiosity and integrate AI into their core business. We'll explore what's genuinely working today, what's still maturing, and how you can strategically adopt AI to scale your operations, secure more profitable bids, and future-proof your business in a competitive landscape.
 
 ## AI Reality Check: What Works in 2026 vs. Vaporware

@@ -23,6 +23,8 @@ This isn't just about tidiness; it's about operational efficiency, risk mitigati
 
 The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) generates an astounding volume of paperwork and digital files. From initial bids and contracts to design drawings, specifications, RFIs, submittals, change orders, daily reports, safety logs, inspection reports, and closeout documents – the sheer quantity can overwhelm even the most experienced project managers. This deluge of data, if not systematically managed, quickly devolves into chaos.
 
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 The consequences are severe:
 
 - **Time Waste:** Crews spend hours searching for the latest drawing or a critical RFI response, leading to costly idle time.

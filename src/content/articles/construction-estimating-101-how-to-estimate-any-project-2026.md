@@ -19,6 +19,8 @@ Mastering how to estimate [construction costs](/article/war-oil-and-your-margins
 
 Construction estimating is the process of forecasting the cost of a [construction project](/article/surviving-the-messy-middle-of-construction-growth). It involves calculating all the expenses a contractor will incur to complete a project, including materials, labor, equipment, subcontractors, overhead, and profit. For [a general contractor](/article/how-to-get-general-contractor-license-florida-2026), this means not only understanding the direct costs but also the indirect costs and risks associated with managing the entire project. It's the critical first step in determining a competitive and profitable bid.
 
+<iframe src="https://www.youtube.com/embed/SQ9FefBVrAk" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### Why Accurate Estimates Matter
 
 An accurate estimate is more than just a number; it's a strategic tool. It dictates whether you win a bid, whether you complete the project profitably, and ultimately, whether your business thrives. Underestimating can lead to financial losses, strained relationships with clients, and even project failure. Overestimating, on the other hand, can lead to lost opportunities as competitors submit lower bids. Precision in estimating ensures you cover all your costs, account for risks, and secure a fair profit, allowing you to sustain and grow your operations. It’s fundamental to understanding [cash flow mistakes that kill construction companies](/article/5-cash-flow-mistakes-that-kill-construction-companies).

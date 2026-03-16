@@ -23,6 +23,8 @@ This article isn't about quick fixes. It's a roadmap for serious owners ready to
 
 Understanding what each revenue milestone demands is crucial. Each jump isn't linear; it requires a different playbook, a new mindset, and often, a painful letting go of what made you successful at the previous stage.
 
+<iframe src="https://www.youtube.com/embed/qNx-M-xqE6g" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 ### The $500K Mark: Establishing Your Foundation
 
 At $500K in annual revenue, your business is likely still heavily reliant on you, the owner. You're probably wearing multiple hats: plumber, dispatcher, salesperson, bookkeeper, and HR. You might have a small team of 2-3 plumbers and an admin assistant, or even just a few subcontractors. [Cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) is tight, and every job feels critical. Your focus here is survival, service quality, and basic customer acquisition. You're proving the concept, building a local reputation, and keeping the lights on. Systems are rudimentary, often residing in your head or a basic spreadsheet. This is where you learn the grind, understand your market, and build initial customer trust. This is the stage where you learn how to grow a small plumbing business.

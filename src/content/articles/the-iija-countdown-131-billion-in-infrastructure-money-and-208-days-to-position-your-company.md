@@ -99,3 +99,35 @@ This strategic diversification ensures that your company isn't putting all its e
 Q3:
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+
+## How to Immediately Position Your Company for Remaining IIJA Funding
+
+- **Review Current Prequalification Status.** Dedicate 2-4 hours this week to pull all current federal and state prequalification documents and identify any gaps in compliance with Davis-Bacon, Buy America, or existing bonding limits.
+
+- **Schedule a Bonding Capacity Review.** Contact your surety bond provider immediately to discuss your current bonding limits and explore strategies to increase capacity, emphasizing the need for larger federal or state projects.
+
+- **Initiate Financial Health Check-up.** Task your accounting team this week to begin cleaning up Work-in-Progress (WIP) reports and implement a plan to aggressively reduce Days Sales Outstanding (DSO) to strengthen your balance sheet for bonding.
+
+- **Identify Prime Contractor Subcontracting Needs.** Spend 3-5 hours this week researching large prime contractors (e.g., Tutor Perini) with significant infrastructure backlogs and investigate their current subcontracting opportunities and qualification requirements.
+
+- **Explore Set-Aside Program Eligibility.** Dedicate time to research federal and state Disadvantaged Business Enterprise (DBE) and other small business set-aside programs, determining your company's eligibility and the application process for these less competitive opportunities.
+
+- **Begin Compliance Documentation Prep.** Start compiling documentation and reviewing internal processes to ensure readiness for Davis-Bacon wage compliance and Buy America requirements, which are non-negotiable for federal infrastructure work.
+
+## Frequently Asked Questions
+
+### When does the Infrastructure Investment and Jobs Act funding end?
+
+The Infrastructure Investment and Jobs Act (IIJA) funding is set to expire on September 30, 2026. This leaves approximately 208 days from the article's publication for contractors to capitalize on the remaining opportunities. States have already committed $249 billion to over 113,000 projects, but significant funding is still available.
+
+### How can my construction company get federal infrastructure contracts?
+
+To secure federal infrastructure contracts, mid-size contractors must prioritize prequalification, including Davis-Bacon wage compliance and Buy America requirements. Expanding bonding capacity through improved financial health, like reducing Days Sales Outstanding (DSO), is also crucial. Subcontracting opportunities with prime contractors and leveraging Disadvantaged Business Enterprise (DBE) set-aside programs offer strategic gateways.
+
+### What are the main challenges for contractors pursuing IIJA funding?
+
+The primary challenge for many mid-size contractors is inadequate prequalification for federal and state work, coupled with insufficient bonding capacity. Additionally, intense competition for remaining funds is growing, as states have already committed $249 billion. The uncertainty of post-IIJA reauthorization and a projected $149.7 billion shortfall in the Highway Trust Fund also pose future risks.
+
+### Are there still IIJA funds available for construction projects?
+
+Yes, significant IIJA funds are still available, though the deadline of September 30, 2026, is rapidly approaching, with only 208 days remaining. While states have already committed $249 billion to over 113,000 projects, the article highlights that substantial opportunities, potentially totaling $131 billion, remain for contractors who strategically position themselves now.

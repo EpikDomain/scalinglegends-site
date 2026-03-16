@@ -387,9 +387,17 @@ A: Generally, no. The amount claimed in a North Carolina Claim of Lien on Real P
 
 A: No. General contractors in North Carolina have a direct contractual relationship with the property owner and therefore have a "direct lien." They are not required to serve a Notice of Subcontract or a Notice of Claim of Lien Upon Funds as preliminary notices to preserve their lien rights on the real property.
 
+## How to File a Construction Lien in North Carolina
+
+- **Confirm Your Eligibility and Licensing.** Verify that you qualify for lien rights under NC General Statutes §44A, whether as a general contractor, subcontractor, or supplier. General contractors must ensure they are licensed for projects over $30,000 to avoid enforcement hurdles.
+
+**Compile All Necessary Project Documentation.** Gather your contract, invoices, change orders, proofs of delivery, and detailed records of services rendered and
+
 ## Conclusion
 
 Navigating North Carolina's mechanics lien laws requires precision, diligence, and a thorough understanding of statutory requirements. In a rapidly growing state like North Carolina, protecting your right to payment is paramount, and the construction lien remains one of the most effective tools at your disposal.
+
+<iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
 By understanding the nuances of the Notice of Subcontract, the power of a Claim of Lien Upon Funds, the strict deadlines for filing and enforcing a Claim of Lien on Real Property, and the distinct rules for public project bond claims, you can significantly mitigate your risk of non-payment. Don't leave your hard-earned money to chance. Arm yourself with this knowledge, establish robust internal processes, and when in doubt, consult with a North Carolina construction law expert to safeguard your financial interests.
 
