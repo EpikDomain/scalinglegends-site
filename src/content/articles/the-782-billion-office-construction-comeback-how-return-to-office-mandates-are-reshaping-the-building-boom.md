@@ -48,7 +48,7 @@ For contractors looking to navigate and profit from this office construction boo
 
 - **Conduct Targeted Market Intelligence.** Dedicate 4-8 hours this week to research specific urban centers and tech hubs showing strong RTO mandates, using platforms like Dodge Data & Analytics or local commercial real estate reports to identify active projects and key players.
 
-- **Evaluate & Schedule Tech Demos.** Review your current construction workflow automation, integrated project management, and estimating software, then schedule at least two demos with leading providers (e.g., Procore, Sage Estimating) this week to explore efficiency upgrades.
+- **Evaluate & Schedule Tech Demos.** Review your current [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation), integrated project management, and estimating software, then schedule at least two demos with leading providers (e.g., Procore, Sage Estimating) this week to explore efficiency upgrades.
 
 - **Initiate Cash Flow Readiness Review.** Meet with your CFO or financial advisor this week to assess working capital and refine cash flow management strategies, ensuring your firm is financially positioned to pursue larger, more complex office projects.
 
@@ -64,7 +64,7 @@ For contractors looking to navigate and profit from this office construction boo
 
 The current surge in office construction, totaling an unprecedented $782 billion globally, is primarily driven by aggressive return-to-office (RTO) mandates from corporate giants. Companies like Apple, Meta, Amazon, and JPMorgan are requiring employees to be in the office 3-5 days a week, creating a direct demand for new builds, extensive renovations, and reconfigurations of commercial spaces.
 
-### How large is the global office construction market currently?
+### How large is the global office [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) currently?
 
 The global office construction pipeline has surged to an unprecedented $782 billion. A significant 75% of these projects are already in pre-execution phases, indicating a concrete and immediate market opportunity rather than just speculative demand. This substantial commitment reflects the direct impact of corporate return-to-office policies on the commercial real estate sector.
 

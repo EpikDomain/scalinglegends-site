@@ -76,7 +76,7 @@ This reliance on outdated methods means that anomalies, even significant ones, c
 
 Two Ohio asphalt companies, Kokosing Construction Company Inc. and Shelly & Sands Inc., paid $30 million to settle allegations of fabricating quality control test results. This systemic fraud occurred for over 12 years on federally-funded highway projects, involving falsifying critical asphalt mix tests, compromising infrastructure safety, durability, and taxpayer investment.
 
-### How can construction companies prevent fake quality tests on their projects?
+### How can [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) prevent fake quality tests on their projects?
 
 Construction firms can prevent fake quality tests by implementing advanced digital project management software with integrated quality control modules for real-time data capture and audit trails. Leveraging AI-powered analytics can proactively identify suspicious patterns. Enhanced subcontractor due diligence, alongside fostering a company-wide culture of accountability and ethical practices, are also crucial safeguards.
 

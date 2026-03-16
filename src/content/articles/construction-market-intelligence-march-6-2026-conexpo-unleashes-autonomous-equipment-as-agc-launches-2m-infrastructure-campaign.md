@@ -32,7 +32,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Assess Data Center Market Opportunities.** Research the booming $25.2B data center construction market over the next few days to identify potential new project leads or specialized services your firm could offer.
 
-- **Adjust to California Retention Cap.** For contractors operating in California, immediately update project contracts and cash flow projections to reflect the new 5% retention cap, consulting legal counsel if necessary.
+- **Adjust to California Retention Cap.** For contractors operating in California, immediately update project contracts and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) projections to reflect the new 5% retention cap, consulting legal counsel if necessary.
 
 - **Explore Business Automation Platforms.** Investigate platforms like Smart Business Automator to systematize operations across estimating, scheduling, and client communication, scheduling a demo this week to assess its impact on scaling.
 
@@ -46,7 +46,7 @@ At CONEXPO 2026, Caterpillar showcased its groundbreaking first autonomous compa
 
 ### When does IIJA funding expire and what is AGC doing?
 
-The Infrastructure Investment and Jobs Act (IIJA) funding is set to expire in September. To prevent this, the Associated General Contractors (AGC) has launched its "America's Moving Forward" campaign, investing $2 million. This initiative aims to advocate for the continuation of critical infrastructure funding, ensuring ongoing support for construction projects across the nation and maintaining industry momentum.
+The Infrastructure Investment and Jobs Act (IIJA) funding is set to expire in September. To prevent this, the Associated General Contractors (AGC) has launched its "America's Moving Forward" campaign, investing $2 million. This initiative aims to advocate for the continuation of critical infrastructure funding, ensuring ongoing support for [construction projects](/article/surviving-the-messy-middle-of-construction-growth) across the nation and maintaining industry momentum.
 
 ### How much time can AI estimating tools save on construction projects?
 

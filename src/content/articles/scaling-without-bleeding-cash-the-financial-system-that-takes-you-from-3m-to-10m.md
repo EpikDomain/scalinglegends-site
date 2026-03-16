@@ -83,7 +83,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 <iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-## How to Scale Your Construction Business Without Bleeding Cash
+## How to Scale [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026) Without Bleeding Cash
 
 - **Set Up Profit First Accounts.** Immediately open three new bank accounts: one for Operating Expenses, one for Tax Reserves, and one for Profit. Start allocating incoming revenue to these accounts weekly based on a predetermined percentage to ensure financial discipline.
 
@@ -99,7 +99,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 ## Frequently Asked Questions
 
-### Why do construction companies struggle to scale from $3M to $10M?
+### Why do [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) struggle to scale from $3M to $10M?
 
 Many contractors hit the "$3M wall" because their existing financial systems, sufficient at lower revenues, buckle under increased job complexity. 78% of contractors failing in this bracket cite cash flow issues, not bad work. Without robust systems, scaling becomes accumulating risk, turning profitable projects into cash traps due to invisible drains that compound with scale.
 
@@ -107,7 +107,7 @@ Many contractors hit the "$3M wall" because their existing financial systems, su
 
 Implementing a "Profit First" approach to segment cash, mastering weekly Work-in-Progress (WIP) reporting, and maintaining a 10% liquid buffer are crucial. A rolling 13-week cash flow forecast provides vital visibility. These dedicated systems prevent a 40% drop in job costing accuracy and ensure proactive financial management as project complexity increases.
 
-### When should a construction company invest in financial expertise like a controller or CFO?
+### When should [a construction company](/article/how-to-start-construction-company-washington-2026) invest in financial expertise like a controller or CFO?
 
 As you scale from $3M to $10M, your financial oversight needs evolve significantly. It's time to transition from a bookkeeper to a controller, and eventually a CFO, when job complexity increases. This investment ensures your financial management matches your scaling ambitions, providing the expertise to navigate cash flow challenges and drive strategic growth effectively.
 

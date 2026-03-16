@@ -94,7 +94,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Specialize in Niche Trades.** Evaluate your team's unique skills and consider specializing in high-demand, less competitive areas like historic restoration or green retrofit installations. Develop a targeted marketing message for one niche this week.
 
-- **Explore Data Center Subcontracting.** If geographically feasible (e.g., Northern VA, Phoenix, Dallas-Fort Worth), research active data center construction sites and pursue Tier 2 electrical or mechanical subcontracting roles to build experience without significant upfront investment.
+- **Explore Data Center Subcontracting.** If geographically feasible (e.g., Northern VA, Phoenix, Dallas-Fort Worth), research active [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) sites and pursue Tier 2 electrical or mechanical subcontracting roles to build experience without significant upfront investment.
 
 - **Diversify Your Customer Base.** Review your current client roster and aim to serve at least 3 distinct sectors (e.g., residential, light commercial, institutional) to reduce revenue volatility. Spend 4 hours this week identifying potential new client types and drafting an introductory email.
 

@@ -361,6 +361,6 @@ Ohio law is broad, allowing any person or company that furnishes labor, material
 
 ### What are the main requirements for filing a construction lien in Ohio?
 
-Filing a construction lien in Ohio demands strict adherence to Ohio Revised Code Chapter 1311. Key requirements include specific deadlines, proper forms, and precise procedural steps. Any deviation can invalidate your lien. While Ohio lacks a statewide general contractor license, local licensing may apply, though the lien laws themselves are uniform statewide.
+Filing a construction lien in Ohio demands strict adherence to Ohio Revised Code Chapter 1311. Key requirements include specific deadlines, proper forms, and precise procedural steps. Any deviation can invalidate your lien. While Ohio lacks a statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026), local licensing may apply, though the lien laws themselves are uniform statewide.
 
 What happens

@@ -102,7 +102,7 @@ Third, **maintain a minimum 3-month cash reserve.** This is not negotiable. A he
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 
-## How to Safeguard Your Construction Business from Financial Collapse
+## How to Safeguard [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026) from Financial Collapse
 
 - **Immediately Review Project Profit Margins.** This week, analyze your last 3-5 completed projects and all current bids to ensure they carry healthy, sustainable profit margins above 15-20%, rather than chasing volume at razor-thin rates.
 
@@ -124,7 +124,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 US contractors face identical pressures to the UK, including razor-thin margins, escalating material costs (e.g., steel +20%, aluminum +33%), and high fuel prices (diesel at $4.60). Over-reliance on volume, delayed payments, and insufficient cash reserves are critical indicators of potential distress mirroring the UK crisis.
 
-### How much cash reserve should a construction company maintain?
+### How much cash reserve should [a construction company](/article/how-to-start-construction-company-washington-2026) maintain?
 
 It is non-negotiable to maintain a minimum 3-month cash reserve. This financial buffer is crucial to weather unexpected downturns, prolonged payment delays from clients, or sudden spikes in operational costs, acting as your first line of defense against insolvency and ensuring business continuity.
 

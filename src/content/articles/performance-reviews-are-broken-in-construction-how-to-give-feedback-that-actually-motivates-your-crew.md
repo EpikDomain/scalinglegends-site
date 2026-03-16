@@ -91,7 +91,7 @@ Vague feelings and distant memories have no place in effective performance manag
 
 Annual performance reviews are obsolete because construction is project-based, not annual. Feedback delayed by six months or more loses 10 times its effectiveness, failing to impact behavior. This outdated system causes frustration for managers and employees, directly hindering your ability to scale a construction business and improve performance.
 
-### How often should construction workers get feedback?
+### How often should [construction workers](/article/how-to-hire-retain-construction-workers-2026-guide) get feedback?
 
 Construction workers should receive continuous, real-time feedback, ideally within 24 hours of an event, as this is 10 times more effective. Replace annual reviews with frequent, structured check-ins like weekly 5-minute conversations, project debriefs, and simple quarterly scorecards to ensure timely and impactful communication.
 

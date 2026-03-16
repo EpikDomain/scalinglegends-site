@@ -118,7 +118,7 @@ Elite construction firms achieve 15-20% higher profit margins than the industry 
 
 Top firms adopt advanced scheduling like Pull Planning and the Last Planner System, improving schedule adherence by 25%. They also use centralized procurement, saving 8-15% on material costs. Standardization through project startup checklists reduces rework by 35% within the first 30 days, significantly boosting overall project efficiency.
 
-### How do top construction companies manage equipment to save money?
+### How do top [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) manage equipment to save money?
 
 Elite contractors leverage data-driven equipment management to track utilization, aiming for over 80% efficiency. This significantly outperforms the industry average of 55-65%, reducing capital expenditure waste. By optimizing equipment use, firms avoid unnecessary purchases and improve the return on existing assets and profitability.
 

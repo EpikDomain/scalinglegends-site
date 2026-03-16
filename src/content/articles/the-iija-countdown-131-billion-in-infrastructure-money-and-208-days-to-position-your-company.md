@@ -128,6 +128,6 @@ To secure federal infrastructure contracts, mid-size contractors must prioritize
 
 The primary challenge for many mid-size contractors is inadequate prequalification for federal and state work, coupled with insufficient bonding capacity. Additionally, intense competition for remaining funds is growing, as states have already committed $249 billion. The uncertainty of post-IIJA reauthorization and a projected $149.7 billion shortfall in the Highway Trust Fund also pose future risks.
 
-### Are there still IIJA funds available for construction projects?
+### Are there still IIJA funds available for [construction projects](/article/surviving-the-messy-middle-of-construction-growth)?
 
 Yes, significant IIJA funds are still available, though the deadline of September 30, 2026, is rapidly approaching, with only 208 days remaining. While states have already committed $249 billion to over 113,000 projects, the article highlights that substantial opportunities, potentially totaling $131 billion, remain for contractors who strategically position themselves now.

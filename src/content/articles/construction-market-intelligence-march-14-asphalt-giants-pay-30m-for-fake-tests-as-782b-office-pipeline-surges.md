@@ -90,4 +90,4 @@ Energy and data centers are major growth engines. For example, Clayco recently l
 
 ### Why is regulatory compliance so important for construction businesses?
 
-Regulatory compliance is non-negotiable due to heightened scrutiny and severe penalties. The $30 million asphalt fraud case illustrates the financial and reputational risks of non-compliance. With new Army Corps Nationwide Permits taking effect and OSHA issuing citations for fatalities, adhering to safety, environmental, and ethical standards is crucial for avoiding legal issues and sustaining operations.
+Regulatory compliance is non-negotiable due to heightened scrutiny and severe penalties. [The $30 million asphalt fraud](/article/the-30-million-asphalt-fraud-why-fake-quality-tests-could-be-hiding-in-your-projects-right-now) case illustrates the financial and reputational risks of non-compliance. With new Army Corps Nationwide Permits taking effect and OSHA issuing citations for fatalities, adhering to safety, environmental, and ethical standards is crucial for avoiding legal issues and sustaining operations.

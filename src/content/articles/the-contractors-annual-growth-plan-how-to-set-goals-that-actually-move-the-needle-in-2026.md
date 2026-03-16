@@ -80,7 +80,7 @@ Your team is your most valuable asset, and a robust talent pipeline is critical 
 
 - **Reverse-Engineer Your Sales Targets.** Immediately calculate your required leads, close rate, and average job size needed to hit your revenue goal (e.g., $5M revenue / $50k job size / 20% close rate = 500 leads). Use a simple spreadsheet for this breakdown.
 
-- **Identify Your Top Operational Bottleneck.** Spend an hour pinpointing one high-impact operational system (like estimating or scheduling) that, if improved, would significantly boost efficiency and cash flow. Make a note to dedicate the next quarter to resolving it.
+- **Identify Your Top Operational Bottleneck.** Spend an hour pinpointing one high-impact operational system (like estimating or scheduling) that, if improved, would significantly boost efficiency and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies). Make a note to dedicate the next quarter to resolving it.
 
 - **Kickstart a Predictable Lead Engine.** Dedicate time this week to optimize your Google Business Profile with updated information and recent photos, and review your local SEO strategy to start generating consistent, non-referral leads.
 

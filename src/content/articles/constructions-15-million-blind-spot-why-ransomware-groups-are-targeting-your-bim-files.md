@@ -78,6 +78,6 @@ Yes, if your firm holds government contracts, CMMC Level 2 cybersecurity certifi
 
 Construction firms are targeted due to their wealth of valuable intellectual property like BIM files and proprietary methods, increasing reliance on connected digital tools, and a vast network of subcontractors often with weaker security. Historically, the industry has also invested less in cybersecurity compared to other sectors, making it a "softer" and more lucrative target for groups like Qilin and SafePay.
 
-### What is the first step to protect my construction company from ransomware?
+### What is the first step to protect my [construction company from](/article/how-to-start-construction-company-complete-guide-2026) ransomware?
 
 The immediate first step is to conduct a comprehensive five-step security audit, prioritizing the implementation of Multi-Factor Authentication (MFA) across all your systems. This fundamental security measure significantly enhances defense against unauthorized access and is essential for bolstering your firm's overall cybersecurity posture against escalating threats.

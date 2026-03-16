@@ -100,7 +100,7 @@ This strategic advantage extends to market positioning. Companies that can confi
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 
-## How to Prepare Your Construction Business for Upcoming AI Regulation
+## How to Prepare Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control) for Upcoming AI Regulation
 
 - **Conduct an Immediate AI Tool Audit.** Start this week by inventorying every AI tool currently in use, from project management platforms like Procore AI to specialized computer vision systems such as OpenSpace or Buildots. This initial audit should identify all AI touchpoints across your operations.
 

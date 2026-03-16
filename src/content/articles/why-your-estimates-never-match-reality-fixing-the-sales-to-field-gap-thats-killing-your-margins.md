@@ -84,7 +84,7 @@ Platforms like <a href=) help contractors systematize their operations so they c
 
 ## Frequently Asked Questions
 
-### How much does a sales-to-field gap cost my construction business?
+### How much does a sales-to-field gap cost my [construction business](/article/how-to-scale-a-construction-business-without-losing-control)?
 
 The sales-to-field gap significantly erodes profits. A single wasted truck roll can cost $150-$300. For a business with five crews experiencing just one such incident weekly, this totals $3,000-$6,000 in direct, avoidable costs monthly. These figures don't include lost productivity, project delays, or damaged client trust, which further impact your bottom line.
 

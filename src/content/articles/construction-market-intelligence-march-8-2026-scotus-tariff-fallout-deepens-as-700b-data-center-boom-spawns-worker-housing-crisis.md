@@ -118,4 +118,4 @@ Treasury Secretary Janet Yellen warns that interest rates will "effectively retu
 
 ### How severe is the construction workforce shortage globally and in the US?
 
-The global construction industry faces a severe talent crisis. The US alone has a projected gap of 499,000 workers, while Australia needs 486,000 by the end of 2026. This confirms a widespread shortage impacting project timelines and costs. Strategic investment in training, recruitment, and retention programs is paramount to address this ongoing challenge.
+The global [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) faces a severe talent crisis. The US alone has a projected gap of 499,000 workers, while Australia needs 486,000 by the end of 2026. This confirms a widespread shortage impacting project timelines and costs. Strategic investment in training, recruitment, and retention programs is paramount to address this ongoing challenge.

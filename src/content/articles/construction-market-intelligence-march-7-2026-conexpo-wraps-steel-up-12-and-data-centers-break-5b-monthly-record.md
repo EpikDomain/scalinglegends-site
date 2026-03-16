@@ -190,4 +190,4 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Actively Monitor Material Price Volatility.** Designate a team member to track daily or weekly price fluctuations for critical construction inputs such as steel, aluminum, and copper to inform real-time bidding strategies and procurement decisions.
 
-- **Re-evaluate Current Bid Margins.** Promptly review all ongoing bids and recently awarded projects (especially those submitted 60-90 days ago) to assess potential financial exposure due to the 50% tariffs on steel and aluminum, adjusting project management or client communication as necessary.
+- **Re-evaluate Current Bid Margins.** Promptly review all ongoing bids and recently awarded projects (especially those submitted 60-90 days ago) to assess potential financial exposure due to the 50% tariffs on steel and aluminum, adjusting [project management](/article/surviving-the-messy-middle-of-construction-growth) or client communication as necessary.

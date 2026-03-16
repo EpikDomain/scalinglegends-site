@@ -550,4 +550,4 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Actively Request Customer Reviews.** Encourage satisfied clients to leave positive reviews on your GBP; consider providing a direct link to make the process easy for them.
 
-- **Post Regular Updates and Offers.** Utilize the "Posts" feature on your GBP weekly to share project updates, special promotions, or relevant industry news, keeping your profile active and engaging.
+- **Post Regular Updates and Offers.** Utilize the "Posts" feature on your GBP weekly to share project updates, special promotions, or relevant [industry news](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), keeping your profile active and engaging.

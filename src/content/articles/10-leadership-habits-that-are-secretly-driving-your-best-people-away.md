@@ -86,9 +86,9 @@ Equally critical is the
 
 ## Frequently Asked Questions
 
-### How much does poor leadership cost a construction company?
+### How much does poor leadership cost [a construction company](/article/how-to-start-construction-company-washington-2026)?
 
-Poor leadership habits can cost construction companies thousands in recruitment and lost productivity. Unclear instructions lead to significant rework, material waste, and schedule delays, often exceeding the cost of actual skill gaps. Constant interruptions, known as context switching, cost employees 15-20 minutes to regain focus, severely hindering overall project output and efficiency.
+Poor leadership habits can cost [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) thousands in recruitment and lost productivity. Unclear instructions lead to significant rework, material waste, and schedule delays, often exceeding the cost of actual skill gaps. Constant interruptions, known as context switching, cost employees 15-20 minutes to regain focus, severely hindering overall project output and efficiency.
 
 ### How does context switching affect construction productivity?
 

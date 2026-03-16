@@ -123,7 +123,7 @@ A single impactful lever is to front-load your Schedule of Values. Aggressively 
 
 The #1 cognitive error is treating recorded profit as available cash. To avoid this, establish separate bank accounts for operating expenses, tax reserves, and profit. This ensures capital is properly allocated and protected, preventing the depletion of funds needed for ongoing operations, even when projects appear profitable on paper.
 
-### How far in advance should a construction company secure financing?
+### How far in advance should [a construction company](/article/how-to-start-construction-company-washington-2026) secure financing?
 
 Construction companies should secure lines of credit and bonding capacity proactively, 6-12 months before they are actually needed. Waiting for a crisis moment means facing higher interest rates, stricter terms, or even outright denial. Proactive financing ensures better terms and provides a crucial safety net for operating capital.
 

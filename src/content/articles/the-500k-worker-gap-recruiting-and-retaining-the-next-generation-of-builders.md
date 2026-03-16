@@ -125,6 +125,6 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 The construction industry is projected to need an additional 501,000 workers by 2026, beyond normal hiring, just to keep pace with demand. This significant gap, driven by retirements and increased construction activity, directly threatens project timelines, budgets, and growth for contractors. Addressing this shortage is critical to avoid delayed projects and missed opportunities.
 
-### How can construction companies attract and retain new talent?
+### How can [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) attract and retain new talent?
 
 To attract and retain new talent, contractors should implement modern, tech-integrated apprenticeship programs, which yield up to a 150% ROI. Investing in upskilling, cross-training, and clear career paths can reduce turnover by 30%.

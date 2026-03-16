@@ -252,7 +252,7 @@ The industry needs between 349,000 and 500,000 additional workers to meet curren
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 
-## How to Leverage CONEXPO's Emerging Tech for Your Construction Business
+## How to Leverage CONEXPO's Emerging Tech for Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control)
 
 - **Investigate Cat Compact Services.** Contact Caterpillar or visit their website this week to understand the Cat Compact platform, specifically designed for small to mid-size contractors for buying, renting, and servicing equipment.
 
