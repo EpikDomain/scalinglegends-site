@@ -87,7 +87,7 @@ Tracking these dates meticulously is paramount. Over 30% of construction liens a
 
 ## State-by-State Variations: Navigating the Lien Maze
 
-The phrase "state-by-state guide" is critical because construction lien laws are creatures of state statute. There is no federal mechanics lien law for private projects. What works in California will likely fail in Texas, and vice-versa. Understanding these variations is not just helpful; it's essential for any contractor operating across state lines or even within a single state where the nuances can be complex.
+The phrase "state-by-state guide" is critical because construction lien laws are creatures of state statute. There is no federal mechanics lien law for private projects. What works in California will likely fail in Texas, and vice-versa. Understanding these variations is not just helpful; it's essential for any [contractor operating](/article/the-contractor-operating-system-how-to-actually-grow-your-company-in-2026) across state lines or even within a single state where the nuances can be complex.
 
 Below is an overview of key requirements for the 10 largest construction markets in the U.S. as of 2026. This is a general guide; always consult with a local construction attorney or a specialized lien service for specific project advice.
 

@@ -211,7 +211,7 @@ This is a critical point that often trips up contractors moving to Georgia from 
 
 What does this mean for you? If you hold a contractor license in Florida, Alabama, Tennessee, North Carolina, South Carolina, or any other state, it generally will not transfer directly to Georgia. You will need to fulfill Georgia's specific requirements, including passing the Georgia Business and Law exam and the relevant trade exam (or NASCLA for General Contractors), and meeting all experience and financial criteria.
 
-Don't assume your out-of-state license will suffice. The DPL treats all applicants, regardless of prior licensing, as new applicants to the state's system. This ensures that every licensed contractor operating in Georgia understands and adheres to Georgia's specific laws and building codes.
+Don't assume your out-of-state license will suffice. The DPL treats all applicants, regardless of prior licensing, as new applicants to the state's system. This ensures that every licensed [contractor operating](/article/the-contractor-operating-system-how-to-actually-grow-your-company-in-2026) in Georgia understands and adheres to Georgia's specific laws and building codes.
 
 ## Setting Up [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026) in Georgia
 

@@ -108,7 +108,7 @@ Several states and cities now **require** employers above a certain size to offe
 
 - **Los Angeles**: 50+ full-time employees at a single worksite
 
-If you're a contractor operating in any of these markets with crews above the threshold, compliance isn't optional. And if you're not in a mandated market yet, the trend line is clear: it's coming.
+If you're a [contractor operating](/article/the-contractor-operating-system-how-to-actually-grow-your-company-in-2026) in any of these markets with crews above the threshold, compliance isn't optional. And if you're not in a mandated market yet, the trend line is clear: it's coming.
 
 ### Indiana Vanpool Subsidy
 
