@@ -112,7 +112,7 @@ LIHTC projects can offer stable, long-term pipelines but often come with complex
 
 Risks include a steep learning curve for new project types, unfamiliar compliance and regulatory requirements, the need for specialized equipment or training, and potential gaps in insurance coverage. Careful market research, strategic partnerships, and a phased entry strategy can mitigate these risks.
 
-## How to Successfully Pivot Your Construction Business
+## How to Successfully Pivot [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026)
 
 - **Conduct Deep Market Research.** Utilize data from sources like [Smart Business Automator](https://smartbusinessautomator.com) to identify specific project pipelines and funding mechanisms in target sectors (e.g., LIHTC projects in affordable housing, specific energy initiatives). Understand local and state-level demand.
 

@@ -953,7 +953,7 @@ For a new construction business, initial focus should be on building a strong fo
 
 Marketing a [construction company in](/article/how-to-start-construction-company-washington-2026) 2026 isn't about guesswork or hoping for the best. It's about strategic planning, consistent execution, and relentless measurement. For contractors scaling from $1M to $50M+, neglecting a robust marketing strategy is no longer an option; it's a direct impediment to growth.
 
-By implementing the strategies outlined in this guide – from dominating local search with your Google Business Profile and SEO, to leveraging targeted Google Ads, building powerful referral networks, and creating compelling content – you will transform your lead generation efforts. Stop leaving money on the table. Invest in your marketing with the same precision and commitment you bring to every construction project, and watch your company scale to new heights.
+By implementing the strategies outlined in this guide – from dominating local search with your Google Business Profile and SEO, to leveraging targeted Google Ads, building powerful referral networks, and creating compelling content – you will transform your lead generation efforts. [Stop leaving money on the table](/article/stop-leaving-money-on-the-table-pricing-self-respect-and-the-margins-you-deserve). Invest in your marketing with the same precision and commitment you bring to every construction project, and watch your company scale to new heights.
 
 Ready to build a marketing strategy that delivers? Explore more resources at [scalinglegends.com](https://scalinglegends.com).
 
