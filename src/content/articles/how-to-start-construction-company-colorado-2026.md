@@ -125,7 +125,7 @@ If your business owns or leases vehicles, or if employees use their personal veh
 
 ### Builder's Risk Insurance
 
-Also known as course of construction insurance, this covers property damage to a building while it's under construction. It typically covers the structure, materials, and equipment on-site. While often required by lenders or project owners, it's a smart investment for any substantial project.
+Also known as course of [construction insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back), this covers property damage to a building while it's under construction. It typically covers the structure, materials, and equipment on-site. While often required by lenders or project owners, it's a smart investment for any substantial project.
 
 ### Bonding
 

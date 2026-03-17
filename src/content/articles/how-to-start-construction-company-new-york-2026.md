@@ -334,7 +334,7 @@ New York's workers' comp premiums are notoriously high. Several factors determin
 **Managing WC Costs:**
 *   **Prioritize Safety:** This is your #1 lever. Invest in training, proper equipment, and a safety-first culture.
 *   **Manage Claims:** Respond quickly and effectively to any injuries, focusing on getting employees back to work safely.
-*   **Work with an Experienced Broker:** A broker specializing in New York construction insurance can help you navigate options, find the best rates, and understand your policy.
+*   **Work with an Experienced Broker:** A broker specializing in New York [construction insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back) can help you navigate options, find the best rates, and understand your policy.
 *   **Understand Your EMR:** Monitor it closely and understand how it impacts your business.
 
 ### Final Word: Your Empire State Journey Begins

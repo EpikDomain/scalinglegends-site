@@ -149,7 +149,7 @@ Your license isn't a one-and-done deal. You'll need to renew it annually and mai
 
 Specialty trades (Electrical, Plumbing, HVAC) have separate licensing boards and requirements. The General Contractor license covers the overall project management and coordination, not necessarily the hands-on work of these licensed trades.
 
-## Essential North Carolina Construction Insurance & Bonding
+## Essential North Carolina [Construction Insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back) & Bonding
 
 Operating in construction without proper insurance is like building a house on quicksand. In North Carolina, it's not just smart business; much of it is legally mandated.
 
