@@ -128,7 +128,7 @@ The EU AI Act significantly impacts American construction businesses by establis
 
 The Act targets AI systems posing significant risks to health, safety, or fundamental rights in construction. This includes safety monitoring cameras, computer vision systems for worker tracking, automated scheduling tools, and predictive hiring analytics. Contractors must understand and audit these systems to ensure compliance.
 
-### What should US construction companies do to prepare for the EU AI Act?
+### What should [US construction companies](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) do to prepare for the EU AI Act?
 
 American contractors should immediately audit all AI tools in use, document how they work, what data they consume, and integrate human oversight into decision-making processes. Implementing clear human review for AI-driven safety or critical project outcomes is non-negotiable. Early movers gain a competitive advantage in securing future contracts.
 

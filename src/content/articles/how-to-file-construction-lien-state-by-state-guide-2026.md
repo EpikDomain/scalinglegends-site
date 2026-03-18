@@ -298,7 +298,7 @@ A critical distinction for contractors to understand is the difference between m
 
 #### The Miller Act (Federal Projects)
 
-For federal construction projects (e.g., post offices, military bases), the federal Miller Act requires prime contractors on contracts over $100,000 to furnish a payment bond to protect subcontractors and suppliers.
+For [federal construction projects](/article/get-paid-in-less-than-30-days-winning-federal-construction-projects) (e.g., post offices, military bases), the federal Miller Act requires prime contractors on contracts over $100,000 to furnish a payment bond to protect subcontractors and suppliers.
 
 *   **Notice Requirements:** Subcontractors not in direct contract with the prime contractor must provide written notice to the prime contractor within 90 days from the date of last furnishing labor or materials.
 *   **Lawsuit Deadline:** A lawsuit to enforce a Miller Act bond claim must be filed within one year from the date of last furnishing labor or materials.

@@ -136,7 +136,7 @@ The current geopolitical climate underscores a fundamental truth: reliance on vo
 
 **Diversifying Material Sourcing:** Beyond diversifying suppliers, consider diversifying the geographical source of your materials. Nearshoring or reshoring certain manufacturing processes can reduce reliance on complex, vulnerable global supply chains, mitigating risks associated with international shipping disruptions and geopolitical tensions.
 
-**Modular and Prefabricated Construction:** These methods can significantly reduce on-site construction time, thereby lowering fuel consumption for equipment and transportation. By shifting more work to controlled factory environments, you can also optimize material usage and reduce waste, further impacting overall project costs.
+**Modular and [Prefabricated Construction](/article/prefabricated-construction-2026-why-the-413-billion-offsite-building-boom-is-the-biggest-opportunity-most-contractors-are-ignoring):** These methods can significantly reduce on-site construction time, thereby lowering fuel consumption for equipment and transportation. By shifting more work to controlled factory environments, you can also optimize material usage and reduce waste, further impacting overall project costs.
 
 ### Workforce Training and Culture of Efficiency
 

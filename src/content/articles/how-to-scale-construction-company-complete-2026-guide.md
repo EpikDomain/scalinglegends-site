@@ -52,7 +52,7 @@ Reaching $5 million signifies a transition to a more professionalized business. 
 
 ### $10 Million to $50 Million: Enterprise Expansion
 
-Scaling beyond $10 million means thinking like an enterprise. This involves potentially diversifying service offerings, expanding into new geographic markets, or even considering mergers and acquisitions. Leadership development, succession planning, and sophisticated financial management are paramount. You'll need C-suite level executives and a strong board of advisors. Technology adoption, including AI for predictive analytics and advanced BIM, is no longer optional but a competitive necessity. Only about 6% of construction companies in the U.S. achieve revenues over $10 million, illustrating the significant challenges and strategic execution required at this level.
+Scaling beyond $10 million means thinking like an enterprise. This involves potentially diversifying service offerings, expanding into new geographic markets, or even considering mergers and acquisitions. Leadership development, succession planning, and sophisticated financial management are paramount. You'll need C-suite level executives and a strong board of advisors. Technology adoption, including AI for predictive analytics and advanced BIM, is no longer optional but a competitive necessity. Only about 6% of [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) the U.S. achieve revenues over $10 million, illustrating the significant challenges and strategic execution required at this level.
 
 ## Establishing Robust Systems for Scalability
 

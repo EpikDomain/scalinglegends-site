@@ -151,7 +151,7 @@ Colorado has a flat state income tax rate of 4.40% (as of 2024, subject to chang
 
 ### Sales Tax on Materials
 
-This is a critical area for construction companies in Colorado. While the state sales tax rate is 2.9%, you must also account for county, city, and special district sales taxes. These can vary significantly by location, sometimes adding another 3-8% or more to the state rate.
+This is a critical area for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Colorado. While the state sales tax rate is 2.9%, you must also account for county, city, and special district sales taxes. These can vary significantly by location, sometimes adding another 3-8% or more to the state rate.
 
 **Key Point:** As a contractor in Colorado, you are generally considered the "end user" of materials incorporated into real property. This means you typically pay sales tax on your material purchases to your suppliers, and then you do *not* charge your client sales tax on the final project. If you purchase materials out-of-state or from a vendor who doesn't collect Colorado sales tax, you'll likely owe Colorado Use Tax on those purchases.
 

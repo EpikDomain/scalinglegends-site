@@ -489,7 +489,7 @@ Prevailing wage laws require contractors and subcontractors to pay their workers
 
 You can find government opportunities by registering on state bid portals like Cal eProcure, and local agency portals like PlanetBids. Also, check the websites of specific agencies like Caltrans, the Department of General Services (DGS), and individual city and county public works departments.
 
-### What are the biggest challenges for new construction companies in California?
+### What are the biggest challenges for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) California?
 
 The biggest challenges include the state's high regulatory burden, high labor costs and a shortage of skilled workers, intense competition, permitting delays, and the overall high cost of doing business (real estate, insurance, taxes).
 

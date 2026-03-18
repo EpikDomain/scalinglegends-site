@@ -49,7 +49,7 @@ Before you swing a hammer, you need to set up your legal framework. In Arizona, 
 
 #### Choosing Your Entity Type: LLC vs. Corporation
 
-Most new construction companies in Arizona opt for one of two structures:
+Most new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Arizona opt for one of two structures:
 
 - **Limited Liability Company (LLC):** This is popular for a reason. It offers personal liability protection (separating your personal assets from business debts) and flexible taxation. You can choose to be taxed as a sole proprietorship, partnership, S-Corp, or even a C-Corp for federal tax purposes. For state income tax, Arizona treats LLCs as pass-through entities by default, meaning profits and losses are reported on your personal income tax return.
 

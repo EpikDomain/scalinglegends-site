@@ -26,7 +26,7 @@ Sacramento just lost 5,100 construction jobs. Private office construction is dow
 
 - **Subcontracting First is Key.** Successful sector pivots often begin 12-18 months in advance by taking subcontractor roles in the new target sector, building experience and relationships without initial full-scale risk.
 
-- **Modular Construction is a Strategic Advantage.** With California needing 1 million affordable homes by 2030, modular and prefabricated construction capabilities offer a significant structural advantage for speed and cost efficiency.
+- **Modular Construction is a Strategic Advantage.** With California needing 1 million affordable homes by 2030, modular and [prefabricated construction](/article/prefabricated-construction-2026-why-the-413-billion-offsite-building-boom-is-the-biggest-opportunity-most-contractors-are-ignoring) capabilities offer a significant structural advantage for speed and cost efficiency.
 
 - **Insurance Risk Must Be Managed.** Switching sectors alters your risk profile; ensure your General Liability and other insurance coverages are updated to match the new scope of work to avoid critical gaps.
 

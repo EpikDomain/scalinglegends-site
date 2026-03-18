@@ -219,7 +219,7 @@ Public projects are a consistent source of work and can provide stability, thoug
 *   **TxDOT (Texas Department of Transportation):** Regularly bids out highway construction, bridge repair, and maintenance projects. Their website (www.txdot.gov) is the place to look for bid opportunities.
 *   **State Agencies:** Texas Facilities Commission (TFC), Texas Parks and Wildlife Department, universities (e.g., UT System, Texas A&M System) all have construction needs. Check their respective procurement websites.
 *   **Local Municipalities:** Cities, counties, school districts, utility districts, and hospital districts frequently issue RFPs (Requests for Proposals) or ITBs (Invitations to Bid) for various [construction projects](/article/surviving-the-messy-middle-of-construction-growth). Check their public procurement portals.
-*   **Federal Projects:** Military bases (e.g., Fort Hood, Lackland AFB, NAS Corpus Christi) often have federal construction projects. Look for these on SAM.gov (System for Award Management).
+*   **Federal Projects:** Military bases (e.g., Fort Hood, Lackland AFB, NAS Corpus Christi) often have [federal construction projects](/article/get-paid-in-less-than-30-days-winning-federal-construction-projects). Look for these on SAM.gov (System for Award Management).
 
 ### Online Bid Boards and Networking
 
@@ -361,7 +361,7 @@ The absolute first step is to develop a comprehensive business plan that specifi
 
 No, Texas does not have a statewide general contractor license. However, this is a critical distinction: many individual cities and counties, such as Houston and San Antonio, require local registration or licensing to pull permits and operate within their jurisdictions. Always check with the specific municipality where you plan to work before bidding on or starting a project. Additionally, specific trades like electrical, plumbing, and HVAC require state-level licensing through the TDLR or TSBPE.
 
-### Is Workers' Compensation insurance mandatory for construction companies in Texas?
+### Is Workers' Compensation insurance mandatory for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Texas?
 
 No, Texas is unique in that it does not mandate Workers' Compensation insurance for most private employers. However, opting out means you lose crucial common law defenses if an employee is injured and sues your company. Furthermore, most general contractors and public entities will *require* their subcontractors to carry WC insurance. For these reasons, it is highly recommended to carry Workers' Compensation insurance, even if not legally required by the state.
 

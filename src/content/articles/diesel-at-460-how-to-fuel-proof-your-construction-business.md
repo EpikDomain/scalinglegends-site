@@ -18,7 +18,7 @@ sponsors:
 
 ## Frequently Asked Questions
 
-### How much does diesel fuel cost for construction companies in 2026?
+### How much does diesel fuel cost for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) 2026?
 
 As of March 2026, diesel prices have hit $4.60 per gallon nationally, up from $3.85 in January 2026. Construction companies typically spend 5-8% of total project costs on fuel. For a mid-size contractor running 10 pieces of heavy equipment, that translates to $15,000-$25,000 per month in fuel costs alone. Oil breaking $103 per barrel is the primary driver, with geopolitical tensions keeping prices elevated.
 

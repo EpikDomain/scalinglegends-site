@@ -442,7 +442,7 @@ Generally, no. Florida does not have a state-level prevailing wage law for state
 
 They can be very high. Florida construction WC rates are among the highest in the nation due to inherent risks, the state's unique environment, and specific insurance market factors. Costs depend on your payroll, NCCI classification codes, and your company's safety record (EMR). Expect it to be a significant operating expense, and work with specialized brokers to manage it.
 
-### What are the biggest challenges for new construction companies in Florida?
+### What are the biggest challenges for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Florida?
 
 Key challenges include navigating Florida's rigorous licensing process, high insurance costs (especially WC and property insurance), persistent labor shortages, material supply chain issues, variable local permitting processes, and intense competition. Building a strong network, focusing on safety and quality, and effective [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies) are crucial for overcoming these hurdles.
 

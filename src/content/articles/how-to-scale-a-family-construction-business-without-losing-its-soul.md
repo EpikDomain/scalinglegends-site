@@ -33,7 +33,7 @@ Over 80% of [construction companies](/article/construction-market-intelligence-m
 
 ## Separating Family Dynamics from Business Decisions: The Core Challenge for a Family Construction Business
 
-The foundation of a successful, scaling family construction business rests on its ability to draw a clear line between the dinner table and the boardroom. With over 80% of all construction companies in the US being family-owned, this distinction is often blurred, leading to the number one killer of these firms: the inability to separate family dynamics from business decisions. When personal relationships dictate operational choices, the business inevitably suffers from inefficiency, favoritism, and internal conflict.
+The foundation of a successful, scaling family construction business rests on its ability to draw a clear line between the dinner table and the boardroom. With over 80% of all [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) the US being family-owned, this distinction is often blurred, leading to the number one killer of these firms: the inability to separate family dynamics from business decisions. When personal relationships dictate operational choices, the business inevitably suffers from inefficiency, favoritism, and internal conflict.
 
 Consider a scenario where a less-qualified family member is promoted over a highly competent, non-family employee simply due to their last name. This not only demoralizes the non-family talent, making it incredibly difficult to attract and retain skilled professionals, but also sends a clear message that merit takes a backseat to kinship. Over time, this erodes morale, productivity, and ultimately, profitability.
 

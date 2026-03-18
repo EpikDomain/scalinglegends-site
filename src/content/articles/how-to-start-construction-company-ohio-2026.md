@@ -61,7 +61,7 @@ This is a fundamental decision impacting liability, taxation, and administrative
 
 - **Sole Proprietorship/Partnership:** Easiest to set up, but offers no personal liability protection. Your personal assets are at risk if your business faces lawsuits or debt. Not recommended for construction due to inherent risks.
 
-**Limited Liability Company (LLC):** This is the most popular choice for new construction companies in Ohio.
+**Limited Liability Company (LLC):** This is the most popular choice for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Ohio.
 
 - **Pros:** Offers personal liability protection (separates your personal assets from business debts and lawsuits), flexible taxation (can be taxed as a sole proprietorship, partnership, or even a corporation), and less administrative burden than a corporation.
 

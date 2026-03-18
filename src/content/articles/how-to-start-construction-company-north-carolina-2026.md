@@ -73,7 +73,7 @@ Your choice of business entity has significant implications for liability, taxat
 
 - **Sole Proprietorship/Partnership:** Simple to set up but offers no personal liability protection. Not recommended for a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) due to inherent risks.
 
-For most new construction companies in NC, an LLC electing S-Corp taxation is a common and often advantageous structure.
+For most new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) NC, an LLC electing S-Corp taxation is a common and often advantageous structure.
 
 ### Registering with the NC Secretary of State in Raleigh
 

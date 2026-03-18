@@ -481,7 +481,7 @@ A: It depends on the size of the projects you intend to undertake. A Class C lic
 
 A: The process can take anywhere from 2 to 4 months, sometimes longer if there are issues with your application. This includes time for the mandatory 8-hour pre-license course (for A/B), DPOR's application review, scheduling and passing the PSI exams, and the final processing of your license. Submitting a complete and accurate application from the start is crucial to avoid delays.
 
-### Q: What are the biggest opportunities for new construction companies in Virginia?
+### Q: What are the biggest opportunities for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Virginia?
 
 A: In 2026, Northern Virginia's data center and federal contracting sectors remain massive. Richmond offers strong opportunities in adaptive reuse, healthcare, and state government projects. Hampton Roads is robust with military, port, and coastal resilience work. Specialized trades, niche markets, and strong subcontracting relationships with established GCs are excellent entry points for new companies across the state.
 

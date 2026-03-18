@@ -541,7 +541,7 @@ No, not necessarily a *state* contractor's license. In Tennessee, a state contra
 
 ### Is Tennessee a good state to start a construction company?
 
-Yes, absolutely. Tennessee, particularly markets like Nashville, is experiencing significant growth across commercial, residential, and infrastructure sectors. The state's business-friendly environment, strategic location, and lack of state individual income tax (a draw for skilled labor) make it a highly attractive market for construction companies in 2026.
+Yes, absolutely. Tennessee, particularly markets like Nashville, is experiencing significant growth across commercial, residential, and infrastructure sectors. The state's business-friendly environment, strategic location, and lack of state individual income tax (a draw for skilled labor) make it a highly attractive market for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) 2026.
 
 ### What is the minimum insurance for a contractor in Tennessee?
 
