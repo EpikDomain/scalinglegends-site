@@ -2,7 +2,8 @@
 title: "The K-Shaped Construction Economy: Small Contractor Survival Guide 2026"
 description: "The construction industry has split into two economies. Firms over $100M have the highest backlog since 2021 while firms under $30M sit at a 4-year low. Only 6% of small firms have data center work vs 37% of large. Here's how to survive and pivot."
 date: "2026-03-10"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-k-shaped-construction-economy-small-contractor-survival--1773165720.png"
+image: "/img/articles/the-k-shaped-construction-economy-small-contractor-survival-guide-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-k-shaped-construction-economy-small-contractor-survival--1773165720.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616355/scalinglegends/2026_03_10_11_51_37_377fa7cf-5fc5-4c4d-bd73-a0431e4b0c41.mp3"
 readTime: "11 min read"
 published: true
