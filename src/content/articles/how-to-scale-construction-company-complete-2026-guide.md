@@ -1,9 +1,8 @@
 ---
-title: "How to Scale a Construction Company in 2026: The Complete Guide"
-description: "The complete roadmap for scaling a construction company from $1M to $50M in 2026. Revenue milestones, systems, hiring, cash flow, and the leadership transitions that separate contractors who grow from those who plateau."
+title: "Scale Construction: Grow Your Business by 2026"
+description: "Learn the exact steps to scale your construction company to new heights by 2026. Get actionable strategies for revenue, systems, and leadership transitions."
 date: "2026-02-12"
 image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete-2026-guide.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2609071/scalinglegends/2026_03_07_21_45_58_8872c400-b540-4361-a955-77671faf4e60.mp3"
 readTime: "41 min read"
 published: true
 season: 2
@@ -28,7 +27,7 @@ sponsors:
 
 - **Leadership Must Evolve:** Transition from being an owner-operator to a strategic leader. Delegate effectively, empower your team, and focus on long-term vision rather than day-to-day minutiae.
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is dynamic, with opportunities for significant growth for those prepared to seize them. As we look towards 2026, the landscape for [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) is ripe with technological advancements, evolving client expectations, and a continuous demand for quality infrastructure. This comprehensive guide provides a tactical blueprint for how to scale a construction company, transforming a small operation into a thriving enterprise. Whether you're wondering how to scale a small construction business from its foundational stages or looking for strategies on how to take your construction company to the next level, the principles outlined here are designed to guide you through every critical phase of expansion.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is dynamic, with opportunities for significant growth for those prepared to seize them. As we look towards 2026, the landscape for [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) is ripe with technological advancements, evolving client expectations, and a continuous demand for quality infrastructure. This comprehensive guide provides a tactical blueprint for how to scale [a construction company](/article/how-to-start-construction-company-washington-2026), transforming a small operation into a thriving enterprise. Whether you're wondering how to scale a small construction business from its foundational stages or looking for strategies on how to take your construction company to the next level, the principles outlined here are designed to guide you through every critical phase of expansion.
 
 <iframe src="https://www.youtube.com/embed/qNx-M-xqE6g" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
