@@ -1,5 +1,6 @@
 ---
 import '../styles/tailwind.css';
+import { inject } from '@vercel/analytics';
 
 interface Props {
   title: string;
@@ -36,6 +37,9 @@ const {
   howToSteps = [],
   definedTerms = [],
 } = Astro.props;
+
+// Initialize Vercel Analytics
+inject();
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
 const siteName = 'Scaling Legends';

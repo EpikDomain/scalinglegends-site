@@ -2,7 +2,8 @@
 title: "Cash Flow Q and A: How to Predict Your Profit Before the Project Even Starts"
 description: "Cash flow kills more construction companies than bad work ever will. This episode is a rapid-fire Q and A format tackling the most common cash flow questions contractors face: how to forecast profit accurately, when to chase volume vs margin, how to structure payment schedules, what to do when a client slow-pays, and the specific cash flow ratios every contractor should track weekly."
 date: "2026-03-16"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/cash-flow-q-and-a-how-to-predict-your-profit-before-the-proj-1773670899.png"
+image: "/img/articles/cash-flow-q-and-a-how-to-predict-your-profit-before-the-project-even-starts-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/cash-flow-q-and-a-how-to-predict-your-profit-before-the-proj-1773670899.png"
 audioUrl: "https://content.rss.com/episodes/332597/2632307/scalinglegends/2026_03_16_14_24_01_20cdc0a7-95a7-4fc5-8a68-9c914dbb7969.mp3"
 readTime: "17 min read"
 published: true
