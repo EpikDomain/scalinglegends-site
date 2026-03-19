@@ -3,7 +3,7 @@ title: "How to Systematize Your Construction Business with SOPs and Software"
 description: "Stop running your construction company from your head. This guide covers SOP frameworks, the technology stack hierarchy, automation tools, and how to build systems that let you scale without being the bottleneck."
 date: "2026-03-11"
 image: "https://scalinglegends.com/og/how-to-systematize-construction-business-sops-software-2026.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2636375/scalinglegends/2026_03_17_14_45_41_e8aa16a3-de1d-4452-8c8f-32ad84674961.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2641232/scalinglegends/2026_03_19_09_01_54_2b573353-1dbc-4a4c-bc8f-994dec349a2d.mp3"
 readTime: "44 min read"
 published: true
 season: 2
