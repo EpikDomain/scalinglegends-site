@@ -17,7 +17,7 @@ function getSessionId(): string {
 
 async function supabaseInsert(table: string, row: Record<string, unknown>) {
   try {
-    await fetch(`${SUPABASE_URL}/rest/v1/${table}`, {
+    const res = await fetch(`${SUPABASE_URL}/rest/v1/${table}`, {
       method: 'POST',
       headers: {
         'apikey': SUPABASE_ANON_KEY,
@@ -27,6 +27,10 @@ async function supabaseInsert(table: string, row: Record<string, unknown>) {
       },
       body: JSON.stringify(row),
     });
+    if (!res.ok && res.status === 404) {
+      // Table doesn't exist yet -- silently skip to avoid console noise
+      return;
+    }
   } catch {
     // Analytics should never break the site
   }

@@ -2,7 +2,7 @@
 title: "Dead Malls to Dream Homes: How Adaptive Reuse Construction Is Creating the Next $50 Billion Opportunity"
 description: "Across North America, dying shopping malls and vacant commercial spaces are being converted into housing. Canada is leading the trend as its housing crisis forces creative solutions, but US municipalities are following fast. This guide covers the adaptive reuse construction boom -- what it takes to convert commercial to residential, the unique skills needed, how to win these contracts, and why this niche is about to explode."
 date: "2026-03-16"
-image: "/scaling-legends-cover.jpg"
+image: "/scaling-legends-cover-630.webp"
 audioUrl: "https://content.rss.com/episodes/332597/2630761/scalinglegends/2026_03_15_22_20_38_04fd7877-035a-489e-9ae1-6b6286c3c1ea.mp3"
 readTime: "17 min read"
 published: true

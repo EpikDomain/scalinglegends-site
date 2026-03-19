@@ -24,7 +24,7 @@ interface Props {
 const {
   title,
   description,
-  image = 'https://scalinglegends.com/scaling-legends-cover.jpg',
+  image = 'https://scalinglegends.com/scaling-legends-cover-630.webp',
   article = false,
   keywords = [],
   audioUrl,
@@ -64,7 +64,7 @@ const orgSchema: Record<string, unknown> = {
   "@id": "https://scalinglegends.com/#organization",
   "name": "Scaling Legends",
   "url": "https://scalinglegends.com",
-  "logo": { "@type": "ImageObject", "url": "https://scalinglegends.com/scaling-legends-cover.jpg" },
+  "logo": { "@type": "ImageObject", "url": "https://scalinglegends.com/scaling-legends-cover-630.webp" },
   "description": "Data-driven podcast and market intelligence platform for construction contractors scaling from $1M to $50M.",
   "foundingDate": "2024",
   "sameAs": [
@@ -308,6 +308,12 @@ const structuredDataGraph = {
   {audioUrl && <meta property="og:audio:type" content="audio/mpeg" />}
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+  <!-- Preconnect to Supabase for analytics -->
+  <link rel="preconnect" href="https://yzlcegvoqenqjxbdmxns.supabase.co" />
+
+  <!-- Preload self-hosted Inter font -->
+  <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
 
   <script type="application/ld+json" set:html={JSON.stringify(structuredDataGraph)} />
 </head>
