@@ -2,8 +2,8 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "scalinglegends.com" }],
-      "destination": "https://www.scalinglegends.com/$1",
+      "has": [{ "type": "host", "value": "www.scalinglegends.com" }],
+      "destination": "https://scalinglegends.com/$1",
       "permanent": true
     }
   ]

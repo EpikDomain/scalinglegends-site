@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   site: 'https://scalinglegends.com',
+  trailingSlash: 'never',
   integrations: [sitemap()],
   output: 'static',
   vite: {

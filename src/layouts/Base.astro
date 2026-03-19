@@ -39,11 +39,13 @@ const {
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
 const siteName = 'Scaling Legends';
-// SEO: keep rendered title under 60 chars to prevent SERP truncation
+// SEO: prefer showing the full article title in SERPs.
+// Only append the brand suffix if the combined length stays under 60 chars.
+// A truncated-but-meaningful title beats a short title with a brand tag.
 const suffix = ` | ${siteName}`;
-const maxTitleLen = 60 - suffix.length; // ~41 chars for the title portion
-const truncatedTitle = title.length > maxTitleLen ? title.substring(0, maxTitleLen).replace(/\s+\S*$/, '') : title;
-const fullTitle = title === siteName ? title : `${truncatedTitle}${suffix}`;
+const fullTitle = title === siteName
+  ? title
+  : (title.length + suffix.length <= 60 ? `${title}${suffix}` : title);
 
 const currentPath = Astro.url.pathname;
 
