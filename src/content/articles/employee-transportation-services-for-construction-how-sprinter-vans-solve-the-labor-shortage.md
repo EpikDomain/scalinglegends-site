@@ -2,8 +2,7 @@
 title: "Employee Transportation Services for Construction: How Sprinter Vans Solve the Labor Shortage"
 description: "Construction workers have the longest commutes of any profession. With turnover at 68.2% in 2025, contractors are using shuttle services, electric Sprinter vans, and vanpool programs to retain crews. Case studies from Walmart, data center mega-projects, and a 0/month vanpool that's proving the model."
 date: "2026-03-07"
-image: "/img/articles/employee-transportation-services-for-construction-how-sprinter-vans-solve-the-labor-shortage-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/employee-transportation-construction-1772868761.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/employee-transportation-construction-1772868761.png"
 audioUrl: "https://content.rss.com/episodes/332597/2608578/scalinglegends/2026_03_07_16_17_09_cd1d188b-2a26-4be5-84aa-93dd607ba75b.mp3"
 readTime: "20 min read"
 published: true

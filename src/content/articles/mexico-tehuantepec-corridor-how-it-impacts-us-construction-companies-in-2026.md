@@ -2,7 +2,7 @@
 title: "Mexico Tehuantepec Corridor: How It Impacts US Construction Companies in 2026"
 description: "Mexico's $4.5 billion Interoceanic Corridor connecting the Pacific and Gulf coasts is reshaping trade routes and driving massive construction demand across the US Gulf Coast, Texas border, and Southeast port cities."
 date: "2026-03-18"
-image: "/scaling-legends-cover-630.webp"
+image: "/scaling-legends-cover.jpg"
 readTime: "20 min read"
 published: true
 season: 2
