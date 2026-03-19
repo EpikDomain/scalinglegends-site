@@ -2,8 +2,7 @@
 title: "Tariff Survival Playbook: How Smart Contractors Beat 50% Steel Tariffs"
 description: "Deep dive into the 50% steel tariff impact on construction and the exact playbook contractors are using to protect margins through escalation clauses, bidding strategy, and procurement tactics."
 date: "2026-03-05"
-image: "/img/articles/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tariff-survival-playbook-how-smart-contractors-beat-50-steel-1772743905.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tariff-survival-playbook-how-smart-contractors-beat-50-steel-1772743905.png"
 audioUrl: "https://content.rss.com/episodes/332597/2604313/scalinglegends/2026_03_05_19_17_46_ab0893a2-345c-4158-a30a-b9a7cb3b3b67.mp3"
 readTime: "8 min read"
 published: true

@@ -2,8 +2,7 @@
 title: "The Contractor's Guide to Project Workflow Automation"
 description: "How to automate the repetitive project management tasks that drain your team's time. The workflows, tools, and implementation order that work for contractors."
 date: "2026-03-05"
-image: "/img/articles/the-contractors-guide-to-project-workflow-automation-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
 readTime: "8 min read"
 published: true
 season: 2
