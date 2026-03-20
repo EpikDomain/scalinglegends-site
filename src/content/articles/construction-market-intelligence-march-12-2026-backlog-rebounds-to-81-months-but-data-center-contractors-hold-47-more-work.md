@@ -13,6 +13,7 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 Backlog hits 8.1 months as data center builders stack 11.2 months of work vs 7.6 for everyone else. Plus: BlackRock drops $100M on trades training, contech startups pull $126M, and Dodge planning index slides 7.3%.
 

@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 Daily market intelligence covering Volvo's closure of Rokbak articulated haulers due to tariff pressure, the Trump administration's DBE program overhaul threatening 50,000 minority contractors' access to $1.2 trillion in infrastructure funding, Turner's $900M Pennsylvania hospital going vertical, Georgia's $4.6B SR400 P3 highway project, CompanyCam acquiring Beam Finance, Tennessee E-Verify bill, Kennedy Center $257M rehab, and global intel.

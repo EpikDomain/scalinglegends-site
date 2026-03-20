@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 Liberty Mutual just warned that mega projects are exposing GCs to unprecedented risk. With Canada planning $115 [billion in infrastructure](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) and the US IIJA pipeline surging, the 65% failure rate on billion-dollar projects is about to hit more contractors than ever. This episode breaks down the risk categories, the broker selection mistake that kills contractors, and how to protect your business.

@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 Global prefab market: $292B today heading to $413B by 2031. Volumetric modular holds 47.4% share. 25-50% time savings, 25% cost reduction. This is the practical entry guide for mid-market contractors who have not made a single move toward prefab.

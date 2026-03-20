@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 A Texas steel erector lost $870,000 in two electronic payments after a dual email and telephone fraud attack. Cyber insurance covered only $250,000. BEC losses hit $2.77 billion in 2024 with construction as the #1 target. This episode breaks down the attack and 6 prevention steps.

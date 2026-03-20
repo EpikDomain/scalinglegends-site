@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 77% of [women in construction](/article/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026) trades report their PPE does not fit properly. 42% say it makes them LESS safe. Women have 3x higher musculoskeletal injury rates in construction. With 500K unfilled jobs and women as the largest untapped labor pool, this PPE gap is both a safety crisis and a retention killer.

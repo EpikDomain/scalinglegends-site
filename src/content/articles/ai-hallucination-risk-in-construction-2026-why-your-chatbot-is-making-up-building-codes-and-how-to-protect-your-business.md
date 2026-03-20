@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 AI chatbots are generating fabricated building codes, fake OSHA regulation numbers, and flawed cost estimates that look perfectly accurate. With 71% of E&C firms now piloting AI and hallucination rates hitting 27% on technical queries, the first construction-specific liability case is coming. This episode breaks down the risk and gives you a 5-step protection framework.

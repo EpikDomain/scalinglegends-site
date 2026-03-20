@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 Today's market intelligence covers the bombshell report that Trump is considering rolling back steel and aluminum tariffs, February's 92,000 job losses confirmed by BLS, OSHA's brand-new Safety Champions Program, Hensel Phelps deploying AI across 200+ jobsites, a $13.8M AI construction startup backed by General Catalyst, Ohio's E-Verify law taking effect, and the UK awarding a 200 million pound fusion reactor [construction contract](/article/how-to-write-construction-contract-guide-2026). Data-backed insights for contractors navigating March 2026.

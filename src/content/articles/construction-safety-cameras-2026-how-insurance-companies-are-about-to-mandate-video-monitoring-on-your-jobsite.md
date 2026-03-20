@@ -13,5 +13,6 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 Zurich Insurance now requires Arrowsight camera coaching on all wrap-up projects in New York and is rolling out nationally. Suffolk Construction achieved a 72% reduction in workers comp claims. Posillico dropped EMR from 0.65 to 0.25. This episode explains what contractors need to know before their insurer calls.

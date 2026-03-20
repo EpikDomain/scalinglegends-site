@@ -13,6 +13,7 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+noindex: true
 
 ABC's February data reveals a growing divide: firms with data center work hold 11.2 months of backlog while everyone else sits at 7.6. Here's what smaller contractors can do about it.
 
