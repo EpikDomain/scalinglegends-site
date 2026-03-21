@@ -88,7 +88,7 @@ Despite all the AI disruption, local search remains the most powerful lead gener
 
 The strategy is not to abandon local search. It is to adapt how you show up in it. The 5 moves outlined below are specifically designed for the AI search era while maintaining your local search dominance.
 
-## The 5 SEO Moves Every Contractor Must Make Now
+## The 5 SEO Moves [Every Contractor Must](/article/construction-dispute-warning-2026-the-230-million-timber-tower-that-collapsed-before-it-was-built-and-what-every-contractor-must-learn) Make Now
 
 ### 1. Google Business Profile: Your Most Important Digital Asset
 

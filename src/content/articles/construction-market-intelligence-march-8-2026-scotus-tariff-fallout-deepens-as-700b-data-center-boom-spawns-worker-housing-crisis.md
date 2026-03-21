@@ -44,7 +44,7 @@ Producer price indexes reflect this ongoing inflationary environment. Data compi
 
 **KEY STAT: Steel and aluminum tariffs remain at 50%, with Treasury forecasting interest rates to return to pre-ruling levels by August, negating tariff relief.**
 
-This ruling, or lack thereof in critical areas, directly impacts the cost of doing business and underscores the need for sophisticated [construction cash flow management](/article/construction-cash-flow-management). Contractors cannot afford to assume market conditions will ease; instead, they must adapt to a persistent environment of higher material costs and volatile interest rates.
+This ruling, or lack thereof in critical areas, directly impacts the cost of doing business and underscores the need for sophisticated [construction cash flow management](/article/construction-cash-flow-management). [Contractors cannot afford](/article/green-building-construction-2026-the-uk-just-set-the-standard-and-here-is-why-us-contractors-cannot-afford-to-ignore-it) to assume market conditions will ease; instead, they must adapt to a persistent environment of higher material costs and volatile interest rates.
 
 ## The $700B Data Center Boom: Opportunity and Crisis
 
