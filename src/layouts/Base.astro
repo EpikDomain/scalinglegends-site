@@ -318,12 +318,21 @@ const structuredDataGraph = {
   <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
 
   <script type="application/ld+json" set:html={JSON.stringify(structuredDataGraph)} />
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7CP5LHM69N"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-7CP5LHM69N');
+  </script>
 </head>
 <body class="bg-[#0D0D0D] text-[#EAEAEA] font-sans">
 
   <!-- Header -->
   <header class="sticky top-0 z-50 bg-[#0D0D0D]/80 backdrop-blur-xl border-b border-[#1A1A1A]">
-    <div class="max-w-[1600px] mx-auto px-4 sm:px-8 py-4 sm:py-5 flex items-center justify-between gap-4">
+    <div class="mx-auto px-4 sm:px-8 lg:px-16 xl:px-24 px-4 sm:px-8 py-4 sm:py-5 flex items-center justify-between gap-4">
       <a href="/" class="flex items-center gap-3 text-[#EAEAEA] no-underline flex-shrink-0">
         <img src="/scaling-legends-cover-96.webp" alt="Scaling Legends" class="h-10 sm:h-12 w-auto rounded-lg transition-transform duration-300 hover:scale-105" width="48" height="48" />
         <span class="hidden lg:inline text-xl font-bold tracking-tight uppercase leading-none whitespace-nowrap">SCALING LEGENDS<span class="inline-block relative w-1.5 h-1.5 ml-2" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span></span>
@@ -386,7 +395,7 @@ const structuredDataGraph = {
     <!-- Dot pattern background -->
     <div class="absolute inset-0 opacity-[0.015]" style="background-image: radial-gradient(circle at 1px 1px, #CCFF00 1px, transparent 0); background-size: 40px 40px;"></div>
 
-    <div class="max-w-[1600px] mx-auto relative z-10">
+    <div class="mx-auto px-4 sm:px-8 lg:px-16 xl:px-24 relative z-10">
       <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
         <!-- Brand -->
         <div>
