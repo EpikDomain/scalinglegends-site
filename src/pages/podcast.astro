@@ -20,7 +20,7 @@ const recentArticles = articles.filter(a => !a.data.audioUrl).slice(0, 6);
   ]}
 >
   <div class="py-16 px-8">
-    <div class="max-w-[1600px] mx-auto">
+    <div class="mx-auto">
       <a
         href="/"
         class="mb-8 text-[#CCFF00] hover:text-[#E0FF4D] transition-colors inline-flex items-center gap-2 no-underline"
@@ -50,7 +50,7 @@ const recentArticles = articles.filter(a => !a.data.audioUrl).slice(0, 6);
 
       <!-- Featured Episode -->
       {featuredEpisode && (
-        <a href={`/article/${featuredEpisode.id}`} class="block no-underline">
+        <a href={`/article/${featuredEpisode.id}/`} class="block no-underline">
           <div class="bg-[#161616] border border-[#2A2A2A] rounded-[10px] overflow-hidden mb-12 hover:border-[#CCFF00] transition-all duration-300 cursor-pointer">
             <div class="flex flex-col md:flex-row gap-0">
               {featuredEpisode.data.image && (
@@ -162,7 +162,7 @@ const recentArticles = articles.filter(a => !a.data.audioUrl).slice(0, 6);
 
           <div class="space-y-4">
             {otherEpisodes.map((ep) => (
-              <a href={`/article/${ep.id}`} class="block no-underline">
+              <a href={`/article/${ep.id}/`} class="block no-underline">
                 <div
                   class="bg-[#161616] border border-[#2A2A2A] rounded-[10px] p-6 hover:border-[#CCFF00] hover:shadow-[0_0_20px_rgba(204,255,0,0.15)] transition-all duration-300 cursor-pointer"
                 >
@@ -235,7 +235,7 @@ const recentArticles = articles.filter(a => !a.data.audioUrl).slice(0, 6);
                 </h4>
                 <div class="space-y-3">
                   {recentArticles.map((item) => (
-                    <a href={`/article/${item.id}`} class="group block no-underline">
+                    <a href={`/article/${item.id}/`} class="group block no-underline">
                       <div class="flex gap-3 p-2 rounded-lg hover:bg-[#1A1A1A] transition-colors">
                         {item.data.image && (
                           <div class="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0 border border-[#2A2A2A] flex items-center justify-center bg-[#0D0D0D]">

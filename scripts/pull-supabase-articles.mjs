@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Pull all articles from Supabase + match RSS.com audio URLs → write Astro markdown files
 
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, readdirSync, unlinkSync } from 'fs';
 import { join } from 'path';
 
 const SUPABASE_URL = 'https://yzlcegvoqenqjxbdmxns.supabase.co';
@@ -95,8 +95,17 @@ function htmlToMarkdown(html) {
   md = md.replace(/<em[^>]*>(.*?)<\/em>/gi, '*$1*');
   md = md.replace(/<b[^>]*>(.*?)<\/b>/gi, '**$1**');
   md = md.replace(/<i[^>]*>(.*?)<\/i>/gi, '*$1*');
-  // Links - convert scalinglegends.com links to relative
-  md = md.replace(/<a[^>]*href="https?:\/\/scalinglegends\.com\/article\/([^"]*)"[^>]*>(.*?)<\/a>/gi, '[$2](/article/$1)');
+  // Links - convert scalinglegends.com links to relative with trailing slash
+  md = md.replace(/<a[^>]*href="https?:\/\/scalinglegends\.com\/article\/([^"]*)"[^>]*>(.*?)<\/a>/gi, (_, slug, text) => {
+    const s = slug.replace(/\/+$/, '');
+    return `[${text}](/article/${s}/)`;
+  });
+  // Internal /article/ links - ensure trailing slash
+  md = md.replace(/<a[^>]*href="(\/article\/[^"]*)"[^>]*>(.*?)<\/a>/gi, (_, href, text) => {
+    const h = href.replace(/\/+$/, '') + '/';
+    return `[${text}](${h})`;
+  });
+  // All other links
   md = md.replace(/<a[^>]*href="([^"]*)"[^>]*>(.*?)<\/a>/gi, '[$2]($1)');
   // Tables - convert to markdown tables before stripping tags
   md = md.replace(/<table[^>]*>([\s\S]*?)<\/table>/gi, (match, tableContent) => {
@@ -175,6 +184,8 @@ function htmlToMarkdown(html) {
   md = md.replace(/^ {2,3}(- )/gm, '$1');
   // Fix indented bold/link lines
   md = md.replace(/^ {2,3}(\*\*|\[)/gm, '$1');
+  // Fix internal article links missing trailing slash (from interlinker/markdown content)
+  md = md.replace(/\(\/article\/([^)]+[^/])\)/g, '(/article/$1/)');
   // Clean up whitespace
   md = md.replace(/\n{3,}/g, '\n\n');
   md = md.trim();
@@ -185,6 +196,11 @@ function htmlToMarkdown(html) {
 
 async function main() {
   mkdirSync(OUT_DIR, { recursive: true });
+
+  // Clean stale articles before pulling fresh from Supabase
+  for (const f of readdirSync(OUT_DIR)) {
+    if (f.endsWith('.md')) unlinkSync(join(OUT_DIR, f));
+  }
 
   // Load live RSS feed for audio URL matching
   await loadRSSFeed();

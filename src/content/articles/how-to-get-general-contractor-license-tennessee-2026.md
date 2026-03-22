@@ -23,7 +23,7 @@ Alright, listen up. You're looking to get your General Contractor license in Ten
 
 First off, why bother with a license? Simple: it's the law, and it protects you, your clients, and your business. In Tennessee, if you're taking on any project – residential, commercial, or industrial – that totals **$25,000 or more**, you absolutely need a General Contractor license. That threshold covers pretty much anything beyond a small repair job, so don't even think about trying to fly under the radar. The Tennessee Board for Licensing Contractors (www.tn.gov/commerce/regboards/contractors.html) doesn't mess around, and penalties for unlicensed contracting are steep, including fines and potential legal action. Don't risk it.
 
-Beyond compliance, a license opens doors. It allows you to bid on larger, more profitable projects, establishes your credibility with clients and lenders, and gives you a competitive edge in a rapidly growing market. Tennessee, particularly the Nashville metropolitan area, is experiencing unprecedented growth. New residents and businesses are pouring in, fueled in part by the state's lack of a state income tax, making it a huge draw for both individuals and companies. This translates directly into a red-hot [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). Being properly licensed means you're positioned to capitalize on that growth, not just watch it from the sidelines.
+Beyond compliance, a license opens doors. It allows you to bid on larger, more profitable projects, establishes your credibility with clients and lenders, and gives you a competitive edge in a rapidly growing market. Tennessee, particularly the Nashville metropolitan area, is experiencing unprecedented growth. New residents and businesses are pouring in, fueled in part by the state's lack of a state income tax, making it a huge draw for both individuals and companies. This translates directly into a red-hot [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). Being properly licensed means you're positioned to capitalize on that growth, not just watch it from the sidelines.
 
 ### Your Licensing Authority: The Tennessee Board for Licensing Contractors
 
@@ -39,7 +39,7 @@ Before we dive into the step-by-step, let's lay out the fundamental requirements
 
 - **Financial Statement:** A solid financial statement, prepared by a CPA, is mandatory. Your net worth directly impacts your license limit.
 
-- **Experience:** You need verifiable experience in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings).
+- **Experience:** You need verifiable experience in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/).
 
 - **Business Entity:** You'll need to establish a legal business entity (LLC, Corporation, etc.) in Tennessee.
 
@@ -97,7 +97,7 @@ The Board needs to see that you actually know what you're doing. You'll need to 
 
 - **References:** Letters of reference from architects, engineers, clients, or other licensed contractors who can attest to your experience and competence. These should detail the type and scope of work you performed.
 
-- **Supervisory Role:** The Board is looking for experience where you were directly responsible for the supervision and management of [construction projects](/article/surviving-the-messy-middle-of-construction-growth). Simply working on a crew isn't enough; you need to demonstrate leadership and project oversight.
+- **Supervisory Role:** The Board is looking for experience where you were directly responsible for the supervision and management of [construction projects](/article/surviving-the-messy-middle-of-construction-growth/). Simply working on a crew isn't enough; you need to demonstrate leadership and project oversight.
 
 Be thorough and accurate. The Board may contact your references to verify the information.
 

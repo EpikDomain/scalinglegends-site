@@ -15,7 +15,7 @@ sponsors:
 
 ## How to File a Construction Lien in North Carolina: Deadlines, Forms, and Process for 2026
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) in North Carolina is booming. From the innovative hubs of the Research Triangle to the rapidly expanding skyline of Charlotte, projects are breaking ground at an unprecedented pace. But with rapid growth comes increased complexity, and securing payment remains a perennial challenge for contractors, subcontractors, and suppliers.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) in North Carolina is booming. From the innovative hubs of the Research Triangle to the rapidly expanding skyline of Charlotte, projects are breaking ground at an unprecedented pace. But with rapid growth comes increased complexity, and securing payment remains a perennial challenge for contractors, subcontractors, and suppliers.
 
 In this dynamic environment, understanding your rights under North Carolina's mechanics lien law is not just an advantage—it's a necessity. A properly filed construction lien, also known as a mechanics lien, is a powerful tool to protect your right to payment. It places a security interest on the improved property itself, creating leverage that can be crucial when disputes arise.
 
@@ -25,7 +25,7 @@ Remember, North Carolina's lien laws are precise. Missing a deadline or misfilin
 
 ## Understanding North Carolina Mechanics Lien Law
 
-North Carolina's construction lien laws are primarily governed by [Chapter 44A of the North Carolina General Statutes](https://www.ncleg.gov/Laws/GeneralStatuteSections/Chapter44A). This statute outlines the rights and responsibilities of parties involved in [construction projects](/article/surviving-the-messy-middle-of-construction-growth), ensuring that those who furnish labor, materials, or services for the improvement of real property have a mechanism to secure payment.
+North Carolina's construction lien laws are primarily governed by [Chapter 44A of the North Carolina General Statutes](https://www.ncleg.gov/Laws/GeneralStatuteSections/Chapter44A). This statute outlines the rights and responsibilities of parties involved in [construction projects](/article/surviving-the-messy-middle-of-construction-growth/), ensuring that those who furnish labor, materials, or services for the improvement of real property have a mechanism to secure payment.
 
 ### The Purpose of NC Construction Liens
 
@@ -37,7 +37,7 @@ It's crucial to understand that a construction lien is distinct from a breach of
 
 North Carolina law broadly grants lien rights to a variety of parties who contribute to the improvement of real property. This includes:
 
-- **General Contractors:** [A general contractor](/article/how-to-get-general-contractor-license-florida-2026) (GC) has a direct lien against the real property if they have a contract directly with the owner. For work exceeding $30,000, North Carolina law requires general contractors to be licensed. An unlicensed contractor performing work above this threshold may face significant hurdles in enforcing a lien.
+- **General Contractors:** [A general contractor](/article/how-to-get-general-contractor-license-florida-2026/) (GC) has a direct lien against the real property if they have a contract directly with the owner. For work exceeding $30,000, North Carolina law requires general contractors to be licensed. An unlicensed contractor performing work above this threshold may face significant hurdles in enforcing a lien.
 
 - **Subcontractors:** Subcontractors who contract with a general contractor or a higher-tier subcontractor have "derived" lien rights. Their lien rights are derived from the general contractor's lien rights. This means that if the general contractor has no lien rights (e.g., due to being paid in full), the subcontractors may also lose their ability to file a lien on the real property, though they may still have a lien upon funds.
 
@@ -225,7 +225,7 @@ North Carolina law generally recognizes and enforces lien waivers. However, ther
 
 ### Important NC Statute on Waivers
 
-North Carolina law specifically prohibits certain types of lien waiver clauses. [NC General Statutes §22B-2](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_22B/GS_22B-2.html) states that any provision in a [construction contract that](/article/how-to-write-construction-contract-guide-2026) purports to waive or release the right to file a claim of lien on real property or a claim of lien upon funds *before the furnishing of labor or materials* is against public policy and void. This means "no-lien clauses" in contracts that attempt to waive future lien rights are unenforceable. Waivers are only valid for work already performed and for which payment is being exchanged.
+North Carolina law specifically prohibits certain types of lien waiver clauses. [NC General Statutes §22B-2](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_22B/GS_22B-2.html) states that any provision in a [construction contract that](/article/how-to-write-construction-contract-guide-2026/) purports to waive or release the right to file a claim of lien on real property or a claim of lien upon funds *before the furnishing of labor or materials* is against public policy and void. This means "no-lien clauses" in contracts that attempt to waive future lien rights are unenforceable. Waivers are only valid for work already performed and for which payment is being exchanged.
 
 ## Bond Claims on North Carolina Public Projects (NC Little Miller Act)
 

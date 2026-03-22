@@ -27,7 +27,7 @@ First off, let's get acquainted with the gatekeepers. In Virginia, contractor li
 
 Why does this matter? Operating as a contractor in Virginia without the proper license isn't just a slap on the wrist; it's illegal. You risk hefty fines, project stoppages, inability to collect payments, and a permanent black mark on your professional record. Getting licensed isn't optional; it's foundational to building a legitimate, scalable business here.
 
-Virginia's system is pretty straightforward, featuring three distinct license classes: A, B, and C. This tiered approach allows you to get licensed for the scale of work you're ready for, with clear pathways to upgrade as your business grows. This simplicity, combined with the booming Virginia [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) – especially the scorching hot NoVA/DC metro area with its data centers, federal contracts, and residential demand – makes Virginia an exceptionally attractive place to launch or grow your contracting business in 2026.
+Virginia's system is pretty straightforward, featuring three distinct license classes: A, B, and C. This tiered approach allows you to get licensed for the scale of work you're ready for, with clear pathways to upgrade as your business grows. This simplicity, combined with the booming Virginia [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) – especially the scorching hot NoVA/DC metro area with its data centers, federal contracts, and residential demand – makes Virginia an exceptionally attractive place to launch or grow your contracting business in 2026.
 
 ## Virginia Contractor License Classes: Which One Is Right for You?
 
@@ -127,7 +127,7 @@ Let's unpack some of these critical areas further to ensure you're fully prepare
 
 ### Experience and Education Requirements for Your QI
 
-The experience of your Qualified Individual (QI) is paramount. DPOR is looking for verifiable, hands-on supervisory experience directly related to the contracting work you intend to perform. "Supervisory" means they were responsible for the direction and control of [construction projects](/article/surviving-the-messy-middle-of-construction-growth), not just a laborer.
+The experience of your Qualified Individual (QI) is paramount. DPOR is looking for verifiable, hands-on supervisory experience directly related to the contracting work you intend to perform. "Supervisory" means they were responsible for the direction and control of [construction projects](/article/surviving-the-messy-middle-of-construction-growth/), not just a laborer.
 
 - **Class A:** 5 years of supervisory experience.
 
@@ -147,7 +147,7 @@ As mentioned, PSI administers the Virginia contractor exams. You can find the sp
 
 **Recommended Study Materials:**
 
-- The NASCLA [Contractors Guide to](/article/the-contractors-guide-to-project-workflow-automation) Business, Law and Project Management (often referred to as the "NASCLA book"). While it's a national guide, it's a strong foundation for the general exam.
+- The NASCLA [Contractors Guide to](/article/the-contractors-guide-to-project-workflow-automation/) Business, Law and Project Management (often referred to as the "NASCLA book"). While it's a national guide, it's a strong foundation for the general exam.
 
 - Virginia Regulations, specifically the Virginia Board for Contractors Regulations and relevant sections of the Virginia Code.
 
@@ -355,7 +355,7 @@ DPOR typically states a processing time of approximately 30 days for complete ap
 
 ### Do I need a separate license for electrical, plumbing, or HVAC work in Virginia?
 
-Yes. A general contractor license in Virginia covers the overall management and execution [of construction projects](/article/why-two-thirds-of-construction-projects-are-delayed-in-2026-the-compounding-crisis-nobody-is-talking-about). However, specific trades like electrical, plumbing, and HVAC require separate specialty contractor licenses (e.g., PLB for Plumbing, ELE for Electrical, HVA for HVAC). These are also issued by DPOR and have their own experience and exam requirements. You can either obtain these specialty licenses yourself or subcontract this work to properly licensed specialty contractors.
+Yes. A general contractor license in Virginia covers the overall management and execution [of construction projects](/article/why-two-thirds-of-construction-projects-are-delayed-in-2026-the-compounding-crisis-nobody-is-talking-about/). However, specific trades like electrical, plumbing, and HVAC require separate specialty contractor licenses (e.g., PLB for Plumbing, ELE for Electrical, HVA for HVAC). These are also issued by DPOR and have their own experience and exam requirements. You can either obtain these specialty licenses yourself or subcontract this work to properly licensed specialty contractors.
 
 ### What happens if my Virginia contractor license application is denied?
 

@@ -207,11 +207,11 @@ Under New York Lien Law § 17, a mechanics lien expires unless an action to fore
 
 ## Lien Waivers Under New York Law (Conditional vs. Unconditional)
 
-Lien waivers are common documents exchanged during [construction projects](/article/surviving-the-messy-middle-of-construction-growth), typically at the time of payment. They are agreements by a contractor, subcontractor, or supplier to waive their right to file a mechanics lien in exchange for payment. New York Lien Law § 34 governs lien waivers.
+Lien waivers are common documents exchanged during [construction projects](/article/surviving-the-messy-middle-of-construction-growth/), typically at the time of payment. They are agreements by a contractor, subcontractor, or supplier to waive their right to file a mechanics lien in exchange for payment. New York Lien Law § 34 governs lien waivers.
 
 **Key aspects of New York Lien Waivers:**
 
-- **"No-Lien" Clauses in Contracts are Void:** New York Lien Law explicitly states that any agreement, covenant, or clause in a [construction contract that](/article/how-to-write-construction-contract-guide-2026) purports to waive, release, or diminish the rights of a contractor, subcontractor, or materialman to file a mechanics lien is **void and unenforceable**. This means an owner or general contractor cannot force you to sign away your lien rights in the initial contract.
+- **"No-Lien" Clauses in Contracts are Void:** New York Lien Law explicitly states that any agreement, covenant, or clause in a [construction contract that](/article/how-to-write-construction-contract-guide-2026/) purports to waive, release, or diminish the rights of a contractor, subcontractor, or materialman to file a mechanics lien is **void and unenforceable**. This means an owner or general contractor cannot force you to sign away your lien rights in the initial contract.
 
 - **Waivers for Payment are Valid:** However, actual lien waivers executed in exchange for payment are generally valid. These are typically signed when you receive a progress payment or final payment.
 
@@ -335,7 +335,7 @@ A New York construction attorney can help you navigate the specific nuances of L
 
 ## Technology Tools for Tracking New York Lien Deadlines
 
-In the fast-paced [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), managing numerous projects and their associated lien deadlines manually is a recipe for disaster. Fortunately, technology offers robust solutions:
+In the fast-paced [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), managing numerous projects and their associated lien deadlines manually is a recipe for disaster. Fortunately, technology offers robust solutions:
 
 - **Lien Management Software:** Specialized software platforms are designed to track project dates (first/last furnish dates), automatically calculate lien and notice deadlines based on state law (including New York's 4-month and 8-month rules), and generate lien forms. Examples include [Levelset](https://www.levelset.com/), [zlien](https://www.zlien.com/) (now part of Levelset), or other construction payment management systems.
 
@@ -377,7 +377,7 @@ A6: Generally, no. The amount of a New York mechanics lien is limited to the val
 
 A7: The most reliable way to obtain the legal description is to check the property deed, which is recorded with the County Clerk (or Register's Office in some counties) where the property is located. You can often access these records online or in person. Property tax records or a title report may also provide this information. A street address alone is usually insufficient for a valid lien.
 
-Understanding and leveraging New York's mechanics lien laws is a fundamental skill for any [construction business](/article/how-to-scale-a-construction-business-without-losing-control) operating in the state. By meticulously adhering to deadlines, accurately preparing documentation, and seeking professional guidance when needed, you can effectively secure your payments and protect your financial interests. Don't let unpaid invoices become lost revenue—master the New York mechanics lien process.
+Understanding and leveraging New York's mechanics lien laws is a fundamental skill for any [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) operating in the state. By meticulously adhering to deadlines, accurately preparing documentation, and seeking professional guidance when needed, you can effectively secure your payments and protect your financial interests. Don't let unpaid invoices become lost revenue—master the New York mechanics lien process.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 

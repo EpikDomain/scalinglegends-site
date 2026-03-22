@@ -53,7 +53,7 @@ Every formal business entity in New York State must be registered with the **New
 
 #### LLC vs. Corporation: Which One for You?
 
-*   **Limited Liability Company (LLC):** This is often the preferred choice for many small to medium-sized [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign).
+*   **Limited Liability Company (LLC):** This is often the preferred choice for many small to medium-sized [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/).
 *   **Pros:** Offers personal liability protection (separates your personal assets from business debts), flexible taxation (can be taxed as a sole proprietorship, partnership, S-corp, or C-corp), and less formal operational requirements than a corporation.
 *   **Cons:** The New York publication requirement can be an added cost and administrative hurdle.
 *   **Corporation (S-Corp or C-Corp):**
@@ -72,7 +72,7 @@ Every formal business entity in New York State must be registered with the **New
 
 This is where New York gets tricky, and it's absolutely critical to understand.
 
-#### No Statewide [General Contractor License](/article/how-to-get-general-contractor-license-washington-2026)
+#### No Statewide [General Contractor License](/article/how-to-get-general-contractor-license-washington-2026/)
 
 Let's be crystal clear: **New York State does NOT have a statewide general contractor license.** Anyone can technically call themselves a "general contractor" outside of New York City without a state-issued license. This doesn't mean it's a free-for-all; it means you need to be acutely aware of local regulations.
 
@@ -80,7 +80,7 @@ Let's be crystal clear: **New York State does NOT have a statewide general contr
 
 If you plan to work in any of the five boroughs of New York City (Manhattan, Brooklyn, Queens, Bronx, Staten Island), the **NYC Department of Buildings (DOB)** is your gatekeeper. This is a complex and stringent system.
 
-*   **General Contractor Registration:** For many types of [construction projects](/article/surviving-the-messy-middle-of-construction-growth) in NYC, particularly those involving structural work or significant alterations, you'll need to be a **Registered General Contractor** with the DOB. This is not a "license" in the traditional sense, but a registration that allows you to pull permits and supervise work. Requirements include:
+*   **General Contractor Registration:** For many types of [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) in NYC, particularly those involving structural work or significant alterations, you'll need to be a **Registered General Contractor** with the DOB. This is not a "license" in the traditional sense, but a registration that allows you to pull permits and supervise work. Requirements include:
 *   Experience: Typically 5 years of experience in construction, with at least 3 years as a supervisor.
 *   OSHA 30-hour certification.
 *   FDNY Certificate of Fitness for Construction Site Fire Safety Manager (CSM) or other relevant FDNY certificates.
@@ -176,7 +176,7 @@ New York is expensive. Period. Your startup capital needs to reflect this realit
 *   **Legal & Accounting Fees:** Essential for proper setup and ongoing compliance in New York.
 *   **Licensing & Certification:** Application fees, exam fees, and ongoing renewal costs for NYC DOB licenses or local permits. OSHA training costs.
 *   **Vehicle Costs:** Commercial vehicle registration, insurance, and parking/storage can be costly, especially in urban areas.
-*   **Working Capital:** You'll need enough [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) to cover initial expenses, payroll, and materials, especially as payment terms in construction can be slow.
+*   **Working Capital:** You'll need enough [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) to cover initial expenses, payroll, and materials, especially as payment terms in construction can be slow.
 
 **Realistic Budgeting:** Don't underestimate these costs. Build a robust financial model and secure adequate funding. You'll need more startup capital here than in many other states.
 
@@ -290,7 +290,7 @@ New York isn't for the faint of heart. Be prepared for unique challenges.
 As a new company, you'll likely start as a subcontractor. Your success hinges on strong relationships with General Contractors (GCs) and developers.
 
 *   **Networking Events:**
-*   **Associated General Contractors of New York State (AGC NYS):** A powerful voice for the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) statewide.
+*   **Associated General Contractors of New York State (AGC NYS):** A powerful voice for the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) statewide.
 *   **New York Building Congress (NYBC):** Focuses heavily on NYC.
 *   **Local Chambers of Commerce:** Great for connecting with smaller developers and businesses.
 *   **Trade-Specific Associations:** Join associations related to your specialty (e.g., electrical contractors, concrete contractors).
@@ -334,12 +334,12 @@ New York's workers' comp premiums are notoriously high. Several factors determin
 **Managing WC Costs:**
 *   **Prioritize Safety:** This is your #1 lever. Invest in training, proper equipment, and a safety-first culture.
 *   **Manage Claims:** Respond quickly and effectively to any injuries, focusing on getting employees back to work safely.
-*   **Work with an Experienced Broker:** A broker specializing in New York [construction insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back) can help you navigate options, find the best rates, and understand your policy.
+*   **Work with an Experienced Broker:** A broker specializing in New York [construction insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back/) can help you navigate options, find the best rates, and understand your policy.
 *   **Understand Your EMR:** Monitor it closely and understand how it impacts your business.
 
 ### Final Word: Your Empire State Journey Begins
 
-[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company in New York in 2026 is an ambitious undertaking. It demands meticulous planning, unwavering persistence, and a deep understanding of the state's unique regulatory and market landscape. This isn't a place for shortcuts or half-measures.
+[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) company in New York in 2026 is an ambitious undertaking. It demands meticulous planning, unwavering persistence, and a deep understanding of the state's unique regulatory and market landscape. This isn't a place for shortcuts or half-measures.
 
 Do your homework. Build your network. Hire smart people who know New York. And most importantly, focus on delivering quality work safely and reliably. If you can do that, you won't just build structures; you'll build a legacy in the Empire State. Now go get to work.
 

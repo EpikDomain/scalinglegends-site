@@ -15,9 +15,9 @@ sponsors:
 
 # How to Start a Construction Company in Colorado: The 2026 Startup Guide
 
-So, you're looking to start a construction company in Colorado. Good choice. The Centennial State isn't just picturesque; it's a booming market, particularly along the Front Range. But don't let the mountain views distract you – starting a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) here requires a clear head, a solid plan, and a deep understanding of Colorado's unique regulatory landscape and market dynamics. This isn't some generic guide with "Colorado" swapped in; this is your no-BS roadmap from a contractor who's seen it all in this state.
+So, you're looking to start a construction company in Colorado. Good choice. The Centennial State isn't just picturesque; it's a booming market, particularly along the Front Range. But don't let the mountain views distract you – starting a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) here requires a clear head, a solid plan, and a deep understanding of Colorado's unique regulatory landscape and market dynamics. This isn't some generic guide with "Colorado" swapped in; this is your no-BS roadmap from a contractor who's seen it all in this state.
 
-Scaling Legends is here to give you the unvarnished truth about what it takes to launch and succeed in Colorado's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) by 2026. We'll cover everything from entity formation to navigating local licensing, securing work, and tackling the specific challenges of building at altitude. Let's get to work.
+Scaling Legends is here to give you the unvarnished truth about what it takes to launch and succeed in Colorado's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) by 2026. We'll cover everything from entity formation to navigating local licensing, securing work, and tackling the specific challenges of building at altitude. Let's get to work.
 
 ## The Colorado Construction Market in 2026: Opportunities and Outlook
 
@@ -49,7 +49,7 @@ Before you lift a hammer, you need to establish your legal presence. This isn't 
 
 ### Choosing Your Business Structure: LLC vs. Corporation
 
-The most common choices for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) are a Limited Liability Company (LLC) or a Corporation (S-Corp or C-Corp). Each has distinct implications for liability, taxation, and administrative burden.
+The most common choices for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) are a Limited Liability Company (LLC) or a Corporation (S-Corp or C-Corp). Each has distinct implications for liability, taxation, and administrative burden.
 
 - **Limited Liability Company (LLC):** This is often the preferred choice for new contractors. It provides personal liability protection (shielding your personal assets from business debts and lawsuits) while offering flexible taxation. Profits and losses can "pass through" to your personal income tax returns, avoiding double taxation (unless you elect to be taxed as an S-Corp). It's generally simpler to set up and maintain than a corporation.
 
@@ -75,7 +75,7 @@ The most common choices for [construction companies](/article/construction-marke
 
 ## Navigating Colorado Contractor Licensing Requirements
 
-Here's a critical point to understand in Colorado: **There is no statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026).** This often surprises newcomers, but it means your licensing requirements will vary significantly based on where you intend to work.
+Here's a critical point to understand in Colorado: **There is no statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026/).** This often surprises newcomers, but it means your licensing requirements will vary significantly based on where you intend to work.
 
 ### No State General Contractor License, But Local Requirements Are King
 
@@ -125,7 +125,7 @@ If your business owns or leases vehicles, or if employees use their personal veh
 
 ### Builder's Risk Insurance
 
-Also known as course of [construction insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back), this covers property damage to a building while it's under construction. It typically covers the structure, materials, and equipment on-site. While often required by lenders or project owners, it's a smart investment for any substantial project.
+Also known as course of [construction insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back/), this covers property damage to a building while it's under construction. It typically covers the structure, materials, and equipment on-site. While often required by lenders or project owners, it's a smart investment for any substantial project.
 
 ### Bonding
 
@@ -151,7 +151,7 @@ Colorado has a flat state income tax rate of 4.40% (as of 2024, subject to chang
 
 ### Sales Tax on Materials
 
-This is a critical area for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Colorado. While the state sales tax rate is 2.9%, you must also account for county, city, and special district sales taxes. These can vary significantly by location, sometimes adding another 3-8% or more to the state rate.
+This is a critical area for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) Colorado. While the state sales tax rate is 2.9%, you must also account for county, city, and special district sales taxes. These can vary significantly by location, sometimes adding another 3-8% or more to the state rate.
 
 **Key Point:** As a contractor in Colorado, you are generally considered the "end user" of materials incorporated into real property. This means you typically pay sales tax on your material purchases to your suppliers, and then you do *not* charge your client sales tax on the final project. If you purchase materials out-of-state or from a vendor who doesn't collect Colorado sales tax, you'll likely owe Colorado Use Tax on those purchases.
 
@@ -381,13 +381,13 @@ In Colorado's competitive landscape, relationships are currency. Whether you're 
 
 - **Be a Problem Solver:** GCs and developers value subcontractors who anticipate issues and propose solutions, rather than just pointing out problems.
 
-## Frequently Asked Questions About [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) Company in Colorado
+## Frequently Asked Questions About [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) Company in Colorado
 
 ### What is the most common business entity for a new construction company in Colorado?
 
 The Limited Liability Company (LLC) is often the most popular choice due to its balance of personal liability protection and flexible, pass-through taxation. It's relatively simple to set up and maintain compared to a corporation.
 
-### Do I need a state license to be [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) in Colorado?
+### Do I need a state license to be [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) in Colorado?
 
 No, Colorado does not have a statewide general contractor license. Instead, licensing is handled at the municipal (city and county) level. You must obtain a license from each specific city or county where you plan to perform work. Trades like electrical and plumbing, however, do require statewide licensing through DORA.
 

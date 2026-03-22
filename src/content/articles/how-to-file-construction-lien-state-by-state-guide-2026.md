@@ -15,7 +15,7 @@ sponsors:
 
 ## The Unpaid Invoice Nightmare: How to Turn Your Greatest Risk Into Your Ultimate Leverage
 
-You've built your business on skill, hard work, and trust. You've poured blood, sweat, and capital into projects, delivering exceptional results. Yet, in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), the specter of non-payment is a constant, suffocating threat. According to a 2023 report by the National Association of Credit Management (NACM), construction consistently ranks among the top industries for payment delays, with an average of 60+ days past due being alarmingly common. For a contractor scaling from $1M to $50M+, these delays aren't just an inconvenience; they're a direct assault on your cash flow, your ability to pay subs, and ultimately, your solvency.
+You've built your business on skill, hard work, and trust. You've poured blood, sweat, and capital into projects, delivering exceptional results. Yet, in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), the specter of non-payment is a constant, suffocating threat. According to a 2023 report by the National Association of Credit Management (NACM), construction consistently ranks among the top industries for payment delays, with an average of 60+ days past due being alarmingly common. For a contractor scaling from $1M to $50M+, these delays aren't just an inconvenience; they're a direct assault on your cash flow, your ability to pay subs, and ultimately, your solvency.
 
 Forget the polite phone calls and the increasingly stern emails. When negotiation fails, when promises evaporate, and when your capital is held hostage, you need a weapon. That weapon is the construction lien. Misunderstood by many, feared by those who owe, and utterly indispensable for protecting your bottom line, the **mechanics lien construction** is not just a legal document—it's your most powerful leverage. This isn't about being litigious; it's about securing what's rightfully yours, ensuring your business thrives, and sending an unequivocal message: *you will be paid for your work*.
 
@@ -87,7 +87,7 @@ Tracking these dates meticulously is paramount. Over 30% of construction liens a
 
 ## State-by-State Variations: Navigating the Lien Maze
 
-The phrase "state-by-state guide" is critical because construction lien laws are creatures of state statute. There is no federal mechanics lien law for private projects. What works in California will likely fail in Texas, and vice-versa. Understanding these variations is not just helpful; it's essential for any [contractor operating](/article/the-contractor-operating-system-how-to-actually-grow-your-company-in-2026) across state lines or even within a single state where the nuances can be complex.
+The phrase "state-by-state guide" is critical because construction lien laws are creatures of state statute. There is no federal mechanics lien law for private projects. What works in California will likely fail in Texas, and vice-versa. Understanding these variations is not just helpful; it's essential for any [contractor operating](/article/the-contractor-operating-system-how-to-actually-grow-your-company-in-2026/) across state lines or even within a single state where the nuances can be complex.
 
 Below is an overview of key requirements for the 10 largest construction markets in the U.S. as of 2026. This is a general guide; always consult with a local construction attorney or a specialized lien service for specific project advice.
 
@@ -257,7 +257,7 @@ Managing lien rights across multiple projects and states manually is a recipe fo
 
 These tools are not just about paperwork; they are about risk mitigation. They automate deadline tracking, ensure compliance with state-specific forms, and provide an auditable trail, freeing up your team to focus on project execution. For contractors scaling rapidly, investing in such technology is a strategic imperative.
 
-## Lien Rights and [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies)
+## Lien Rights and [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)
 
 The relationship between strong **construction lien rights** management and healthy cash flow is direct and undeniable. Proactive lien management isn't just about recovering overdue payments; it's about preventing them.
 
@@ -288,7 +288,7 @@ A critical distinction for contractors to understand is the difference between m
 
 *   **Target:** The real property itself.
 *   **Purpose:** To secure payment by placing a claim against the property's title.
-*   **Applicability:** Almost exclusively for private [construction projects](/article/surviving-the-messy-middle-of-construction-growth).
+*   **Applicability:** Almost exclusively for private [construction projects](/article/surviving-the-messy-middle-of-construction-growth/).
 
 ### Bond Claims (Public Projects)
 
@@ -298,7 +298,7 @@ A critical distinction for contractors to understand is the difference between m
 
 #### The Miller Act (Federal Projects)
 
-For [federal construction projects](/article/get-paid-in-less-than-30-days-winning-federal-construction-projects) (e.g., post offices, military bases), the federal Miller Act requires prime contractors on contracts over $100,000 to furnish a payment bond to protect subcontractors and suppliers.
+For [federal construction projects](/article/get-paid-in-less-than-30-days-winning-federal-construction-projects/) (e.g., post offices, military bases), the federal Miller Act requires prime contractors on contracts over $100,000 to furnish a payment bond to protect subcontractors and suppliers.
 
 *   **Notice Requirements:** Subcontractors not in direct contract with the prime contractor must provide written notice to the prime contractor within 90 days from the date of last furnishing labor or materials.
 *   **Lawsuit Deadline:** A lawsuit to enforce a Miller Act bond claim must be filed within one year from the date of last furnishing labor or materials.

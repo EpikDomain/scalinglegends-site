@@ -26,7 +26,7 @@ This article isn't about quick fixes or magic bullets. It's a direct, no-BS guid
 
 ## The Owner's Trap: Why Most Construction Businesses Plateau
 
-Many [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), despite their initial success, eventually hit a ceiling. This ceiling isn't always about market demand or lack of capital; it's often an internal limitation: the owner. You're the visionary, the rainmaker, the problem-solver, and often, the only one who truly knows how everything works. This "owner's head" phenomenon creates a dangerous dependency.
+Many [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), despite their initial success, eventually hit a ceiling. This ceiling isn't always about market demand or lack of capital; it's often an internal limitation: the owner. You're the visionary, the rainmaker, the problem-solver, and often, the only one who truly knows how everything works. This "owner's head" phenomenon creates a dangerous dependency.
 
 <iframe src="https://www.youtube.com/embed/S7kWq9mbvws" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -148,7 +148,7 @@ These tools are designed specifically for documenting, managing, and often, exec
 
 - **Trainual:** Excellent for creating a comprehensive knowledge base and onboarding new employees. It's highly visual, easy to use, and focuses on making training engaging. Ideal for capturing all your "how-to" information.
 
-- **Process Street:** More focused on [workflow automation](/article/the-contractors-guide-to-project-workflow-automation) and interactive checklists. You can build SOPs that guide users step-by-step through a process, assigning tasks, setting deadlines, and integrating with other software. Great for ensuring process adherence.
+- **Process Street:** More focused on [workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) and interactive checklists. You can build SOPs that guide users step-by-step through a process, assigning tasks, setting deadlines, and integrating with other software. Great for ensuring process adherence.
 
 - **Notion:** A highly flexible workspace that can be adapted to manage SOPs, create knowledge bases, track projects, and more. It offers incredible versatility for those who want a single hub for many business functions, though it requires more setup.
 
@@ -176,7 +176,7 @@ This is non-negotiable. Your accounting software is the bedrock of your financia
 
 ### Project Management (PM) Software (The Core)
 
-Once your finances are in order, your next critical layer is managing your [projects efficiently](/article/surviving-the-messy-middle-of-construction-growth). PM software centralizes project information, communication, and workflows.
+Once your finances are in order, your next critical layer is managing your [projects efficiently](/article/surviving-the-messy-middle-of-construction-growth/). PM software centralizes project information, communication, and workflows.
 
 - **Examples:** Procore, Autodesk Construction Cloud (BIM 360), CoConstruct, Buildertrend, Monday.com (with construction adaptations).
 
@@ -426,7 +426,7 @@ The journey to a fully systematized construction business doesn't happen overnig
 
 The biggest mistake is trying to document everything at once, leading to overwhelm and abandonment. Another common error is failing to involve the team in the creation process, resulting in resistance and impractical SOPs. Finally, many see systematization as a one-time project instead of a continuous improvement journey.
 
-### How long does it take to fully systematize [a construction business](/article/how-to-scale-a-construction-business-without-losing-control)?
+### How long does it take to fully systematize [a construction business](/article/how-to-scale-a-construction-business-without-losing-control/)?
 
 It's an ongoing journey, not a destination. You can see significant improvements in 6-12 months by focusing on critical, high-impact areas. However, full systematization is about building a culture of continuous process improvement, which is an evergreen effort that evolves with your business.
 

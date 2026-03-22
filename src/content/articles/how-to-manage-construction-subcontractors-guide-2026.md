@@ -15,7 +15,7 @@ sponsors:
 
 # How to Manage Construction Subcontractors Without the Headaches
 
-Scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) from $1M to $50M+ means mastering the art of subcontractor management. It's not just about delegating work; it's about building a robust network of reliable partners that drive project success and protect your bottom line. Poor subcontractor management isn't just an inconvenience; it's a direct threat to your profitability, schedule, and reputation. Studies show that subcontractor issues contribute to over 50% of project delays and cost overruns. This guide cuts through the noise, providing direct, actionable strategies for managing subcontractors effectively, minimizing risk, and maximizing profitability.
+Scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) from $1M to $50M+ means mastering the art of subcontractor management. It's not just about delegating work; it's about building a robust network of reliable partners that drive project success and protect your bottom line. Poor subcontractor management isn't just an inconvenience; it's a direct threat to your profitability, schedule, and reputation. Studies show that subcontractor issues contribute to over 50% of project delays and cost overruns. This guide cuts through the noise, providing direct, actionable strategies for managing subcontractors effectively, minimizing risk, and maximizing profitability.
 
 ## The GC-Sub Relationship: Partnership, Not Adversary
 
@@ -57,7 +57,7 @@ The single most effective way to manage subcontractors without headaches is to p
 
 Your pre-qualification questionnaire and review process should cover several critical areas:
 
-- **Financial Health and Stability:** Request audited financial statements, credit reports, and banking references. You need to know they have the [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) to manage payroll, purchase materials, and absorb unexpected costs without collapsing mid-project. A subcontractor going bankrupt on your job is a disaster.
+- **Financial Health and Stability:** Request audited financial statements, credit reports, and banking references. You need to know they have the [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) to manage payroll, purchase materials, and absorb unexpected costs without collapsing mid-project. A subcontractor going bankrupt on your job is a disaster.
 
 - **Experience and Track Record:** Demand a detailed project list, including project types, sizes, and references for similar work. Verify their experience aligns with your project's scope and complexity.
 
@@ -81,7 +81,7 @@ Develop a standardized, documented process:
 
 - **Reference Checks:** Systematically contact all provided references.
 
-- **Internal Review:** Have a dedicated team ([project management](/article/surviving-the-messy-middle-of-construction-growth), finance, safety) review the complete package.
+- **Internal Review:** Have a dedicated team ([project management](/article/surviving-the-messy-middle-of-construction-growth/), finance, safety) review the complete package.
 
 - **Risk Assessment:** Assign a risk score or tier to each subcontractor.
 
@@ -513,7 +513,7 @@ Beyond full PM platforms, digital tools for specific functions are invaluable:
 
 Moving away from paper improves efficiency, reduces errors, and ensures everyone is working from the latest information.
 
-### The ROI of [Construction Technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign)
+### The ROI of [Construction Technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/)
 
 Implementing new technology requires an upfront investment, but the return on investment (ROI) is substantial. Benefits include:
 

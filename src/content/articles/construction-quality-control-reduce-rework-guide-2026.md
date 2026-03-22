@@ -17,7 +17,7 @@ sponsors:
 
 In the relentless pursuit of profit, construction contractors often battle a silent, insidious enemy: rework and defects. These aren't just minor annoyances; they are margin killers, profit evaporators, and reputation destroyers. For contractors scaling from $1M to $50M+, understanding and implementing robust construction quality control isn't just good practice—it's essential for survival and sustainable growth.
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) grapples with significant financial losses due to poor quality. Studies consistently show that rework can account for anywhere from **5% to 12% of total project costs**, and in some complex projects, it can soar even higher. Imagine adding 5% to 12% directly to your bottom line simply by getting it right the first time. This article will dissect the anatomy of construction defects, differentiate between Quality Assurance and Quality Control, and provide a no-BS roadmap to building a quality management system that protects your profits and elevates your brand.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) grapples with significant financial losses due to poor quality. Studies consistently show that rework can account for anywhere from **5% to 12% of total project costs**, and in some complex projects, it can soar even higher. Imagine adding 5% to 12% directly to your bottom line simply by getting it right the first time. This article will dissect the anatomy of construction defects, differentiate between Quality Assurance and Quality Control, and provide a no-BS roadmap to building a quality management system that protects your profits and elevates your brand.
 
 ## Understanding the Landscape: Quality Assurance (QA) vs. Quality Control (QC)
 
@@ -87,7 +87,7 @@ These costs are often harder to quantify but can have a far greater long-term im
 
 - **Loss of Productivity:** Crews become demotivated when they have to redo work. Morale drops, which can lead to lower overall productivity and higher turnover.
 
-- **Increased Administrative Burden:** Documenting rework, processing change orders, negotiating with subcontractors, and dealing with warranty claims all consume valuable administrative time that could be spent on [project management](/article/surviving-the-messy-middle-of-construction-growth) or business development.
+- **Increased Administrative Burden:** Documenting rework, processing change orders, negotiating with subcontractors, and dealing with warranty claims all consume valuable administrative time that could be spent on [project management](/article/surviving-the-messy-middle-of-construction-growth/) or business development.
 
 - **Warranty Claims:** Defects discovered after project closeout lead to costly warranty work, often performed at your expense, further eating into past profits.
 

@@ -20,7 +20,7 @@ The energy landscape is undergoing a monumental transformation, and smart contra
 
 ## The Big Picture: Why This Matters Now More Than Ever
 
-For decades, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) has largely operated within established frameworks, with power infrastructure projects often dominated by a handful of large utilities and their long-standing partners. However, the ground beneath our feet is shifting dramatically. We are witnessing an unparalleled convergence of factors driving a massive reallocation of capital and resources into power generation, transmission, distribution, and storage.
+For decades, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) has largely operated within established frameworks, with power infrastructure projects often dominated by a handful of large utilities and their long-standing partners. However, the ground beneath our feet is shifting dramatically. We are witnessing an unparalleled convergence of factors driving a massive reallocation of capital and resources into power generation, transmission, distribution, and storage.
 
 At the heart of this pivot are several critical drivers:
 
@@ -76,7 +76,7 @@ The $300 billion figure isn't just a headline; it's a conservative estimate of t
 
 - **Electrification of Processes:** Upgrading industrial facilities to use electric boilers, furnaces, and other equipment, demanding significant power infrastructure modifications.
 
-The Inflation Reduction Act (IRA) alone has earmarked roughly $369 billion for clean energy and climate initiatives, much of which will directly or indirectly flow into [construction projects](/article/surviving-the-messy-middle-of-construction-growth) through tax credits (e.g., 30% investment tax credit for solar/storage), grants, and direct funding. The IIJA adds another layer, with billions specifically for grid resilience and EV charging networks. These incentives are not one-off; they are designed to provide long-term market certainty, extending through the next decade and beyond. According to insights from [Smart Business Automator (SBA)](https://www.smartbusinessautomator.com), the predictability of these federal incentives is a key factor driving sustained private investment, allowing contractors to plan for longer horizons.
+The Inflation Reduction Act (IRA) alone has earmarked roughly $369 billion for clean energy and climate initiatives, much of which will directly or indirectly flow into [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) through tax credits (e.g., 30% investment tax credit for solar/storage), grants, and direct funding. The IIJA adds another layer, with billions specifically for grid resilience and EV charging networks. These incentives are not one-off; they are designed to provide long-term market certainty, extending through the next decade and beyond. According to insights from [Smart Business Automator (SBA)](https://www.smartbusinessautomator.com), the predictability of these federal incentives is a key factor driving sustained private investment, allowing contractors to plan for longer horizons.
 
 **Your Action This Week:** Download your state's energy master plan or utility integrated resource plan (IRP) if available. Compare your current project pipeline and capabilities against the specific growth areas identified above. Where are the obvious overlaps? Where are the glaring gaps? Identify 2-3 segments where your existing skills could be most easily adapted.
 
@@ -136,7 +136,7 @@ Energy projects often have different financial structures and risk profiles than
 
 - **Navigating Permitting & Regulatory Hurdles:** Energy projects, especially large-scale ones, involve intricate permitting processes (environmental, land use, utility interconnection). Building expertise in this area or partnering with regulatory consultants is crucial.
 
-**Action This Week:** Schedule a meeting with your financial advisor, bonding agent, and insurance broker. Discuss your interest in entering the energy [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) and understand any implications for your bonding capacity, insurance premiums, and [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies) for larger, potentially longer-term projects.
+**Action This Week:** Schedule a meeting with your financial advisor, bonding agent, and insurance broker. Discuss your interest in entering the energy [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) and understand any implications for your bonding capacity, insurance premiums, and [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) for larger, potentially longer-term projects.
 
 ## Tools and Technology: Powering the Energy Construction Future
 

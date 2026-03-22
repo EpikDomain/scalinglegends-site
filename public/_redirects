@@ -1,0 +1,2 @@
+# Cloudflare Pages handles pretty URLs natively (slug/index.html serves at /slug)
+# No trailing slash redirects needed - Pages does this automatically

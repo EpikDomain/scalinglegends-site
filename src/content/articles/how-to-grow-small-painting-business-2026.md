@@ -15,7 +15,7 @@ sponsors:
 
 # How to Grow a Small Painting Business Into a Real Company
 
-You started a painting business because you're good with a brush and you know how to work. You've got a few clients, maybe a helper, and you're making a living. But let's be blunt: if you're still the primary painter on every job, you don't own a company; you own a job. A demanding, all-consuming job. This article isn't about getting more leads for your one-man show. This is about transforming that grind into a legitimate, scalable company that operates with or without your direct involvement on the tools. This is about real painting [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul).
+You started a painting business because you're good with a brush and you know how to work. You've got a few clients, maybe a helper, and you're making a living. But let's be blunt: if you're still the primary painter on every job, you don't own a company; you own a job. A demanding, all-consuming job. This article isn't about getting more leads for your one-man show. This is about transforming that grind into a legitimate, scalable company that operates with or without your direct involvement on the tools. This is about real painting [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/).
 
 Scaling a painting company means breaking free from the owner-operator trap, building a team, implementing systems, and strategically positioning your business for sustained profitability. It demands a shift in mindset from painter to CEO. If you're ready to make that shift, let's get to work.
 
@@ -41,7 +41,7 @@ Systems ensure consistency, efficiency, and quality. They reduce training time, 
 
 - **Sales & Estimating Process:** From initial contact to signed contract.
 
-- **[Project Management](/article/surviving-the-messy-middle-of-construction-growth):** Scheduling, material ordering, crew assignment, progress tracking.
+- **[Project Management](/article/surviving-the-messy-middle-of-construction-growth/):** Scheduling, material ordering, crew assignment, progress tracking.
 
 - **Quality Control:** Pre-job checklists, in-progress inspections, final walkthroughs.
 
@@ -231,7 +231,7 @@ Operating a legitimate company means adhering to legal requirements and planning
 
 - **Licensing:** Check your state and local requirements. Many jurisdictions require specific contractor licenses for painting. Operating without one is a massive risk.
 
-### Seasonal Planning & [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies)
+### Seasonal Planning & [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)
 
 Painting is often seasonal. Plan for slow periods:
 

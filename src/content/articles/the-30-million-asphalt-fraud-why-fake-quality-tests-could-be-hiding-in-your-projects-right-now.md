@@ -14,7 +14,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The ground beneath our feet, the roads we drive on, the bridges that connect us – they're all built on trust. But what happens when that trust is systematically eroded by fraud? Two Ohio asphalt companies, Kokosing [Construction Company](/article/surviving-the-messy-middle-of-construction-growth) Inc. and Shelly & Sands Inc., just paid a staggering $30 million to settle allegations that they submitted fabricated quality control test results on federally-funded highway projects for over 12 years. This isn't just a headline; it's a direct threat to the integrity of every project you manage, every dollar you invest, and potentially, every life that depends on your work. The chilling reality is that fake quality tests could be hiding in YOUR projects right now, jeopardizing your reputation, your finances, and your company's future.
+The ground beneath our feet, the roads we drive on, the bridges that connect us – they're all built on trust. But what happens when that trust is systematically eroded by fraud? Two Ohio asphalt companies, Kokosing [Construction Company](/article/surviving-the-messy-middle-of-construction-growth/) Inc. and Shelly & Sands Inc., just paid a staggering $30 million to settle allegations that they submitted fabricated quality control test results on federally-funded highway projects for over 12 years. This isn't just a headline; it's a direct threat to the integrity of every project you manage, every dollar you invest, and potentially, every life that depends on your work. The chilling reality is that fake quality tests could be hiding in YOUR projects right now, jeopardizing your reputation, your finances, and your company's future.
 
 ## Key Takeaways
 
@@ -22,7 +22,7 @@ The ground beneath our feet, the roads we drive on, the bridges that connect us 
 
 - **Manual Systems Are Vulnerable.** The long duration of the fraud underscores how easily manual, paper-based, or siloed quality control processes can be bypassed, manipulated, or simply overlooked without robust digital oversight.
 
-- **Digital Transformation is Non-Negotiable.** Implementing advanced [construction project management](/article/construction-project-management-surviving-the-messy-middle) software with integrated quality control modules is crucial for real-time data capture, audit trails, and anomaly detection to prevent similar fraud.
+- **Digital Transformation is Non-Negotiable.** Implementing advanced [construction project management](/article/construction-project-management-surviving-the-messy-middle/) software with integrated quality control modules is crucial for real-time data capture, audit trails, and anomaly detection to prevent similar fraud.
 
 - **Subcontractor Due Diligence.** Contractors must enhance vetting processes for subcontractors, demanding transparency in their quality assurance protocols and integrating their data streams into a centralized system.
 
@@ -38,7 +38,7 @@ The recent $30 million settlement involving Kokosing Construction Company Inc. a
 
 The modus operandi, as detailed in the Department of Justice’s allegations, included manipulating samples, creating fake lab reports, and bypassing established testing protocols. This meant that the asphalt laid on highways across Ohio, funded by federal dollars, likely did not meet the required specifications. The implications are far-reaching: premature road deterioration, increased maintenance costs for state and federal agencies, and a potential risk to public safety. Imagine a bridge or highway section failing prematurely due to inadequate materials, all because a quality control report was falsified. This scenario highlights why robust oversight and verifiable data are not just bureaucratic hurdles but foundational elements of responsible construction.
 
-This case underscores a critical vulnerability: reliance on trust without verification, especially when dealing with subcontractors. While the primary contractors ultimately paid the price, the incident spotlights the need for general contractors to implement stringent oversight mechanisms. Effective [construction project management](/article/construction-project-management-surviving-the-messy-middle) must extend beyond scheduling and budgeting to encompass rigorous quality assurance across all project phases and participants. Without integrated systems, even the largest and most reputable firms can become unwitting conduits for fraud. **The alleged 12-year duration of the Ohio asphalt fraud indicates a profound failure in traditional quality control systems, allowing millions of dollars in substandard work to pass undetected.** This incident serves as a wake-up call for every contractor scaling their business: your project’s integrity is only as strong as its weakest link in the quality chain.
+This case underscores a critical vulnerability: reliance on trust without verification, especially when dealing with subcontractors. While the primary contractors ultimately paid the price, the incident spotlights the need for general contractors to implement stringent oversight mechanisms. Effective [construction project management](/article/construction-project-management-surviving-the-messy-middle/) must extend beyond scheduling and budgeting to encompass rigorous quality assurance across all project phases and participants. Without integrated systems, even the largest and most reputable firms can become unwitting conduits for fraud. **The alleged 12-year duration of the Ohio asphalt fraud indicates a profound failure in traditional quality control systems, allowing millions of dollars in substandard work to pass undetected.** This incident serves as a wake-up call for every contractor scaling their business: your project’s integrity is only as strong as its weakest link in the quality chain.
 
 ## The Silent Sabotage: Why Traditional QC Methods Failed for Over a Decade
 
@@ -54,7 +54,7 @@ Traditional QC relies heavily on human diligence, trust, and periodic audits. Ho
 
 - **Reliance on Trust:** Subcontractors often operate with a degree of autonomy, and their submitted QC reports are sometimes accepted at face value without independent, verifiable checks.
 
-This reliance on outdated methods means that anomalies, even significant ones, can easily slip through the cracks. Imagine a scenario where a contractor is managing multiple projects, each with several subcontractors and dozens of daily QC checks. Without an automated system flagging unusual patterns or missing data, identifying a consistent pattern of falsified reports becomes nearly impossible. This is where modern [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation) and integrated 
+This reliance on outdated methods means that anomalies, even significant ones, can easily slip through the cracks. Imagine a scenario where a contractor is managing multiple projects, each with several subcontractors and dozens of daily QC checks. Without an automated system flagging unusual patterns or missing data, identifying a consistent pattern of falsified reports becomes nearly impossible. This is where modern [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) and integrated 
 
 ## How to Immediately Safeguard Your Projects Against Hidden Quality Test Fraud
 
@@ -76,7 +76,7 @@ This reliance on outdated methods means that anomalies, even significant ones, c
 
 Two Ohio asphalt companies, Kokosing Construction Company Inc. and Shelly & Sands Inc., paid $30 million to settle allegations of fabricating quality control test results. This systemic fraud occurred for over 12 years on federally-funded highway projects, involving falsifying critical asphalt mix tests, compromising infrastructure safety, durability, and taxpayer investment.
 
-### How can [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) prevent fake quality tests on their projects?
+### How can [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) prevent fake quality tests on their projects?
 
 Construction firms can prevent fake quality tests by implementing advanced digital project management software with integrated quality control modules for real-time data capture and audit trails. Leveraging AI-powered analytics can proactively identify suspicious patterns. Enhanced subcontractor due diligence, alongside fostering a company-wide culture of accountability and ethical practices, are also crucial safeguards.
 

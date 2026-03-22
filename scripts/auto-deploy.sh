@@ -1,9 +1,13 @@
 #!/bin/bash
-# Auto-pull articles from Supabase, commit, push, and deploy to Vercel
+# Auto-pull articles from Supabase, commit, push, and deploy to Cloudflare Pages
 set -e
 
 SITE_DIR="/home/nxusdev/scalinglegends-site"
 cd "$SITE_DIR"
+
+# Cloudflare credentials
+export CLOUDFLARE_API_TOKEN="cfut_WvrBEgy2RqfTdvp1aLUc415ZvaIaWPMRMh9J5jMS7f4c84f9"
+export CLOUDFLARE_ACCOUNT_ID="75b49789abaa06a2a9866ff80d1b5335"
 
 echo "$(date) - Starting auto-deploy..."
 
@@ -28,7 +32,14 @@ git commit -m "Auto-update: $((CHANGED + NEW)) articles from Supabase ($(date '+
 # Push to GitHub
 git push origin main
 
-# Deploy to Vercel
-npx vercel --yes --prod
+# Build and deploy to Cloudflare Pages
+npm run build
+npx wrangler pages deploy dist --project-name scalinglegends --branch main --commit-dirty=true
 
 echo "$(date) - Deploy complete. $((CHANGED + NEW)) articles updated on scalinglegends.com"
+
+# GA4 deploy event
+curl -s -X POST "https://www.google-analytics.com/mp/collect?measurement_id=G-7CP5LHM69N&api_secret=Vfc4Vu-kRdWHU7Kuarygyw" \
+  -H "Content-Type: application/json" \
+  -d "{\"client_id\":\"scaling-legends-pipeline\",\"events\":[{\"name\":\"site_deploy_complete\",\"params\":{\"articles_updated\":$((CHANGED + NEW))}}]}" \
+  || true

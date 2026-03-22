@@ -35,7 +35,7 @@ Pennsylvania's Mechanics' Lien Law extends protection to a broad range of partie
 
 - **General Contractors:** Those with a direct contract with the owner.
 
-- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) or another subcontractor.
+- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) or another subcontractor.
 
 - **Material Suppliers:** Entities that furnish materials to a general contractor or subcontractor, used in the improvement of the property.
 
@@ -315,7 +315,7 @@ Think of legal fees as an investment in securing your payment. The cost of a los
 
 In today's fast-paced construction environment, manual tracking of lien deadlines and compliance can be a recipe for disaster. Technology offers powerful solutions to help you manage Pennsylvania mechanics' lien requirements effectively:
 
-- **Lien Management Software:** Specialized software platforms (e.g., Levelset, LienItNow, CRM for Construction) can automate deadline tracking, document generation (for notices and claims), and record-keeping. They often integrate with [project management](/article/surviving-the-messy-middle-of-construction-growth) and accounting systems.
+- **Lien Management Software:** Specialized software platforms (e.g., Levelset, LienItNow, CRM for Construction) can automate deadline tracking, document generation (for notices and claims), and record-keeping. They often integrate with [project management](/article/surviving-the-messy-middle-of-construction-growth/) and accounting systems.
 
 - **Project Management Software:** Tools like Procore, Autodesk Construction Cloud, or Buildertrend can help track project start and end dates, delivery dates, and payment milestones, which are crucial for calculating lien deadlines.
 

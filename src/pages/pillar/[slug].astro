@@ -79,7 +79,7 @@ const breadcrumbs = [
   <section class="relative px-8 overflow-hidden" style="padding-top: 6rem; padding-bottom: 4rem;">
     <div class="absolute top-0 left-1/2 -translate-x-1/2 w-[600px] h-[600px] rounded-full opacity-20 pointer-events-none" style="background: radial-gradient(circle, rgba(204,255,0,0.15) 0%, transparent 70%);"></div>
 
-    <div class="relative z-10 max-w-[1600px] mx-auto">
+    <div class="relative z-10 mx-auto">
       <!-- Breadcrumb -->
       <nav aria-label="Breadcrumb" class="mb-8 flex items-center gap-2 text-sm">
         <a href="/" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Home</a>
@@ -111,7 +111,7 @@ const breadcrumbs = [
 
   <!-- Pillar Nav (horizontal) -->
   <section class="px-8 pb-8">
-    <div class="max-w-[1600px] mx-auto">
+    <div class="mx-auto">
       <div class="flex flex-wrap gap-2">
         {pillarKeys.map((key) => (
           <a
@@ -132,17 +132,17 @@ const breadcrumbs = [
 
   <!-- Articles Grid -->
   <section class="py-12 px-8 bg-gradient-to-b from-[#0D0D0D] to-[#000000]">
-    <div class="max-w-[1600px] mx-auto">
+    <div class="mx-auto">
       {articles.length === 0 ? (
         <div class="text-center py-20">
           <p class="text-[#888888]" style="font-size: 1.125rem;">No articles in this pillar yet.</p>
         </div>
       ) : (
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
           {articles.map((article) => (
             <article class="group bg-gradient-to-b from-[#161616] to-[#121212] border border-[#222222] rounded-2xl overflow-hidden cursor-pointer transition-all duration-500 hover:border-[#CCFF00] hover:shadow-[0_8px_40px_rgba(204,255,0,0.12)] hover:-translate-y-2">
               {article.data.image && (
-                <a href={`/article/${article.id}`} class="block">
+                <a href={`/article/${article.id}/`} class="block">
                   <div class="relative h-[180px] overflow-hidden flex items-center justify-center bg-[#0D0D0D]">
                     <img src={article.data.image} alt={article.data.title} class="max-w-full max-h-full object-contain transition-transform duration-700 group-hover:scale-110" loading="lazy" width="400" height="180" />
                     <div class="absolute inset-0 bg-gradient-to-t from-[#0D0D0D] via-transparent to-transparent opacity-60"></div>
@@ -180,7 +180,7 @@ const breadcrumbs = [
                   )}
                 </div>
                 <h3 class="text-[#EAEAEA] group-hover:text-[#CCFF00] transition-colors duration-300" style="font-weight: 700; font-size: 1.25rem; line-height: 1.3;">
-                  <a href={`/article/${article.id}`} class="text-inherit no-underline">{article.data.title}</a>
+                  <a href={`/article/${article.id}/`} class="text-inherit no-underline">{article.data.title}</a>
                 </h3>
                 <p class="text-[#888888] line-clamp-2" style="font-size: 0.9375rem; line-height: 1.6;">
                   {article.data.description}
@@ -199,7 +199,7 @@ const breadcrumbs = [
 
   <!-- Other Pillars CTA -->
   <section class="py-16 px-8">
-    <div class="max-w-[1600px] mx-auto">
+    <div class="mx-auto">
       <h2 class="text-[#EAEAEA] uppercase mb-8" style="font-weight: 900; font-size: 1.5rem; letter-spacing: -0.02em;">
         Explore More Pillars<span class="inline-block relative w-2 h-2 ml-1.5" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span>
       </h2>

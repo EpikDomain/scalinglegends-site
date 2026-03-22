@@ -17,7 +17,7 @@ sponsors:
 
 Let's cut to the chase. Most construction contractors – even those hitting $10M, $20M, or $30M – are leaving significant money on the table, or worse, unknowingly eroding their future, because they fundamentally misunderstand the math behind pricing. They're mistaking markup for margin, underestimating true overhead, or simply guessing what the market will bear.
 
-This isn't about bidding low to win work. That's a race to the bottom you can't afford. This is about strategic, profitable pricing that fuels growth, allows for reinvestment, and builds a resilient business. It's about understanding every dollar spent and every dollar earned. If you're scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) from $1M to $50M+, pricing isn't just an estimating function; it's a core financial strategy. Get it wrong, and you're building a house of cards. Get it right, and you're laying the foundation for an empire.
+This isn't about bidding low to win work. That's a race to the bottom you can't afford. This is about strategic, profitable pricing that fuels growth, allows for reinvestment, and builds a resilient business. It's about understanding every dollar spent and every dollar earned. If you're scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) from $1M to $50M+, pricing isn't just an estimating function; it's a core financial strategy. Get it wrong, and you're building a house of cards. Get it right, and you're laying the foundation for an empire.
 
 ### The #1 Financial Blind Spot: Markup vs. Margin
 
@@ -336,7 +336,7 @@ The "how to quote construction jobs" isn't a one-size-fits-all answer. Different
 
 - Can lead to client skepticism if not managed transparently with regular reporting.
 
-**Best Use:** Small repair jobs, emergency services, service work, or when the scope is truly impossible to define upfront (e.g., investigating a leak). Rarely used for large-scale [construction projects](/article/surviving-the-messy-middle-of-construction-growth) unless for very specific, limited scope tasks.
+**Best Use:** Small repair jobs, emergency services, service work, or when the scope is truly impossible to define upfront (e.g., investigating a leak). Rarely used for large-scale [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) unless for very specific, limited scope tasks.
 
 ## Strategic Markup Percentages: Beyond a Generic Number
 
@@ -474,7 +474,7 @@ Change orders are often where contractors lose significant money, either by unde
 
 **Never perform change order work without a signed approval.** This protects you from disputes and ensures you get paid for the extra effort and resources.
 
-## Regional Pricing Variations: Local [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign)
+## Regional Pricing Variations: Local [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/)
 
 Construction pricing strategy isn't uniform across the country, or even within a state. Regional variations significantly impact costs and pricing potential.
 
@@ -562,7 +562,7 @@ Low-margin work doesn't just mean less profit; it means:
 
 - **Reputational Damage:** A difficult project, even if it's the client's fault, can still reflect poorly on your company.
 
-- **[Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) Strain:** Payment delays or disputes on low-margin jobs can cripple your cash flow, impacting your ability to pay subs and suppliers.
+- **[Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) Strain:** Payment delays or disputes on low-margin jobs can cripple your cash flow, impacting your ability to pay subs and suppliers.
 
 Your goal is to scale profitably, not just to scale revenue. Sometimes, turning down work is the smart financial decision that protects your company's long-term health and reputation. The SBA often emphasizes the importance of a strong business plan and financial management, and knowing when to say no is a critical component of both.
 
@@ -610,7 +610,7 @@ Manual estimating and pricing are prone to errors and inefficiencies. Modern tec
 
 - **RSMeans Data Online / CostWorks:** As mentioned, indispensable for localized material, labor, and equipment costs. Provides a baseline for your estimates and helps validate subcontractor bids.
 
-- **Craftsman Book Company:** Publishes a range of cost books that serve as a quick reference for typical [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs).
+- **Craftsman Book Company:** Publishes a range of cost books that serve as a quick reference for typical [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/).
 
 ### Accounting & Job Costing Software:
 
@@ -624,7 +624,7 @@ Implementing these tools requires an initial investment in time and money, but t
 
 ## Frequently Asked Questions About Construction Job Pricing
 
-### What is a good profit margin for [a construction company](/article/how-to-start-construction-company-washington-2026)?
+### What is a good profit margin for [a construction company](/article/how-to-start-construction-company-washington-2026/)?
 
 A "good" profit margin varies significantly by sector, project type, and market conditions. Generally, gross profit margins for general contractors can range from 15% to 25%, sometimes higher for specialized or custom work. Net profit margins (after all overhead) typically fall between 5% and 15%. Specialty contractors often aim for higher margins (e.g., 20-30% net). The key is to know your own costs and set a margin that allows for sustainable growth and reinvestment, not just survival.
 

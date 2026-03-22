@@ -16,13 +16,13 @@ sponsors:
 
 <iframe src="https://www.youtube.com/embed/FGzm4Scg-lg" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-## [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business) Wraps as Tariffs Hammer Margins and Data Centers Break Records
+## [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) Wraps as Tariffs Hammer Margins and Data Centers Break Records
 
-CONEXPO-CON/AGG 2026 closes today in Las Vegas after five days with 2,000+ exhibitors, 130,000+ attendees, and nearly 3 million square feet of exhibit space. Meanwhile, the tariff squeeze is eating bids alive, Ohio's E-Verify mandate goes live in 12 days, and [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) just posted the highest monthly start figure ever recorded.
+CONEXPO-CON/AGG 2026 closes today in Las Vegas after five days with 2,000+ exhibitors, 130,000+ attendees, and nearly 3 million square feet of exhibit space. Meanwhile, the tariff squeeze is eating bids alive, Ohio's E-Verify mandate goes live in 12 days, and [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) just posted the highest monthly start figure ever recorded.
 
 Here's everything that matters for contractors this week.
 
-## [CONEXPO 2026: The](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site) Announcements That Actually Matter for Your Business
+## [CONEXPO 2026: The](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) Announcements That Actually Matter for Your Business
 
 **Caterpillar** made the biggest splash with AI tools, autonomous-ready equipment, and a new rental brand called **"Cat Compact"** aimed directly at small contractors. They showed 30+ machines including an all-new electric drive medium dozer, VisionLink fleet management, and their Cat Command autonomy portfolio.
 
@@ -32,7 +32,7 @@ Here's everything that matters for contractors this week.
 
 **Electric equipment dominated the floor.** LiuGong showed 13 machines including zero-emission excavators and wheel loaders claiming **40%+ lower operating costs**. Revolution/London showcased an industry-first electrified mixer. More zero-emission options were on display than at any previous CONEXPO.
 
-**Topcon** announced new 3D machine control, safety features, and geomatic surveying tech. **Superior Industries** unveiled 10 new products. The show also featured new EmpowerHER Workshops for [women in construction](/article/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026) and a Small Business Workshop track for entrepreneurs.
+**Topcon** announced new 3D machine control, safety features, and geomatic surveying tech. **Superior Industries** unveiled 10 new products. The show also featured new EmpowerHER Workshops for [women in construction](/article/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026/) and a Small Business Workshop track for entrepreneurs.
 
 The takeaway for contractors under $10M: Cat Compact simplifies equipment purchasing for smaller firms. Electric equipment is no longer future talk. Machine control from Komatsu and Topcon can cut rework on every job.
 
@@ -128,7 +128,7 @@ Governor Newsom is pushing major modular construction legislation for 2026. ReMo
 
 - **Construction Leading Edge** (Todd Dawalt): Ep 433, "5 Decisions That Free the Overworked Construction Owner." Weekly cadence, strong focus on business systems.
 
-- **Contractor Success Forum**: Active, covering [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies) and business focus. CPA + surety bond agent duo gives a financial angle.
+- **Contractor Success Forum**: Active, covering [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) and business focus. CPA + surety bond agent duo gives a financial angle.
 
 - **ConTechCrew**: Active through 2025. March 2026 episodes not indexed yet. Focus on AI and prefab.
 
@@ -158,7 +158,7 @@ When material costs change weekly and labor is scarce, operational efficiency is
 
 ## Frequently Asked Questions
 
-### How are tariffs affecting [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs) in March 2026?
+### How are tariffs affecting [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/) in March 2026?
 
 Steel tariffs at 50% have pushed steel bars and structural shapes up 12.1% year-over-year. Aluminum is up 23%. Copper products face 50% tariffs with 4.9% YoY increases. Overall construction inputs rose 2.3% YoY with a 0.7% jump in January alone. Project abandonment has surged 88.2% as contractors can't absorb the increases on existing fixed-price contracts.
 
@@ -190,4 +190,4 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Actively Monitor Material Price Volatility.** Designate a team member to track daily or weekly price fluctuations for critical construction inputs such as steel, aluminum, and copper to inform real-time bidding strategies and procurement decisions.
 
-- **Re-evaluate Current Bid Margins.** Promptly review all ongoing bids and recently awarded projects (especially those submitted 60-90 days ago) to assess potential financial exposure due to the 50% tariffs on steel and aluminum, adjusting [project management](/article/surviving-the-messy-middle-of-construction-growth) or client communication as necessary.
+- **Re-evaluate Current Bid Margins.** Promptly review all ongoing bids and recently awarded projects (especially those submitted 60-90 days ago) to assess potential financial exposure due to the 50% tariffs on steel and aluminum, adjusting [project management](/article/surviving-the-messy-middle-of-construction-growth/) or client communication as necessary.

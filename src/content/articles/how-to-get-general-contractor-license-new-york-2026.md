@@ -149,7 +149,7 @@ If your sights are set on NYC, you need to understand the [NYC Department of Bui
 
 - **Site Safety Manager (SSM) / Concrete Safety Manager (CSM) Licenses:** These are also individual licenses with stringent experience, education, and exam requirements. As a GC, you'll need to ensure these licensed professionals are on your team or sub-contracted for relevant projects.
 
-- **Permitting is Key:** For every significant [construction project](/article/surviving-the-messy-middle-of-construction-growth) in NYC, you'll need a permit from the DOB. As the general contractor, you'll be responsible for ensuring the correct permits are pulled, inspections are scheduled, and all work adheres to the NYC Building Code. This often requires a registered architect or professional engineer to file plans.
+- **Permitting is Key:** For every significant [construction project](/article/surviving-the-messy-middle-of-construction-growth/) in NYC, you'll need a permit from the DOB. As the general contractor, you'll be responsible for ensuring the correct permits are pulled, inspections are scheduled, and all work adheres to the NYC Building Code. This often requires a registered architect or professional engineer to file plans.
 
 #### Experience and Education Requirements (NYC DOB Specific)
 
@@ -259,7 +259,7 @@ The U.S. Small Business Administration (SBA) is a fantastic resource for new and
 
 - **Government Contracting:** The SBA provides resources and certifications (like 8(a) Business Development, HUBZone) that can help small businesses compete for federal, state, and local government contracts. Given the amount of public infrastructure and building projects in NY, this can be a significant opportunity.
 
-### The New York [Construction Market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) Opportunity in 2026
+### The New York [Construction Market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) Opportunity in 2026
 
 Despite its complexities, the New York construction market remains one of the most robust and opportunity-rich in the nation. As of 2026, here's what you should be looking at:
 

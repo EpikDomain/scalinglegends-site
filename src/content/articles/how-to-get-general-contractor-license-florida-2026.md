@@ -23,7 +23,7 @@ So, you want to be a general contractor in Florida? Good. You've picked the righ
 
 First things first, let's clear up the biggest point of confusion in Florida contracting: the two types of licenses. You've got options, but only one gives you true statewide freedom.
 
-- **State Certified Contractor:** This is the gold standard. A state-certified General Contractor license, issued by the Florida [Construction Industry](/article/building-roads-and-breaking-barriers-ebony-jennings) Licensing Board (CILB), allows you to contract anywhere in Florida without needing to register with individual local jurisdictions. This is what you want if you plan on taking on big projects, following the hurricane paths, or just want the flexibility to work across county lines. It covers all types of construction, commercial and residential, without height limitations.
+- **State Certified Contractor:** This is the gold standard. A state-certified General Contractor license, issued by the Florida [Construction Industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) Licensing Board (CILB), allows you to contract anywhere in Florida without needing to register with individual local jurisdictions. This is what you want if you plan on taking on big projects, following the hurricane paths, or just want the flexibility to work across county lines. It covers all types of construction, commercial and residential, without height limitations.
 
 - **County Registered Contractor:** This is a local license. A county-registered contractor is only allowed to work within the specific county or municipality that issued their license. If you get a registered license in Miami-Dade, you can't just cross into Broward County and start building. You'd need a separate registration there. These licenses are typically for smaller, more localized operations or specific trades like roofing or painting, but sometimes a county will register a "general contractor" for work solely within its borders. While it might seem easier, it significantly limits your scope. For a true "General Contractor" license that lets you build anything, anywhere in Florida, you're looking for state certification. This guide focuses on the state-certified path because that's where the real opportunity and challenge lies.
 
@@ -77,7 +77,7 @@ Alright, let's get down to brass tacks. Applying for your Florida State Certifie
 
 The exams are the gatekeepers. You need to pass both the Business and Finance exam and the General Contractor Trade Knowledge exam. These are computer-based, open-book tests administered by Pearson VUE at various locations across Florida.
 
-- **Business and Finance Exam:** This covers everything from lien laws (critical in Florida!), estimating, bidding, contract law, [project management](/article/surviving-the-messy-middle-of-construction-growth), workers' compensation, safety, business organization, and financial management. You need to understand how to run a legitimate business in Florida.
+- **Business and Finance Exam:** This covers everything from lien laws (critical in Florida!), estimating, bidding, contract law, [project management](/article/surviving-the-messy-middle-of-construction-growth/), workers' compensation, safety, business organization, and financial management. You need to understand how to run a legitimate business in Florida.
 
 - **General Contractor Trade Knowledge Exam:** This is where your four years of experience come into play. It tests your knowledge across all major construction divisions: sitework, concrete, masonry, metals, wood, thermal & moisture protection, doors & windows, finishes, specialties, equipment, furnishings, special construction, conveying systems, mechanical, electrical, communications, and fire protection. You'll also be heavily tested on the Florida Building Code.
 
@@ -191,7 +191,7 @@ Let's reiterate the minimums for Florida, because getting this wrong can shut yo
 
 - **Minimum for General Contractors:** $300,000 per occurrence, $500,000 aggregate.
 
-This is the baseline. Many contractors opt for higher limits due to the high-value projects and potential risks in Florida's [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign).
+This is the baseline. Many contractors opt for higher limits due to the high-value projects and potential risks in Florida's [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/).
 
 **Workers' Compensation Insurance:**
 

@@ -56,7 +56,7 @@ Bobcat showed the RogueX3, a fully electric autonomous concept loader with modul
 
 Komatsu revealed the PC220LCi-12 excavator, PC365LC-11 multifunction machine, WA485-11 wheel loader with Hydraulic Mechanical Transmission, two next-gen dozers with advanced steering, and the HD605-10 haul truck with Smart Quarry integrations.
 
-**The bottom line:** Every major OEM at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business) showed autonomous or AI-assisted equipment. The industry is signaling hard that technology is the answer to the labor crisis. For contractors who've been waiting to see if this trend is real, the answer came this week. It's real, it's shipping, and the early adopters will have a cost advantage within 18 to 24 months.
+**The bottom line:** Every major OEM at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) showed autonomous or AI-assisted equipment. The industry is signaling hard that technology is the answer to the labor crisis. For contractors who've been waiting to see if this trend is real, the answer came this week. It's real, it's shipping, and the early adopters will have a cost advantage within 18 to 24 months.
 
 Tools like [Smart Business Automator](https://smartbusinessautomator.com) are already helping contractors integrate technology into their operations. The firms that pair autonomous equipment with automated back-office systems will be the ones scaling fastest through 2027.
 
@@ -92,7 +92,7 @@ Real consequences are already hitting. Unistress Corp, a Massachusetts precast m
 
 The Section 122 tariffs have a 150-day clock and expire around July 2026. But Section 232 tariffs on steel and aluminum at 50% have no sunset. Long-term, construction output is projected to **contract by 2.4%**. Contractors using platforms like [Smart Business Automator](https://smartbusinessautomator.com) to automate their estimating workflows can re-price jobs faster when material costs shift, cutting the lag between a price spike and an updated bid from days to hours.
 
-## [Data Center Construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) Starts Hit All-Time Record: $25.2 Billion in January Alone
+## [Data Center Construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) Starts Hit All-Time Record: $25.2 Billion in January Alone
 
 January 2026 saw **$25.2 billion in data center construction starts**, the highest monthly figure ever recorded. The trailing 12-month total hit $103.7 billion. And it's accelerating: 76 data center projects valued at $88 billion are set to start in the next six months.
 
@@ -104,7 +104,7 @@ If you've been looking for the next growth market, this is it. The numbers don't
 
 ## The Workforce Cliff: 349,000 Workers Short and Shrinking
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) needs between **349,000 and 500,000 additional workers** to meet current demand. That gap is getting worse, not better, and it's being squeezed from both ends simultaneously.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) needs between **349,000 and 500,000 additional workers** to meet current demand. That gap is getting worse, not better, and it's being squeezed from both ends simultaneously.
 
 ### By the Numbers
 
@@ -112,7 +112,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 | --- | --- |
 | Worker shortage | 349,000-500,000 |
 | Firms affected by immigration enforcement | 28% |
-| [Construction workers](/article/how-to-hire-retain-construction-workers-2026-guide) who are immigrants | 34% (up to 61% in some trades) |
+| [Construction workers](/article/how-to-hire-retain-construction-workers-2026-guide/) who are immigrants | 34% (up to 61% in some trades) |
 | Workforce retiring by 2031 | 41% |
 | YoY wage growth | 4.2% (6-8% in hot markets) |
 | Contractors expecting hiring to worsen | 53% |
@@ -122,7 +122,7 @@ The states being hit hardest are Georgia (75% impact), Virginia, Alabama, Nebras
 
 Immigration enforcement has already removed 532,000 workers who held legal work authorization under humanitarian parole programs. Documented workers are gaining bargaining leverage, and contractors are paying premiums to retain them. ICE funding is increasing and more enforcement officers are being trained. Industry analysts say the sector may be "only beginning to feel the impact."
 
-This is exactly why [the autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site) announcements at CONEXPO matter. When you can't find humans to run machines, machines that run themselves stop being a luxury and start being a survival strategy.
+This is exactly why [the autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) announcements at CONEXPO matter. When you can't find humans to run machines, machines that run themselves stop being a luxury and start being a survival strategy.
 
 ## Ohio E-Verify Mandate: 12 Days and Counting
 
@@ -143,7 +143,7 @@ Records must be kept for 3 years from hire date or 1 year after termination, whi
 
 Small contractors without dedicated HR departments are getting hit hardest by this. If you don't have an E-Verify account set up yet, you have 12 days. Workforce compliance is one of the operational areas where [Smart Business Automator](https://smartbusinessautomator.com) can help contractors stay on top of deadlines and documentation requirements without adding headcount.
 
-## The [Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) Crunch: 43% of Subs Can't Cover Emergencies
+## The [Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) Crunch: 43% of Subs Can't Cover Emergencies
 
 The subcontractor cash flow crisis is getting worse, and the data is stark:
 
@@ -191,7 +191,7 @@ Live Google Trends data pulled today reveals what's on contractors' minds:
 
 | Search Term | Growth | What It Tells Us |
 | --- | --- | --- |
-| [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026) services near me | +51,350% | Contractors desperately seeking estimating help |
+| [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) services near me | +51,350% | Contractors desperately seeking estimating help |
 | free construction estimating software excel | +9,050% | Small contractors need affordable tools |
 | free residential construction estimating software | +2,450% | Residential segment is price-sensitive |
 | construction estimating institute | +600% | Training demand surging |
@@ -224,7 +224,7 @@ We monitor every major construction podcast weekly. Here's what the competition 
 
 ## Frequently Asked Questions
 
-### Did the [Supreme Court tariff ruling](/article/supreme-court-tariff-ruling-what-actually-changed-for-contractors-and-why-treasury-says-it-wont-last) lower steel prices for contractors?
+### Did the [Supreme Court tariff ruling](/article/supreme-court-tariff-ruling-what-actually-changed-for-contractors-and-why-treasury-says-it-wont-last/) lower steel prices for contractors?
 
 No. The Supreme Court struck down IEEPA tariffs on February 20, 2026, but Section 232 tariffs on steel and aluminum at 50% were completely unaffected. Steel prices are still up 20.7% year-over-year, and the White House immediately invoked Section 122 adding a 10% surcharge on other imports. The net cost exposure for contractors remains largely the same as before the ruling.
 
@@ -236,7 +236,7 @@ Ohio's E-Verify Workforce Integrity Act takes effect on March 19, 2026. It appli
 
 Data center construction starts hit an all-time record of $25.2 billion in January 2026 alone. The trailing 12-month total reached $103.7 billion, with 76 additional projects valued at $88 billion set to start in the next six months. Power infrastructure spending for data centers is forecast at $27.8 billion in 2026, a 68% increase over 2025.
 
-### What [autonomous construction equipment](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) was announced at CONEXPO 2026?
+### What [autonomous construction equipment](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) was announced at CONEXPO 2026?
 
 Caterpillar demonstrated the first fully autonomous soil compactor (Cat CS12) with zero operator in the cab. Bobcat revealed the RogueX3 fully electric autonomous concept loader. John Deere unveiled 7 electric or hybrid-electric machines with SmartGrade automation. Volvo showed Active Control automation claiming 45% faster task completion. Every major OEM at the show presented autonomous or AI-assisted equipment as production-ready technology.
 
@@ -252,7 +252,7 @@ The industry needs between 349,000 and 500,000 additional workers to meet curren
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 
-## How to Leverage CONEXPO's Emerging Tech for Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control)
+## How to Leverage CONEXPO's Emerging Tech for Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/)
 
 - **Investigate Cat Compact Services.** Contact Caterpillar or visit their website this week to understand the Cat Compact platform, specifically designed for small to mid-size contractors for buying, renting, and servicing equipment.
 

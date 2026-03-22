@@ -19,11 +19,11 @@ The construction management software market is on a trajectory that should make 
 
 <iframe src="https://www.youtube.com/embed/S7kWq9mbvws" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-This episode of Scaling Legends breaks down the entire landscape: real pricing for Procore, Buildertrend, Fieldwire, and more, the ROI data that proves optimized adopters see 4-point profit margin increases, and how AI agents are already changing payment management and scheduling. If you are running a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) and still stitching together spreadsheets and text messages, this is the buyer's guide you need.
+This episode of Scaling Legends breaks down the entire landscape: real pricing for Procore, Buildertrend, Fieldwire, and more, the ROI data that proves optimized adopters see 4-point profit margin increases, and how AI agents are already changing payment management and scheduling. If you are running a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) and still stitching together spreadsheets and text messages, this is the buyer's guide you need.
 
 ## The Market Reality: $17 Billion and Climbing
 
-[Construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) is no longer a nice-to-have. The numbers tell a clear story. The broader construction management software market sits at $10.64 billion as of 2025, with cloud-specific deployment valued at $5.17 billion in 2024. Cloud solutions are not just growing; they dominate, holding 62.35% of the total market share and advancing at a 12.08% compound annual growth rate.
+[Construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) is no longer a nice-to-have. The numbers tell a clear story. The broader construction management software market sits at $10.64 billion as of 2025, with cloud-specific deployment valued at $5.17 billion in 2024. Cloud solutions are not just growing; they dominate, holding 62.35% of the total market share and advancing at a 12.08% compound annual growth rate.
 
 AI-driven progress analytics represent the fastest-growing segment, projected to expand at **14.12% CAGR through 2031**. This is not a theoretical future. Companies like nPlan have already trained models on **750,000 historical construction schedules representing over $2 trillion in project spend**. ALICE Technologies uses generative AI for schedule optimization. Buildots deploys delay forecasting that predicts bottlenecks before they happen. According to data tracked by [Smart Business Automator](https://smartbusinessautomator.com), contractors who leverage AI-powered scheduling tools are seeing measurable reductions in project delays and cost overruns.
 
@@ -131,7 +131,7 @@ The ARCO Construction case study with Oracle Textura provides a concrete example
 
 - The platform has processed **over $1 trillion in construction payments** since 2006
 
-Reducing payment times from 65 to 45 days does not just improve [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies). It changes subcontractor relationships, reduces the cost of capital, and makes your firm a preferred partner for quality subs who have options about who they work for.
+Reducing payment times from 65 to 45 days does not just improve [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/). It changes subcontractor relationships, reduces the cost of capital, and makes your firm a preferred partner for quality subs who have options about who they work for.
 
 ## The Technology Adoption Gap: 70% with No Roadmap
 
@@ -147,7 +147,7 @@ Despite the clear ROI data, the adoption gap in construction remains severe. The
 
 - **71% say multiple PM tools** make information sharing difficult
 
-- **92% of [construction workers](/article/how-to-hire-retain-construction-workers-2026-guide)** use smartphones daily at work
+- **92% of [construction workers](/article/how-to-hire-retain-construction-workers-2026-guide/)** use smartphones daily at work
 
 - **22% use 6 or more construction apps**
 
@@ -309,7 +309,7 @@ Buildertrend is the most popular choice among residential builders and remodeler
 
 It depends on your firm's size and annual construction volume. For firms doing under $10 million per year, Buildertrend or Fieldwire typically offer better value. Procore becomes more competitive for firms above $25 million because its ACV pricing model includes unlimited users, which favors larger teams. The critical factors are integration with your accounting system, how well the mobile experience works for your field crews, and whether you can negotiate annual price increase caps into your contract.
 
-### How are AI features changing [construction project management](/article/surviving-the-messy-middle-of-construction-growth) software?
+### How are AI features changing [construction project management](/article/surviving-the-messy-middle-of-construction-growth/) software?
 
 AI is moving beyond basic automation into predictive analytics and autonomous agents. Oracle's Textura now includes an AI agent that can identify why payments are held and provide compliance forms automatically. nPlan's models, trained on 750,000 historical schedules, forecast project bottlenecks. Trimble's Tekla Structures uses AI to create fabrication drawings by learning from your previous projects. AI-driven progress analytics is the fastest-growing segment in the market, projected to expand at 14.12% CAGR through 2031.
 

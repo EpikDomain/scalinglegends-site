@@ -53,7 +53,7 @@ Before you even think about swinging a hammer, you need to set up your business 
 
 ### Choosing Your Business Structure: LLC vs. Corporation
 
-The two most common choices for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) are a Limited Liability Company (LLC) or a Corporation (S-Corp or C-Corp). Each has pros and cons for liability, taxation, and administrative burden.
+The two most common choices for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) are a Limited Liability Company (LLC) or a Corporation (S-Corp or C-Corp). Each has pros and cons for liability, taxation, and administrative burden.
 
 - **Limited Liability Company (LLC):** This is often the preferred choice for new contractors. It offers personal liability protection, meaning your personal assets are generally shielded from business debts and lawsuits. It also provides flexible taxation – you can be taxed as a sole proprietorship (pass-through), a partnership, or even an S-Corp or C-Corp. For a single-member LLC, profits and losses "pass through" to your personal tax return, avoiding double taxation.
 
@@ -95,7 +95,7 @@ You can do this online through the Georgia SOS website (www.sos.ga.gov) or by ma
 
 ## Georgia Contractor Licensing: Your Non-Negotiable Requirement
 
-This is where many aspiring contractors stumble. Georgia takes licensing seriously, and for good reason. You cannot legally bid on or perform most [construction projects](/article/surviving-the-messy-middle-of-construction-growth) in the state without the appropriate license from the Georgia State Board of Residential and General Contractors, which operates under the Georgia Division of Professional Licensing (DPL). Don't even think about cutting corners here.
+This is where many aspiring contractors stumble. Georgia takes licensing seriously, and for good reason. You cannot legally bid on or perform most [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) in the state without the appropriate license from the Georgia State Board of Residential and General Contractors, which operates under the Georgia Division of Professional Licensing (DPL). Don't even think about cutting corners here.
 
 ### Understanding Georgia's License Classes
 
@@ -127,7 +127,7 @@ The license you need depends heavily on the type and size of projects you intend
 
 **General Contractor Restricted:**
 
-- **Scope:** Similar to [a General Contractor](/article/how-to-get-general-contractor-license-florida-2026), but typically restricted to projects with a contract value limit (e.g., $1,000,000 or $500,000). This license is less common for new applicants as the [General Contractor license](/article/how-to-get-general-contractor-license-washington-2026) is often preferred if the experience is there.
+- **Scope:** Similar to [a General Contractor](/article/how-to-get-general-contractor-license-florida-2026/), but typically restricted to projects with a contract value limit (e.g., $1,000,000 or $500,000). This license is less common for new applicants as the [General Contractor license](/article/how-to-get-general-contractor-license-washington-2026/) is often preferred if the experience is there.
 
 - **Financial Requirement:** Varies depending on the restriction, but typically lower than the full GC.
 
@@ -419,7 +419,7 @@ Alright, let's distill all this down into an actionable checklist.
 
 - **Draft Your Contracts:** Work with a Georgia attorney to create solid, legally binding contracts for both clients and subcontractors that protect your interests and comply with Georgia law.
 
-## Frequently Asked Questions About [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) Company in Georgia
+## Frequently Asked Questions About [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) Company in Georgia
 
 ### Do I need a license to do handyman work in Georgia?
 
@@ -439,7 +439,7 @@ The timeline can vary significantly. Once you've met all experience and financia
 
 ### Are subcontractors required to be licensed in Georgia?
 
-It depends on the scope of work. If a subcontractor is performing work that falls under one of the state-licensed trades (e.g., plumbing, electrical, HVAC, conditioned air, low-voltage), they must hold the appropriate specialty license. General [construction subcontractors](/article/how-to-manage-construction-subcontractors-guide-2026) (e.g., framing, drywall, roofing) typically do not need a state general contractor license if they are working under a properly licensed general contractor who is pulling the overall building permit. However, local jurisdictions may still require them to have a local business license. Always verify specific requirements based on the project and location.
+It depends on the scope of work. If a subcontractor is performing work that falls under one of the state-licensed trades (e.g., plumbing, electrical, HVAC, conditioned air, low-voltage), they must hold the appropriate specialty license. General [construction subcontractors](/article/how-to-manage-construction-subcontractors-guide-2026/) (e.g., framing, drywall, roofing) typically do not need a state general contractor license if they are working under a properly licensed general contractor who is pulling the overall building permit. However, local jurisdictions may still require them to have a local business license. Always verify specific requirements based on the project and location.
 
 Starting a construction company in Georgia is a serious undertaking, but the rewards are substantial for those who do it right. Follow this guide, stay persistent, and build a reputation for quality and integrity. Now, go out there and build something great.
 

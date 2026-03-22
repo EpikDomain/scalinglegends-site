@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) in California is a landscape of innovation, opportunity, and, critically, stringent legal requirements. For contractors, subcontractors, suppliers, and design professionals, understanding how to secure payment is not just good business practice—it's essential for survival. When traditional invoices go unpaid, the mechanics lien stands as California's most powerful tool for securing compensation.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) in California is a landscape of innovation, opportunity, and, critically, stringent legal requirements. For contractors, subcontractors, suppliers, and design professionals, understanding how to secure payment is not just good business practice—it's essential for survival. When traditional invoices go unpaid, the mechanics lien stands as California's most powerful tool for securing compensation.
 
 This comprehensive guide, tailored specifically for the Golden State, cuts through the complexity to provide a direct, no-BS roadmap for filing a construction lien in California. We’ll cover every deadline, every form, and every process step accurate to California statute, ensuring you have the precise information needed to protect your financial interests in 2026 and beyond.
 
@@ -31,7 +31,7 @@ A key aspect of California's regulatory environment is the active role of the CS
 
 ## Who Has Lien Rights in California?
 
-California law extends mechanics lien rights to a broad array of participants in a [construction project](/article/surviving-the-messy-middle-of-construction-growth). This includes anyone who "furnishes labor, services, equipment, or materials" to a work of improvement. Specifically, the following parties typically have lien rights:
+California law extends mechanics lien rights to a broad array of participants in a [construction project](/article/surviving-the-messy-middle-of-construction-growth/). This includes anyone who "furnishes labor, services, equipment, or materials" to a work of improvement. Specifically, the following parties typically have lien rights:
 
 - **Direct Contractors (General Contractors):** Those who have a direct contractual agreement with the property owner.
 

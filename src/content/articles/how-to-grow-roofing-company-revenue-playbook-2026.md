@@ -45,7 +45,7 @@ Scaling a roofing company isn't linear. It demands different strategies, systems
 
 ### $500K - $1M: The Owner-Operator Grind
 
-At this stage, you're likely the chief salesperson, project manager, and often, still on the roof. [Cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) is tight, systems are informal, and growth is driven primarily by your personal hustle and a small, dedicated crew. You're building a reputation one roof at a time, relying heavily on referrals and basic local marketing. The challenge here is delegation and creating repeatable processes. You're trading time for money, which is not scalable.
+At this stage, you're likely the chief salesperson, project manager, and often, still on the roof. [Cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) is tight, systems are informal, and growth is driven primarily by your personal hustle and a small, dedicated crew. You're building a reputation one roof at a time, relying heavily on referrals and basic local marketing. The challenge here is delegation and creating repeatable processes. You're trading time for money, which is not scalable.
 
 ### $1M - $3M: First Hires and Systemization
 
@@ -289,7 +289,7 @@ Leverage technology to streamline operations, enhance communication, and impress
 
 - **CompanyCam:** Indispensable for documentation. Photos and videos before, during, and after a job provide transparency, protect you from liability, and are powerful sales tools. Integrate it with your CRM.
 
-- **AccuLynx / JobNimbus:** These are industry-specific powerhouses. They combine CRM, estimating, [project management](/article/surviving-the-messy-middle-of-construction-growth), financial tracking, and lead management into one platform. Choose one and implement it fully. Training your team to use it effectively is critical.
+- **AccuLynx / JobNimbus:** These are industry-specific powerhouses. They combine CRM, estimating, [project management](/article/surviving-the-messy-middle-of-construction-growth/), financial tracking, and lead management into one platform. Choose one and implement it fully. Training your team to use it effectively is critical.
 
 - **EagleView / RoofSnap:** Accurate aerial measurements eliminate the need for dangerous ladder climbs and provide precise material lists, reducing waste and improving bid accuracy.
 
@@ -473,7 +473,7 @@ Many roofing companies operate on razor-thin margins because they don't truly un
 
 ### Step 5: Invest in Crew Development and a Safety-First Culture
 
-Your crews are your product. The labor shortage is real, so you must proactively recruit, train, and retain top talent. Implement an internal training program for installation techniques and product specifics. Establish a non-negotiable [safety program that](/article/how-to-create-construction-safety-program-osha-2026) adheres to all OSHA regulations, with regular training, proper PPE, and a clear incident reporting process. Foster a culture where safety is paramount, and employees feel valued and respected. This reduces turnover, improves quality, lowers insurance costs, and enhances your brand reputation, directly impacting your ability to scale.
+Your crews are your product. The labor shortage is real, so you must proactively recruit, train, and retain top talent. Implement an internal training program for installation techniques and product specifics. Establish a non-negotiable [safety program that](/article/how-to-create-construction-safety-program-osha-2026/) adheres to all OSHA regulations, with regular training, proper PPE, and a clear incident reporting process. Foster a culture where safety is paramount, and employees feel valued and respected. This reduces turnover, improves quality, lowers insurance costs, and enhances your brand reputation, directly impacting your ability to scale.
 
 ## FAQ: Growing Your Roofing Company
 

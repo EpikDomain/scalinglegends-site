@@ -17,7 +17,7 @@ sponsors:
 
 So, you're looking to start a construction company in North Carolina. Good. You're eyeing one of the hottest markets in the nation, but don't think for a second it's a walk in the park. This isn't some generic state guide; this is the brass tacks, North Carolina-specific playbook you need to get off the ground and scale. We're talking real agencies, real regulations, and real opportunities unique to the Tar Heel State.
 
-North Carolina's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is booming, driven by relentless population growth, corporate relocations, and strategic investments. But to get a piece of that pie, you need to know the rules, understand the landscape, and build a solid foundation. Let's get to it.
+North Carolina's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is booming, driven by relentless population growth, corporate relocations, and strategic investments. But to get a piece of that pie, you need to know the rules, understand the landscape, and build a solid foundation. Let's get to it.
 
 ## Understanding the North Carolina Construction Market in 2026
 
@@ -33,7 +33,7 @@ If you're not looking at Charlotte and the Research Triangle (Raleigh, Durham, C
 
 - **The Research Triangle (Raleigh, Durham, Chapel Hill):** This region is a global leader in life sciences, technology, and advanced manufacturing. Major corporations are pouring in, bringing with them a need for massive campuses, specialized lab facilities, data centers, and, of course, housing for their employees. Expect continued growth in industrial, biotech, and high-density residential projects.
 
-These areas also have a high concentration of projects exceeding the crucial $30,000 threshold, meaning [a general contractor](/article/how-to-get-general-contractor-license-florida-2026)'s license isn't just nice to have; it's absolutely essential for any significant work.
+These areas also have a high concentration of projects exceeding the crucial $30,000 threshold, meaning [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/)'s license isn't just nice to have; it's absolutely essential for any significant work.
 
 ### Emerging Opportunities Across the State
 
@@ -71,9 +71,9 @@ Your choice of business entity has significant implications for liability, taxat
 
 - **C-Corporation (C-Corp):** A separate legal entity from its owners. Offers the strongest liability protection but is subject to "double taxation" – the corporation pays income tax on profits, and then shareholders pay income tax on dividends. Less common for startups unless you plan to seek significant outside investment or go public.
 
-- **Sole Proprietorship/Partnership:** Simple to set up but offers no personal liability protection. Not recommended for a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) due to inherent risks.
+- **Sole Proprietorship/Partnership:** Simple to set up but offers no personal liability protection. Not recommended for a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) due to inherent risks.
 
-For most new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) NC, an LLC electing S-Corp taxation is a common and often advantageous structure.
+For most new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) NC, an LLC electing S-Corp taxation is a common and often advantageous structure.
 
 ### Registering with the NC Secretary of State in Raleigh
 
@@ -97,7 +97,7 @@ The NC Secretary of State's website ([www.sosnc.gov](https://www.sosnc.gov/)) is
 
 After your business is registered with the state, you'll need an Employer Identification Number (EIN) from the IRS. This is like a Social Security number for your business and is required for opening bank accounts, hiring employees, and filing federal taxes. Apply directly on the IRS website; it's free and instant.
 
-## The North Carolina [General Contractor License](/article/how-to-get-general-contractor-license-washington-2026): Your Non-Negotiable Pass
+## The North Carolina [General Contractor License](/article/how-to-get-general-contractor-license-washington-2026/): Your Non-Negotiable Pass
 
 This is where North Carolina sets itself apart. The North Carolina Licensing Board for General Contractors (NCLBGC) is not to be trifled with. For any project valued at $30,000 or more, you MUST be a licensed general contractor. This isn't a suggestion; it's the law. Most commercial, public, and even many significant residential projects will exceed this threshold, making the license a mandatory credential for serious players.
 
@@ -149,7 +149,7 @@ Your license isn't a one-and-done deal. You'll need to renew it annually and mai
 
 Specialty trades (Electrical, Plumbing, HVAC) have separate licensing boards and requirements. The General Contractor license covers the overall project management and coordination, not necessarily the hands-on work of these licensed trades.
 
-## Essential North Carolina [Construction Insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back) & Bonding
+## Essential North Carolina [Construction Insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back/) & Bonding
 
 Operating in construction without proper insurance is like building a house on quicksand. In North Carolina, it's not just smart business; much of it is legally mandated.
 
@@ -173,7 +173,7 @@ Even if you have fewer than three employees, consider it. One serious injury can
 
 - **Commercial Auto:** If your business owns or leases vehicles, you need commercial auto insurance. Personal policies won't cover business-related accidents.
 
-- **Equipment Floater:** Protects your valuable tools and equipment from theft, damage, or loss, whether on a job site, in transit, or stored. Given the high cost of [construction equipment](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), this is a must-have.
+- **Equipment Floater:** Protects your valuable tools and equipment from theft, damage, or loss, whether on a job site, in transit, or stored. Given the high cost of [construction equipment](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), this is a must-have.
 
 ### Bonding: Bid, Performance, Payment
 
@@ -217,7 +217,7 @@ If you have employees, you'll need to register with the North Carolina Division 
 
 ## Real-World Startup Costs in North Carolina
 
-[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company in NC isn't cheap, especially if you plan to tackle projects over $30,000. Here's a breakdown of typical costs:
+[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) company in NC isn't cheap, especially if you plan to tackle projects over $30,000. Here's a breakdown of typical costs:
 
 - **Business Registration Fees:** ~$125 for LLC Articles of Organization/Incorporation with the NC Secretary of State.
 
@@ -271,7 +271,7 @@ Public sector work provides a steady pipeline of opportunities, often requiring 
 
 - **North Carolina Department of Transportation (NCDOT):** Constantly bidding on road, bridge, and infrastructure projects. Their website has a dedicated bidding portal.
 
-- **North Carolina State Construction Office (SCO):** Oversees [construction projects](/article/surviving-the-messy-middle-of-construction-growth) for state agencies, universities, and community colleges. Projects range from new buildings to renovations. Check their website for current bids.
+- **North Carolina State Construction Office (SCO):** Oversees [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) for state agencies, universities, and community colleges. Projects range from new buildings to renovations. Check their website for current bids.
 
 - **Local Governments:** Cities and counties throughout North Carolina issue RFPs and bids for municipal buildings, parks, utility upgrades, and local infrastructure. Check individual city/county procurement websites (e.g., City of Raleigh, Mecklenburg County, Wake County).
 
@@ -279,7 +279,7 @@ Public sector work provides a steady pipeline of opportunities, often requiring 
 
 ### Subcontracting Opportunities
 
-One of the quickest ways to get your foot in the door is to work as a subcontractor for established general contractors. This allows you to build experience, relationships, and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) without the full burden of prime contractor responsibilities.
+One of the quickest ways to get your foot in the door is to work as a subcontractor for established general contractors. This allows you to build experience, relationships, and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) without the full burden of prime contractor responsibilities.
 
 - Research major GCs operating in your target markets.
 

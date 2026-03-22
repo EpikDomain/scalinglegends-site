@@ -19,11 +19,11 @@ You’re a construction contractor scaling from $1M to $50M+. You build things. 
 
 <iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-This article isn't about quick fixes or marketing fads. This is a direct, no-BS guide for serious [construction business](/article/how-to-scale-a-construction-business-without-losing-control) owners ready to implement a robust, results-driven marketing strategy [that actually works](/article/ai-goes-agentic-the-construction-tech-that-actually-works-in-2026) in 2026. We’ll cut through the noise, show you what to focus on, and arm you with the actionable tactics to consistently get more construction leads and scale your business.
+This article isn't about quick fixes or marketing fads. This is a direct, no-BS guide for serious [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) owners ready to implement a robust, results-driven marketing strategy [that actually works](/article/ai-goes-agentic-the-construction-tech-that-actually-works-in-2026/) in 2026. We’ll cut through the noise, show you what to focus on, and arm you with the actionable tactics to consistently get more construction leads and scale your business.
 
 ## Why Most Contractor Marketing Fails (And What Works)
 
-Let's get straight to it. Most [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) fail at marketing not because they lack good intentions, but because they lack strategy, consistency, and an understanding of the modern buyer journey. They treat marketing as an afterthought, a sporadic activity, or a necessary evil rather than a vital investment in growth.
+Let's get straight to it. Most [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) fail at marketing not because they lack good intentions, but because they lack strategy, consistency, and an understanding of the modern buyer journey. They treat marketing as an afterthought, a sporadic activity, or a necessary evil rather than a vital investment in growth.
 
 ### The "Spray and Pray" Fallacy
 
@@ -31,7 +31,7 @@ Many contractors adopt a "spray and pray" approach. They might buy an ad in a lo
 
 ### Ignoring the Digital Landscape
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), while deeply rooted in physical work, operates in a digital world. Your prospective clients – whether they're homeowners, commercial developers, or facility managers – are starting their search online. They're on Google, checking reviews, and browsing websites. If your digital presence is weak or non-existent, you're invisible to a significant portion of your potential market. Relying solely on word-of-mouth, while valuable, severely limits your scalability.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), while deeply rooted in physical work, operates in a digital world. Your prospective clients – whether they're homeowners, commercial developers, or facility managers – are starting their search online. They're on Google, checking reviews, and browsing websites. If your digital presence is weak or non-existent, you're invisible to a significant portion of your potential market. Relying solely on word-of-mouth, while valuable, severely limits your scalability.
 
 ### Undervaluing Reputation and Follow-Up
 
@@ -115,7 +115,7 @@ Google rewards completeness. Fill out every single field accurately and thorough
 
 - **Services:** List all your core services (e.g., "New Home Construction," "Commercial Renovation," "Concrete Services"). Use keywords your clients would search for.
 
-- **Description:** Write a compelling, keyword-rich description of your business. Highlight your specialties, experience, and unique selling propositions. Include target keywords like "how to get clients for construction business" or "how to [get construction leads](/article/how-to-get-construction-leads-free-2026)."
+- **Description:** Write a compelling, keyword-rich description of your business. Highlight your specialties, experience, and unique selling propositions. Include target keywords like "how to get clients for construction business" or "how to [get construction leads](/article/how-to-get-construction-leads-free-2026/)."
 
 ### Optimize with High-Quality Photos & Videos
 
@@ -443,7 +443,7 @@ Strategic partnerships can be a goldmine for how to get construction leads. Iden
 
 - **Complementary Trades:** HVAC, plumbing, electrical, landscaping companies – if you don't offer those services, partner with reliable ones and exchange referrals.
 
-- **Financial Institutions:** Banks and commercial lenders often have clients seeking financing for [construction projects](/article/surviving-the-messy-middle-of-construction-growth).
+- **Financial Institutions:** Banks and commercial lenders often have clients seeking financing for [construction projects](/article/surviving-the-messy-middle-of-construction-growth/).
 
 Meet regularly with these partners, understand their needs, and educate them on your specific capabilities. Offer reciprocal referrals where appropriate.
 
@@ -902,7 +902,7 @@ Before any marketing activity, get crystal clear on who you serve. Are you targe
 Assess your current marketing efforts. What's working? What isn't? Review your website, Google Business Profile, social media presence, current lead sources, and past marketing spend. Identify gaps and areas for improvement. This audit will inform your priorities and budget allocation.
 
 **Set SMART Marketing Goals:**
-Your goals must be Specific, Measurable, Achievable, Relevant, and Time-bound. Instead of "get more leads," aim for "increase qualified commercial leads by 20% by Q4 2026" or "achieve a 4:1 marketing ROI on Google Ads for residential remodels." Link these goals directly to your [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul) objectives.
+Your goals must be Specific, Measurable, Achievable, Relevant, and Time-bound. Instead of "get more leads," aim for "increase qualified commercial leads by 20% by Q4 2026" or "achieve a 4:1 marketing ROI on Google Ads for residential remodels." Link these goals directly to your [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) objectives.
 
 **Allocate Your Budget Strategically:**
 Based on your revenue, growth goals, and audit findings, determine your overall marketing budget (e.g., 5-10% of gross revenue). Then, allocate funds across the most impactful channels: digital (SEO, Google Ads, website), content, social media, networking, and personnel (in-house or agency). Be prepared to adjust this allocation based on performance.
@@ -929,7 +929,7 @@ The most effective free lead source for construction companies is optimizing you
 
 The most effective way to advertise a construction company combines a strong digital foundation with targeted outreach. For immediate leads, Google Ads targeting high-intent keywords (e.g., "commercial general contractor [city] quotes") is highly effective. For long-term, sustainable lead generation, robust SEO (including local SEO and website content optimization) is paramount. Complement this with strategic social media (LinkedIn for commercial, Instagram/Facebook for residential) and direct referral systems. The "most effective" approach is always multi-faceted and tailored to your specific target audience and project types.
 
-### How do I [create a construction](/article/how-to-create-construction-safety-program-osha-2026) marketing strategy?
+### How do I [create a construction](/article/how-to-create-construction-safety-program-osha-2026/) marketing strategy?
 
 Creating a construction marketing strategy involves several key steps: 1) Define your ideal client and niche. 2) Conduct an audit of your current marketing efforts and assets. 3) Set SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals. 4) Allocate a strategic budget (typically 5-10% of revenue for scaling companies). 5) Select your core marketing channels (e.g., GBP, SEO, Google Ads, LinkedIn). 6) Develop a content calendar. 7) Implement robust tracking and analytics. 8) Regularly review performance, adapt your tactics, and scale what works. This systematic approach ensures your efforts are targeted and measurable.
 
@@ -951,9 +951,9 @@ For a new construction business, initial focus should be on building a strong fo
 
 ## Conclusion
 
-Marketing a [construction company in](/article/how-to-start-construction-company-washington-2026) 2026 isn't about guesswork or hoping for the best. It's about strategic planning, consistent execution, and relentless measurement. For contractors scaling from $1M to $50M+, neglecting a robust marketing strategy is no longer an option; it's a direct impediment to growth.
+Marketing a [construction company in](/article/how-to-start-construction-company-washington-2026/) 2026 isn't about guesswork or hoping for the best. It's about strategic planning, consistent execution, and relentless measurement. For contractors scaling from $1M to $50M+, neglecting a robust marketing strategy is no longer an option; it's a direct impediment to growth.
 
-By implementing the strategies outlined in this guide – from dominating local search with your Google Business Profile and SEO, to leveraging targeted Google Ads, building powerful referral networks, and creating compelling content – you will transform your lead generation efforts. [Stop leaving money on the table](/article/stop-leaving-money-on-the-table-pricing-self-respect-and-the-margins-you-deserve). Invest in your marketing with the same precision and commitment you bring to every construction project, and watch your company scale to new heights.
+By implementing the strategies outlined in this guide – from dominating local search with your Google Business Profile and SEO, to leveraging targeted Google Ads, building powerful referral networks, and creating compelling content – you will transform your lead generation efforts. [Stop leaving money on the table](/article/stop-leaving-money-on-the-table-pricing-self-respect-and-the-margins-you-deserve/). Invest in your marketing with the same precision and commitment you bring to every construction project, and watch your company scale to new heights.
 
 Ready to build a marketing strategy that delivers? Explore more resources at [scalinglegends.com](https://scalinglegends.com).
 

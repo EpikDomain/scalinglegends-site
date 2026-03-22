@@ -47,12 +47,12 @@ const sidebarArticles = sorted
 const breadcrumbs = [
   { name: "Home", url: "https://scalinglegends.com/" },
   ...(pillar
-    ? [{ name: PILLAR_NAMES[pillar] || pillar, url: `https://scalinglegends.com/pillar/${pillar}` }]
+    ? [{ name: PILLAR_NAMES[pillar] || pillar, url: `https://scalinglegends.com/pillar/${pillar}/` }]
     : audioUrl
       ? [{ name: "Podcast", url: "https://scalinglegends.com/podcast" }]
       : [{ name: "Articles", url: "https://scalinglegends.com/" }]
   ),
-  { name: title, url: `https://scalinglegends.com/article/${article.id}` },
+  { name: title, url: `https://scalinglegends.com/article/${article.id}/` },
 ];
 
 // Extract FAQ items from rendered content for structured data
@@ -142,13 +142,13 @@ for (const match of boldTermMatches) {
   noindex={article.data.noindex || false}
 >
   <article class="py-12 px-4 sm:px-8 min-h-screen bg-[#0D0D0D]">
-    <div class="max-w-[1600px] mx-auto">
+    <div class="mx-auto">
       <!-- Breadcrumb navigation -->
       <nav aria-label="Breadcrumb" class="mb-8 flex items-center gap-2 text-sm">
         <a href="/" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Home</a>
         <span class="text-[#444444]">/</span>
         {pillar ? (
-          <a href={`/pillar/${pillar}`} class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">{PILLAR_NAMES[pillar]}</a>
+          <a href={`/pillar/${pillar}/`} class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">{PILLAR_NAMES[pillar]}</a>
         ) : audioUrl ? (
           <a href="/podcast" class="text-[#888888] hover:text-[#CCFF00] transition-colors no-underline">Podcast</a>
         ) : (
@@ -327,7 +327,7 @@ for (const match of boldTermMatches) {
                 Episode Notes<span class="inline-block relative w-2 h-2 ml-1.5" style="vertical-align: baseline;"><span class="absolute inset-0 bg-[#CCFF00]"></span><span class="absolute inset-0 bg-gradient-to-br from-[#E0FF4D] via-[#CCFF00] to-[#9FCC00]" style="clip-path: polygon(0 0, 100% 0, 85% 15%, 15% 15%)"></span><span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span></span>
               </div>
             )}
-            <div class="article-content max-w-[800px]">
+            <div class="article-content">
               <Content />
             </div>
           </div>
@@ -439,7 +439,7 @@ for (const match of boldTermMatches) {
                 </h4>
                 <div class="space-y-3">
                   {sidebarEpisodes.map((item) => (
-                    <a href={`/article/${item.id}`} class="group block no-underline">
+                    <a href={`/article/${item.id}/`} class="group block no-underline">
                       <div class="flex gap-3 p-2 rounded-lg hover:bg-[#1A1A1A] transition-colors">
                         {item.data.image && (
                           <div class="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0 border border-[#2A2A2A]">
@@ -483,7 +483,7 @@ for (const match of boldTermMatches) {
                 </h4>
                 <div class="space-y-3">
                   {sidebarArticles.map((item) => (
-                    <a href={`/article/${item.id}`} class="group block no-underline">
+                    <a href={`/article/${item.id}/`} class="group block no-underline">
                       <div class="flex gap-3 p-2 rounded-lg hover:bg-[#1A1A1A] transition-colors">
                         {item.data.image && (
                           <div class="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0 border border-[#2A2A2A]">

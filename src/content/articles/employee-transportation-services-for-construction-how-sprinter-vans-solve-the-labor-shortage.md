@@ -16,7 +16,7 @@ sponsors:
 
 <iframe src="https://www.youtube.com/embed/aDl881Ecv_k" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-## [Construction Workers](/article/how-to-hire-retain-construction-workers-2026-guide) Have the Longest Commutes in America. Most Contractors Do Nothing About It.
+## [Construction Workers](/article/how-to-hire-retain-construction-workers-2026-guide/) Have the Longest Commutes in America. Most Contractors Do Nothing About It.
 
 Construction and mining workers have the **longest average commute of any profession in the country at 33+ minutes each way** (Priceonomics). The general workforce averages 41 miles round trip daily (FinanceBuzz 2025). And unlike office workers who can hop on Zoom, your crew can't pour concrete from their couch.
 
@@ -76,7 +76,7 @@ The specs matter for construction crews:
 
 - Diesel Sprinter Crew Van: seats up to 15 passengers, 6,812 lbs payload, 15-21 MPG
 
-For a crew running a 30-mile round trip to a job site, the 150-mile range eSprinter handles five round trips on a single charge. Fuel cost drops to near zero. Fleet benchmarking data shows [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) can achieve **15-25% cost reductions** through route optimization and vehicle right-sizing. Fleet management software saves **10-15% on fuel** and **25% on maintenance costs** (Heavy Vehicle Inspection).
+For a crew running a 30-mile round trip to a job site, the 150-mile range eSprinter handles five round trips on a single charge. Fuel cost drops to near zero. Fleet benchmarking data shows [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) can achieve **15-25% cost reductions** through route optimization and vehicle right-sizing. Fleet management software saves **10-15% on fuel** and **25% on maintenance costs** (Heavy Vehicle Inspection).
 
 Enterprise's Commute with Enterprise vanpool program reported participants saving an average of **$10,000 per person per year** in fuel and maintenance costs in 2024, while cutting commute-related CO2 emissions by 909 million pounds.
 
@@ -108,7 +108,7 @@ Several states and cities now **require** employers above a certain size to offe
 
 - **Los Angeles**: 50+ full-time employees at a single worksite
 
-If you're a [contractor operating](/article/the-contractor-operating-system-how-to-actually-grow-your-company-in-2026) in any of these markets with crews above the threshold, compliance isn't optional. And if you're not in a mandated market yet, the trend line is clear: it's coming.
+If you're a [contractor operating](/article/the-contractor-operating-system-how-to-actually-grow-your-company-in-2026/) in any of these markets with crews above the threshold, compliance isn't optional. And if you're not in a mandated market yet, the trend line is clear: it's coming.
 
 ### Indiana Vanpool Subsidy
 
@@ -122,11 +122,11 @@ Canadian tradespeople can deduct up to **$4,000/year** for transportation, meals
 
 American contractors treating crew transport as "their problem" should look at how other countries handle it.
 
-**Australia's FIFO (Fly-In, Fly-Out) model** is the gold standard for remote project transportation. The employer covers everything: flights, bus transport to site, accommodation, meals, and recreation facilities at village-style worker camps. Workers earn AUD 100,000-180,000/year ($65K-$117K USD), but the transportation and housing are on top of that, not deducted. This model staffs mines, gas plants, and [construction projects](/article/surviving-the-messy-middle-of-construction-growth) across the Bowen Basin, Surat Basin, and Northern Territory.
+**Australia's FIFO (Fly-In, Fly-Out) model** is the gold standard for remote project transportation. The employer covers everything: flights, bus transport to site, accommodation, meals, and recreation facilities at village-style worker camps. Workers earn AUD 100,000-180,000/year ($65K-$117K USD), but the transportation and housing are on top of that, not deducted. This model staffs mines, gas plants, and [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) across the Bowen Basin, Surat Basin, and Northern Territory.
 
 **Saudi Arabia's NEOM mega-project** shows the extreme end. The 12 sq km logistics park includes construction villages for an initial 30,000 workers, expanding to 150,000+. NEOM's $10 billion logistics joint venture with DSV (51% NEOM / 49% DSV) handles worker movement with electric, AI-powered Intelligent Guided Vehicles. Estimates show up to **25% of total labor costs go to accommodation, with another 25% to transport, food, and flights home** (MEED).
 
-The American [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) doesn't need to go to those extremes. But the principle holds: when you're competing for a finite labor pool, the contractor who solves transportation wins the workers.
+The American [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) doesn't need to go to those extremes. But the principle holds: when you're competing for a finite labor pool, the contractor who solves transportation wins the workers.
 
 ## Union Perspective: Transportation Is Already in the Contract
 
@@ -194,7 +194,7 @@ In several markets, yes. Illinois requires employers with 50+ employees in the R
 
 With skilled trades turnover at 73.1% and replacement costs running 30-150% of annual salary, the math favors transportation. Companies offering comprehensive benefits report 31% higher retention rates and receive 35% more qualified applicants (ABC). An Enterprise vanpool saves participants $10,000/year each. The eSprinter at $43,475 with near-zero fuel costs can break even in under a year when compared to mileage reimbursement for a 15-person crew.
 
-### How are [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce) projects handling worker transportation?
+### How are [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) projects handling worker transportation?
 
 Large data center campuses with 4,000-5,000 workers are creating transportation challenges rivaling small cities. Workers are earning $200,000+ but losing two hours daily commuting to rural sites. The CHIPS Act has created 102,000 construction jobs at remote semiconductor fabrication sites. Contractors bidding on this work increasingly need transportation plans built into their proposals. Autonomous shuttle companies like May Mobility (30-seat electric minibuses) and Beep ($52.7M raised) are targeting these exact use cases for 2026-2027 deployment.
 

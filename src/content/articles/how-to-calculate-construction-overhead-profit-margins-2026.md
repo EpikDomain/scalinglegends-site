@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is a battlefield where margins are tight, competition is fierce, and the difference between triumph and bankruptcy often boils down to a few critical numbers. Many contractors, even those scaling past the $1M mark, operate with a dangerous blind spot: a fuzzy understanding of their true overhead and the precise impact it has on their profit margins. This isn't just about accounting; it's about survival, strategic growth, and the very foundation of your [construction business profitability](https://scalinglegends.com).
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is a battlefield where margins are tight, competition is fierce, and the difference between triumph and bankruptcy often boils down to a few critical numbers. Many contractors, even those scaling past the $1M mark, operate with a dangerous blind spot: a fuzzy understanding of their true overhead and the precise impact it has on their profit margins. This isn't just about accounting; it's about survival, strategic growth, and the very foundation of your [construction business profitability](https://scalinglegends.com).
 
 You’re not just building structures; you’re building a business. And like any structure, if the foundation – your financial understanding – is weak, the entire enterprise is at risk. Ignore these numbers, and you risk bidding too low, working for free, or worse, growing yourself right into insolvency. At Scaling Legends, we see it repeatedly: companies hitting $5M, $10M, even $25M, only to plateau or collapse because they failed to master their [construction overhead calculation](https://scalinglegends.com/articles/construction-overhead-calculation) and truly understand their [construction profit margins](https://scalinglegends.com/articles/construction-profit-margins). This article isn't a suggestion; it's a mandate for any contractor serious about reaching $50M+.
 
@@ -105,7 +105,7 @@ Many costs aren't purely fixed or purely variable; they're semi-variable. They h
 
 A high proportion of fixed overhead makes your company less agile in downturns but can lead to significant profitability leverage in boom times. A higher proportion of variable overhead provides more flexibility but might limit the rate at which your profit margins expand with increased revenue. Understanding this mix is key to strategic planning, especially when considering expansion or contraction.
 
-## How to Calculate Your True [Construction Company](/article/surviving-the-messy-middle-of-construction-growth) Overhead Rate
+## How to Calculate Your True [Construction Company](/article/surviving-the-messy-middle-of-construction-growth/) Overhead Rate
 
 This is the single most important number you must know and monitor constantly. Your [construction company overhead rate](https://scalinglegends.com/articles/construction-company-overhead-rate) tells you how much of your revenue is consumed by the cost of simply keeping your business operational, before any project-specific profits are even considered. It’s the baseline for every bid, every growth projection, and every strategic decision.
 
@@ -231,7 +231,7 @@ This formula helps you translate your desired overhead and profit into a markup 
 
 ## The Overhead Recovery Problem: Why Growth Can Kill
 
-This is one of the most insidious traps for growing [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). You're busy, you're winning bids, revenue is climbing—everything looks great on the surface. But behind the scenes, your [overhead and profit construction](https://scalinglegends.com/articles/overhead-and-profit-construction) balance is tipping, silently eroding your financial health. This phenomenon is often called "growing broke."
+This is one of the most insidious traps for growing [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). You're busy, you're winning bids, revenue is climbing—everything looks great on the surface. But behind the scenes, your [overhead and profit construction](https://scalinglegends.com/articles/overhead-and-profit-construction) balance is tipping, silently eroding your financial health. This phenomenon is often called "growing broke."
 
 ### The Scenario
 
@@ -508,7 +508,7 @@ This means your company needs to generate at least $3,230,272 in revenue to cove
 
 - **Growth Planning:** When considering expansion (e.g., hiring more admin staff, opening a new office), you can recalculate your new break-even point. This tells you how much additional revenue you need to generate to justify the increased fixed overhead.
 
-- **[Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) Forecasting:** Understanding your break-even helps in forecasting cash flow, as you know when your operations will start generating positive net income.
+- **[Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) Forecasting:** Understanding your break-even helps in forecasting cash flow, as you know when your operations will start generating positive net income.
 
 The SBA emphasizes break-even analysis as a critical component of sound business planning. Regularly re-evaluating your break-even point, especially as your [construction overhead calculation](https://scalinglegends.com/articles/construction-overhead-calculation) changes, is a hallmark of strong financial leadership.
 

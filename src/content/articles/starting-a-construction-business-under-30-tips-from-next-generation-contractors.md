@@ -32,7 +32,7 @@ Forget the $648K "mid-size general contractor" startup figure that gets thrown a
 
 ### New Fintech Tools Built for Young Contractors
 
-**Billd** raised $7.3 million in November 2025 (led by MissionOG) and has deployed **over $750 million in subcontractor financing**. Their new product, "Predictable Pay," lets GCs accelerate sub payments in exchange for a small financing fee. For a 26-year-old sub waiting 90 days on a payment, Billd provides 120-day payment terms and same-day funding for material purchases. That solves the number one killer of young construction companies: [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) gaps.
+**Billd** raised $7.3 million in November 2025 (led by MissionOG) and has deployed **over $750 million in subcontractor financing**. Their new product, "Predictable Pay," lets GCs accelerate sub payments in exchange for a small financing fee. For a 26-year-old sub waiting 90 days on a payment, Billd provides 120-day payment terms and same-day funding for material purchases. That solves the number one killer of young construction companies: [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) gaps.
 
 **CoFi Lending**, founded by contractors Mike Lacey and Cam Harris who lived the financing pain firsthand, operates a digital construction loan marketplace covering $250K to $60M. Named to MWCN's Utah 100 fastest-growing companies.
 
@@ -70,7 +70,7 @@ Founded NS Builders in 2014 as a lifelong carpenter. Built **300,000+ followers 
 
 ## Construction Tech Investment Is at an All-Time High (And Young Founders Are Leading)
 
-[Construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) funding hit **$4.4 billion through Q3 2025**, a 66% year-over-year jump (Nymbl Ventures). AI captured $2.22 billion of that. Robotics investments: **$1.36 billion, up 125% year-over-year**. AI-based ConTech funding hit $521 million in Q1 2026, the highest since 2021.
+[Construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) funding hit **$4.4 billion through Q3 2025**, a 66% year-over-year jump (Nymbl Ventures). AI captured $2.22 billion of that. Robotics investments: **$1.36 billion, up 125% year-over-year**. AI-based ConTech funding hit $521 million in Q1 2026, the highest since 2021.
 
 90% of surveyed investors plan to increase or maintain ConTech investments in 2026.
 
@@ -84,7 +84,7 @@ This matters for young contractors because the startups being funded are buildin
 
 A 28-year-old contractor who knows how to use these tools has a structural advantage over a 55-year-old who doesn't. The technology isn't replacing the tradesperson. It's amplifying the ones who adopt it.
 
-## How TikTok Became the [Construction Industry](/article/building-roads-and-breaking-barriers-ebony-jennings)'s Recruiting Pipeline
+## How TikTok Became the [Construction Industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)'s Recruiting Pipeline
 
 In May 2025, TikTok partnered with SkillsUSA and the Skilled Careers Coalition to launch **SKILLS JAM**, a "for youth, by youth" content platform promoting trades careers. They produced nationwide workforce development events, culminating at the SkillsUSA National Leadership & Skills Conference in Atlanta (June 23-27, 2025).
 
@@ -166,7 +166,7 @@ The common thread in every young contractor failure is the same: they could buil
 
 ## Frequently Asked Questions
 
-### Is starting a [construction company](/article/surviving-the-messy-middle-of-construction-growth) under 30 realistic in 2026?
+### Is starting a [construction company](/article/surviving-the-messy-middle-of-construction-growth/) under 30 realistic in 2026?
 
 More realistic than ever. Jesse Lane started at 22 and hit eight figures before 30. Trade school debt averages $10,000 vs. $37,000 for a bachelor's. New fintech platforms like Billd ($750M+ deployed) provide same-day material funding with 120-day terms. Construction wages are growing 8-12% in 2026. The industry needs 499,000 new workers this year. The demand side is solved. The supply side is where young contractors step in.
 
@@ -186,7 +186,7 @@ Start with AI estimating tools, which nearly half of contractors now use to cut 
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 
-## How to Launch [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026) Under 30
+## How to Launch [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026/) Under 30
 
 - **Investigate Trade School Programs.** Explore trade school programs in your desired specialization this week, considering the low average debt of $10,000 and the potential for a $7,395 federal workforce training grant to reduce costs further.
 

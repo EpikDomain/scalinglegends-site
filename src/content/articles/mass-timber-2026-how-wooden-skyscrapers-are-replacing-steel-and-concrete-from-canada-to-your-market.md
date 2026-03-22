@@ -20,7 +20,7 @@ Imagine a 20-story building, structurally sound, aesthetically stunning, and ere
 
 ## The Big Picture: Why This Matters Now, More Than Ever
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), a bedrock of global economies, is at an inflection point. Decades of reliance on steel and concrete, materials with significant embodied carbon footprints and often lengthy construction cycles, are giving way to a more sustainable, efficient alternative: mass timber. This isn't your grandfather's stick-built home. Mass timber encompasses engineered wood products like Cross-Laminated Timber (CLT), Glued Laminated Timber (Glulam), Laminated Veneer Lumber (LVL), and Nail Laminated Timber (NLT), which possess incredible strength, stability, and fire resistance, making them suitable for mid-rise and even high-rise structures.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), a bedrock of global economies, is at an inflection point. Decades of reliance on steel and concrete, materials with significant embodied carbon footprints and often lengthy construction cycles, are giving way to a more sustainable, efficient alternative: mass timber. This isn't your grandfather's stick-built home. Mass timber encompasses engineered wood products like Cross-Laminated Timber (CLT), Glued Laminated Timber (Glulam), Laminated Veneer Lumber (LVL), and Nail Laminated Timber (NLT), which possess incredible strength, stability, and fire resistance, making them suitable for mid-rise and even high-rise structures.
 
 The global momentum behind mass timber is undeniable. From Canada, a pioneer in tall wood construction with projects like the 18-story Brock Commons Tallwood House at UBC, to Europe's burgeoning timber cities, and now increasingly across the United States, the material is gaining traction. Regulatory bodies are catching up, with the 2021 International Building Code (IBC) amendments allowing for mass timber buildings up to 18 stories, a significant leap from previous limitations. This regulatory evolution is a critical signal to the market: mass timber is no longer an experimental niche; it's a mainstream contender.
 
@@ -32,7 +32,7 @@ Thirdly, the economic advantages are becoming clearer. While initial material co
 
 Finally, the aesthetic and biophilic benefits of exposed wood are increasingly valued. Research suggests that occupants in wood-rich environments experience reduced stress and improved well-being, translating into higher tenant satisfaction and potentially higher rental yields for developers. This "warm" aesthetic offers a distinct competitive advantage over the cold, industrial feel of steel and concrete.
 
-For [construction business](/article/how-to-scale-a-construction-business-without-losing-control) owners and contractors, understanding this shift isn't optional; it's existential. The market is moving, client demands are evolving, and regulatory frameworks are adapting. Those who embrace mass timber now will be positioned as leaders, innovators, and preferred partners for the next generation of sustainable, efficient construction. Those who cling to outdated methodologies risk being left behind in a rapidly transforming industry.
+For [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) owners and contractors, understanding this shift isn't optional; it's existential. The market is moving, client demands are evolving, and regulatory frameworks are adapting. Those who embrace mass timber now will be positioned as leaders, innovators, and preferred partners for the next generation of sustainable, efficient construction. Those who cling to outdated methodologies risk being left behind in a rapidly transforming industry.
 
 ## The Data: What the Numbers Show for Your Market
 
@@ -52,7 +52,7 @@ Let's break down some critical numbers that should resonate with your business s
 
 - **Insurance & Risk:** Initial concerns about fire safety and insurance premiums are being addressed by data. Modern mass timber, especially CLT, is designed to char on the exterior, protecting the inner core and maintaining structural integrity far longer than unprotected steel, which can warp and collapse under high heat. Insurers are becoming more familiar with its performance, leading to increasingly competitive rates.
 
-These numbers aren't abstract; they represent tangible benefits and risks for your business. Ignoring these trends means missing out on a rapidly expanding market segment, potentially losing competitive edge, and failing to meet evolving client demands. The data unequivocally points to mass timber as a material of choice for sustainable, efficient, and economically viable [construction projects](/article/surviving-the-messy-middle-of-construction-growth) moving forward.
+These numbers aren't abstract; they represent tangible benefits and risks for your business. Ignoring these trends means missing out on a rapidly expanding market segment, potentially losing competitive edge, and failing to meet evolving client demands. The data unequivocally points to mass timber as a material of choice for sustainable, efficient, and economically viable [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) moving forward.
 
 ## Practical Strategies: What Smart Contractors Are Doing Right Now
 
@@ -86,7 +86,7 @@ The shift to mass timber requires more than just acknowledging its benefits; it 
 
 - **Refine Estimating:** Develop new estimating models that accurately account for mass timber's unique cost drivers, including prefabrication, specialized labor, faster project timelines, and reduced waste. Traditional estimating software may need significant customization or new modules.
 
-- **Showcase Expertise:** Actively market your firm's mass timber capabilities. Develop case studies of successful projects, highlight your trained personnel, and emphasize the sustainability benefits you can deliver. [Position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) as an innovator and a leader in sustainable construction.
+- **Showcase Expertise:** Actively market your firm's mass timber capabilities. Develop case studies of successful projects, highlight your trained personnel, and emphasize the sustainability benefits you can deliver. [Position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/) as an innovator and a leader in sustainable construction.
 
 - **Risk Management:** Understand the specific risks associated with mass timber, including fire during construction (though post-construction fire performance is excellent), moisture ingress, and supply chain disruptions. Work with your insurance provider to ensure adequate coverage and develop comprehensive risk mitigation plans.
 
@@ -94,7 +94,7 @@ By proactively implementing these strategies, contractors can not only navigate 
 
 ## Tools and Technology: Powering the Mass Timber Revolution
 
-The rapid advancement of mass timber wouldn't be possible without a parallel revolution in [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). From design to fabrication to on-site assembly, cutting-edge tools and software are streamlining processes, enhancing precision, and unlocking new efficiencies. For contractors, leveraging these technologies is key to maximizing the benefits of mass timber.
+The rapid advancement of mass timber wouldn't be possible without a parallel revolution in [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). From design to fabrication to on-site assembly, cutting-edge tools and software are streamlining processes, enhancing precision, and unlocking new efficiencies. For contractors, leveraging these technologies is key to maximizing the benefits of mass timber.
 
 ### 1. Building Information Modeling (BIM) and Parametric Design
 

@@ -253,7 +253,7 @@ Public sector work can provide stable contracts. The [SC Department of Administr
 
 ### Fair Pay for Public Work: South Carolina Prevailing Wage Requirements
 
-If you're bidding on state-funded public [construction projects](/article/surviving-the-messy-middle-of-construction-growth) in South Carolina, you need to understand prevailing wage laws. **South Carolina does have state prevailing wage requirements for public works projects (SC Code of Laws § 11-35-50 et seq.).**
+If you're bidding on state-funded public [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) in South Carolina, you need to understand prevailing wage laws. **South Carolina does have state prevailing wage requirements for public works projects (SC Code of Laws § 11-35-50 et seq.).**
 
 This means that workers on certain state-funded projects must be paid wages and fringe benefits no less than the "prevailing wage" determined for that type of work in that specific geographic area. The [SC Department of Labor, Licensing and Regulation (LLR)](https://llr.sc.gov/dol/) is involved in setting and enforcing these rates.
 
@@ -315,7 +315,7 @@ Every market has its challenges. In South Carolina, you'll face a few unique one
 
 ### Forging Alliances: Building Relationships with South Carolina GCs and Developers
 
-For many new [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), subcontracting is the pathway to growth. Building strong relationships with established General Contractors (GCs) and developers in South Carolina is paramount.
+For many new [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), subcontracting is the pathway to growth. Building strong relationships with established General Contractors (GCs) and developers in South Carolina is paramount.
 
 - **Join Industry Associations:** Organizations like ABC Carolinas (Associated Builders and Contractors) and Carolinas AGC (Associated General Contractors) have active South Carolina chapters. These are prime networking opportunities, often hosting events where GCs and developers are present.
 
@@ -347,7 +347,7 @@ Workers' Comp costs in South Carolina are a significant operating expense. They 
 
 For a new company without an EMR, you'll typically start with a "manual rate" which is the base rate for your classification. Seek quotes from multiple reputable insurance brokers in South Carolina to find competitive rates. The SC State Accident Fund is also an option, particularly if you have difficulty securing coverage in the private market.
 
-### FAQ: [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) Company in South Carolina
+### FAQ: [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) Company in South Carolina
 
 ### Q1: Do I need a license to do small handyman jobs under $5,000 in South Carolina?
 
@@ -365,7 +365,7 @@ A3: An SC General Contractor's license (from the SC CLB) is typically for commer
 
 A4: Absolutely. The SC Department of Health and Environmental Control (DHEC) oversees numerous environmental regulations. This includes stormwater management plans for land disturbance, waste disposal, air quality permits for certain operations, and specific regulations for working in critical areas, especially along the coast (through DHEC's Office of Coastal Resource Management). Failing to comply can result in significant fines and project delays. Always consult DHEC for project-specific environmental requirements.
 
-### Q5: How important is networking in the South Carolina [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings)?
+### Q5: How important is networking in the South Carolina [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)?
 
 A5: Extremely important. South Carolina, despite its growth, still operates on relationships. Attending events hosted by organizations like ABC Carolinas, Carolinas AGC, and local Chambers of Commerce is vital. These events allow you to meet general contractors, developers, architects, and suppliers. Building a reputation for quality work, reliability, and integrity through these connections is often how you secure repeat business and referrals in the Palmetto State.
 
@@ -405,10 +405,10 @@ Yes, South Carolina is experiencing an "explosion" in growth, consistently ranki
 
 Residential construction is a major growth area, especially in Charleston, Greenville, and Myrtle Beach. Commercial and industrial projects, driven by expansions from companies like BMW and Boeing, are also booming. Additionally, infrastructure upgrades (roads, bridges) and new hospitality developments (hotels, resorts) offer significant opportunities across the state.
 
-### What are the main challenges for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) South Carolina?
+### What are the main challenges for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) South Carolina?
 
 While South Carolina is business-friendly, new companies must navigate specific local nuances and the regulatory landscape. Key challenges include understanding complex licensing requirements, managing state-specific taxes, consistently finding work, and adapting to regional market conditions. Success hinges on knowing the business and regulatory environment "inside and out."
 
-### What regions in South Carolina offer the best [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) in 2026?
+### What regions in South Carolina offer the best [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/) in 2026?
 
 The lowcountry (Charleston) and upstate (Greenville, Spartanburg) are major growth epicenters. Charleston benefits from port expansion, tourism, and tech. Greenville and Spartanburg attract advanced manufacturing, automotive, and logistics. Columbia, the capital, also sees steady government, institutional, and residential infill projects, indicating widespread demand.

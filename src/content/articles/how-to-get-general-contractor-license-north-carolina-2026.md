@@ -25,7 +25,7 @@ This isn't some generic guide. This is your no-BS roadmap, straight from someone
 
 First off, let's be crystal clear: if you plan to undertake any construction project in North Carolina with a contract value of **$30,000 or more**, you *must* be a licensed General Contractor. This isn't a suggestion; it's the law. Fail to comply, and you're looking at serious legal penalties, project delays, and a ruined reputation before you even start.
 
-Think about that $30,000 threshold. For most commercial projects, and even significant residential remodels or new builds, you'll easily blow past that number. This means if you want to be a legitimate, competitive player in North Carolina's vibrant [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), your license isn't optional—it's foundational.
+Think about that $30,000 threshold. For most commercial projects, and even significant residential remodels or new builds, you'll easily blow past that number. This means if you want to be a legitimate, competitive player in North Carolina's vibrant [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), your license isn't optional—it's foundational.
 
 The North Carolina Licensing Board for General Contractors ([www.nclbgc.org](https://www.nclbgc.org)) is the sole authority governing general contractor licensing in the state. They set the standards, administer the exams, and issue the licenses. Understanding their requirements is your first critical step.
 
@@ -53,7 +53,7 @@ As discussed above, your first move is to figure out which license class (Limite
 
 ### Step 2: Gain Necessary Experience (Implicit, Not Explicit)
 
-Unlike some states that mandate a specific number of years of experience, North Carolina doesn't have a rigid "four years as a foreman" rule for general contractors. However, don't mistake this for a lack of need for experience. The NCLBGC exam is rigorous, and you won't pass it without a solid understanding of construction principles, project management, business law, and the North Carolina State Building Code. Your ability to demonstrate financial capacity also indirectly reflects your experience and business acumen. Practically speaking, you'll need hands-on experience to confidently tackle the exam and, more importantly, to actually run a successful [construction business](/article/how-to-scale-a-construction-business-without-losing-control) in North Carolina.
+Unlike some states that mandate a specific number of years of experience, North Carolina doesn't have a rigid "four years as a foreman" rule for general contractors. However, don't mistake this for a lack of need for experience. The NCLBGC exam is rigorous, and you won't pass it without a solid understanding of construction principles, project management, business law, and the North Carolina State Building Code. Your ability to demonstrate financial capacity also indirectly reflects your experience and business acumen. Practically speaking, you'll need hands-on experience to confidently tackle the exam and, more importantly, to actually run a successful [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) in North Carolina.
 
 ### Step 3: Prepare for and Pass the North Carolina General Contractor Exam
 
@@ -107,7 +107,7 @@ The exam is broken down into specific modules. All applicants for a General Cont
 
 Your study materials are critical. Focus on these:
 
-- **NASCLA [Contractors Guide to](/article/the-contractors-guide-to-project-workflow-automation) Business, Law and Project Management, North Carolina General Contractors Edition:** This is your bible. It covers the business, law, and project management aspects specific to North Carolina. Many questions will come directly from this manual.
+- **NASCLA [Contractors Guide to](/article/the-contractors-guide-to-project-workflow-automation/) Business, Law and Project Management, North Carolina General Contractors Edition:** This is your bible. It covers the business, law, and project management aspects specific to North Carolina. Many questions will come directly from this manual.
 
 - **North Carolina State Building Code:** You absolutely must be familiar with the current edition of the NC State Building Code. This includes the NC Building Code, Residential Code, Energy Code, and Accessibility Code. Knowing how to navigate these books efficiently during the exam is paramount.
 
@@ -123,7 +123,7 @@ PSI provides a Candidate Information Bulletin (CIB) on their website, which outl
 
 As mentioned, North Carolina does not have a formal "years of experience" requirement like some other states. You won't be asked to submit affidavits from previous employers detailing your work history.
 
-However, this doesn't mean experience is optional. The NCLBGC expects licensed contractors to be competent. Your ability to pass the challenging exam, understand complex financial statements, and [manage construction projects](/article/surviving-the-messy-middle-of-construction-growth) effectively all stem from practical experience and knowledge. While a formal education (e.g., a degree in construction management or engineering) isn't mandated, it can certainly provide a strong foundation and help you prepare for the exam and the realities of running a business.
+However, this doesn't mean experience is optional. The NCLBGC expects licensed contractors to be competent. Your ability to pass the challenging exam, understand complex financial statements, and [manage construction projects](/article/surviving-the-messy-middle-of-construction-growth/) effectively all stem from practical experience and knowledge. While a formal education (e.g., a degree in construction management or engineering) isn't mandated, it can certainly provide a strong foundation and help you prepare for the exam and the realities of running a business.
 
 In essence, North Carolina trusts that the exam and the financial capacity requirements will weed out those without sufficient practical knowledge or business acumen. So, while not a checklist item, real-world experience is implicitly required for success.
 
@@ -319,7 +319,7 @@ Let's circle back to why you're doing all this work. The North Carolina construc
 
 - **Research Triangle's Growth:** The Raleigh-Durham-Chapel Hill area (the Research Triangle) is a national tech and biotech hub. Major companies are expanding or relocating here, bringing with them a massive need for new office spaces, labs, manufacturing facilities, and supporting residential developments. The construction pipeline here is deep.
 
-- **Charlotte's Economic Engine:** As a major financial center and a rapidly growing logistics hub, Charlotte is seeing explosive commercial and residential development. From high-rise residential towers to massive industrial parks, the [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) are diverse and plentiful.
+- **Charlotte's Economic Engine:** As a major financial center and a rapidly growing logistics hub, Charlotte is seeing explosive commercial and residential development. From high-rise residential towers to massive industrial parks, the [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/) are diverse and plentiful.
 
 - **Infrastructure Investment:** With population growth comes the need for improved infrastructure. Roads, bridges, utilities, and public transportation projects are ongoing and planned across the state, offering opportunities for contractors of all sizes.
 

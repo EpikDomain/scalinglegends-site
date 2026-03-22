@@ -23,11 +23,11 @@ This comprehensive guide will equip you with the blueprint to build a **safety p
 
 ### The Unvarnished Truth: Why Safety Is Your Strategic Imperative
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), while vital, remains one of the most dangerous. Ignoring or underinvesting in safety isn't just irresponsible; it's a direct threat to your scaling ambitions.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), while vital, remains one of the most dangerous. Ignoring or underinvesting in safety isn't just irresponsible; it's a direct threat to your scaling ambitions.
 
 #### The Human and Financial Cost of Neglect
 
-Every year, hundreds of [construction workers](/article/how-to-hire-retain-construction-workers-2026-guide) lose their lives, and thousands more suffer debilitating injuries. The human toll is immeasurable: families shattered, lives irrevocably altered. But beyond the profound human tragedy, the financial repercussions for contractors are staggering.
+Every year, hundreds of [construction workers](/article/how-to-hire-retain-construction-workers-2026-guide/) lose their lives, and thousands more suffer debilitating injuries. The human toll is immeasurable: families shattered, lives irrevocably altered. But beyond the profound human tragedy, the financial repercussions for contractors are staggering.
 
 Consider these facts:
 
@@ -80,7 +80,7 @@ Every contractor scaling beyond $1M needs a formalized, written safety program. 
 It's a common misconception that a single company-wide safety program is sufficient. While essential, it must be complemented by site-specific safety plans.
 
 *   **Company-Wide Safety Program:** This is your overarching framework, defining your company's general safety policies, philosophical approach, and standard operating procedures applicable to all projects. It covers administrative aspects, general training requirements, and universal hazard controls. This document might serve as your foundational **construction safety plan template**.
-*   **Site-Specific Safety Plan (SSSP):** Every [construction project](/article/surviving-the-messy-middle-of-construction-growth) is unique, presenting its own set of distinct hazards, environmental conditions, and logistical challenges. An SSSP adapts your company's general program to the specific realities of a particular jobsite. It details the specific hazards identified for that site (e.g., adjacent power lines, specific excavation challenges, unique traffic patterns), the controls to mitigate them, and the emergency procedures tailored to that location. This plan is crucial for a robust **jobsite safety program** and is often a contractual requirement.
+*   **Site-Specific Safety Plan (SSSP):** Every [construction project](/article/surviving-the-messy-middle-of-construction-growth/) is unique, presenting its own set of distinct hazards, environmental conditions, and logistical challenges. An SSSP adapts your company's general program to the specific realities of a particular jobsite. It details the specific hazards identified for that site (e.g., adjacent power lines, specific excavation challenges, unique traffic patterns), the controls to mitigate them, and the emergency procedures tailored to that location. This plan is crucial for a robust **jobsite safety program** and is often a contractual requirement.
 
 ### How to Develop a Site-Specific Safety Plan
 

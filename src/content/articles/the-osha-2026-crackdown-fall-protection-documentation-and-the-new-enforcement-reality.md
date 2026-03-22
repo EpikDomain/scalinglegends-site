@@ -14,7 +14,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-OSHA cited fall protection violations more than any other standard for the 14th year running. Maximum penalties are now $165,514 per willful violation. And the new instance-by-instance policy means a single site visit can cost you $500K+. Here's what changed in 2026, and how your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) needs to adapt to survive.
+OSHA cited fall protection violations more than any other standard for the 14th year running. Maximum penalties are now $165,514 per willful violation. And the new instance-by-instance policy means a single site visit can cost you $500K+. Here's what changed in 2026, and how your [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) needs to adapt to survive.
 
 ## Key Takeaways
 
@@ -42,13 +42,13 @@ This intensified enforcement is not random. OSHA is leveraging increasingly soph
 
 ## Mastering OSHA Fall Protection Requirements
 
-For the 14th consecutive year, **OSHA fall protection requirements** remain the most cited standard in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings). This persistent issue underscores a fundamental challenge and a critical area for immediate contractor focus. Falls are the leading cause of fatalities in construction, accounting for over one-third of all worker deaths in the sector. Despite years of enforcement and education, many contractors still struggle with consistent compliance, often due to perceived costs, lack of planning, or insufficient training.
+For the 14th consecutive year, **OSHA fall protection requirements** remain the most cited standard in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/). This persistent issue underscores a fundamental challenge and a critical area for immediate contractor focus. Falls are the leading cause of fatalities in construction, accounting for over one-third of all worker deaths in the sector. Despite years of enforcement and education, many contractors still struggle with consistent compliance, often due to perceived costs, lack of planning, or insufficient training.
 
 OSHA's General Industry and Construction standards (29 CFR 1910 and 1926, respectively) clearly delineate requirements for fall protection. For construction, this generally means fall protection must be provided when working at heights of 6 feet or more above a lower level. This includes, but is not limited to, leading edges, unprotected sides and edges, hoist areas, holes, formwork, rebar, excavations, roofs, wall openings, residential construction, and scaffolding. The acceptable methods of fall protection typically include guardrail systems, safety net systems, and personal fall arrest systems (PFAS). Crucially, the selection and implementation of these systems must be site-specific and overseen by a competent person.
 
-**OSHA's new emphasis program specifically targets residential construction and roofing, sectors historically challenged by fall protection compliance.** This means increased inspections and a lower tolerance for minor infractions in these areas. Contractors in these trades must ensure their workers are not only equipped with the correct gear but are also rigorously trained in its proper use, inspection, and maintenance. For example, a roofer working on a 7/12 pitch roof must have a comprehensive fall arrest system, including anchor points capable of supporting 5,000 pounds per worker, a full-body harness, and a lanyard/lifeline. Simply having a harness on site is insufficient; it must be worn correctly and tied off to an appropriate anchor point. Neglecting these details is no longer just a risk to worker safety; it's a direct invitation for substantial fines under the new enforcement reality. Proactive planning and integration of fall protection into daily [construction project management](/article/construction-project-management-surviving-the-messy-middle) workflows are essential.
+**OSHA's new emphasis program specifically targets residential construction and roofing, sectors historically challenged by fall protection compliance.** This means increased inspections and a lower tolerance for minor infractions in these areas. Contractors in these trades must ensure their workers are not only equipped with the correct gear but are also rigorously trained in its proper use, inspection, and maintenance. For example, a roofer working on a 7/12 pitch roof must have a comprehensive fall arrest system, including anchor points capable of supporting 5,000 pounds per worker, a full-body harness, and a lanyard/lifeline. Simply having a harness on site is insufficient; it must be worn correctly and tied off to an appropriate anchor point. Neglecting these details is no longer just a risk to worker safety; it's a direct invitation for substantial fines under the new enforcement reality. Proactive planning and integration of fall protection into daily [construction project management](/article/construction-project-management-surviving-the-messy-middle/) workflows are essential.
 
-## Non-Negotiable [Construction Safety](/article/how-to-create-construction-safety-program-osha-2026) Documentation
+## Non-Negotiable [Construction Safety](/article/how-to-create-construction-safety-program-osha-2026/) Documentation
 
 In the current enforcement climate, robust **construction safety documentation** is not merely a formality; it is your primary defense during an OSHA inspection and a cornerstone of effective risk management. The "show me your paperwork" directive from an OSHA inspector is more potent than ever, and a failure to produce comprehensive, accurate, and up-to-date records can quickly escalate a routine inquiry into a costly citation. This goes beyond the basic safety plan; it delves into the specifics of implementation and personnel qualifications.
 
@@ -68,7 +68,7 @@ Furthermore, electronic injury reporting requirements have expanded. Employers w
 
 - Proof of PPE provision and training on its use.
 
-These documents should be organized, easily retrievable, and auditable. Investing in digital solutions for record-keeping can significantly streamline this process and ensure compliance. Neglecting documentation can not only lead to fines but can also severely impact your company's ability to manage project risks and maintain healthy [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies).
+These documents should be organized, easily retrievable, and auditable. Investing in digital solutions for record-keeping can significantly streamline this process and ensure compliance. Neglecting documentation can not only lead to fines but can also severely impact your company's ability to manage project risks and maintain healthy [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
 
 ## Beyond Fall Protection: Emerging OSHA Safety Compliance Standards
 
@@ -102,11 +102,11 @@ Another critical aspect of the new enforcement reality is the "72-hour investiga
 
 - Reviewing all relevant safety documentation.
 
-Failing to manage this initial phase effectively can severely prejudice your case and increase potential liabilities. Proactive preparation for these scenarios is a hallmark of contractors successfully [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) operations effectively. Data from [Platforms like Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
+Failing to manage this initial phase effectively can severely prejudice your case and increase potential liabilities. Proactive preparation for these scenarios is a hallmark of contractors successfully [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) operations effectively. Data from [Platforms like Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 
 <iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-## How to Fortify [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026) Against OSHA 2026 Crackdown This Week
+## How to Fortify [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026/) Against OSHA 2026 Crackdown This Week
 
 - **Conduct a Rapid Fall Protection Audit.** Immediately inspect all active job sites for fall hazards, paying special attention to residential construction and roofing, ensuring all required equipment is present, inspected, and correctly used.
 
@@ -134,7 +134,7 @@ The expanded instance-by-instance policy means OSHA can issue a separate penalty
 
 ### What is the most common OSHA violation in construction?
 
-Fall protection violations remain the most cited standard for the 14th consecutive year, making it the biggest concern for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). OSHA has even introduced a new emphasis program specifically targeting residential construction and roofing, underscoring the agency's focus on mitigating fall hazards across the industry.
+Fall protection violations remain the most cited standard for the 14th consecutive year, making it the biggest concern for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). OSHA has even introduced a new emphasis program specifically targeting residential construction and roofing, underscoring the agency's focus on mitigating fall hazards across the industry.
 
 ### What safety documentation is now critical for OSHA compliance?
 

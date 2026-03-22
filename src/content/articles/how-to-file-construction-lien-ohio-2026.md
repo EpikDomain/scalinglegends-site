@@ -15,7 +15,7 @@ sponsors:
 
 ## How to File a Construction Lien in Ohio: Deadlines, Forms, and Process for 2026
 
-For contractors, subcontractors, and material suppliers operating in Ohio's booming [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), understanding mechanics lien law is not just an advantage—it's a necessity. With major developments like the Intel fab plant driving unprecedented growth, securing your payment rights has never been more critical. Ohio’s construction lien statutes, primarily found in the Ohio Revised Code (ORC) §1311, provide a powerful tool to protect your financial interests when payment disputes arise. This comprehensive guide, crafted by the experts at Scaling Legends, will walk you through every critical detail of filing a construction lien in Ohio, ensuring you navigate the process accurately and effectively in 2026.
+For contractors, subcontractors, and material suppliers operating in Ohio's booming [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), understanding mechanics lien law is not just an advantage—it's a necessity. With major developments like the Intel fab plant driving unprecedented growth, securing your payment rights has never been more critical. Ohio’s construction lien statutes, primarily found in the Ohio Revised Code (ORC) §1311, provide a powerful tool to protect your financial interests when payment disputes arise. This comprehensive guide, crafted by the experts at Scaling Legends, will walk you through every critical detail of filing a construction lien in Ohio, ensuring you navigate the process accurately and effectively in 2026.
 
 <iframe src="https://www.youtube.com/embed/hhLdAK5YaNU" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -33,7 +33,7 @@ Ohio law is broad in defining who has lien rights. Generally, any person or comp
 
 - **General Contractors:** Those who contract directly with the property owner.
 
-- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) or another subcontractor to perform work or supply materials.
+- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) or another subcontractor to perform work or supply materials.
 
 - **Material Suppliers/Suppliers:** Companies that provide materials, equipment, or supplies incorporated into the project.
 
@@ -219,11 +219,11 @@ Ohio law recognizes both conditional and unconditional lien waivers, and they ca
 
 - **Unconditional Waiver:** This type of waiver is effective immediately upon signing, regardless of whether you have actually received payment. Signing an unconditional waiver before receiving payment means you are giving up your lien rights for that payment, with no recourse if the check bounces or payment never arrives. **Never sign an unconditional waiver unless you have already received and confirmed good funds.**
 
-**Ohio Revised Code §1311.02(B)** states that any provision in a [construction contract that](/article/how-to-write-construction-contract-guide-2026) purports to waive or release the right to file a mechanics lien in anticipation of the work is generally unenforceable. Lien waivers must be specific to payments already made or to be made, not a blanket waiver for future work. Be extremely cautious and read all waiver language carefully. If in doubt, consult with an attorney.
+**Ohio Revised Code §1311.02(B)** states that any provision in a [construction contract that](/article/how-to-write-construction-contract-guide-2026/) purports to waive or release the right to file a mechanics lien in anticipation of the work is generally unenforceable. Lien waivers must be specific to payments already made or to be made, not a blanket waiver for future work. Be extremely cautious and read all waiver language carefully. If in doubt, consult with an attorney.
 
 ### Bond Claims on Ohio Public Projects (Ohio's Little Miller Act)
 
-Mechanics liens generally apply only to private [construction projects](/article/surviving-the-messy-middle-of-construction-growth). Public property (schools, roads, government buildings) cannot be liened. To protect subcontractors and suppliers on state and local public works projects, Ohio has adopted a "Little Miller Act," found in **ORC §153.56**.
+Mechanics liens generally apply only to private [construction projects](/article/surviving-the-messy-middle-of-construction-growth/). Public property (schools, roads, government buildings) cannot be liened. To protect subcontractors and suppliers on state and local public works projects, Ohio has adopted a "Little Miller Act," found in **ORC §153.56**.
 
 This statute requires general contractors on public projects to furnish a payment bond to secure payment to all subcontractors and suppliers. If you are not paid on an Ohio public project, your recourse is to make a claim against this payment bond, not to file a mechanics lien.
 
@@ -305,7 +305,7 @@ An attorney specializing in Ohio construction law can identify potential pitfall
 
 ### Leveraging Technology for Ohio Lien Deadline Management
 
-In the fast-paced [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), managing multiple projects and their associated lien deadlines can be a daunting task. Relying solely on manual calendars or spreadsheets is prone to human error. Fortunately, technology offers robust solutions:
+In the fast-paced [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), managing multiple projects and their associated lien deadlines can be a daunting task. Relying solely on manual calendars or spreadsheets is prone to human error. Fortunately, technology offers robust solutions:
 
 - **Lien Management Software:** Specialized platforms exist (like those used by Scaling Legends) that automate the tracking of preliminary notice and lien filing deadlines based on project start dates and last work dates. They can generate required forms and even facilitate notice delivery.
 
@@ -361,6 +361,6 @@ Ohio law is broad, allowing any person or company that furnishes labor, material
 
 ### What are the main requirements for filing a construction lien in Ohio?
 
-Filing a construction lien in Ohio demands strict adherence to Ohio Revised Code Chapter 1311. Key requirements include specific deadlines, proper forms, and precise procedural steps. Any deviation can invalidate your lien. While Ohio lacks a statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026), local licensing may apply, though the lien laws themselves are uniform statewide.
+Filing a construction lien in Ohio demands strict adherence to Ohio Revised Code Chapter 1311. Key requirements include specific deadlines, proper forms, and precise procedural steps. Any deviation can invalidate your lien. While Ohio lacks a statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026/), local licensing may apply, though the lien laws themselves are uniform statewide.
 
 What happens

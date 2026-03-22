@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is the backbone of Tennessee's booming economy, with cranes dotting the Nashville skyline and development spreading across the Volunteer State. If you've got the grit, the know-how, and the ambition to build, 2026 is an opportune time to launch your own construction company here. But don't just jump in. This isn't a generic guide; this is your no-nonsense roadmap to starting a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) in Tennessee, built on the specific requirements, market realities, and opportunities unique to our state.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is the backbone of Tennessee's booming economy, with cranes dotting the Nashville skyline and development spreading across the Volunteer State. If you've got the grit, the know-how, and the ambition to build, 2026 is an opportune time to launch your own construction company here. But don't just jump in. This isn't a generic guide; this is your no-nonsense roadmap to starting a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) in Tennessee, built on the specific requirements, market realities, and opportunities unique to our state.
 
 We're talking about real Tennessee agencies, real rules, and real money. Forget the fluff. Let's get down to brass tacks.
 
@@ -57,7 +57,7 @@ Your first stop for formal business registration will be the [Tennessee Secretar
 
 ### LLC vs. Corporation: What Makes Sense in Tennessee?
 
-- **Limited Liability Company (LLC):** This is often the preferred choice for many new [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) in Tennessee. An LLC offers personal liability protection, meaning your personal assets (your home, savings) are generally shielded from business debts and lawsuits. It also provides flexibility in how you're taxed. You can elect to be taxed as a sole proprietorship (if you're a single-member LLC), a partnership, or even an S-Corporation or C-Corporation for federal tax purposes.
+- **Limited Liability Company (LLC):** This is often the preferred choice for many new [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) in Tennessee. An LLC offers personal liability protection, meaning your personal assets (your home, savings) are generally shielded from business debts and lawsuits. It also provides flexibility in how you're taxed. You can elect to be taxed as a sole proprietorship (if you're a single-member LLC), a partnership, or even an S-Corporation or C-Corporation for federal tax purposes.
 
 - **Corporation (S-Corp or C-Corp):** Corporations also offer strong personal liability protection. A C-Corporation is taxed separately from its owners and can face "double taxation" (corporate profits taxed, then dividends to shareholders taxed). An S-Corporation avoids double taxation by passing profits and losses directly to the owners' personal income without being subject to corporate tax rates. Many construction companies elect S-Corp status for federal tax savings, particularly when owners can pay themselves a reasonable salary and take remaining profits as distributions.
 
@@ -183,7 +183,7 @@ Don't forget your federal tax obligations, including federal income tax, self-em
 
 ## Startup Costs Specific to Operating in Tennessee
 
-[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company involves significant upfront investment. While many costs are universal, some are influenced by operating in Tennessee.
+[Starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) company involves significant upfront investment. While many costs are universal, some are influenced by operating in Tennessee.
 
 ### Typical Startup Cost Categories
 
@@ -221,7 +221,7 @@ Don't forget your federal tax obligations, including federal income tax, self-em
 
 - Office space rent (if not home-based).
 
-- Office supplies, computer, software (accounting, [project management](/article/surviving-the-messy-middle-of-construction-growth)).
+- Office supplies, computer, software (accounting, [project management](/article/surviving-the-messy-middle-of-construction-growth/)/).
 
 - Website development, marketing materials.
 
@@ -487,7 +487,7 @@ Work with an experienced Tennessee insurance broker who specializes in construct
 
 ## How to Start Your Construction Company in Tennessee: Step-by-Step
 
-Alright, let's consolidate this into an actionable roadmap. This is your game plan for launching [your construction business](/article/how-to-systematize-construction-business-sops-software-2026) in Tennessee.
+Alright, let's consolidate this into an actionable roadmap. This is your game plan for launching [your construction business](/article/how-to-systematize-construction-business-sops-software-2026/) in Tennessee.
 
 ### Develop Your Business Plan (Tennessee Market Focused)
 
@@ -541,7 +541,7 @@ No, not necessarily a *state* contractor's license. In Tennessee, a state contra
 
 ### Is Tennessee a good state to start a construction company?
 
-Yes, absolutely. Tennessee, particularly markets like Nashville, is experiencing significant growth across commercial, residential, and infrastructure sectors. The state's business-friendly environment, strategic location, and lack of state individual income tax (a draw for skilled labor) make it a highly attractive market for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) 2026.
+Yes, absolutely. Tennessee, particularly markets like Nashville, is experiencing significant growth across commercial, residential, and infrastructure sectors. The state's business-friendly environment, strategic location, and lack of state individual income tax (a draw for skilled labor) make it a highly attractive market for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) 2026.
 
 ### What is the minimum insurance for a contractor in Tennessee?
 

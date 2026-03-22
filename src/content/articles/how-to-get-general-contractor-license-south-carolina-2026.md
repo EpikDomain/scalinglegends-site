@@ -23,7 +23,7 @@ Listen up. This isn't some generic guide you found floating around online. This 
 
 ### The South Carolina Edge: Growth and Opportunity
 
-South Carolina isn't just growing; it's exploding. Cities like Charleston and Greenville are consistently ranked among the fastest-growing in the nation, attracting new residents and businesses at an incredible pace. This isn't just a trend; it's a sustained economic engine driving massive demand for residential, commercial, and [infrastructure construction](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). From the coast to the Upstate, development is everywhere.
+South Carolina isn't just growing; it's exploding. Cities like Charleston and Greenville are consistently ranked among the fastest-growing in the nation, attracting new residents and businesses at an incredible pace. This isn't just a trend; it's a sustained economic engine driving massive demand for residential, commercial, and [infrastructure construction](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). From the coast to the Upstate, development is everywhere.
 
 What does that mean for you? Opportunity. Lots of it. New housing developments, retail centers, industrial parks, and public works projects are constantly breaking ground. The state's business-friendly environment further fuels this growth, making it an attractive place for contractors to establish and expand their operations.
 
@@ -31,11 +31,11 @@ What does that mean for you? Opportunity. Lots of it. New housing developments, 
 
 Here's the plain truth: if you want to do any significant construction work in South Carolina, you need a license. The threshold is low, really low. **Any project with a total cost of materials and labor exceeding $5,000 requires you to hold a General Contractor license.** That means almost every legitimate job you'll bid on will fall under this requirement. Trying to skirt the rules? Don't even think about it. Unlicensed contracting carries significant penalties, including hefty fines and even potential criminal charges. It's not worth the risk to your business, your reputation, or your freedom.
 
-Getting licensed isn't just about compliance; it's about credibility. It tells clients, lenders, and suppliers that you're a legitimate, qualified professional. It opens doors to larger projects, better financing, and a stronger position in the market. Consider it your official entry ticket to the booming South Carolina [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings).
+Getting licensed isn't just about compliance; it's about credibility. It tells clients, lenders, and suppliers that you're a legitimate, qualified professional. It opens doors to larger projects, better financing, and a stronger position in the market. Consider it your official entry ticket to the booming South Carolina [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/).
 
 ## Who Needs a General Contractor License in South Carolina?
 
-Let's make this crystal clear. If you're performing, supervising, or bidding on any [construction project](/article/surviving-the-messy-middle-of-construction-growth) in South Carolina that costs more than $5,000, you need a license. This isn't limited to just new builds. It includes major renovations, additions, demolition, and even certain specialized trades if they exceed the threshold and are part of a larger general contracting scope.
+Let's make this crystal clear. If you're performing, supervising, or bidding on any [construction project](/article/surviving-the-messy-middle-of-construction-growth/) in South Carolina that costs more than $5,000, you need a license. This isn't limited to just new builds. It includes major renovations, additions, demolition, and even certain specialized trades if they exceed the threshold and are part of a larger general contracting scope.
 
 ### The $5,000 Threshold Explained
 
@@ -173,7 +173,7 @@ This exam is standard for almost all contractor classifications in South Carolin
 
 - **Project Management:** Scheduling, quality control, safety (OSHA standards).
 
-- **Financial Management:** Accounting principles, [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies), taxes (SC sales tax, income tax).
+- **Financial Management:** Accounting principles, [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/), taxes (SC sales tax, income tax).
 
 - **Labor Laws:** SC employment laws, workers' compensation, payroll.
 
@@ -295,7 +295,7 @@ The SC Secretary of State's website provides all the necessary forms and instruc
 
 ## South Carolina Insurance Minimums: Protect Your Business
 
-Operating a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) without proper insurance in South Carolina is like building a house without a foundation – a recipe for disaster. Don't skimp here. The SC Contractors' Licensing Board and state law require specific coverages.
+Operating a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) without proper insurance in South Carolina is like building a house without a foundation – a recipe for disaster. Don't skimp here. The SC Contractors' Licensing Board and state law require specific coverages.
 
 ### General Liability Insurance
 

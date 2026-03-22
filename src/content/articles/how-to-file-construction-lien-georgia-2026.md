@@ -15,7 +15,7 @@ sponsors:
 
 ## How to File a Construction Lien in Georgia: Deadlines, Forms, and Process for 2026
 
-For construction professionals operating in Georgia's booming market, particularly within the bustling Atlanta metropolitan area, understanding the mechanics lien process isn't just good practice—it's essential for protecting your bottom line. Georgia's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), fueled by significant residential and commercial development, relies heavily on a clear understanding of payment security mechanisms. While the state's licensing structure, often tied to project value limits, aims to ensure qualified professionals, securing payment remains a paramount concern for general contractors, subcontractors, suppliers, and design professionals alike.
+For construction professionals operating in Georgia's booming market, particularly within the bustling Atlanta metropolitan area, understanding the mechanics lien process isn't just good practice—it's essential for protecting your bottom line. Georgia's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), fueled by significant residential and commercial development, relies heavily on a clear understanding of payment security mechanisms. While the state's licensing structure, often tied to project value limits, aims to ensure qualified professionals, securing payment remains a paramount concern for general contractors, subcontractors, suppliers, and design professionals alike.
 
 <iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -33,7 +33,7 @@ Georgia law extends lien rights to a broad range of parties who contribute to th
 
 - **General Contractors:** Those with a direct contract with the property owner.
 
-- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) to perform a specific part of the work.
+- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) to perform a specific part of the work.
 
 - **Material Suppliers (Materialmen):** Companies or individuals who provide materials, fixtures, or machinery used in the improvement of the property.
 
@@ -375,7 +375,7 @@ A4: Generally, no. Georgia's mechanics lien statute is strictly construed, and i
 
 ### Q5: What's the difference between a Georgia mechanics lien and a bond claim?
 
-A5: A Georgia mechanics lien (O.C.G.A. §44-14-360 et seq.) is a claim against the *real property* itself, providing a security interest in the property's value. It is used on private [construction projects](/article/surviving-the-messy-middle-of-construction-growth). A bond claim (under Georgia's Little Miller Act, O.C.G.A. §36-82-101 et seq.) is a claim against a *payment bond* provided by the general contractor on public construction projects. Because public property cannot be liened, the bond acts as a substitute security, guaranteeing payment to subcontractors and suppliers. The procedures, deadlines, and enforcement mechanisms for each are distinct.
+A5: A Georgia mechanics lien (O.C.G.A. §44-14-360 et seq.) is a claim against the *real property* itself, providing a security interest in the property's value. It is used on private [construction projects](/article/surviving-the-messy-middle-of-construction-growth/). A bond claim (under Georgia's Little Miller Act, O.C.G.A. §36-82-101 et seq.) is a claim against a *payment bond* provided by the general contractor on public construction projects. Because public property cannot be liened, the bond acts as a substitute security, guaranteeing payment to subcontractors and suppliers. The procedures, deadlines, and enforcement mechanisms for each are distinct.
 
 ### Q6: What if I supply materials to another supplier, not directly to the project or a subcontractor?
 

@@ -18,7 +18,7 @@ sponsors:
 
 - **Legacy is a launchpad, not a crutch.** Ebony inherited her grandfather's asphalt company name and reputation, but she had to completely rebuild the operations, systems, and client base from the ground up.
 
-- **[Women in construction](/article/women-in-construction-breaking-barriers-2026) face real structural barriers.** From bonding requirements designed for established players to the informal networks that exclude women, the obstacles are systemic, not just cultural.
+- **[Women in construction](/article/women-in-construction-breaking-barriers-2026/) face real structural barriers.** From bonding requirements designed for established players to the informal networks that exclude women, the obstacles are systemic, not just cultural.
 
 - **Modernizing operations is non-negotiable for growth.** Ebony replaced paper-based tracking with digital estimating, GPS fleet management, and automated scheduling, cutting overhead by over 30%.
 
@@ -36,15 +36,15 @@ There is a particular kind of weight that comes with carrying a family name in b
 
 Ebony Jennings knows that weight. Her grandfather, Raymond Jennings Sr., started a small asphalt paving operation in the early 1980s in the Southeast. He ran crews, bid on municipal jobs, and built a reputation one parking lot, one subdivision road, one church driveway at a time. By the time Ebony was a teenager, "Jennings Paving" was a known name in three counties.
 
-But like many [family construction](/article/how-to-scale-a-family-construction-business-without-losing-its-soul) businesses, the company's knowledge lived in one person's head. When Raymond Sr. passed, the business didn't transfer cleanly. Equipment was aging. Key employees left. Contracts lapsed. By the time Ebony decided to bring the company back, she wasn't inheriting a going concern. She was inheriting a name and a pile of challenges.
+But like many [family construction](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) businesses, the company's knowledge lived in one person's head. When Raymond Sr. passed, the business didn't transfer cleanly. Equipment was aging. Key employees left. Contracts lapsed. By the time Ebony decided to bring the company back, she wasn't inheriting a going concern. She was inheriting a name and a pile of challenges.
 
 "People told me I was crazy," Ebony shares in this episode. "They said the name doesn't mean anything if the trucks don't run and the contracts aren't signed. And they were right. But the name meant something to me. It meant my grandfather believed a Black family could build something permanent in this industry. I wasn't going to let that die."
 
-## The Reality for [Women in Construction](/article/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026): Numbers Don't Lie
+## The Reality for [Women in Construction](/article/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026/): Numbers Don't Lie
 
 The construction industry remains one of the most male-dominated sectors in the American economy. According to the Bureau of Labor Statistics, women make up roughly 11% of the construction workforce in 2026, and the vast majority of those roles are in office and administrative positions. On the field side, in the trades, running crews, operating heavy equipment, women represent less than 4% of workers.
 
-Ownership is even more skewed. The National Association of Women in Construction (NAWIC) estimates that **woman owned [construction companies](/article/5-cash-flow-mistakes-that-kill-construction-companies)** account for approximately 13% of all construction firms, but they capture less than 5% of total industry revenue. The gap between ownership count and revenue share tells a story: women-owned firms tend to be smaller, have less access to bonding and capital, and face steeper barriers to scaling.
+Ownership is even more skewed. The National Association of Women in Construction (NAWIC) estimates that **woman owned [construction companies](/article/5-cash-flow-mistakes-that-kill-construction-companies/)** account for approximately 13% of all construction firms, but they capture less than 5% of total industry revenue. The gap between ownership count and revenue share tells a story: women-owned firms tend to be smaller, have less access to bonding and capital, and face steeper barriers to scaling.
 
 Ebony ran headfirst into these realities. Her first major challenge wasn't winning work. It was getting bonded.
 
@@ -60,11 +60,11 @@ Ebony knew that wouldn't scale. And she knew that to compete for larger contract
 
 Her modernization playbook included several key moves:
 
-**Digital estimating and takeoff software.** She invested in [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026) software that allowed her to produce accurate, professional bids faster. This was a direct competitive advantage, as many small asphalt contractors were still doing manual takeoffs and sometimes underpricing jobs because of calculation errors.
+**Digital estimating and takeoff software.** She invested in [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software that allowed her to produce accurate, professional bids faster. This was a direct competitive advantage, as many small asphalt contractors were still doing manual takeoffs and sometimes underpricing jobs because of calculation errors.
 
 **GPS fleet management.** Every truck in her fleet got GPS tracking. This wasn't about surveillance. It was about efficiency. She could see where every vehicle was, optimize routing, track fuel consumption, and provide real-time updates to clients on delivery timing. For an **asphalt business**, where material temperature matters and timing is critical, this was a significant operational upgrade.
 
-**[Project management](/article/surviving-the-messy-middle-of-construction-growth) software.** She moved from phone-call scheduling to a proper project management system. Crews got digital work orders. Progress was tracked in real time. Clients could see project status without calling the office. This alone reduced her administrative overhead and freed up time she had been spending on coordination calls.
+**[Project management](/article/surviving-the-messy-middle-of-construction-growth/) software.** She moved from phone-call scheduling to a proper project management system. Crews got digital work orders. Progress was tracked in real time. Clients could see project status without calling the office. This alone reduced her administrative overhead and freed up time she had been spending on coordination calls.
 
 **Financial systems and job costing.** Perhaps the most important upgrade. Ebony implemented proper job costing so she could see profitability on every project, not just at the end of the year. This allowed her to identify which types of work were most profitable and which were eating margin. She discovered that certain small residential jobs were actually losing money when she accounted for mobilization costs, and she adjusted her pricing and targeting accordingly.
 
@@ -152,7 +152,7 @@ Ebony's vision for the next five years includes expanding into concrete work, ad
 
 Start by identifying the specific trade or sector that interests you. Get certified through programs like NAWIC (National Association of Women in Construction), pursue relevant licenses for your state, and connect with mentorship programs. Many states have women-in-construction advocacy groups that provide training, networking, and business development resources. Consider starting as a subcontractor to build experience and a track record before pursuing larger prime contracts.
 
-### What certifications help a woman-owned [construction company](/article/surviving-the-messy-middle-of-construction) win more contracts?
+### What certifications help a woman-owned [construction company](/article/surviving-the-messy-middle-of-construction/) win more contracts?
 
 The most valuable certifications are WBE (Woman Business Enterprise), DBE (Disadvantaged Business Enterprise), and SBE (Small Business Enterprise). These are recognized by federal, state, and local governments and open access to projects with diversity participation requirements. The SBA's 8(a) program is also valuable for minority-owned firms. Each certification has its own application process and eligibility requirements, so start the paperwork early.
 
@@ -162,7 +162,7 @@ Asphalt paving businesses typically operate on net margins of 5-15%, depending o
 
 ### What's the biggest challenge for family construction businesses trying to scale?
 
-The most common challenge is the transition from owner-dependent operations to systems-dependent operations. Many **family construction businesses** rely on the founder's personal relationships, knowledge, and work ethic. Scaling requires documenting processes, implementing technology, hiring management talent, and building a culture that can operate without the founder being involved in every decision. This transition is uncomfortable but necessary for any [construction business](/article/how-to-scale-family-construction-business) that wants to grow beyond one or two crews.
+The most common challenge is the transition from owner-dependent operations to systems-dependent operations. Many **family construction businesses** rely on the founder's personal relationships, knowledge, and work ethic. Scaling requires documenting processes, implementing technology, hiring management talent, and building a culture that can operate without the founder being involved in every decision. This transition is uncomfortable but necessary for any [construction business](/article/how-to-scale-family-construction-business/) that wants to grow beyond one or two crews.
 
 ### How do you build bonding capacity as a new construction contractor?
 

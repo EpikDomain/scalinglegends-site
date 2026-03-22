@@ -17,7 +17,7 @@ A $50M general contractor runs 8-15 projects simultaneously with hundreds of fie
 
 ## Key Takeaways
 
-- **Strategic Project Executive Role.** $50M GCs deploy a dedicated Project Executive to oversee 3-5 projects, providing strategic guidance and high-level problem-solving, a function smaller firms must emulate for effective [construction project management](/article/construction-project-management-surviving-the-messy-middle).
+- **Strategic Project Executive Role.** $50M GCs deploy a dedicated Project Executive to oversee 3-5 projects, providing strategic guidance and high-level problem-solving, a function smaller firms must emulate for effective [construction project management](/article/construction-project-management-surviving-the-messy-middle/).
 
 - **Risk-Adjusted Bidding Matrix.** Top contractors use a weighted scoring matrix to evaluate project risk beyond just cost, preventing margin-eroding projects and ensuring project selection aligns with strategic goals.
 
@@ -33,7 +33,7 @@ A $50M general contractor runs 8-15 projects simultaneously with hundreds of fie
 
 ## The Blueprint for General Contractor Operations: Structure at Scale
 
-The leap to $50M in annual revenue fundamentally changes the demands on [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control) operations. What once worked with 2-3 projects and a handful of staff becomes a bottleneck. At the $50M mark, general contractor operations typically involve managing 8-15 simultaneous projects. This volume necessitates a robust organizational structure and clear lines of authority to prevent chaos and maintain efficiency.
+The leap to $50M in annual revenue fundamentally changes the demands on [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) operations. What once worked with 2-3 projects and a handful of staff becomes a bottleneck. At the $50M mark, general contractor operations typically involve managing 8-15 simultaneous projects. This volume necessitates a robust organizational structure and clear lines of authority to prevent chaos and maintain efficiency.
 
 A core component of this structure is the Project Executive (PX) role. While smaller firms might have owners or senior project managers juggling these duties, a $50M GC employs dedicated PXs, each typically overseeing a portfolio of 3-5 projects. The PX is not just a glorified Project Manager; they are a strategic leader responsible for:
 
@@ -49,7 +49,7 @@ A core component of this structure is the Project Executive (PX) role. While sma
 
 This dedicated oversight frees Project Managers to focus on day-to-day execution, and Superintendents to concentrate on field productivity and safety. Data from [Smart Business Automator](https://smartbusinessautomator.com) indicates that firms implementing a strong PX layer improve project profitability by an average of 3-5% due to proactive problem-solving and strategic guidance.
 
-Underneath the PX, the operational team includes 3-5 superintendents per project, depending on complexity, along with a dedicated operations team comprising Project Managers, Project Coordinators, and Estimators. This depth of talent ensures that each project has the focused resources it needs, preventing key personnel from being stretched too thin across multiple, demanding roles. This layered approach to large [construction company](/article/surviving-the-messy-middle-of-construction-growth) management is critical for consistent delivery and client satisfaction.
+Underneath the PX, the operational team includes 3-5 superintendents per project, depending on complexity, along with a dedicated operations team comprising Project Managers, Project Coordinators, and Estimators. This depth of talent ensures that each project has the focused resources it needs, preventing key personnel from being stretched too thin across multiple, demanding roles. This layered approach to large [construction company](/article/surviving-the-messy-middle-of-construction-growth/) management is critical for consistent delivery and client satisfaction.
 
 ## Mastering Construction Risk Management: The Bid-No-Bid Decision
 
@@ -121,7 +121,7 @@ Technology is the backbone of this operational efficiency. Beyond $30M, a fully 
 
 - **Estimating Software:** Integrated with PM and ERP for accurate bidding and cost tracking.
 
-The key is integration. Siloed systems create data inconsistencies and operational bottlenecks. An integrated system provides real-time visibility into project status, financial performance, and resource utilization across the entire portfolio. This enables rapid, data-driven decision-making. Firms that invest in robust [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation) and integrated platforms often see a 10-15% improvement in administrative efficiency and a significant reduction in data entry errors, contributing to better [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies).
+The key is integration. Siloed systems create data inconsistencies and operational bottlenecks. An integrated system provides real-time visibility into project status, financial performance, and resource utilization across the entire portfolio. This enables rapid, data-driven decision-making. Firms that invest in robust [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) and integrated platforms often see a 10-15% improvement in administrative efficiency and a significant reduction in data entry errors, contributing to better [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
 
 Finally, standardized closeout procedures are a non-negotiable secret weapon. These aren't just checklists; they are meticulously planned processes designed to accelerate project completion and retainage recovery. A well-defined closeout includes:
 
@@ -163,6 +163,6 @@ Successful general contractors scaling beyond $30M revenue rely on a fully integ
 
 Top general contractors mitigate financial risk through a weighted, risk-adjusted bidding matrix that evaluates projects beyond just cost, preventing margin erosion. Dedicated Project Executives provide strategic oversight, identifying and resolving major roadblocks. They also implement rigorous standardized closeout protocols, which can accelerate retainage recovery by 30-50%, saving $50K-$150K per project in working capital.
 
-### How can [a construction company](/article/how-to-start-construction-company-washington-2026) increase its repeat business?
+### How can [a construction company](/article/how-to-start-construction-company-washington-2026/) increase its repeat business?
 
-Increasing repeat business is crucial for scaling [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). Top general contractors prioritize cultivating strategic relationships with owner's representatives. These strong relationships are a cornerstone for generating 40-60% of repeat business, providing a predictable revenue pipeline. Dedicated Project Executives also play a key role in high-level client relationship management, ensuring client satisfaction and fostering long-term partnerships.
+Increasing repeat business is crucial for scaling [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). Top general contractors prioritize cultivating strategic relationships with owner's representatives. These strong relationships are a cornerstone for generating 40-60% of repeat business, providing a predictable revenue pipeline. Dedicated Project Executives also play a key role in high-level client relationship management, ensuring client satisfaction and fostering long-term partnerships.

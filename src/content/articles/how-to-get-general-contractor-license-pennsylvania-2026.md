@@ -87,7 +87,7 @@ Here's some good news for those pursuing the HIC registration: **there is no sta
 
 However, this changes if you're targeting specific local markets or trades:
 
-- **Philadelphia General Contractor License:** As mentioned, the City of Philadelphia *does* require you to pass a business and law exam to obtain their General Contractor license. This exam covers topics relevant to running a [construction business](/article/how-to-scale-a-construction-business-without-losing-control), city regulations, safety, and basic legal principles. You'll need to study up on topics like contract law, lien laws, [project management](/article/surviving-the-messy-middle-of-construction-growth), and city codes. There are third-party testing services approved by Philadelphia L&I that administer these exams. Look for study guides specific to the Philadelphia contractor exam.
+- **Philadelphia General Contractor License:** As mentioned, the City of Philadelphia *does* require you to pass a business and law exam to obtain their General Contractor license. This exam covers topics relevant to running a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/), city regulations, safety, and basic legal principles. You'll need to study up on topics like contract law, lien laws, [project management](/article/surviving-the-messy-middle-of-construction-growth/), and city codes. There are third-party testing services approved by Philadelphia L&I that administer these exams. Look for study guides specific to the Philadelphia contractor exam.
 
 - **Trade-Specific Licenses:** If you're looking to specialize in electrical, plumbing, or HVAC, those trades often have their own separate licensing requirements and exams, usually administered at the municipal level (like in Philadelphia) or by state boards for specific professions. This guide focuses on general contracting, but be aware if you plan to do specialized work in-house.
 
@@ -111,7 +111,7 @@ While the state won't ask for your resume, your clients will. Banks will. Insura
 
 - Starting with smaller projects to build your portfolio and refine your skills.
 
-**Philadelphia's GC License:** In contrast, the City of Philadelphia's General Contractor license *does* typically require proof of experience. This usually means a minimum of four years of experience in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), often with documented projects and references. They may also accept a combination of education (e.g., a degree in engineering or construction management) and experience. This is where your practical background becomes a formal requirement.
+**Philadelphia's GC License:** In contrast, the City of Philadelphia's General Contractor license *does* typically require proof of experience. This usually means a minimum of four years of experience in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), often with documented projects and references. They may also accept a combination of education (e.g., a degree in engineering or construction management) and experience. This is where your practical background becomes a formal requirement.
 
 ### Bond and Insurance Requirements in Pennsylvania
 
@@ -135,7 +135,7 @@ This is where you protect your business and your clients. Don't skimp here.
 
 - **Builder's Risk Insurance:** For larger projects, especially new construction, Builder's Risk insurance protects the structure and materials during the course of construction.
 
-Work with an experienced insurance broker who understands the Pennsylvania [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). They can help you tailor a policy that meets legal requirements and adequately protects your business assets.
+Work with an experienced insurance broker who understands the Pennsylvania [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). They can help you tailor a policy that meets legal requirements and adequately protects your business assets.
 
 ### Fees and Timeline for the Application
 

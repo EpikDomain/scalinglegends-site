@@ -29,15 +29,15 @@ Your project managers spend 3+ hours a day on tasks that should take minutes. Do
 
 - **Clear ROI Threshold.** Automation efforts typically pay for themselves when they save 10 or more hours per week per project. Focus on solutions that demonstrate a clear return on investment.
 
-- **Leverage Modern [Contractor Workflow](/article/surviving-the-messy-middle-of-construction-growth) Tools.** Invest in purpose-built construction productivity tools that offer AI capabilities for tasks like data tagging, progress tracking, and predictive analytics to maximize efficiency.
+- **Leverage Modern [Contractor Workflow](/article/surviving-the-messy-middle-of-construction-growth/) Tools.** Invest in purpose-built construction productivity tools that offer AI capabilities for tasks like data tagging, progress tracking, and predictive analytics to maximize efficiency.
 
 ## The Urgent Need for Construction Workflow Automation
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings), despite its rapid technological advancements in machinery and materials, often lags when it comes to internal operational efficiency. Many contractors operating in the $1M to $50M revenue bracket find themselves stuck in a "messy middle," where growth amplifies existing manual processes into insurmountable bottlenecks. The core issue? A significant portion of your highly paid project managers and superintendents are bogged down by repetitive, manual administrative tasks.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), despite its rapid technological advancements in machinery and materials, often lags when it comes to internal operational efficiency. Many contractors operating in the $1M to $50M revenue bracket find themselves stuck in a "messy middle," where growth amplifies existing manual processes into insurmountable bottlenecks. The core issue? A significant portion of your highly paid project managers and superintendents are bogged down by repetitive, manual administrative tasks.
 
 According to industry analysis by [Smart Business Automator](https://smartbusinessautomator.com), the average project manager dedicates over 3 hours each day to tasks that are ripe for automation. This includes everything from chasing down approvals and updating spreadsheets to manually compiling daily reports and ensuring all documents are filed correctly. Over a year, this translates to an astounding 780 hours per project manager, time that could be spent on strategic planning, client relations, risk mitigation, or actual project oversight. This administrative drain isn't just about lost time; it directly impacts project timelines, accuracy, and overall profitability.
 
-Implementing robust **construction workflow automation** isn't merely about adopting new software; it's a strategic shift designed to free up your most valuable assets – your people – to focus on high-value activities. It's about creating a more resilient, scalable, and profitable operation. For contractors looking to move beyond the $10M or $20M mark, streamlining these core processes is no longer optional; it's a foundational requirement for sustainable [scaling a construction business](/article/how-to-scale-a-construction-business-without-losing-control).
+Implementing robust **construction workflow automation** isn't merely about adopting new software; it's a strategic shift designed to free up your most valuable assets – your people – to focus on high-value activities. It's about creating a more resilient, scalable, and profitable operation. For contractors looking to move beyond the $10M or $20M mark, streamlining these core processes is no longer optional; it's a foundational requirement for sustainable [scaling a construction business](/article/how-to-scale-a-construction-business-without-losing-control/).
 
 **Consider this: if your PMs could reclaim just two of those three hours daily, that's an immediate 25% increase in their capacity for proactive project management, directly impacting project outcomes and client satisfaction.** This isn't theoretical; it's a measurable gain that translates directly to your bottom line.
 
@@ -58,13 +58,13 @@ This level of automation ensures that critical information is always current and
 *   **Escalation Alerts:** Automatic notifications if an RFI isn't addressed within a predefined timeframe.
 *   **Audit Trails:** A clear, timestamped record of every RFI, its responses, and associated actions, crucial for dispute resolution and compliance.
 
-3.  **Submittals and Change Orders:** These represent two of the most critical financial and contractual aspects of any project. Manual processing is prone to errors, delays, and disputes, directly impacting [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies). Automation transforms these processes:
+3.  **Submittals and Change Orders:** These represent two of the most critical financial and contractual aspects of any project. Manual processing is prone to errors, delays, and disputes, directly impacting [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). Automation transforms these processes:
 *   **Streamlined Submission & Approval:** Digital forms and automated routing for submittals, ensuring all required information is present before submission.
 *   **Automated Change Order Creation:** Generating change orders directly from RFIs or field observations, pre-populating data to minimize manual entry.
 *   **Digital Signatures & Approvals:** Accelerating the approval process for both submittals and change orders, reducing turnaround times from days to hours.
 *   **Real-time Tracking:** Providing transparency on the status of every submittal and change order, allowing for proactive management and forecasting.
 
-**Automating these core project management functions can collectively save project teams hundreds of hours per month, directly translating to faster project completion, reduced risk, and improved profitability.** The time saved on these tasks directly impacts the ability of your project managers to engage in more strategic [construction project management](/article/construction-project-management-surviving-the-messy-middle).
+**Automating these core project management functions can collectively save project teams hundreds of hours per month, directly translating to faster project completion, reduced risk, and improved profitability.** The time saved on these tasks directly impacts the ability of your project managers to engage in more strategic [construction project management](/article/construction-project-management-surviving-the-messy-middle/).
 
 ## Leveraging Contractor Workflow Tools for Field Productivity
 

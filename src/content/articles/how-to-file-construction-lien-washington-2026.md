@@ -35,7 +35,7 @@ Washington law broadly extends lien rights to a variety of parties who contribut
 
 - **General Contractors (Prime Contractors):** Those who contract directly with the property owner.
 
-- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) or another subcontractor to perform work or supply materials.
+- **Subcontractors:** Those who contract with [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) or another subcontractor to perform work or supply materials.
 
 - **Material Suppliers:** Companies that provide materials or equipment for a project, even if they do not perform labor on-site.
 
@@ -373,7 +373,7 @@ Given the unforgiving nature of lien deadlines, leveraging technology can be a g
 
 - **Lien Management Software:** Dedicated platforms like [Levelset](https://www.levelset.com), [zlien](https://www.zlien.com) (now part of Levelset), or others are specifically designed to track project information, automatically calculate deadlines for preliminary notices and lien filings, and even prepare and send required documents. These services are invaluable for companies managing multiple projects across different states.
 
-- **Project Management Software Integrations:** Many modern [construction project management](/article/surviving-the-messy-middle-of-construction-growth) systems (e.g., Procore, Buildertrend, Autodesk Construction Cloud) offer integrations or features that can assist in tracking key project dates. While not always purpose-built for lien compliance, they can help track start dates, delivery dates, and project completion, which are inputs for lien deadline calculations.
+- **Project Management Software Integrations:** Many modern [construction project management](/article/surviving-the-messy-middle-of-construction-growth/) systems (e.g., Procore, Buildertrend, Autodesk Construction Cloud) offer integrations or features that can assist in tracking key project dates. While not always purpose-built for lien compliance, they can help track start dates, delivery dates, and project completion, which are inputs for lien deadline calculations.
 
 - **CRM Systems:** Customer Relationship Management (CRM) software can be adapted to track project details and client communications, which can be useful context for lien claims.
 
@@ -415,7 +415,7 @@ Washington law specifies that liens are for "labor, professional services, mater
 
 ### What is the priority of a Washington construction lien compared to other claims?
 
-Under RCW 60.04.051, construction liens generally have priority over any lien, mortgage, or other encumbrance that attached to the property after the commencement of the work for which the lien is claimed. However, they are typically subordinate to mortgages or deeds of trust that were recorded before the commencement of the work. There can be complex rules regarding priority with [multiple construction](/article/how-to-manage-multiple-construction-projects-2026) liens on the same project, often prorated. This is an area where legal counsel is essential.
+Under RCW 60.04.051, construction liens generally have priority over any lien, mortgage, or other encumbrance that attached to the property after the commencement of the work for which the lien is claimed. However, they are typically subordinate to mortgages or deeds of trust that were recorded before the commencement of the work. There can be complex rules regarding priority with [multiple construction](/article/how-to-manage-multiple-construction-projects-2026/) liens on the same project, often prorated. This is an area where legal counsel is essential.
 
 ### Can I file a lien on a tenant improvement project if I only contracted with the tenant?
 

@@ -31,7 +31,7 @@ This is where most start. You're the CEO, sales team, crew chief, and bookkeeper
 
 ### $500K: Building Your First Crews and Systems
 
-Hitting half a million means you've successfully delegated at least some field work. You have one or two crews, and your biggest challenge is transitioning from doing everything to managing others who do it. This is where basic systems become non-negotiable: clear job instructions, simple routing, consistent quality control, and rudimentary HR. Your role shifts from primarily doing to primarily overseeing and selling. [Cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies) becomes more complex, and you're learning the harsh realities of payroll and equipment maintenance. This stage tests your ability to let go and trust.
+Hitting half a million means you've successfully delegated at least some field work. You have one or two crews, and your biggest challenge is transitioning from doing everything to managing others who do it. This is where basic systems become non-negotiable: clear job instructions, simple routing, consistent quality control, and rudimentary HR. Your role shifts from primarily doing to primarily overseeing and selling. [Cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) becomes more complex, and you're learning the harsh realities of payroll and equipment maintenance. This stage tests your ability to let go and trust.
 
 ### $1M: The Management Layer and Strategic Expansion
 
@@ -39,7 +39,7 @@ Breaking the million-dollar mark signifies a significant operational achievement
 
 ### $3M+: Mastering Multi-Team Operations and Market Dominance
 
-At this level, you're running a serious enterprise. You have multiple divisions, a robust management team, and sophisticated systems. Your role is primarily strategic: market analysis, long-term planning, talent acquisition at the executive level, and financial oversight. You might be considering multiple branches, acquiring smaller companies, or expanding into new service lines. Burnout is still a threat here, but it's often due to strategic missteps or a failure to empower your leadership team. The emphasis is on scalable processes, data-driven decisions, and continuous improvement across the entire organization. This is the pinnacle of landscaping [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul), demanding a CEO mindset.
+At this level, you're running a serious enterprise. You have multiple divisions, a robust management team, and sophisticated systems. Your role is primarily strategic: market analysis, long-term planning, talent acquisition at the executive level, and financial oversight. You might be considering multiple branches, acquiring smaller companies, or expanding into new service lines. Burnout is still a threat here, but it's often due to strategic missteps or a failure to empower your leadership team. The emphasis is on scalable processes, data-driven decisions, and continuous improvement across the entire organization. This is the pinnacle of landscaping [business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/), demanding a CEO mindset.
 
 ## The Bedrock of Predictability: Recurring Revenue
 
@@ -71,7 +71,7 @@ Hardscaping services – patios, walkways, retaining walls, fire pits, outdoor k
 
 ### Design-Build: Transforming Visions into Reality
 
-The ultimate upsell, design-build, integrates the entire process from conceptualization to completion. You become the single point of contact for the client, managing the design, material selection, and construction. This approach offers the highest margins because you control the entire project, reducing communication errors and ensuring design integrity. Design-build projects require strong [project management](/article/surviving-the-messy-middle-of-construction-growth), creative design talent, and a robust network of suppliers and specialized subcontractors. For "how to grow my landscaping business" into a premium brand, design-build is the answer.
+The ultimate upsell, design-build, integrates the entire process from conceptualization to completion. You become the single point of contact for the client, managing the design, material selection, and construction. This approach offers the highest margins because you control the entire project, reducing communication errors and ensuring design integrity. Design-build projects require strong [project management](/article/surviving-the-messy-middle-of-construction-growth/), creative design talent, and a robust network of suppliers and specialized subcontractors. For "how to grow my landscaping business" into a premium brand, design-build is the answer.
 
 ### Strategic Upsells: Irrigation, Lighting, and Beyond
 

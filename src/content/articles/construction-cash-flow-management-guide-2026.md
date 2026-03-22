@@ -19,9 +19,9 @@ You're building structures, not just projects. You're building a business. But i
 
 Studies, including those by U.S. Bank, consistently show that an astonishing 82% of business failures are due to poor cash flow management. In construction, where projects are long, capital-intensive, and fraught with payment delays, that percentage feels even higher. This isn't just about making money; it's about having money when you need it to pay your crew, your suppliers, and keep the lights on. It's about survival, and for those ready to scale from $1M to $50M+, it's about sustainable growth.
 
-This isn't a theoretical exercise. This is a direct, no-BS breakdown from a construction CFO's perspective. We're going to expose the brutal realities of cash flow for [construction project management](/article/surviving-the-messy-middle-of-construction-growth), pinpoint common construction cash flow problems, and arm you with the strategies to stop the bleeding, get paid faster, and build the real reserves necessary to thrive.
+This isn't a theoretical exercise. This is a direct, no-BS breakdown from a construction CFO's perspective. We're going to expose the brutal realities of cash flow for [construction project management](/article/surviving-the-messy-middle-of-construction-growth/), pinpoint common construction cash flow problems, and arm you with the strategies to stop the bleeding, get paid faster, and build the real reserves necessary to thrive.
 
-## The Unforgiving Reality: Why Cash Flow Kills [Construction Companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign)
+## The Unforgiving Reality: Why Cash Flow Kills [Construction Companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/)
 
 ### The 82% Statistic: It's Not Profit, It's Liquidity
 
@@ -402,7 +402,7 @@ Construction is often seasonal. Winter slowdowns, holiday periods, or regional w
 
 ### Growth-Related Cash Crunches: A Sign of Success (and Danger)
 
-It sounds counterintuitive, but growth can kill [a construction company](/article/how-to-start-construction-company-washington-2026) faster than a downturn if not managed correctly. More projects mean more upfront costs, more working capital tied up in receivables, and a larger cash flow gap.
+It sounds counterintuitive, but growth can kill [a construction company](/article/how-to-start-construction-company-washington-2026/) faster than a downturn if not managed correctly. More projects mean more upfront costs, more working capital tied up in receivables, and a larger cash flow gap.
 
 **Why Growth is a Cash Drain:**
 
@@ -512,7 +512,7 @@ Beyond the standard 7(a), other SBA programs cater to specific contractor needs:
 
 - **Contract CAPLine:** Helps finance the direct labor and material costs associated with specific contracts. This is invaluable for contractors needing to fund a new project before receiving initial client payments.
 
-- **Builders CAPLine:** Specifically for general contractors or builders constructing residential or commercial buildings for resale. It helps finance [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs).
+- **Builders CAPLine:** Specifically for general contractors or builders constructing residential or commercial buildings for resale. It helps finance [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/).
 
 - **Working Capital CAPLine:** A general purpose revolving line of credit for short-term working capital.
 
@@ -598,7 +598,7 @@ Profit (or net income) is a measure of your business's financial performance ove
 
 ## Stop the Bleeding, Build the Reserves, Scale Your Legend
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is a brutal arena for the financially undisciplined. You've seen the numbers: 82% of business failures stem from cash flow issues. This isn't a game for the faint of heart, and it's certainly not a place for those who treat their finances as an afterthought.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is a brutal arena for the financially undisciplined. You've seen the numbers: 82% of business failures stem from cash flow issues. This isn't a game for the faint of heart, and it's certainly not a place for those who treat their finances as an afterthought.
 
 You're not just building structures; you're building a legacy. That legacy demands a bulletproof approach to construction cash flow management. It demands proactive forecasting, aggressive billing, shrewd negotiation, and unwavering financial discipline. It demands that you stop hoping for payments and start demanding them. It demands that you leverage every tool at your disposal, from mechanic's liens to SBA loans, from integrated software to a simple 3-account system.
 

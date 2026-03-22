@@ -15,7 +15,7 @@ sponsors:
 
 ## How to Start a Construction Company in Virginia: The 2026 Startup Guide
 
-Thinking about [starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) company in Virginia? Good. You’ve picked a prime location. This isn't a generic guide where we just swap out a state name. This is your no-BS, Virginia-specific roadmap, built from the ground up to reflect the realities of launching and growing a [construction business](/article/how-to-scale-a-construction-business-without-losing-control) in the Old Dominion in 2026. Consider this your first mentorship session from Scaling Legends.
+Thinking about [starting a construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) company in Virginia? Good. You’ve picked a prime location. This isn't a generic guide where we just swap out a state name. This is your no-BS, Virginia-specific roadmap, built from the ground up to reflect the realities of launching and growing a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) in the Old Dominion in 2026. Consider this your first mentorship session from Scaling Legends.
 
 <iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -139,7 +139,7 @@ Don't underestimate the exams. They require dedicated study. PSI offers candidat
 
 ## Insuring Your Enterprise: Virginia-Specific Requirements
 
-Insurance isn't just a good idea; it's a legal and contractual necessity in Virginia's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings). Without proper coverage, you're exposing your business and personal assets to catastrophic risk. And no reputable GC or client will work with you.
+Insurance isn't just a good idea; it's a legal and contractual necessity in Virginia's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/). Without proper coverage, you're exposing your business and personal assets to catastrophic risk. And no reputable GC or client will work with you.
 
 ### General Liability Insurance (GL)
 
@@ -188,8 +188,8 @@ Taxes are a cost of doing business. Understanding your Virginia-specific tax obl
 
 ### Virginia Sales and Use Tax
 
-This is critical for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign). The statewide retail sales and use tax rate in Virginia is 4.3%. However, most localities impose an additional local sales tax, bringing the combined rate to anywhere from 5.3% to 7% in many areas (e.g., Northern Virginia).
-**The Rule:** You, as the contractor, are generally considered the "user" or "consumer" of materials and supplies incorporated into real property. This means you pay sales tax to your suppliers when you purchase materials like lumber, concrete, wiring, etc. You do NOT charge sales tax to your customer for the completed [construction project](/article/surviving-the-messy-middle-of-construction-growth), as it's considered an improvement to real property, not a sale of tangible goods.
+This is critical for [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). The statewide retail sales and use tax rate in Virginia is 4.3%. However, most localities impose an additional local sales tax, bringing the combined rate to anywhere from 5.3% to 7% in many areas (e.g., Northern Virginia).
+**The Rule:** You, as the contractor, are generally considered the "user" or "consumer" of materials and supplies incorporated into real property. This means you pay sales tax to your suppliers when you purchase materials like lumber, concrete, wiring, etc. You do NOT charge sales tax to your customer for the completed [construction project](/article/surviving-the-messy-middle-of-construction-growth/), as it's considered an improvement to real property, not a sale of tangible goods.
 
 Keep meticulous records of all material purchases and sales tax paid. If you purchase materials out-of-state without paying Virginia sales tax, you're responsible for remitting Virginia "use tax" to the Department of Taxation.
 
@@ -259,7 +259,7 @@ Starting from a home office is common, but if you need a physical location:
 
 - **Website Design/Marketing:** $1,000 - $5,000+.
 
-**Total Minimum Startup Costs:** Realistically, you're looking at a minimum of $10,000 - $30,000 for a very lean, specialized Class C or B operation, potentially soaring to $50,000 - $100,000+ for a Class [A general contractor](/article/how-to-get-general-contractor-license-florida-2026) with equipment. Have access to working capital beyond these initial costs for payroll, materials, and unexpected expenses.
+**Total Minimum Startup Costs:** Realistically, you're looking at a minimum of $10,000 - $30,000 for a very lean, specialized Class C or B operation, potentially soaring to $50,000 - $100,000+ for a Class [A general contractor](/article/how-to-get-general-contractor-license-florida-2026/) with equipment. Have access to working capital beyond these initial costs for payroll, materials, and unexpected expenses.
 
 ## Finding Work in the Old Dominion: Strategic Opportunities
 
@@ -481,7 +481,7 @@ A: It depends on the size of the projects you intend to undertake. A Class C lic
 
 A: The process can take anywhere from 2 to 4 months, sometimes longer if there are issues with your application. This includes time for the mandatory 8-hour pre-license course (for A/B), DPOR's application review, scheduling and passing the PSI exams, and the final processing of your license. Submitting a complete and accurate application from the start is crucial to avoid delays.
 
-### Q: What are the biggest opportunities for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Virginia?
+### Q: What are the biggest opportunities for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) Virginia?
 
 A: In 2026, Northern Virginia's data center and federal contracting sectors remain massive. Richmond offers strong opportunities in adaptive reuse, healthcare, and state government projects. Hampton Roads is robust with military, port, and coastal resilience work. Specialized trades, niche markets, and strong subcontracting relationships with established GCs are excellent entry points for new companies across the state.
 

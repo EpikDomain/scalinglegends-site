@@ -15,7 +15,7 @@ sponsors:
 
 ## How to Hire and Retain Construction Workers in 2026: A GC's Complete Guide
 
-Forget the "war for talent" – in construction, it's a full-blown existential battle for skilled labor. If you're [a General Contractor](/article/how-to-get-general-contractor-license-florida-2026) scaling from $1M to $50M+, you already know this isn't hyperbole. The ground is shifting beneath our feet. The strategies that worked five, even three years ago, are obsolete. Relying on a "post and pray" approach to hiring will leave your projects stalled, your margins eroded, and your growth trajectory flatlining.
+Forget the "war for talent" – in construction, it's a full-blown existential battle for skilled labor. If you're [a General Contractor](/article/how-to-get-general-contractor-license-florida-2026/) scaling from $1M to $50M+, you already know this isn't hyperbole. The ground is shifting beneath our feet. The strategies that worked five, even three years ago, are obsolete. Relying on a "post and pray" approach to hiring will leave your projects stalled, your margins eroded, and your growth trajectory flatlining.
 
 <iframe src="https://www.youtube.com/embed/LMYk4UNjka0" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -25,7 +25,7 @@ We're going to dive deep into where the workers actually are, what they demand, 
 
 ## The Unvarnished Truth: 2026's Construction Labor Landscape
 
-Let's not sugarcoat it. The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is staring down a demographic cliff, exacerbated by a generational skills gap and a shifting perception of what a "good job" entails. Understanding these forces isn't just academic; it's the foundation for any effective [construction workforce recruitment](#) strategy.
+Let's not sugarcoat it. The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is staring down a demographic cliff, exacerbated by a generational skills gap and a shifting perception of what a "good job" entails. Understanding these forces isn't just academic; it's the foundation for any effective [construction workforce recruitment](#) strategy.
 
 ### The Hard Numbers: Shortage & Demographics
 
@@ -179,7 +179,7 @@ A robust benefits package is a powerful tool for [construction workforce recruit
 
 - **Provided PPE:** Ensure all necessary Personal Protective Equipment (PPE) is provided, high-quality, and regularly replaced. This isn't just a safety requirement; it's a statement about valuing your employees' well-being.
 
-- **Training & Education Reimbursement:** Fund or reimburse employees for continuing education, certifications (e.g., specific equipment, advanced safety, [project management](/article/surviving-the-messy-middle-of-construction-growth)), or even trade school courses. This is an investment in your workforce and a clear path to career advancement.
+- **Training & Education Reimbursement:** Fund or reimburse employees for continuing education, certifications (e.g., specific equipment, advanced safety, [project management](/article/surviving-the-messy-middle-of-construction-growth/)/), or even trade school courses. This is an investment in your workforce and a clear path to career advancement.
 
 - **Life and Disability Insurance:** Offering basic life insurance and short-term/long-term disability coverage provides peace of mind for employees and their families.
 
@@ -645,7 +645,7 @@ The SBA is a powerful, often underutilized, resource for GCs looking to strength
 
 The biggest mistake is assuming that compensation alone will solve all retention problems. While competitive pay is crucial, many GCs overlook the profound impact of poor company culture, lack of advancement opportunities, and inadequate recognition. Workers often leave managers, not companies. They leave when they feel undervalued, unsafe, unheard, or see no clear path for their future. Ignoring these "soft" factors in favor of just throwing money at the problem is a recipe for high [construction worker turnover](#) and a revolving door of talent.
 
-The construction industry is at a crossroads. The labor crisis is real, but it's also an unprecedented opportunity for GCs who are willing to adapt, innovate, and prioritize their people. The strategies outlined in this guide – from aggressive, diversified recruitment to cultivating an unshakeable culture of safety, respect, and growth – are not just best practices; they are the survival guide for scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) from $1M to $50M+ in 2026 and beyond.
+The construction industry is at a crossroads. The labor crisis is real, but it's also an unprecedented opportunity for GCs who are willing to adapt, innovate, and prioritize their people. The strategies outlined in this guide – from aggressive, diversified recruitment to cultivating an unshakeable culture of safety, respect, and growth – are not just best practices; they are the survival guide for scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) from $1M to $50M+ in 2026 and beyond.
 
 Stop reacting to the market and start shaping your future. Your workforce is your legacy. Build it strong.
 

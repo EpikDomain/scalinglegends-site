@@ -15,7 +15,7 @@ sponsors:
 
 ## How to Get a General Contractor License in Arizona: Complete 2026 Guide
 
-You're looking to get licensed in Arizona. Good. You've picked one of the hottest markets in the country. Phoenix isn't just a big city; it's the fastest-growing metro in the nation. That means opportunity, but only if you're legit. This isn't a place for fly-by-night operations. Arizona's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) is booming, and the Arizona Registrar of Contractors (ROC) ensures that only qualified, responsible professionals get to build here.
+You're looking to get licensed in Arizona. Good. You've picked one of the hottest markets in the country. Phoenix isn't just a big city; it's the fastest-growing metro in the nation. That means opportunity, but only if you're legit. This isn't a place for fly-by-night operations. Arizona's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is booming, and the Arizona Registrar of Contractors (ROC) ensures that only qualified, responsible professionals get to build here.
 
 <iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -123,7 +123,7 @@ This isn't a generic business test. It's tailored to the unique legal and regula
 
 - **Contract Law:** Basics of contracts, bids, and proposals as they apply in Arizona.
 
-- **Financial Management:** Accounting principles, [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies), and budgeting relevant to small construction businesses.
+- **Financial Management:** Accounting principles, [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/), and budgeting relevant to small construction businesses.
 
 - **Tax Laws:** Arizona transaction privilege tax (TPT) for contractors, federal income tax basics.
 
@@ -213,11 +213,11 @@ These are examples and can change, so always verify the current requirements on 
 
 ### Arizona Workers' Compensation: Non-Negotiable if You Have Employees
 
-If your [construction business](/article/how-to-scale-a-construction-business-without-losing-control) employs even one person in Arizona, you are legally required to carry workers' compensation insurance. This isn't just an ROC rule; it's Arizona state law. It covers medical expenses and lost wages for employees injured on the job. The ROC will require proof of this coverage upon application and renewal. Failure to maintain workers' comp can result in severe penalties, including license suspension and significant fines.
+If your [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) employs even one person in Arizona, you are legally required to carry workers' compensation insurance. This isn't just an ROC rule; it's Arizona state law. It covers medical expenses and lost wages for employees injured on the job. The ROC will require proof of this coverage upon application and renewal. Failure to maintain workers' comp can result in severe penalties, including license suspension and significant fines.
 
 ### Commercial General Liability (CGL) Insurance: Your Shield in Arizona
 
-While the ROC doesn't specify a minimum dollar amount for Commercial General Liability (CGL) insurance, they do require you to provide proof of coverage. More importantly, virtually every city and county in Arizona will require you to show proof of CGL insurance to pull permits. This insurance protects your business from claims of bodily injury, property damage, and advertising injury that might arise from your operations. A standard policy often includes $1 million per occurrence and $2 million aggregate limits. Investing in robust CGL coverage is not just about compliance; it's about protecting your assets and ensuring your business can withstand unforeseen incidents in the high-stakes Arizona [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign).
+While the ROC doesn't specify a minimum dollar amount for Commercial General Liability (CGL) insurance, they do require you to provide proof of coverage. More importantly, virtually every city and county in Arizona will require you to show proof of CGL insurance to pull permits. This insurance protects your business from claims of bodily injury, property damage, and advertising injury that might arise from your operations. A standard policy often includes $1 million per occurrence and $2 million aggregate limits. Investing in robust CGL coverage is not just about compliance; it's about protecting your assets and ensuring your business can withstand unforeseen incidents in the high-stakes Arizona [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/).
 
 ## Fees and Timelines: What to Expect from the Arizona ROC
 
@@ -361,7 +361,7 @@ It's crucial to submit your renewal application on time. Late renewals can incur
 
 As of 2026, the Arizona Registrar of Contractors does **not currently mandate continuing education (CE)** for general contractor license renewal. However, this could change, so always check the latest ROC rules. Even without a mandate, engaging in voluntary continuing education is highly recommended. Staying updated on new building codes, construction techniques, safety standards (like OSHA updates), and business management practices will keep you competitive and compliant in Arizona's dynamic market.
 
-## Leveraging Arizona SBA Resources for [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026)
+## Leveraging Arizona SBA Resources for [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026/)
 
 Don't go it alone. The Small Business Administration (SBA) has a strong presence in Arizona and offers invaluable resources for new and growing construction businesses.
 
@@ -383,7 +383,7 @@ Let's talk about why you're doing all this work. Arizona, particularly the Phoen
 
 - **Residential Boom:** The demand for housing, from single-family homes to multi-family developments, remains incredibly strong. New communities are constantly being planned and built across the Valley and in other major areas like Tucson.
 
-- **Commercial and Industrial Expansion:** Arizona is attracting major tech companies, manufacturing facilities (like the semiconductor industry), and logistics hubs. This fuels massive commercial [construction projects](/article/surviving-the-messy-middle-of-construction-growth) – office parks, data centers, warehouses, and advanced manufacturing plants. Your B-1 license puts you squarely in this high-value sector.
+- **Commercial and Industrial Expansion:** Arizona is attracting major tech companies, manufacturing facilities (like the semiconductor industry), and logistics hubs. This fuels massive commercial [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) – office parks, data centers, warehouses, and advanced manufacturing plants. Your B-1 license puts you squarely in this high-value sector.
 
 - **Infrastructure Investment:** With rapid population growth comes the need for updated and expanded infrastructure – roads, bridges, utilities, and public facilities. Government spending in these areas provides stable, long-term opportunities for licensed contractors.
 

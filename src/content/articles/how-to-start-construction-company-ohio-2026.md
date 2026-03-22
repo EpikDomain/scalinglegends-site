@@ -17,7 +17,7 @@ sponsors:
 
 So, you're looking to start a construction company in Ohio. Good. You picked the right state, and you picked the right time. Forget the national headlines for a minute; Ohio in 2026 is a construction boomtown, especially with the Intel project and the ripple effect it’s creating across the state. This isn’t a generic guide; this is your no-BS roadmap, straight from someone who’s been in the trenches here. We're going to talk Ohio specifics, because what flies in California won’t necessarily work in Columbus or Cleveland.
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings) in Ohio is a beast, and it’s hungry. With no statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026), the barrier to entry might seem lower than in some other states, but don't get complacent. The major cities like Columbus, Cleveland, and Cincinnati have their own stringent local requirements, and navigating them is key to your success. We'll cover everything you need to know to get your boots on the ground and start building your legacy in the Buckeye State.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) in Ohio is a beast, and it’s hungry. With no statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026/), the barrier to entry might seem lower than in some other states, but don't get complacent. The major cities like Columbus, Cleveland, and Cincinnati have their own stringent local requirements, and navigating them is key to your success. We'll cover everything you need to know to get your boots on the ground and start building your legacy in the Buckeye State.
 
 ## The Ohio Construction Market in 2026: Opportunities Abound
 
@@ -61,7 +61,7 @@ This is a fundamental decision impacting liability, taxation, and administrative
 
 - **Sole Proprietorship/Partnership:** Easiest to set up, but offers no personal liability protection. Your personal assets are at risk if your business faces lawsuits or debt. Not recommended for construction due to inherent risks.
 
-**Limited Liability Company (LLC):** This is the most popular choice for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026) Ohio.
+**Limited Liability Company (LLC):** This is the most popular choice for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) Ohio.
 
 - **Pros:** Offers personal liability protection (separates your personal assets from business debts and lawsuits), flexible taxation (can be taxed as a sole proprietorship, partnership, or even a corporation), and less administrative burden than a corporation.
 
@@ -106,7 +106,7 @@ This is where Ohio truly differs from many other states, and understanding it is
 
 ### No State-Level General Contractor License
 
-That's right. Ohio does NOT have a statewide general contractor license. This means the state itself doesn't issue a license that allows you to operate as [a general contractor](/article/how-to-get-general-contractor-license-florida-2026) anywhere in Ohio. This can lower the initial barrier to entry but shifts the burden to local jurisdictions.
+That's right. Ohio does NOT have a statewide general contractor license. This means the state itself doesn't issue a license that allows you to operate as [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) anywhere in Ohio. This can lower the initial barrier to entry but shifts the burden to local jurisdictions.
 
 ### Local Licensing and Registration are Mandatory
 
@@ -212,7 +212,7 @@ This is Ohio's gross receipts tax. It applies to businesses with Ohio taxable gr
 
 - **How it works:** It's a tax on your gross receipts, not your profit. You pay a minimum tax and then a percentage on receipts above the threshold.
 
-- **Important for contractors:** Revenue from [construction projects](/article/surviving-the-messy-middle-of-construction-growth) performed in Ohio counts towards your CAT liability. You must register with the Ohio Department of Taxation if you meet the threshold.
+- **Important for contractors:** Revenue from [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) performed in Ohio counts towards your CAT liability. You must register with the Ohio Department of Taxation if you meet the threshold.
 
 ### Sales and Use Tax on Materials
 
@@ -284,7 +284,7 @@ You might start from a home office, but if you need a yard for materials or a sm
 
 ### Working Capital
 
-Crucially, you need [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) to cover initial operating expenses, payroll, and materials for your first few projects before client payments come in. Aim for 3-6 months of operating expenses in reserve. This could be $10,000 to $50,000+ depending on your scale.
+Crucially, you need [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) to cover initial operating expenses, payroll, and materials for your first few projects before client payments come in. Aim for 3-6 months of operating expenses in reserve. This could be $10,000 to $50,000+ depending on your scale.
 
 **Realistic Initial Outlay:** For a lean startup, you're likely looking at a minimum of $10,000-$25,000 in upfront costs, not including significant equipment purchases or a hefty working capital reserve. For a more robust start with some equipment, expect $50,000 to $100,000 or more. Don't underestimate the need for adequate capital.
 
@@ -570,7 +570,7 @@ The BWC is very strict on classification. If you pay someone, and they meet the 
 
 - **Prioritize Safety & Compliance:** Implement strong safety protocols and stay compliant with all BWC, OSHA, and local regulations from day one.
 
-## FAQ: [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors) Company in Ohio
+## FAQ: [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) Company in Ohio
 
 ### What is the biggest advantage of starting a construction company in Ohio?
 
@@ -596,14 +596,14 @@ If you plan to bid on public projects (state, county, municipal), you'll need to
 
 Ohio offers several resources: the Ohio Secretary of State for business registration, the Ohio Department of Taxation for tax info, the Ohio Department of Commerce for trade licensing and prevailing wage, and the Ohio BWC for workers' comp. Additionally, the SBA district offices (Cleveland, Columbus) and numerous SCORE chapters across the state offer free mentorship and business guidance. Industry associations like AGC Ohio, ABC Ohio, and local Home Builders Associations are excellent for networking and support.
 
-### How does the Intel plant impact [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company) in Ohio?
+### How does the Intel plant impact [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/) in Ohio?
 
-The Intel fab plant in New Albany (Licking County) is a massive economic driver. It creates direct opportunities for large industrial contractors, but also a huge ripple effect for residential, commercial, and [infrastructure construction](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) across Central Ohio. This includes housing for new workers, retail, restaurants, data centers, and upgrades to local infrastructure. It’s creating a sustained boom for years to come.
+The Intel fab plant in New Albany (Licking County) is a massive economic driver. It creates direct opportunities for large industrial contractors, but also a huge ripple effect for residential, commercial, and [infrastructure construction](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) across Central Ohio. This includes housing for new workers, retail, restaurants, data centers, and upgrades to local infrastructure. It’s creating a sustained boom for years to come.
 
 ## Conclusion
 
 Starting a construction company in Ohio in 2026 is a smart move, but it's not for the faint of heart. The opportunities are massive, especially in Central Ohio, but success hinges on understanding and meticulously navigating the state's unique regulatory landscape. No statewide GC license means you're dealing with local rules, and Ohio's BWC and tax structure have their own intricacies.
 
-This isn't a "set it and forget it" venture. You need to be diligent, build strong local relationships, and stay on top of compliance. But if you put in the work, understand the market, and surround yourself with the right advisors, Ohio offers a fertile ground for building a thriving [construction business](/article/how-to-scale-a-construction-business-without-losing-control). Now, get out there and start building.
+This isn't a "set it and forget it" venture. You need to be diligent, build strong local relationships, and stay on top of compliance. But if you put in the work, understand the market, and surround yourself with the right advisors, Ohio offers a fertile ground for building a thriving [construction business](/article/how-to-scale-a-construction-business-without-losing-control/). Now, get out there and start building.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

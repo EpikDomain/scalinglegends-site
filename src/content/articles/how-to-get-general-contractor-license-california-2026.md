@@ -55,7 +55,7 @@ This is where many aspiring contractors hit a wall if they haven't prepared. The
 
 **What counts as "journeyman level"?**
 
-- Supervising [construction projects](/article/surviving-the-messy-middle-of-construction-growth).
+- Supervising [construction projects](/article/surviving-the-messy-middle-of-construction-growth/).
 
 - Directly performing construction work.
 
@@ -69,7 +69,7 @@ This is where many aspiring contractors hit a wall if they haven't prepared. The
 
 - A four-year degree in construction management, engineering, or a related field can substitute for up to three years of experience.
 
-- An Associate of Arts degree in [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign) can substitute for up to 1.5 years.
+- An Associate of Arts degree in [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) can substitute for up to 1.5 years.
 
 - Approved vocational training can also count.
 

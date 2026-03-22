@@ -29,15 +29,15 @@ If you're thinking about selling next quarter, you're already behind. A successf
 
 Why so long? Because significant value drivers aren't built overnight. Cleaning up your financials, diversifying your customer base, building a robust management team, implementing scalable systems, and reducing owner dependence are all multi-year projects. Rushing this process inevitably leads to leaving money on the table, or worse, a deal falling apart during due diligence.
 
-This timeframe allows you to strategically [position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company), address weaknesses, and highlight strengths. It provides enough runway to show consistent financial performance, which is paramount to buyers. It also gives you time to bring in the right advisors – M&A specialists, tax attorneys, and wealth managers – who will be critical to navigating the complexities ahead.
+This timeframe allows you to strategically [position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/), address weaknesses, and highlight strengths. It provides enough runway to show consistent financial performance, which is paramount to buyers. It also gives you time to bring in the right advisors – M&A specialists, tax attorneys, and wealth managers – who will be critical to navigating the complexities ahead.
 
 ## Understanding Your Worth: Construction Company Valuation Unpacked
 
-Forget the sentimental value; buyers care about future [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies) and transferable assets. Valuing a construction company is more art than science, heavily influenced by market conditions, your specific niche, and how well you can demonstrate sustainable profitability and growth. Don't go into this process without a clear, defensible understanding of your business's true market value.
+Forget the sentimental value; buyers care about future [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) and transferable assets. Valuing a construction company is more art than science, heavily influenced by market conditions, your specific niche, and how well you can demonstrate sustainable profitability and growth. Don't go into this process without a clear, defensible understanding of your business's true market value.
 
 ### EBITDA Multiples: The Industry Standard (with caveats)
 
-For most established [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign), valuation often starts with an EBITDA multiple. EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is a proxy for cash flow, and buyers want to know how much cash your business can generate post-acquisition. Multiples in construction typically range from 3x to 6x EBITDA, sometimes higher for specialized, high-margin, or highly scalable businesses.
+For most established [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), valuation often starts with an EBITDA multiple. EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is a proxy for cash flow, and buyers want to know how much cash your business can generate post-acquisition. Multiples in construction typically range from 3x to 6x EBITDA, sometimes higher for specialized, high-margin, or highly scalable businesses.
 
 However, this isn't a simple calculation. Your "Seller's Discretionary Earnings" (SDE) or "Adjusted EBITDA" will be the starting point, meaning your financial statements will be "normalized" to remove owner-specific expenses (e.g., luxury car leases, excessive travel, non-business related salaries). The higher the quality and consistency of your adjusted EBITDA, the stronger your negotiating position. Inconsistent earnings, reliance on a few large projects, or significant one-time expenses will depress this multiple.
 
@@ -63,7 +63,7 @@ Beyond the raw numbers, several qualitative and quantitative factors significant
 
 - **Management Depth Beyond the Owner:** This is arguably the single biggest determinant of value. If the business crumbles without you, it's not a business; it's a job. A strong, experienced, and incentivized management team that can operate independently of the owner signals a transferable enterprise.
 
-- **Robust Systems & Processes:** Documented Standard Operating Procedures (SOPs) for estimating, [project management](/article/surviving-the-messy-middle-of-construction-growth), safety, HR, and financial reporting demonstrate professionalism and scalability. Buyers want to see a well-oiled machine, not a chaotic operation reliant on tribal knowledge.
+- **Robust Systems & Processes:** Documented Standard Operating Procedures (SOPs) for estimating, [project management](/article/surviving-the-messy-middle-of-construction-growth/), safety, HR, and financial reporting demonstrate professionalism and scalability. Buyers want to see a well-oiled machine, not a chaotic operation reliant on tribal knowledge.
 
 - **Defensible Niche & Market Position:** Do you specialize in a high-barrier-to-entry sector (e.g., highly technical infrastructure, specialized industrial, specific public works)? Do you dominate a particular geographic market? A strong competitive advantage drives value.
 
@@ -167,7 +167,7 @@ Tax implications can make or break a deal's net value. The structure of the deal
 
 ## Broker vs. DIY Sale: The Right Path for You
 
-You wouldn't build a complex structure without an architect and [a general contractor](/article/how-to-get-general-contractor-license-florida-2026). Selling your business is no different. While a DIY approach might seem appealing to save on fees, it's often a costly mistake.
+You wouldn't build a complex structure without an architect and [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/). Selling your business is no different. While a DIY approach might seem appealing to save on fees, it's often a costly mistake.
 
 ### The M&A Advisor Advantage
 
@@ -225,7 +225,7 @@ Even well-intentioned sellers make critical errors. Avoid these common pitfalls:
 
 ## Real Valuation Benchmarks: What Construction Companies Are Actually Selling For
 
-Providing exact, universal valuation benchmarks is impossible due to the unique nature of each [construction business](/article/how-to-scale-a-construction-business-without-losing-control) and fluctuating market conditions. However, we can discuss general ranges and the factors that influence them. Remember, these are guidelines, not guarantees, and a professional valuation is always necessary.
+Providing exact, universal valuation benchmarks is impossible due to the unique nature of each [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) and fluctuating market conditions. However, we can discuss general ranges and the factors that influence them. Remember, these are guidelines, not guarantees, and a professional valuation is always necessary.
 
 Generally, construction companies with strong, predictable cash flows, diversified revenue streams, robust management teams, and defensible market positions will command higher multiples. Those with high owner dependence, inconsistent earnings, or significant operational risks will be on the lower end.
 
@@ -279,7 +279,7 @@ Selling your construction company is a marathon, not a sprint. Here's your no-no
 
 A: Once your company is fully prepared for sale (which itself can take 1-3 years), the active selling process, from going to market to closing the deal, typically takes 6-12 months. Complex deals or those requiring extensive buyer financing can take longer.
 
-### Q: What's the biggest red flag for buyers in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings)?
+### Q: What's the biggest red flag for buyers in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)?
 
 A: Owner dependence. If the business cannot operate successfully without the current owner's daily involvement, buyers see significant risk and will either offer a much lower price or walk away. Inconsistent financial reporting and a poor safety record are close seconds.
 
