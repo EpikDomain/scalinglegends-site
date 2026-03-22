@@ -32,7 +32,7 @@ Two hundred and eight days. That is how long before the largest infrastructure s
 
 - **Financial Health Fuels Bonding Capacity.** Expanding your bonding capacity—essential for larger projects—is directly tied to your company’s financial health. Clean up Work-in-Progress (WIP) reports, reduce Days Sales Outstanding (DSO), and build cash reserves immediately.
 
-- **Diversify for Post-IIJA Growth.** While capturing current IIJA funds, begin planning for diversification into alternative growth sectors like data centers, institutional, and healthcare construction, which are projected to expand post-2026.
+- **Diversify for Post-IIJA Growth.** While capturing current IIJA funds, begin planning for diversification into alternative growth sectors like data centers, institutional, and [healthcare construction](/article/healthcare-construction-boom-2026-why-hospitals-are-the-safest-bet-in-a-recession-and-how-to-win-these-projects/), which are projected to expand post-2026.
 
 ## The Countdown to the IIJA Construction Opportunities Cliff
 
