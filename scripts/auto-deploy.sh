@@ -14,8 +14,9 @@ echo "$(date) - Starting auto-deploy..."
 # Pull latest articles from Supabase
 node scripts/pull-supabase-articles.mjs
 
-# Check if anything changed
-if git diff --quiet src/content/articles/; then
+# Check if anything changed (modified OR new untracked files)
+NEW_COUNT=$(git ls-files --others --exclude-standard src/content/articles/ | wc -l)
+if git diff --quiet src/content/articles/ && [ "$NEW_COUNT" -eq 0 ]; then
   echo "$(date) - No changes detected, skipping deploy."
   exit 0
 fi
