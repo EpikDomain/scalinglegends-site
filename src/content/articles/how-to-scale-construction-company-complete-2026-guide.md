@@ -1,6 +1,6 @@
 ---
-title: "Scale Construction: Grow Your Business by 2026"
-description: "Learn the exact steps to scale your construction company to new heights by 2026. Get actionable strategies for revenue, systems, and leadership transitions."
+title: "Scaling Construction: Trends & Outlook for 2026"
+description: "Discover the key trends shaping construction growth in 2026. Understand the outlook for scaling, revenue milestones, and critical leadership shifts."
 date: "2026-02-12"
 image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete-2026-guide.jpg"
 readTime: "41 min read"
