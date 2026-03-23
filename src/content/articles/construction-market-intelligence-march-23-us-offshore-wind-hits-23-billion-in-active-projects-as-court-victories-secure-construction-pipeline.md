@@ -14,6 +14,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+<iframe src="https://www.youtube.com/embed/6X1QXBg90Lc" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 Over 23 billion dollars in US offshore wind projects just passed critical milestones. Federal courts secured the construction pipeline. And the two-week software buying cycle shows no signs of stopping. This is your weekend intelligence briefing, designed to equip your business for the opportunities ahead.
 
 ## Key Takeaways
