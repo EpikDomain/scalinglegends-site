@@ -42,7 +42,7 @@ Diesel just hit $4.60 and it's not stopping. Here's how to stop the bleeding. Oi
 
 - **Implement Fuel Escalation Clauses Now.** Protect your project margins by contractually passing on fuel cost increases. Without these, every cent diesel rises comes directly out of your profit.
 
-- **Optimize Routes and Reduce Idle Time.** Leverage GPS tracking and telematics to cut fuel consumption by 15-20% through efficient routing and minimizing unnecessary engine idle.
+- **Optimize Routes and Reduce Idle Time.** Leverage GPS [tracking and telematics](/article/construction-fleet-management-2026-how-gps-tracking-and-telematics-are-saving-contractors-210000-a-year-on-equipment/) to cut fuel consumption by 15-20% through efficient routing and minimizing unnecessary engine idle.
 
 - **Strategic Equipment Procurement.** Evaluate the Total Cost of Ownership (TCO) for new equipment, including fuel efficiency, maintenance, and the emerging viability of electric alternatives for specific tasks.
 

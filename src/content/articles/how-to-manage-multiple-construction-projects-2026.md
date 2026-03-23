@@ -139,7 +139,7 @@ This is the central nervous system of your multi-project operation. A good platf
 
 While PM software handles project-level financials, your overall company health relies on robust accounting and, for larger firms, Enterprise Resource Planning (ERP) systems.
 
-*   **Dedicated Construction Accounting Software:** Generic accounting software often falls short for construction's unique needs (job costing, progress billing, retainage). Solutions like **QuickBooks Desktop Premier/Enterprise** (with job costing features), **Sage 300 CRE** (formerly Timberline), and **Viewpoint Spectrum/Vista** are designed specifically for contractors.
+*   **Dedicated [Construction Accounting Software](/article/construction-accounting-software-2026-quickbooks-vs-foundation-vs-sage-and-why-the-wrong-choice-is-costing-you-thousands/):** Generic accounting software often falls short for construction's unique needs (job costing, progress billing, retainage). Solutions like **QuickBooks Desktop Premier/Enterprise** (with job costing features), **Sage 300 CRE** (formerly Timberline), and **Viewpoint Spectrum/Vista** are designed specifically for contractors.
 *   **Seamless Integration:** The most crucial aspect is that your project management software "talks" to your accounting system. This means cost codes, purchase orders, invoices, and payroll data flow seamlessly, providing a unified view of project costs and overall company financials without manual double-entry.
 *   **Benefits of Integration:**
 *   Real-time visibility into project profitability.

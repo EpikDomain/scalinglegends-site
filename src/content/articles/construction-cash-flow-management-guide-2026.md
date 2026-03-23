@@ -456,7 +456,7 @@ The right software can automate, integrate, and provide real-time visibility int
 
 - **Textura (now Oracle Textura):** A powerful cloud-based platform specifically designed for construction payment management. Automates the entire payment process, including lien waivers, compliance, and subcontractor billing. Reduces payment cycles and administrative burden significantly.
 
-- **Bill.com / AvidXchange:** General AP automation tools that can integrate with construction accounting software to streamline vendor invoice processing and payments.
+- **Bill.com / AvidXchange:** General AP automation tools that can integrate with [construction accounting software](/article/construction-accounting-software-2026-quickbooks-vs-foundation-vs-sage-and-why-the-wrong-choice-is-costing-you-thousands/) to streamline vendor invoice processing and payments.
 
 - **Cash Flow Forecasting Tools:** Many of the comprehensive accounting and ERP systems have built-in forecasting modules. Alternatively, specialized add-ons or even well-designed spreadsheets (if integrated with your core data) can serve this purpose.
 

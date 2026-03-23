@@ -67,7 +67,7 @@ Another significant oversight is failing to consider the user experience, partic
 
 - **Audit Existing "Free" Solutions.** Inventory all free tools (e.g., Google Sheets, basic spreadsheets) currently used for critical operational data like job costing or scheduling. Note where these create data silos or manual reconciliation efforts.
 
-- **Research Foundational Accounting Software.** As the first step in a strategic tech stack, dedicate 2-3 hours this week to exploring 2-3 leading off-the-shelf construction accounting software solutions like QuickBooks Contractor, Sage 100 Contractor, or Viewpoint Vista.
+- **Research Foundational Accounting Software.** As the first step in a strategic tech stack, dedicate 2-3 hours this week to exploring 2-3 leading off-the-shelf [construction accounting software](/article/construction-accounting-software-2026-quickbooks-vs-foundation-vs-sage-and-why-the-wrong-choice-is-costing-you-thousands/) solutions like QuickBooks Contractor, Sage 100 Contractor, or Viewpoint Vista.
 
 - **Gather Mobile Field Requirements.** Conduct a quick survey or informal interviews with your field teams to understand their current mobile tech challenges and essential needs for any future field tools. Prioritize mobile-friendly interfaces and robust offline capabilities.
 
