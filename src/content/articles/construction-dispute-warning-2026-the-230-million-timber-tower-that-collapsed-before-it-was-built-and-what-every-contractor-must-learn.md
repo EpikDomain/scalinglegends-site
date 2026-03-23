@@ -54,7 +54,7 @@ The Edison saga underscores how crucial proactive measures are for safeguarding 
 
 **Understanding and utilizing lien laws is non-negotiable for contractors.** Each state has specific deadlines and requirements for filing mechanics' liens. Missing these deadlines can mean losing your legal right to claim payment against the property, effectively turning secured debt into unsecured debt. Contractors should have a clear, documented process for monitoring project payment status and initiating lien procedures automatically when payments are delayed or work is suspended. This process should be integrated into your overall [construction project management](/article/construction-project-management-surviving-the-messy-middle/) strategy, ensuring no payment milestones are overlooked.
 
-Beyond liens, the developer's claim of "tariffs and material costs" highlights another critical area: contract negotiation and contingency planning. Many contractors operate on fixed-price contracts, unknowingly absorbing the risk of volatile material prices and tariffs. This practice can quickly erode **contractor profit margins 2026** if market conditions shift unfavorably. Modern contracts must include robust escalation clauses that allow for adjustments based on material cost indices or tariff changes. Alternatively, contractors should build significant contingencies into their bids for projects involving materials with high price volatility or international supply chains. Failure to do so means underwriting the developer's market risk, a burden no scaling contractor should bear. Implementing a system for tracking material costs and market intelligence can provide the data needed to negotiate these clauses effectively and protect your bottom line.
+Beyond liens, the developer's claim of "tariffs and material costs" highlights another critical area: contract negotiation and contingency planning. Many contractors operate on fixed-price contracts, unknowingly absorbing the risk of volatile material prices and tariffs. This practice can quickly erode **contractor profit margins 2026** if market conditions shift unfavorably. Modern contracts must include robust escalation clauses that allow for adjustments based on material cost indices or tariff changes. Alternatively, contractors should build significant contingencies into their bids for projects involving materials with high price volatility or international supply chains. Failure to do so means underwriting the developer's market risk, a burden no scaling contractor should bear. Implementing a system for tracking material costs and [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) can provide the data needed to negotiate these clauses effectively and protect your bottom line.
 
 ## Navigating Niche Challenges: Mass Timber and the Future of Building
 
@@ -78,13 +78,13 @@ Consider the potential impact on subcontractors involved in The Edison. For smal
 
 The biggest risks include developer financial instability, volatile material costs and tariffs, labor shortages, and rising interest rates. As seen with The Edison, inadequate developer financing and unhedged material costs can swiftly halt even promising projects, impacting **[construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth 2026**.
 
-### How can contractors improve cash flow management on large projects?
+### How can contractors improve [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) on large projects?
 
 Contractors can improve cash flow management by negotiating favorable payment terms, implementing robust progress billing, using retainage wisely, and maintaining strong communication with clients. Proactive lien filing, as demonstrated by C.D. Smith, is also crucial for securing payments and protecting **[construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)**.
 
 ### What is the importance of [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software for future projects?
 
-Advanced **construction estimating software 2026** is vital for accurately forecasting project costs, including contingencies for volatile materials and unique challenges like mass timber construction. It helps contractors bid competitively while protecting profit margins and identifying potential financial risks early.
+Advanced **[construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026** is vital for accurately forecasting project costs, including contingencies for volatile materials and unique challenges like mass timber construction. It helps contractors bid competitively while protecting profit margins and identifying potential financial risks early.
 
 ### How can I protect my contractor profit margins in a dispute?
 
@@ -94,7 +94,7 @@ Protecting **contractor profit margins 2026** in a dispute involves having clear
 
 The legal steps for filing a construction lien vary by state but generally involve sending a preliminary notice, preparing and recording the lien document with the county recorder within strict deadlines (e.g., Wisconsin's 6 months), and serving notice to relevant parties. Consulting with an attorney familiar with local lien laws is essential.
 
-## How to Safeguard Your Construction Business Against Project Collapse
+## How to Safeguard Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Against Project Collapse
 
 The cautionary tale of The Edison provides a clear roadmap for protecting your firm's future. Here are actionable steps to implement this week:
 
@@ -112,6 +112,6 @@ The cautionary tale of The Edison provides a clear roadmap for protecting your f
 
 ## The Bottom Line
 
-The failure of The Edison tower is a harsh reminder that ambition must be grounded in financial reality and rigorous risk management. For contractors aiming for sustained **construction business growth 2026**, the single most impactful action you can take this week is to review your current project portfolio and identify any single project that represents more than 25% of your annual revenue. Develop an immediate strategy to diversify or de-risk that exposure, ensuring your business is resilient against the unforeseen. The future of your firm depends on learning from others' misfortunes.
+The failure of The Edison tower is a harsh reminder that ambition must be grounded in financial reality and rigorous risk management. For contractors aiming for sustained **[construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026**, the single most impactful action you can take this week is to review your current project portfolio and identify any single project that represents more than 25% of your annual revenue. Develop an immediate strategy to diversify or de-risk that exposure, ensuring your business is resilient against the unforeseen. The future of your firm depends on learning from others' misfortunes.
 
 <iframe src="https://www.youtube.com/embed/yyjXW6P6eAc" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>

@@ -116,11 +116,11 @@ Green building improves contractor profit margins 2026 by enabling access to luc
 
 ### What [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software will be essential for green projects in 2026?
 
-Essential construction estimating software 2026 for green projects will integrate Environmental Product Declarations (EPDs) and Lifecycle Assessments (LCAs) to track embodied carbon. It will offer scenario planning for sustainable material choices, provide carbon cost analysis, and facilitate compliance reporting for evolving green building standards. Software with these capabilities allows for precise environmental and financial forecasting.
+Essential [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026 for green projects will integrate Environmental Product Declarations (EPDs) and Lifecycle Assessments (LCAs) to track embodied carbon. It will offer scenario planning for sustainable material choices, provide carbon cost analysis, and facilitate compliance reporting for evolving green building standards. Software with these capabilities allows for precise environmental and financial forecasting.
 
 ### How does green building impact [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)?
 
-Green building requires strategic construction cash flow management due to potential higher upfront costs for sustainable materials and investments in new technologies. However, it also opens avenues for green financing, tax incentives, and faster project approvals. Effective management involves optimizing supply chains for eco-materials, precise cost tracking, and leveraging financial incentives to balance initial outlays with long-term profitability.
+Green building requires strategic [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) due to potential higher upfront costs for sustainable materials and investments in new technologies. However, it also opens avenues for green financing, tax incentives, and faster project approvals. Effective management involves optimizing supply chains for eco-materials, precise cost tracking, and leveraging financial incentives to balance initial outlays with long-term profitability.
 
 ### What are the key green building trends for US contractors in 2026?
 
@@ -128,7 +128,7 @@ Key green building trends for US contractors in 2026 include the widespread adop
 
 ## How to Position Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) for Green Building Success Now
 
-The time to act is now. Proactively embedding green building principles into your operations will secure your firm's competitive advantage and ensure sustainable construction business growth 2026. Here are 5 concrete steps you can take this week:
+The time to act is now. Proactively embedding green building principles into your operations will secure your firm's competitive advantage and ensure sustainable [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026. Here are 5 concrete steps you can take this week:
 
 - **Master the Green Building Lexicon.** Dedicate time this week to familiarize your leadership and key project managers with terms like "embodied carbon," "operational carbon," "whole-life carbon," "EPD," "LCA," and "net zero." Understanding this language is the first step to effectively communicating with clients and suppliers, and identifying relevant project opportunities.
 
@@ -142,6 +142,6 @@ The time to act is now. Proactively embedding green building principles into you
 
 ## The Bottom Line
 
-Green building is no longer a niche market; it is becoming the standard for progressive construction. The UK's Net Zero Carbon Buildings Standard is a global bellwether, and US contractors must recognize the accelerating regulatory landscape and market demand. Your immediate action step for this week is to schedule a meeting with your estimating and [project management](/article/surviving-the-messy-middle-of-construction-growth/) teams to discuss how current projects can begin incorporating embodied carbon tracking and to identify at least one sustainable material to pilot. The future of your construction business growth hinges on this strategic pivot.
+Green building is no longer a niche market; it is becoming the standard for progressive construction. The UK's Net Zero Carbon Buildings Standard is a global bellwether, and US contractors must recognize the accelerating regulatory landscape and market demand. Your immediate action step for this week is to schedule a meeting with your estimating and [project management](/article/surviving-the-messy-middle-of-construction-growth/) teams to discuss how current projects can begin incorporating embodied carbon tracking and to identify at least one sustainable material to pilot. The future of your [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth hinges on this strategic pivot.
 
 <iframe src="https://www.youtube.com/embed/yshiF0jh3Ec" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
