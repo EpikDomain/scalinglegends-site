@@ -1,6 +1,6 @@
 ---
-title: "Hire Construction Workers 2026: A GC Action Plan"
-description: "Actionable guide for GCs to hire and retain construction workers in 2026. Master recruitment, compensation, and culture to solve your labor shortage."
+title: "Construction Hiring 2026: Trends & Labor Outlook"
+description: "Explore 2026 construction hiring trends and labor market outlook. Understand future challenges and strategies for worker retention and recruitment."
 date: "2026-02-15"
 image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-2026-guide.jpg"
 readTime: "70 min read"

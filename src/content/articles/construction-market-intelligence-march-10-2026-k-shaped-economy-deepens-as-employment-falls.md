@@ -30,7 +30,7 @@ Not a broad recession, but a K-shaped divergence. Large contractors focused on d
 
 Diesel at $4.60/gallon (up 19% since January 2026) adds approximately 2-3% to total project costs for earthwork-heavy projects. Equipment-intensive contractors report fuel now consuming 8% of project budgets, up from 5.5% in Q4 2025. The ripple effects include higher material delivery costs, increased asphalt pricing (up 11% YTD), and pressure on fixed-price contracts that were bid when diesel was below $4.00.
 
-### Where is construction hiring in 2026?
+### Where is [construction hiring](/article/how-to-hire-retain-construction-workers-2026-guide/) in 2026?
 
 Construction hiring in 2026 is concentrated in three sectors: [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) (Northern Virginia, Phoenix, DFW adding 15,000+ jobs), infrastructure repair funded by IIJA ($131 billion in active projects), and industrial/manufacturing facility construction driven by reshoring. Residential construction has shed approximately 15,000 jobs since October 2025. The national average construction wage hit $34.50/hour in February 2026, up 4.2% year-over-year.
 
