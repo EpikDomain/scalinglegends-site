@@ -80,7 +80,7 @@ The biggest risks include developer financial instability, volatile material cos
 
 ### How can contractors improve [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) on large projects?
 
-Contractors can improve cash flow management by negotiating favorable payment terms, implementing robust progress billing, using retainage wisely, and maintaining strong communication with clients. Proactive lien filing, as demonstrated by C.D. Smith, is also crucial for securing payments and protecting **[construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)**.
+Contractors can improve [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) by negotiating favorable payment terms, implementing robust progress billing, using retainage wisely, and maintaining strong communication with clients. Proactive lien filing, as demonstrated by C.D. Smith, is also crucial for securing payments and protecting **[construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)**.
 
 ### What is the importance of [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software for future projects?
 

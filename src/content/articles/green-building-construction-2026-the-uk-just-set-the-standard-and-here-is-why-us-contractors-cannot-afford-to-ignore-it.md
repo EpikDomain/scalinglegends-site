@@ -90,7 +90,7 @@ This data-driven approach, often powered by intelligence from platforms like [Sm
 
 Navigating the green building transition successfully requires not only technical expertise but also astute [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). While green projects often promise higher margins and significant incentives, they can also involve upfront investments in new materials, training, and software. Managing these financial dynamics is crucial for maintaining liquidity and profitability.
 
-Key considerations for cash flow management in green construction include:
+Key considerations for [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) in green construction include:
 
 - **Upfront Investment vs. Long-Term Returns:** Sustainable materials like mass timber or advanced low-carbon concrete might have a higher initial cost than conventional alternatives. Contractors need to factor these into their project financing, understanding that these investments often lead to faster project approvals, higher project values, and access to specific green project funding. The financial benefits from IRA tax credits, for instance, might be realized later in the fiscal year, requiring careful planning to bridge any interim gaps.
 
