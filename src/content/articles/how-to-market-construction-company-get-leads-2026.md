@@ -1,6 +1,6 @@
 ---
-title: "Construction Marketing 2026: Get More Leads"
-description: "Boost your construction company's leads in 2026. Learn proven strategies for local SEO, paid ads, social media, and referral systems to maximize your marketing ROI."
+title: "Construction Marketing Trends: What's Next in 2026?"
+description: "Discover the essential construction marketing trends for 2026. Understand evolving strategies for Google Business Profile, local SEO, and social media to stay ahead of the curve."
 date: "2026-02-20"
 image: "https://scalinglegends.com/og/how-to-market-construction-company-get-leads-2026.jpg"
 readTime: "83 min read"
