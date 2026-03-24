@@ -33,6 +33,8 @@ const articles = defineCollection({
       name: z.string(),
       text: z.string(),
     })).optional(),
+    updatedAt: z.string().optional(),
+    noindex: z.boolean().optional(),
   }),
 });
 

@@ -228,6 +228,13 @@ async function main() {
     const audioUrl = matchAudio(a.title);
     const content = htmlToMarkdown(a.content);
     const date = a.created_at ? a.created_at.split('T')[0] : '2026-03-05';
+    const updatedAt = a.updated_at ? a.updated_at.split('T')[0] : null;
+    // Track updatedAt only when it differs from created_at by more than 1 day
+    const hasUpdate = updatedAt && date && (() => {
+      const created = new Date(date);
+      const updated = new Date(updatedAt);
+      return (updated - created) > 86400000; // 1 day in ms
+    })();
     let imageUrl = a.image_url || '/scaling-legends-cover.jpg';
     // Fix broken scalinglegends.com image URLs to local path
     if (imageUrl.includes('scalinglegends.com/scaling-legends-cover')) {
@@ -265,6 +272,9 @@ async function main() {
         fm.push(`  - "${kw}"`);
       }
     }
+
+    // Include updatedAt for UpdateAction schema when content was updated
+    if (hasUpdate) fm.push(`updatedAt: "${updatedAt}"`);
 
     // Auto-assign pillar based on slug/title keywords
     const pillar = assignPillar(a.slug, a.title);

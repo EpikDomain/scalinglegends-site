@@ -39,6 +39,13 @@ npx wrangler pages deploy dist --project-name scalinglegends --branch main --com
 
 echo "$(date) - Deploy complete. $((CHANGED + NEW)) articles updated on scalinglegends.com"
 
+# Notify search engines of new/updated content
+echo "$(date) - Submitting new URLs to IndexNow + Google Indexing API..."
+cd /home/nxusdev/claudeclaw
+/home/nxusdev/claudeclaw/venv/bin/python3 scripts/ping-search-engines.py submit-new || true
+/home/nxusdev/claudeclaw/venv/bin/python3 scripts/google-indexing.py submit-new --local || true
+cd "$SITE_DIR"
+
 # GA4 deploy event
 curl -s -X POST "https://www.google-analytics.com/mp/collect?measurement_id=G-7CP5LHM69N&api_secret=Vfc4Vu-kRdWHU7Kuarygyw" \
   -H "Content-Type: application/json" \

@@ -20,6 +20,7 @@ interface Props {
   howToSteps?: { name: string; text: string }[];
   definedTerms?: { term: string; definition: string }[];
   noindex?: boolean;
+  updatedAt?: string;
 }
 
 const {
@@ -37,6 +38,7 @@ const {
   howToSteps = [],
   definedTerms = [],
   noindex = false,
+  updatedAt,
 } = Astro.props;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
@@ -55,6 +57,11 @@ const currentPath = Astro.url.pathname;
 const isoDate = datePublished && !datePublished.includes('T')
   ? `${datePublished}T00:00:00Z`
   : datePublished;
+
+// Normalize updatedAt to ISO 8601 for UpdateAction schema
+const isoUpdatedAt = updatedAt && !updatedAt.includes('T')
+  ? `${updatedAt}T00:00:00Z`
+  : updatedAt;
 
 // ── Connected @graph schema for AI citation ──────────────────────────
 // Single @graph gives AI crawlers (ChatGPT, Perplexity, Google AI Overview)
@@ -129,7 +136,7 @@ if (article) {
     "description": description,
     "image": image,
     "datePublished": isoDate,
-    "dateModified": isoDate,
+    "dateModified": isoUpdatedAt || isoDate,
     "author": { "@id": "https://scalinglegends.com/#organization" },
     "publisher": { "@id": "https://scalinglegends.com/#organization" },
     "mainEntityOfPage": { "@id": canonicalUrl },
@@ -231,6 +238,22 @@ if (article) {
     }
   }
 
+  // UpdateAction entity -- proves human editorial oversight to crawlers
+  // Only added when content was updated after initial publication (updatedAt > date + 1 day)
+  if (isoUpdatedAt) {
+    graph.push({
+      "@type": "UpdateAction",
+      "@id": `${canonicalUrl}#update-log`,
+      "agent": {
+        "@type": "Person",
+        "name": "Scaling Legends Editorial Team"
+      },
+      "object": { "@id": `${canonicalUrl}#article` },
+      "startTime": isoUpdatedAt,
+      "description": "Content reviewed, updated with current data, and verified by editorial team"
+    });
+  }
+
   // WebPage for this article
   webPageSchema["speakable"] = speakableSpec;
   graph.push(webPageSchema);
@@ -296,7 +319,7 @@ const structuredDataGraph = {
   <meta property="og:site_name" content={siteName} />
   <meta property="og:locale" content="en_US" />
   {isoDate && <meta property="article:published_time" content={isoDate} />}
-  {isoDate && <meta property="article:modified_time" content={isoDate} />}
+  {(isoUpdatedAt || isoDate) && <meta property="article:modified_time" content={isoUpdatedAt || isoDate} />}
   {article && <meta property="article:publisher" content="https://scalinglegends.com" />}
   {article && <meta property="article:section" content="Construction" />}
   {keywords.length > 0 && keywords.map(kw => <meta property="article:tag" content={kw} />)}
