@@ -349,31 +349,31 @@ Implementing a reliable system for deadline tracking is a proactive measure that
 
 ## Frequently Asked Questions About New York Construction Liens
 
-### Q1: Can I file a mechanics lien in New York if I don't have a written contract?
+### Can I file a mechanics lien in New York if I don't have a written contract?
 
 A1: Yes, New York Lien Law generally allows you to file a mechanics lien even without a formal written contract, provided you can prove that you furnished labor, services, or materials to the project and that there was an agreement (express or implied) for payment. However, having a written contract always makes proving your claim much easier.
 
-### Q2: What happens if the property owner sells the property after I file a lien?
+### What happens if the property owner sells the property after I file a lien?
 
 A2: A properly filed mechanics lien attaches to the real property. If the property is sold after the lien is filed, the lien generally "runs with the land," meaning the new owner takes the property subject to your lien. This often means the lien must be satisfied as part of the sale or by the new owner, providing a strong incentive for payment.
 
-### Q3: Can a tenant's contractor file a lien against the landlord's property in New York?
+### Can a tenant's contractor file a lien against the landlord's property in New York?
 
 A3: Generally, yes, but with specific conditions. A lien can attach to the landlord's interest if the landlord either expressly consented to the improvement or, through their actions, implicitly consented or acquiesced to the work being done. Merely knowing that a tenant is performing work is not enough; there must be some active participation, encouragement, or benefit to the landlord. If the landlord did not consent, the lien might only attach to the tenant's leasehold interest, which is often less valuable.
 
-### Q4: What if I filed a lien for more than what is actually owed?
+### What if I filed a lien for more than what is actually owed?
 
 A4: New York Lien Law § 39 states that if a lienor "willfully exaggerates" the amount for which he claims a lien, the entire lien can be declared void. Furthermore, the lienor may be liable for damages suffered by the owner or contractor due to the exaggerated lien. It is crucial to claim only the actual amount due and unpaid, plus any allowable interest and costs.
 
-### Q5: Is there a difference between a "mechanics lien" and a "construction lien" in New York?
+### Is there a difference between a "mechanics lien" and a "construction lien" in New York?
 
 A5: No, in New York, these terms are used interchangeably. The official statutory term in New York Lien Law is "mechanics' lien," but "construction lien" is a common industry term referring to the same legal instrument.
 
-### Q6: Can I include attorney fees and collection costs in my New York mechanics lien amount?
+### Can I include attorney fees and collection costs in my New York mechanics lien amount?
 
 A6: Generally, no. The amount of a New York mechanics lien is limited to the value of the labor performed or materials furnished to the project, plus interest. Attorney fees and collection costs typically cannot be included in the lien amount itself, though they may be recoverable if you successfully pursue a lien foreclosure lawsuit or through other contractual provisions.
 
-### Q7: How do I find the legal description of a property in New York?
+### How do I find the legal description of a property in New York?
 
 A7: The most reliable way to obtain the legal description is to check the property deed, which is recorded with the County Clerk (or Register's Office in some counties) where the property is located. You can often access these records online or in person. Property tax records or a title report may also provide this information. A street address alone is usually insufficient for a valid lien.
 

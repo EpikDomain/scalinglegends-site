@@ -160,7 +160,7 @@ By closely monitoring these indicators, contractors can gain a holistic view of 
 
 ## The Road Ahead: Forecasting Future Opportunities and Challenges
 
-Looking forward, the construction industry is poised for continued transformation. While the immediate future presents a mixed bag of challenges and opportunities, several long-term trends will shape the landscape:
+Looking forward, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is poised for continued transformation. While the immediate future presents a mixed bag of challenges and opportunities, several long-term trends will shape the landscape:
 
 - **Continued Industrial Growth:** The "reshoring" trend, coupled with government incentives, suggests sustained investment in advanced manufacturing, data centers, and renewable energy infrastructure. This will create a steady demand for highly specialized construction services.
 

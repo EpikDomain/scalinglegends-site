@@ -42,9 +42,9 @@ While acute care hospitals remain significant, substantial growth is occurring i
 
 Key challenges include navigating complex regulatory environments (e.g., HIPAA, OSHPD), maintaining stringent infection control during active facility renovations, managing highly specialized equipment installations, addressing skilled labor shortages, mitigating supply chain disruptions for critical materials, and adhering to strict budgets and timelines while ensuring minimal disruption to patient care.
 
-### How can a contractor break into the healthcare construction market?
+### How can a contractor break into the healthcare [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/)?
 
-Breaking in requires specialization. Start by focusing on smaller projects like renovations or tenant improvements within healthcare facilities. Build a reputation for quality, safety, and adherence to regulations. Network with healthcare systems, architects specializing in medical facilities, and project management firms. Obtain relevant certifications, invest in specialized training for your team, and demonstrate a deep understanding of healthcare-specific needs and compliance.
+Breaking in requires specialization. Start by focusing on smaller projects like renovations or tenant improvements within healthcare facilities. Build a reputation for quality, safety, and adherence to regulations. Network with healthcare systems, architects specializing in medical facilities, and [project management](/article/surviving-the-messy-middle-of-construction-growth/) firms. Obtain relevant certifications, invest in specialized training for your team, and demonstrate a deep understanding of healthcare-specific needs and compliance.
 
 ### What role does technology play in winning healthcare projects?
 

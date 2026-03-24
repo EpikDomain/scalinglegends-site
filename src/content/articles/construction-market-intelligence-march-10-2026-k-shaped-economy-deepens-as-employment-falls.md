@@ -32,7 +32,7 @@ Diesel at $4.60/gallon (up 19% since January 2026) adds approximately 2-3% to to
 
 ### Where is [construction hiring](/article/how-to-hire-retain-construction-workers-2026-guide/) in 2026?
 
-Construction hiring in 2026 is concentrated in three sectors: [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) (Northern Virginia, Phoenix, DFW adding 15,000+ jobs), infrastructure repair funded by IIJA ($131 billion in active projects), and industrial/manufacturing facility construction driven by reshoring. Residential construction has shed approximately 15,000 jobs since October 2025. The national average construction wage hit $34.50/hour in February 2026, up 4.2% year-over-year.
+[Construction hiring](/article/how-to-hire-retain-construction-workers-2026-guide/) in 2026 is concentrated in three sectors: [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) (Northern Virginia, Phoenix, DFW adding 15,000+ jobs), infrastructure repair funded by IIJA ($131 billion in active projects), and industrial/manufacturing facility construction driven by reshoring. Residential construction has shed approximately 15,000 jobs since October 2025. The national average construction wage hit $34.50/hour in February 2026, up 4.2% year-over-year.
 
 How to Scale a [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) 2026: K-Shaped Economy Deepens
 
