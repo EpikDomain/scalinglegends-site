@@ -14,6 +14,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+<iframe src="https://www.youtube.com/embed/xcrVHFu45uI" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: Market Splits, Megaprojects Emerge
 
 Private construction fell for the fourth straight month. Manufacturing is down 40 percent. But a $37 billion megaproject just appeared in Ohio. And $5 billion in transit construction is frozen across two cities. The market is splitting. Which side are you on?

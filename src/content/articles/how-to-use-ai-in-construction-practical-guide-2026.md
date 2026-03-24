@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-use-ai-in-construction-practical-gu
 readTime: "107 min read"
 published: true
 season: 2
+updatedAt: "2026-03-16"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

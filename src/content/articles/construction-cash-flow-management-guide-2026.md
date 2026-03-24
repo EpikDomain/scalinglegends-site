@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/construction-cash-flow-management-guide-20
 readTime: "59 min read"
 published: true
 season: 2
+updatedAt: "2026-03-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

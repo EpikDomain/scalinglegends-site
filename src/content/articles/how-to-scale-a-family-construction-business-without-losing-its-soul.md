@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-family-construction-busines
 readTime: "11 min read"
 published: true
 season: 2
+updatedAt: "2026-03-18"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

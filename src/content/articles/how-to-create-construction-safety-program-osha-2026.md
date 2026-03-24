@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-create-construction-safety-program-
 readTime: "32 min read"
 published: true
 season: 2
+updatedAt: "2026-03-16"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

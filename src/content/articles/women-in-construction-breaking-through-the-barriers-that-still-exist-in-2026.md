@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "8 min read"
 published: true
 season: 2
+updatedAt: "2026-03-16"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

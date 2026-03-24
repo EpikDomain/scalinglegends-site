@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-20
 readTime: "70 min read"
 published: true
 season: 2
+updatedAt: "2026-03-23"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-state-by-sta
 readTime: "52 min read"
 published: true
 season: 2
+updatedAt: "2026-03-18"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"

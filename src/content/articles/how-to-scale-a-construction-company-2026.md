@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.j
 readTime: "45 min read"
 published: true
 season: 2
+updatedAt: "2026-03-19"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-new-york
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-03-17"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

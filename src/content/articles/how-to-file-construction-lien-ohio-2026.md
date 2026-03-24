@@ -1,9 +1,9 @@
 ---
 title: "How to File a Construction Lien in Ohio: Deadlines, Forms, and Process for 2026"
-description: "Protect your payment rights in Ohio. Step-by-step guide to filing a mechanics lien including deadlines, preliminary notice requirements, forms, and enforcement under Ohio Revised Code §1311."
-date: "2026-03-26"
-image: "https://scalinglegends.com/og/how-to-file-construction-lien-ohio-2026.jpg"
-readTime: "45 min read"
+description: "Complete guide to filing a construction lien in Ohio for 2026. Covers deadlines, forms, process, and requirements for contractors and subcontractors."
+date: "2026-03-24"
+image: "https://scalinglegends.com/og/how-to-file-construction-lien-ohio-2026.png"
+readTime: "69 min read"
 published: true
 season: 2
 pillar: "policy"
@@ -12,6 +12,8 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+
+# How to File a Construction Lien in Ohio: Deadlines, Forms, and Process for 2026
 
 ## How to File a Construction Lien in Ohio: Deadlines, Forms, and Process for 2026
 

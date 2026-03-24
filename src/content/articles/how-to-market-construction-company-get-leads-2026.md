@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-market-construction-company-get-lea
 readTime: "83 min read"
 published: true
 season: 2
+updatedAt: "2026-03-24"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

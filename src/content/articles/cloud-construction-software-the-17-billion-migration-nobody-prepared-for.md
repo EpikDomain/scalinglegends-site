@@ -6,6 +6,7 @@ image: "/img/articles/cloud-construction-software-the-17-billion-migration-nobod
 readTime: "31 min read"
 published: true
 season: 2
+updatedAt: "2026-03-16"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

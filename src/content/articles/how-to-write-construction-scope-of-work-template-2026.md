@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-write-construction-scope-of-work-te
 readTime: "50 min read"
 published: true
 season: 2
+updatedAt: "2026-03-16"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

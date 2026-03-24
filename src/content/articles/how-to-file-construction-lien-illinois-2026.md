@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-illinois-202
 readTime: "46 min read"
 published: true
 season: 2
+updatedAt: "2026-03-16"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
