@@ -266,7 +266,7 @@ Key risks include the capital intensity of specialized equipment, the need for h
 
 The U.S. Inflation Reduction Act (IRA) offers substantial tax credits (e.g., Investment Tax Credit for solar and storage, Production Tax Credit for wind), grants, and loan programs. The Infrastructure Investment and Jobs Act (IIJA) funds grid modernization, transmission, and EV charging infrastructure. Many states also offer additional incentives like rebates, grants, or property tax exemptions for clean energy projects, creating a robust financial landscape.
 
-### How long does it typically take to retool for energy construction?
+### How long does it typically take to retool [for energy construction](/article/the-wind-to-gas-pivot-2026-totalenergies-just-abandoned-us-offshore-wind-forever-and-what-it-signals-for-energy-construction/)?
 
 Retooling can vary significantly. For minor pivots (e.g., an electrical contractor adding EV charger installation), it might take 6-12 months to acquire necessary certifications, tools, and initial project experience. For a more significant shift (e.g., a civil contractor moving into utility-scale solar EPC), it could take 1-3 years to build the necessary expertise, develop a track record, and establish a robust project pipeline. Strategic planning and aggressive training accelerate the process.
 
