@@ -83,7 +83,7 @@ US offshore wind is creating significant [construction opportunities](/article/t
 
 ### What are the key trends in [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software for 2026?
 
-For 2026, key trends in [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software include massive demand surges (residential estimating +42,950%, general estimating +205.6%), driven by the need for precision and competitive bidding. Integration with project management and accounting systems, along with AI-powered analytics, will be crucial for efficiency.
+For 2026, key trends in [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software include massive demand surges (residential estimating +42,950%, general estimating +205.6%), driven by the need for precision and competitive bidding. Integration with [project management](/article/surviving-the-messy-middle-of-construction-growth/) and accounting systems, along with AI-powered analytics, will be crucial for efficiency.
 
 ### Why is [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) critical for scaling businesses?
 

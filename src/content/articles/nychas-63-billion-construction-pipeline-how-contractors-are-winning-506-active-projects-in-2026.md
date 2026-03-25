@@ -3,6 +3,7 @@ title: "NYCHA's $6.3 Billion Construction Pipeline: How Contractors Are Winning 
 description: "Scaling Legends - NYCHA's $6.3 Billion Construction Pipeline: How Contractors Are Winning 506 Active Projects in 2026"
 date: "2026-03-24"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/nychas-63-billion-construction-pipeline-how-contractors-are--1774362927.png"
+audioUrl: "https://content.rss.com/episodes/332597/2660387/scalinglegends/2026_03_25_09_45_31_597dc485-9584-4269-9daa-d81ddbd1b91b.mp3"
 readTime: "17 min read"
 published: true
 season: 2
@@ -47,7 +48,7 @@ The sheer volume of 506 active projects means a steady stream of bidding opportu
 
 While NYCHA's pipeline offers immense opportunity, successful engagement hinges on mastering `[construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)`. Public sector projects, by their nature, often come with longer payment cycles and stringent retainage policies compared to private work. Typical payment terms can range from 30 to 60 days post-invoice approval, and retainage—a percentage of the payment withheld until project completion and acceptance—is standard, usually between 5% and 10%. For scaling contractors, insufficient working capital or poor [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) planning can quickly turn a profitable contract into a financial strain.
 
-To navigate these challenges, contractors must adopt a proactive and disciplined approach to cash flow. This includes:
+To navigate these challenges, contractors must adopt a proactive and disciplined approach to [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/). This includes:
 
 - **Robust Billing Practices:** Submit accurate and complete invoices promptly, adhering strictly to NYCHA’s specific documentation requirements to avoid delays.
 
@@ -105,7 +106,7 @@ By implementing these strategies, contractors can move beyond simply winning bid
 
 **Effective change order management can boost project profitability by 3-5% on public sector jobs, directly impacting your bottom line.**
 
-## Strategic Project Management & Diverse Opportunities
+## Strategic [Project Management](/article/surviving-the-messy-middle-of-construction-growth/) & Diverse Opportunities
 
 Navigating NYCHA's $6.3 billion pipeline, with its 506 active projects, demands more than just winning bids; it requires unparalleled `[construction project management](/article/surviving-the-messy-middle-of-construction-growth/) software` and strategic foresight. For contractors looking to scale, the ability to efficiently manage multiple projects concurrently, track progress, control costs, and ensure compliance is critical. Modern project management platforms offer real-time insights into schedules, resources, and budgets, enabling proactive decision-making and preventing costly delays.
 
