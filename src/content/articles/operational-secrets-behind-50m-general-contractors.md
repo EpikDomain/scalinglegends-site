@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -144,7 +144,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Outline a Standardized Closeout Checklist.** Develop a preliminary checklist of all necessary steps for project closeout, including final inspections, lien waivers, retainage release documentation, and client feedback, aiming to accelerate your current retainage recovery process.
 
-- **Implement a 90-Day Look-Ahead Meeting.** Schedule a weekly 30-minute meeting with your project managers to review critical milestones, resource needs, and potential conflicts for all active projects over the next three months, using a shared digital calendar or Gantt chart tool.
+- **Implement a 90-Day Look-Ahead Meeting.** Schedule a weekly 30-minute meeting with [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) to review critical milestones, resource needs, and potential conflicts for all active projects over the next three months, using a shared digital calendar or Gantt chart tool.
 
 - **Start Your Preferred Subcontractor List.** Compile a list of your top 10-15 performing subcontractors based on past project quality, reliability, and communication, noting key contacts and their typical capacity for quick reference on future bids.
 

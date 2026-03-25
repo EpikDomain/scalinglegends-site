@@ -3,6 +3,7 @@ title: "Inside NYCHA's $492 Million Williamsburg Renovation: MDG, Wavecrest, and
 description: "Scaling Legends - Inside NYCHA's $492 Million Williamsburg Renovation: MDG, Wavecrest, and the PACT Playbook That's Reshaping NYC Construction"
 date: "2026-03-24"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/inside-nychas-492-million-williamsburg-renovation-mdg-wavecr-1774363058.png"
+audioUrl: "https://content.rss.com/episodes/332597/2660888/scalinglegends/2026_03_25_14_06_00_8040a4d0-3e77-4010-99c8-e3f685016da6.mp3"
 readTime: "17 min read"
 published: true
 season: 2
@@ -85,7 +86,7 @@ Modern PM software centralizes communication, schedules, budgets, and document m
 
 The integration of [AI construction technology 2026](/article/ai-construction-technology-2026/) takes this a step further. AI can analyze vast amounts of project data to predict potential delays, identify cost overruns before they escalate, and suggest optimal resource reallocations. For instance, AI can monitor progress photos to detect deviations from the plan, analyze weather patterns to adjust schedules, or even predict material shortages based on [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) provided by platforms like [Smart Business Automator](https://smartbusinessautomator.com).
 
-**Early adopters of AI in construction report up to a 20% reduction in project delays and a 15% improvement in overall efficiency.** This level of operational excellence is what separates a good contractor from a legendary one on mega-projects. Furthermore, efficient [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/), powered by these advanced tools, ensures consistency, reduces administrative burden, and allows project managers to focus on critical decision-making rather than data entry.
+**Early adopters of [AI in construction](/article/how-to-use-ai-in-construction-practical-guide-2026/) report up to a 20% reduction in project delays and a 15% improvement in overall efficiency.** This level of operational excellence is what separates a good contractor from a legendary one on mega-projects. Furthermore, efficient [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/), powered by these advanced tools, ensures consistency, reduces administrative burden, and allows project managers to focus on critical decision-making rather than data entry.
 
 ## The PACT Playbook: Diversity, Community, and Future Opportunities
 

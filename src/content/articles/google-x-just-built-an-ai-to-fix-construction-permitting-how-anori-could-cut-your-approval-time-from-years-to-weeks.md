@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2644988/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
+updatedAt: "2026-03-25"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -92,7 +93,7 @@ While Anori primarily focuses on permitting optimization, its data-driven approa
 
 - **Engage with Local Municipalities.** Stay informed about any pilot programs or discussions regarding AI-driven permitting in your target regions. Proactively reach out to planning departments to express interest and offer feedback.
 
-- **Upskill Your Project Management Team.** Train your project managers and estimators on how to interpret AI-generated compliance reports and leverage data for faster decision-making. Future `construction estimating software 2026` will increasingly rely on such outputs.
+- **Upskill Your Project Management Team.** Train [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) and estimators on how to interpret AI-generated compliance reports and leverage data for faster decision-making. Future `construction estimating software 2026` will increasingly rely on such outputs.
 
 - **Standardize Project Data.** Implement consistent data collection and formatting across your projects. AI platforms like Anori feed on structured data, so clean, organized project information will be crucial for seamless integration.
 

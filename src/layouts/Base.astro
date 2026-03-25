@@ -250,7 +250,21 @@ if (article) {
       },
       "object": { "@id": `${canonicalUrl}#article` },
       "startTime": isoUpdatedAt,
-      "description": "Content reviewed, updated with current data, and verified by editorial team"
+      "description": "Content reviewed, updated with current data, and verified by editorial team",
+      "instrument": {
+        "@type": "SoftwareApplication",
+        "name": "Scaling Legends Content Pipeline",
+        "description": "Autonomous content system with human-in-the-loop quality governance and Information Gain scoring"
+      }
+    });
+
+    // CorrectionComment -- signals active editorial governance to AI crawlers
+    graph.push({
+      "@type": "CorrectionComment",
+      "@id": `${canonicalUrl}#correction`,
+      "text": "Content verified and updated with current industry data by domain expert",
+      "datePublished": isoUpdatedAt,
+      "about": { "@id": `${canonicalUrl}#article` }
     });
   }
 

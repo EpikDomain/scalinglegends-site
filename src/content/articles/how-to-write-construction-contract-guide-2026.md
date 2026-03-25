@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-write-construction-contract-guide-2
 readTime: "58 min read"
 published: true
 season: 2
-updatedAt: "2026-03-23"
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -458,7 +458,7 @@ Develop a clear, company-wide process for managing change orders. This includes 
 
 ### Conduct Regular Contractual Training for Your Team
 
-Your project managers, superintendents, and administrative staff are on the front lines. They need to understand the basics of your contracts, especially concerning scope, schedule, payment, and notice requirements. Regular training sessions, perhaps annually, can prevent costly mistakes.
+[Your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/), superintendents, and administrative staff are on the front lines. They need to understand the basics of your contracts, especially concerning scope, schedule, payment, and notice requirements. Regular training sessions, perhaps annually, can prevent costly mistakes.
 
 ### Maintain Strong Communication and Documentation
 

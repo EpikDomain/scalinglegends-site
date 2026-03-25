@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-20
 readTime: "70 min read"
 published: true
 season: 2
-updatedAt: "2026-03-23"
+updatedAt: "2026-03-25"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -64,7 +64,7 @@ This is arguably the most critical long-term strategy for construction labor sho
 
 - **Sponsor Programs:** Offer to sponsor specific courses, provide tools, or contribute to scholarship funds. Get your company name and brand in front of students early.
 
-- **Guest Lecturers & Mentors:** Send your project managers, superintendents, and skilled tradespeople to speak to classes, share real-world experiences, and mentor students. This builds rapport and shows students a clear career path.
+- **Guest Lecturers & Mentors:** Send [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/), superintendents, and skilled tradespeople to speak to classes, share real-world experiences, and mentor students. This builds rapport and shows students a clear career path.
 
 - **Internships & Co-op Programs:** Offer paid internships. This is your chance to evaluate talent and for students to experience your company culture. Many interns convert to full-time hires.
 
@@ -218,7 +218,7 @@ Your jobsite is where your culture truly lives. It's where your employees spend 
 
 A strong safety culture isn't just a compliance issue; it's a powerful retention tool. Workers want to go home healthy and whole at the end of the day.
 
-- **Lead from the Top:** Safety must be a core value demonstrated by leadership, not just a policy manual. Your project managers and superintendents must actively champion safety.
+- **Lead from the Top:** Safety must be a core value demonstrated by leadership, not just a policy manual. [Your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) and superintendents must actively champion safety.
 
 - **Comprehensive Training:** Provide ongoing, relevant safety training (OSHA 10, OSHA 30, specific equipment training, fall protection, confined spaces, etc.). Make it engaging, not just a checkbox.
 

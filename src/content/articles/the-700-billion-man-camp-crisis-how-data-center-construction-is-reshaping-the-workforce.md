@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2610245/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-19"
+updatedAt: "2026-03-25"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -67,7 +67,7 @@ Platforms like <a href=) help contractors systematize their operations so they c
 
 ## How to Strategically Capitalize on the Data Center Construction Boom
 
-- **Conduct a Workforce Risk Assessment.** This week, survey your project managers and HR to identify any recent electrician turnover or recruitment challenges, estimating potential labor cost increases (e.g., 12-18% premiums mentioned).
+- **Conduct a Workforce Risk Assessment.** This week, survey [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) and HR to identify any recent electrician turnover or recruitment challenges, estimating potential labor cost increases (e.g., 12-18% premiums mentioned).
 
 - **Map Regional Data Center Activity.** Utilize tools like Smart Business Automator (mentioned in article) or construction lead services (e.g., Dodge Data & Analytics) to pinpoint active or planned data center projects within 200 miles of your operations, especially in the South.
 

@@ -1,12 +1,12 @@
 ---
-title: "How to Use AI in Construction: A Practical Guide for Contractors in 2026"
-description: "Cut through the AI hype. This guide covers what actually works for contractors in 2026: AI estimating, safety monitoring, project management tools, and a practical implementation roadmap with ROI calculations."
+title: "AI in Construction: Implement for 2026 Profit"
+description: "Learn practical AI in construction for 2026. Discover tools for estimating, safety, and project management. Get your implementation roadmap and boost ROI now."
 date: "2026-02-26"
 image: "https://scalinglegends.com/og/how-to-use-ai-in-construction-practical-guide-2026.jpg"
 readTime: "107 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-25"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

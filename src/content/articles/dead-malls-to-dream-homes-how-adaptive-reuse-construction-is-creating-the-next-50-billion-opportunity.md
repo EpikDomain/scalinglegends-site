@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2630761/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -103,7 +104,7 @@ Equipment needs for adaptive reuse differ significantly. Instead of heavy excava
 
 ## How to Break Into the Adaptive Reuse Market
 
-- **Educate Your Team.** Invest in specialized training for your project managers and superintendents on topics like selective demolition techniques, hazmat protocols, and the intricacies of commercial-to-residential MEP conversions. Understanding the unique regulatory landscape is also critical.
+- **Educate Your Team.** Invest in specialized training for [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) and superintendents on topics like selective demolition techniques, hazmat protocols, and the intricacies of commercial-to-residential MEP conversions. Understanding the unique regulatory landscape is also critical.
 
 - **Acquire Specialized Skills.** Consider hiring or partnering with individuals or firms experienced in hazmat abatement, structural engineering for existing buildings, or historic preservation. These specific competencies are non-negotiable for adaptive reuse success.
 

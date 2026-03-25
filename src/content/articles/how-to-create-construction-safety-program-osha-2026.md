@@ -1,12 +1,12 @@
 ---
-title: "How to Create a Construction Safety Program That Passes Any OSHA Inspection"
-description: "Build a construction safety program that goes beyond checkbox compliance. Covers OSHA's Fatal Four, site-specific safety plans, toolbox talks, fall protection, EMR optimization, and safety tech for 2026."
+title: "Construction Safety: Trends & Tech for 2026 OSHA"
+description: "Explore the future of construction safety. Discover key trends, new tech, and how to adapt your OSHA compliance strategies for 2026 to stay ahead."
 date: "2026-02-26"
 image: "https://scalinglegends.com/og/how-to-create-construction-safety-program-osha-2026.jpg"
 readTime: "32 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-25"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

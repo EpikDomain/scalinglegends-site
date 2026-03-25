@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2650905/scalinglegends/2026_0
 readTime: "19 min read"
 published: true
 season: 2
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -138,7 +139,7 @@ Implementing a telematics system doesn't have to be a daunting task. Here’s a 
 
 - **Pilot Program with Key Assets.** Don't try to track your entire fleet at once. Start with 5-10 critical or problematic machines. This allows your team to get familiar with the system, troubleshoot any issues, and demonstrate early ROI before a full rollout.
 
-- **Train Your Team.** Effective telematics relies on user adoption. Train your project managers, dispatchers, and maintenance staff on how to access and interpret the data. Emphasize how the system will make their jobs easier and more efficient, not just add another layer of oversight.
+- **Train Your Team.** Effective telematics relies on user adoption. Train [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/), dispatchers, and maintenance staff on how to access and interpret the data. Emphasize how the system will make their jobs easier and more efficient, not just add another layer of oversight.
 
 - **Establish Key Performance Indicators (KPIs) & Reporting.** Define what success looks like. Set targets for idle time reduction, fuel efficiency improvement, maintenance cost reduction, and utilization rates. Schedule regular reports (daily, weekly, monthly) to review these KPIs and make data-driven adjustments.
 

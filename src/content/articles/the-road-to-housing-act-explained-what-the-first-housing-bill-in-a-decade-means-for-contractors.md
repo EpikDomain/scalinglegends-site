@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2613563/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-18"
+updatedAt: "2026-03-25"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -79,7 +79,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Review Manufactured Housing Regulations.** Spend 2-4 hours this week examining the latest HUD regulations or proposed changes concerning manufactured housing, identifying how your business can enter or expand into this potentially lucrative and accessible market segment.
 
-- **Anticipate Environmental Review Changes.** Consult with your project managers or legal team this week to understand the implications of potentially streamlined environmental review processes. Discuss strategies to leverage faster approvals for upcoming new development projects.
+- **Anticipate Environmental Review Changes.** Consult with [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) or legal team this week to understand the implications of potentially streamlined environmental review processes. Discuss strategies to leverage faster approvals for upcoming new development projects.
 
 - **Identify Local CDBG New Construction Projects.** Task a team member this week to actively search local government websites and solicitations for explicit mentions of CDBG funds being allocated for *new* residential construction, a significant change introduced by the Act.
 

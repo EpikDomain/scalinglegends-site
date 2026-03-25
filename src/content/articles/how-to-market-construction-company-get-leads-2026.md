@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-market-construction-company-get-lea
 readTime: "83 min read"
 published: true
 season: 2
-updatedAt: "2026-03-24"
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -552,7 +552,7 @@ After a project is complete and the client is thrilled, ask for a short video te
 
 ### Team Spotlights & Behind-the-Scenes: Humanize Your Brand
 
-Introduce your project managers, superintendents, and skilled tradespeople. Show them in action, talking about their craft, safety, or problem-solving. This humanizes your brand, builds trust, and showcases the expertise within your team. It also helps with recruitment.
+Introduce [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/), superintendents, and skilled tradespeople. Show them in action, talking about their craft, safety, or problem-solving. This humanizes your brand, builds trust, and showcases the expertise within your team. It also helps with recruitment.
 
 ### Safety Briefings & Expertise: Demonstrating Professionalism
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/construction-cash-flow-management-guide-20
 readTime: "59 min read"
 published: true
 season: 2
-updatedAt: "2026-03-23"
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -206,7 +206,7 @@ The construction billing schedule isn't just about submitting an invoice; it's a
 
 ### The Power of Accurate and Timely Submissions
 
-This cannot be overstated. Every error, every missing document, every miscalculation on your invoice or application for payment gives the client a legitimate reason to delay payment. They will use it. Invest in quality control for your billing process. Train your project managers and administrative staff thoroughly. A perfectly submitted invoice is your fastest path to cash.
+This cannot be overstated. Every error, every missing document, every miscalculation on your invoice or application for payment gives the client a legitimate reason to delay payment. They will use it. Invest in quality control for your billing process. Train [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) and administrative staff thoroughly. A perfectly submitted invoice is your fastest path to cash.
 
 ## Navigating the Minefield: Retainage, Change Orders, and Payment Terms
 

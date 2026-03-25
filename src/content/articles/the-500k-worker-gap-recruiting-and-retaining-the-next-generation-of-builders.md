@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604270/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-25"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -116,7 +116,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Review and Promote Your Apprenticeship Opportunities.** Ensure your existing apprenticeship program (or a clear plan to launch one) is prominently featured on your website and all recruitment materials, emphasizing tech-integrated training and long-term career growth.
 
-- **Identify One Productivity-Boosting Tech Integration.** Brainstorm with your project managers for 1-2 hours to pinpoint one specific area (e.g., new project management software, digital safety forms, drone surveying) where a new tech tool could immediately increase existing worker efficiency by 15-20%.
+- **Identify One Productivity-Boosting Tech Integration.** Brainstorm with [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) for 1-2 hours to pinpoint one specific area (e.g., new project management software, digital safety forms, drone surveying) where a new tech tool could immediately increase existing worker efficiency by 15-20%.
 
 - **Gather Competitive Benefit & Wage Data.** Spend 2-3 hours researching local market rates for key construction positions and common benefits offered by competitors to ensure your compensation packages are highly attractive to the next generation of builders.
 

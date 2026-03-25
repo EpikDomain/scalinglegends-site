@@ -3,11 +3,11 @@ title: "Construction Market Intelligence: March 7, 2026 - CONEXPO Wraps, Steel U
 description: "CONEXPO 2026 closes with Cat Compact for small contractors and electric equipment claiming 40% lower costs. Steel tariffs push prices up 12.1%, project abandonment surges 88%. Ohio E-Verify goes live March 19. Data center starts hit all-time record at 5.2 billion in January. Plus the 3 pain points dominating every contractor conversation right now."
 date: "2026-03-07"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/market-intel-march7-1772898989.png"
-audioUrl: "https://content.rss.com/episodes/332597/2655767/scalinglegends/2026_03_24_09_02_35_a8532308-051b-4d81-886c-5e0292394fd3.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2660884/scalinglegends/2026_03_25_14_05_04_a560dc77-08b8-4678-9494-ddbce104eab8.mp3"
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-25"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -117,7 +117,7 @@ The electronic recordkeeping change is the sleeper. Your injury data is now goin
 
 Gartner listed physical AI as a top 2026 technology trend, and construction is ground zero. Autonomous and semi-autonomous excavators, bulldozers, and loaders are now equipped with sensors, GPS, and AI for earthmoving, grading, and hauling. AI-powered site monitoring, layout marking, and material transport are entering real job sites.
 
-The AI in construction market is projected to grow from **$4.96 billion (2025) to $14.72 billion by 2030** at 24.3% CAGR. Construction software overall is projected to grow from $4 billion (2024) to $7 billion (2029). Subscription and SaaS pricing is lowering barriers for mid-size firms.
+The [AI in construction](/article/how-to-use-ai-in-construction-practical-guide-2026/) market is projected to grow from **$4.96 billion (2025) to $14.72 billion by 2030** at 24.3% CAGR. Construction software overall is projected to grow from $4 billion (2024) to $7 billion (2029). Subscription and SaaS pricing is lowering barriers for mid-size firms.
 
 CONEXPO's new "Smart Tech, Small Budget" programming was specifically designed for mid-size contractors looking to adopt technology without enterprise-scale budgets.
 

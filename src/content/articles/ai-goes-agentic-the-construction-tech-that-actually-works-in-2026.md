@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604689/scalinglegends/2026_0
 readTime: "7 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-25"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -33,7 +33,7 @@ sponsors:
 
 - **Rapid ROI.** Most contractors adopting AI are seeing a clear return on investment within 6-9 months, demonstrating immediate value.
 
-## The Agentic Shift: Why AI in Construction is Finally Working
+## The Agentic Shift: Why [AI in Construction](/article/how-to-use-ai-in-construction-practical-guide-2026/) is Finally Working
 
 For years, "AI" in construction felt like a buzzword, relegated to futuristic concepts or academic papers. Today, that narrative has fundamentally changed. The Smart Business Automator, a leading intelligence platform, confirms a critical shift: AI is no longer just generating reports; it's becoming *agentic*. This means AI tools are now capable of taking proactive steps, making decisions, and executing tasks autonomously, moving beyond simple analytics to active problem-solving. This evolution is the core reason why [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) owners are finally seeing tangible benefits and rapid ROI.
 

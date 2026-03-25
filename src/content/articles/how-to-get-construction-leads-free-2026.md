@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-construction-leads-free-2026.jp
 readTime: "58 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -383,7 +383,7 @@ Don't wait for reviews to happen; make them happen. Implement a systematic appro
 
 - **Website Integration:** Have a prominent "Leave a Review" button on your website.
 
-- **Train Your Team:** Ensure your project managers and crew understand the importance of reviews and know how to encourage clients to leave them.
+- **Train Your Team:** Ensure [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) and crew understand the importance of reviews and know how to encourage clients to leave them.
 
 ### Respond to ALL Reviews (Good and Bad)
 
