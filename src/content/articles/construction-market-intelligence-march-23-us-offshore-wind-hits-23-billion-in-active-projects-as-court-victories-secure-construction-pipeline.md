@@ -75,7 +75,7 @@ The weekly intelligence recap also flagged other significant developments, such 
 
 ### What is [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026?
 
-[Construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth in 2026 refers to the projected expansion and scaling opportunities within the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), driven by factors like offshore wind projects ($23B+ pipeline), healthcare surging 11.8%, and widespread technology adoption, particularly in estimating and project management software.
+[Construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth in 2026 refers to the projected expansion and scaling opportunities within the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), driven by factors like offshore wind projects ($23B+ pipeline), healthcare surging 11.8%, and widespread technology adoption, particularly in estimating and [project management](/article/surviving-the-messy-middle-of-construction-growth/) software.
 
 ### How is US offshore wind impacting [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/)?
 

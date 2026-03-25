@@ -21,7 +21,7 @@ You’re running [a construction company](/article/how-to-start-construction-com
 
 This isn't about blaming you. It's about recognizing that traditional scheduling methods often fall short in the dynamic, unpredictable world of construction. This article isn't a fluffy theoretical exercise. It's a direct, no-BS [guide for contractors](/article/how-to-use-ai-in-construction-practical-guide-2026/) ready to ditch the scheduling chaos and implement systems that deliver.
 
-We'll cut through the noise, reveal why most schedules are dead on arrival, and equip you with the strategies, tools, and mindset to create a construction schedule that actually works. One that drives your projects forward, keeps your subs accountable, and helps you hit those critical milestones without the constant firefighting. Let's get to it.
+We'll cut through the noise, reveal why most schedules are dead on arrival, and equip you with the strategies, tools, and mindset to [create a construction](/article/how-to-create-construction-safety-program-osha-2026/) schedule [that actually works](/article/ai-goes-agentic-the-construction-tech-that-actually-works-in-2026/). One that drives your projects forward, keeps your subs accountable, and helps you hit those critical milestones without the constant firefighting. Let's get to it.
 
 ## Why Most Construction Schedules Fail Within 2 Weeks
 

@@ -21,7 +21,7 @@ A staggering $176 billion construction pipeline for Small Modular Reactors (SMRs
 
 - **Specialized Skill Demands.** SMR construction requires advanced expertise in nuclear-grade concrete, precision steel fabrication, and complex systems integration, necessitating significant investment in workforce training and certification.
 
-- **Technology Adoption is Critical.** Leveraging [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/), advanced [construction project management](/article/construction-project-management-surviving-the-messy-middle/) software, and sophisticated [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) will be non-negotiable for bidding, planning, and executing SMR projects efficiently and profitably.
+- **Technology Adoption is Critical.** Leveraging [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/), advanced [construction project management](/article/construction-project-management-surviving-the-messy-middle/) software, and sophisticated [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) will be non-negotiable for bidding, planning, and executing SMR [projects efficiently](/article/surviving-the-messy-middle-of-construction-growth/) and profitably.
 
 - **Rigorous Regulatory Compliance.** Nuclear construction operates under stringent federal and state regulations, demanding meticulous documentation, quality control, and safety protocols that exceed conventional project standards.
 
@@ -77,7 +77,7 @@ Contractors in these nine states, or those willing to mobilize to them, will fin
 
 The SMR pipeline is projected to drive significant [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth by 2026, with a $176 billion investment across nine states, aiming for 22 gigawatts of power. This includes an estimated 18,000 jobs per project, creating sustained demand for specialized contractors.
 
-### How can contractors manage cash flow on large SMR projects?
+### How can contractors manage [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) on large SMR projects?
 
 Effective [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) for SMR projects requires advanced estimating software, meticulous tracking of receivables and payables, negotiating favorable payment terms, and maintaining strong lines of credit. Proactive forecasting and robust internal controls are essential to navigate long payment cycles and significant upfront costs.
 

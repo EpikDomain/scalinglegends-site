@@ -115,7 +115,7 @@ The NYCHA PACT program has facilitated over $6 billion in renovations to date, c
 
 ### What are the key challenges for contractors in NYCHA PACT projects?
 
-Key challenges include navigating complex financing structures, managing tenant-in-place renovations, meeting stringent M/WBE participation goals, and the need for robust [project management](/article/surviving-the-messy-middle-of-construction-growth/) and cash flow controls on large-scale, phased projects.
+Key challenges include navigating complex financing structures, managing tenant-in-place renovations, meeting stringent M/WBE participation goals, and the need for robust [project management](/article/surviving-the-messy-middle-of-construction-growth/) and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) controls on large-scale, phased projects.
 
 ### What is the role of AI in [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth 2026 for PACT projects?
 
