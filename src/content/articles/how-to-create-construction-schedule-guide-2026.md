@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2655712/scalinglegends/2026_0
 readTime: "61 min read"
 published: true
 season: 2
-updatedAt: "2026-03-24"
+updatedAt: "2026-03-25"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -15,7 +15,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-# How to Create a Construction Schedule That Actually Works
+# How to [Create a Construction](/article/how-to-create-construction-safety-program-osha-2026/) Schedule [That Actually Works](/article/ai-goes-agentic-the-construction-tech-that-actually-works-in-2026/)
 
 You’re running [a construction company](/article/how-to-start-construction-company-washington-2026/). You’re scaling from $1M to $50M+. You know that a project schedule isn't just a nice-to-have; it's the backbone of profitability, efficiency, and client satisfaction. Yet, if you’re like most contractors, you’ve seen more schedules fail than succeed. Deadlines missed. Budgets blown. Subcontractors ghosting. It's a familiar, frustrating story.
 

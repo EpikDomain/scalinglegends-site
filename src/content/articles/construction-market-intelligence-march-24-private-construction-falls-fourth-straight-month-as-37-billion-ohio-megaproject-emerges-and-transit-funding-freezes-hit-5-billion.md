@@ -90,7 +90,7 @@ The integration of AI also extends to project scheduling, resource allocation, a
 
 The biggest challenges include a contracting private nonresidential market (down 8% from its peak), significant federal funding freezes on major transit projects (over $5 billion stalled), and high market volatility in the energy sector. These factors necessitate agile market adaptation and robust financial management.
 
-### How can [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) improve cash flow in a volatile market?
+### How can [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) improve [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) in a volatile market?
 
 To improve cash flow, [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) should prioritize prompt invoicing, negotiate favorable payment terms, maintain sufficient cash reserves, and explore diversified revenue streams. Proactive financial forecasting and leveraging [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) software are also critical.
 

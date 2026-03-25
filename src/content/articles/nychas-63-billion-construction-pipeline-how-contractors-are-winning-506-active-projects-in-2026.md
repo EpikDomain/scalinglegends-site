@@ -23,13 +23,13 @@ New York City Housing Authority (NYCHA) has unveiled a staggering $6.3 billion c
 
 - **Pre-qualification is Paramount.** Successful engagement requires early registration and meticulous adherence to NYCHA's vendor pre-qualification standards.
 
-- **Cash Flow is King.** Public sector projects often have longer payment cycles; robust [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) is non-negotiable to sustain operations.
+- **[Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) is King.** Public sector projects often have longer payment cycles; robust [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) is non-negotiable to sustain operations.
 
 - **Leverage Advanced Estimating.** Competitive bids demand precision. Investing in cutting-edge [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) and `[construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026` provides a critical edge.
 
 - **Optimize Profit Margins.** Beyond winning bids, strategic cost control, value engineering, and meticulous change order management are essential to maintain strong `contractor profit margins 2026`.
 
-- **Embrace Technology for Project Management.** Modern [construction project management](/article/construction-project-management-surviving-the-messy-middle/) software is crucial for efficiently handling multiple projects and ensuring compliance.
+- **Embrace Technology for [Project Management](/article/surviving-the-messy-middle-of-construction-growth/).** Modern [construction project management](/article/construction-project-management-surviving-the-messy-middle/) software is crucial for efficiently handling multiple projects and ensuring compliance.
 
 - **Target MWBE Opportunities.** NYCHA actively promotes participation from Minority and Women-Owned Business Enterprises, offering set-aside contracts and mentorship.
 
@@ -157,7 +157,7 @@ Winning a share of NYCHA's $6.3 billion pipeline requires a strategic, multi-fac
 
 - **Understand the Bid Process and Requirements.** Familiarize yourself with NYCHA's specific bidding procedures, documentation requirements, and contract clauses. Public sector bids often have unique compliance standards that differ from private work. Attending pre-bid conferences is crucial for clarity.
 
-- **Invest in Advanced Estimating Software.** Upgrade to modern `construction estimating software 2026` that offers automated take-offs, integrated cost databases, and scenario analysis. This will enable your team to produce accurate, competitive, and compliant bids faster, increasing your bid volume and win rate.
+- **Invest in Advanced Estimating Software.** Upgrade to modern `[construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026` that offers automated take-offs, integrated cost databases, and scenario analysis. This will enable your team to produce accurate, competitive, and compliant bids faster, increasing your bid volume and win rate.
 
 - **Strengthen Your [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).** Implement robust [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) strategies. Establish a strong line of credit, negotiate favorable payment terms with suppliers, and ensure prompt and accurate invoicing to mitigate the impact of longer public sector payment cycles and retainage.
 
