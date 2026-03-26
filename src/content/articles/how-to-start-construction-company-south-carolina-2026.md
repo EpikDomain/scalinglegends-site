@@ -348,7 +348,7 @@ Workers' Comp costs in South Carolina are a significant operating expense. They 
 
 For a new company without an EMR, you'll typically start with a "manual rate" which is the base rate for your classification. Seek quotes from multiple reputable insurance brokers in South Carolina to find competitive rates. The SC State Accident Fund is also an option, particularly if you have difficulty securing coverage in the private market.
 
-### FAQ: [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) Company in South Carolina
+### FAQ: Starting a Construction Company in South Carolina
 
 ### Do I need a license to do small handyman jobs under $5,000 in South Carolina?
 

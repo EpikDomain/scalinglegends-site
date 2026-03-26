@@ -275,27 +275,27 @@ Selling your construction company is a marathon, not a sprint. Here's your no-no
 
 ## FAQ: Your Pressing Questions Answered
 
-### Q: How long does it typically take to sell a construction company?
+### How long does it typically take to sell a construction company?
 
 A: Once your company is fully prepared for sale (which itself can take 1-3 years), the active selling process, from going to market to closing the deal, typically takes 6-12 months. Complex deals or those requiring extensive buyer financing can take longer.
 
-### Q: What's the biggest red flag for buyers in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)?
+### What's the biggest red flag for buyers in the construction industry?
 
 A: Owner dependence. If the business cannot operate successfully without the current owner's daily involvement, buyers see significant risk and will either offer a much lower price or walk away. Inconsistent financial reporting and a poor safety record are close seconds.
 
-### Q: Can I sell my construction company if I don't have a strong management team?
+### Can I sell my construction company if I don't have a strong management team?
 
 A: Yes, but expect a lower valuation multiple. Buyers will factor in the cost and risk of building out a management team post-acquisition. You might also be required to stay on for an extended period, or the deal may be heavily structured with an earnout tied to your continued involvement and successful transition.
 
-### Q: Should I tell my employees I'm selling?
+### Should I tell my employees I'm selling?
 
 A: Timing is critical and sensitive. Generally, you should keep the sale confidential until a letter of intent (LOI) is signed, or even later, during the due diligence phase, and only to key personnel on a need-to-know basis. A premature announcement can lead to anxiety, employee attrition, and client uncertainty, potentially damaging the business value. Your M&A advisor will guide you on the communication strategy.
 
-### Q: What are typical M&A advisor fees for selling a construction company?
+### What are typical M&A advisor fees for selling a construction company?
 
 A: M&A advisor fees usually consist of a retainer (to cover upfront costs and commitment) and a success fee (a percentage of the deal's value). Success fees are often tiered, meaning the percentage increases at higher sale prices (e.g., 5% on the first $5M, 4% on the next $5M, etc.). The overall percentage typically ranges from 3% to 10% depending on the deal size and complexity.
 
-### Q: What's the impact of a poor safety record on valuation?
+### What's the impact of a poor safety record on valuation?
 
 A: A poor safety record, reflected in a high EMR (Experience Modification Rate), has a significant negative impact. It signals higher operational risk, increased insurance premiums, potential legal liabilities from accidents, and reputational damage. Buyers will factor these costs and risks into a lower offer, or it may deter them entirely.
 

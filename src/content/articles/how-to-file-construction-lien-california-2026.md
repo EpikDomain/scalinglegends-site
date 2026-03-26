@@ -314,31 +314,31 @@ Implementing even basic digital tracking can significantly reduce the risk of mi
 
 ## Frequently Asked Questions About California Mechanics Liens
 
-### Q: Can an unlicensed contractor file a mechanics lien in California?
+### Can an unlicensed contractor file a mechanics lien in California?
 
 A: No. Under California Business and Professions Code §7031, an unlicensed contractor cannot file a mechanics lien for any work valued at $500 or more. This is a strict rule with very few exceptions. Ensure your license is active and properly classified for the work performed.
 
-### Q: What if the property owner files for bankruptcy after I record my lien?
+### What if the property owner files for bankruptcy after I record my lien?
 
 A: When a property owner files for bankruptcy, an automatic stay goes into effect, which generally halts all collection actions, including attempts to enforce a mechanics lien. However, a properly recorded mechanics lien may still be a secured claim in bankruptcy, giving you a better chance of recovery than an unsecured creditor. You must consult with a bankruptcy attorney immediately to navigate this complex situation.
 
-### Q: Can I include attorney's fees or lost profits in my mechanics lien amount?
+### Can I include attorney's fees or lost profits in my mechanics lien amount?
 
 A: Generally, no. The mechanics lien amount in California is limited to the reasonable value of the labor, services, equipment, or materials furnished. It typically does not include consequential damages, lost profits, or attorney's fees incurred for preparing and recording the lien. However, if your contract specifically provides for attorney's fees in the event of a dispute, you might be able to recover them if you prevail in a lawsuit to enforce the lien.
 
-### Q: What is a "Notice of Non-Responsibility" and how does it affect my lien?
+### What is a "Notice of Non-Responsibility" and how does it affect my lien?
 
 A: A Notice of Non-Responsibility is a document that a property owner can record if they become aware of work being performed on their property that they did not authorize (e.g., a tenant making improvements). If properly recorded and posted within 10 days of discovering the work, it can protect the owner from mechanics liens for that unauthorized work. If you receive a Notice of Non-Responsibility, your lien rights may be severely limited or eliminated, and you should immediately consult an attorney.
 
-### Q: What happens if I overstate the amount of my lien claim?
+### What happens if I overstate the amount of my lien claim?
 
 A: Intentionally and fraudulently overstating the amount of a mechanics lien claim can lead to the forfeiture of the entire lien and potentially expose the claimant to liability for damages (including attorney's fees) to the property owner for slander of title. While minor errors are usually excusable, gross overstatements or intentional misrepresentations are taken seriously by California courts.
 
-### Q: Do I need to send a Preliminary Notice if I have a direct contract with the owner?
+### Do I need to send a Preliminary Notice if I have a direct contract with the owner?
 
 A: No. Under California Civil Code §8200(e)(1), a direct contractor (one who has a direct contractual relationship with the property owner) is generally not required to send a 20-Day Preliminary Notice. However, it's often a good practice to send one anyway, especially if there's a construction lender, to ensure all parties are aware of your involvement and to protect potential stop payment notice rights.
 
-### Q: How long does a mechanics lien stay on the property's record?
+### How long does a mechanics lien stay on the property's record?
 
 A: A mechanics lien, if not enforced by a lawsuit, automatically expires 90 days after it is recorded. However, if a lawsuit to enforce the lien is filed within that 90-day period and a "lis pendens" (notice of pendency of action) is recorded, the lien remains effective until the lawsuit is resolved, which can take months or even years.
 

@@ -326,27 +326,27 @@ The market in 2026 will be competitive, but robust. Success will come to those w
 
 ### Frequently Asked Questions About Getting a General Contractor License in Pennsylvania
 
-### Q: Do I need a general contractor license in Pennsylvania?
+### Do I need a general contractor license in Pennsylvania?
 
 A: For commercial projects, no, there is no statewide "general contractor license" in Pennsylvania. However, for residential home improvement projects totaling over $5,000 annually, you absolutely must register as a Home Improvement Contractor (HIC) with the PA Office of Attorney General. Additionally, major cities like Philadelphia have their own specific general contractor licensing requirements for work within city limits.
 
-### Q: What is the Home Improvement Contractor (HIC) registration?
+### What is the Home Improvement Contractor (HIC) registration?
 
 A: The HIC registration is a state-level requirement in Pennsylvania for any individual or business performing home improvements for residential properties totaling more than $5,000 in a calendar year. It's administered by the PA Office of Attorney General to protect consumers. It is not a competency license, but a mandatory registration.
 
-### Q: Are there any exams required to become a general contractor in Pennsylvania?
+### Are there any exams required to become a general contractor in Pennsylvania?
 
 A: For the state's Home Improvement Contractor (HIC) registration, no exam is required. However, if you plan to work in the City of Philadelphia, you will need to pass a business and law exam to obtain their specific General Contractor license.
 
-### Q: What are the insurance requirements for contractors in Pennsylvania?
+### What are the insurance requirements for contractors in Pennsylvania?
 
 A: For the HIC registration, you must carry at least $50,000 in general liability insurance. However, it is highly recommended to carry at least $1,000,000 per occurrence / $2,000,000 aggregate, which is the industry standard. If you have employees, Pennsylvania law mandates you carry Workers' Compensation insurance. Commercial auto and builder's risk insurance are also often necessary depending on your operations.
 
-### Q: Does Pennsylvania offer reciprocity for contractor licenses from other states?
+### Does Pennsylvania offer reciprocity for contractor licenses from other states?
 
 A: No, due to the lack of a statewide general contractor license, Pennsylvania does not have traditional reciprocity agreements for general contractor licenses with other states. You must fulfill Pennsylvania's specific requirements (HIC registration, local licenses, business registration) regardless of licenses held elsewhere.
 
-### Q: How long does it take to get the HIC registration in Pennsylvania?
+### How long does it take to get the HIC registration in Pennsylvania?
 
 A: After submitting your online application and paying the $50 fee, the Pennsylvania Office of Attorney General typically processes HIC registrations within 2-4 weeks. It's crucial not to begin work requiring HIC registration until you have received your official registration number.
 

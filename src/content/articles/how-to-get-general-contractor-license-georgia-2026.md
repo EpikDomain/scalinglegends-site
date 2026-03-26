@@ -327,31 +327,31 @@ The bottom line: Georgia is building, and it's building fast. With your license 
 
 ## Georgia Contractor Licensing FAQs
 
-### Q: How long does it take to get a general contractor license in Georgia?
+### How long does it take to get a general contractor license in Georgia?
 
 A: The entire process, from exam prep to DPL approval, typically takes 3 to 6 months. This includes study time for exams (1-3 months) and DPL application processing (4-8 weeks), assuming your application is complete and accurate.
 
-### Q: Does Georgia have reciprocity with other states for contractor licenses?
+### Does Georgia have reciprocity with other states for contractor licenses?
 
 A: No. As of 2026, Georgia does not have reciprocity agreements for General or Residential contractor licenses with any other state. All applicants, regardless of previous licensing, must meet Georgia's specific requirements, including passing the state's exams.
 
-### Q: What are the financial requirements for a General Contractor license in Georgia?
+### What are the financial requirements for a General Contractor license in Georgia?
 
 A: For a General Contractor license, you must demonstrate a minimum net worth of $150,000 (attested to by a CPA) or provide a $50,000 surety bond. Residential licenses have lower financial thresholds.
 
-### Q: Do I need a college degree to get a contractor license in Georgia?
+### Do I need a college degree to get a contractor license in Georgia?
 
 A: No, a college degree is not a mandatory requirement. The Georgia DPL primarily focuses on verifiable work experience. For a General Contractor license, you need 5 years of experience, with 2 years in a supervisory role. Residential licenses require 2 years of experience.
 
-### Q: What is the difference between a Residential-Basic and a Residential-Light Commercial license in Georgia?
+### What is the difference between a Residential-Basic and a Residential-Light Commercial license in Georgia?
 
 A: The main differences are project scope and value limits. Residential-Basic is for projects up to $100,000, covering single-family and small multi-family (up to 2 units). Residential-Light Commercial covers projects up to $500,000, including larger multi-family (up to 4 units) and light commercial buildings up to 25,000 sq ft and 3 stories.
 
-### Q: Are there continuing education (CE) requirements to renew a Georgia contractor license?
+### Are there continuing education (CE) requirements to renew a Georgia contractor license?
 
 A: As of 2026, the Georgia State Licensing Board for Residential and General Contractors does not currently require continuing education hours for license renewal. However, always check the official DPL website ([sos.ga.gov/contractors](https://sos.ga.gov/contractors)) for the most current information.
 
-### Q: When do I need Workers' Compensation insurance in Georgia?
+### When do I need Workers' Compensation insurance in Georgia?
 
 A: In Georgia, if your business has three or more employees (including corporate officers or LLC members who perform work), you are legally required to carry Workers' Compensation insurance. Sole proprietors and partners with no employees are generally exempt.
 

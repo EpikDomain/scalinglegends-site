@@ -299,27 +299,27 @@ The key to success in New York is specializing, building a strong network, under
 
 ### Frequently Asked Questions About New York Contractor Licensing
 
-### Q: Do I need a license to do handyman work in New York?
+### Do I need a license to do handyman work in New York?
 
 A: It depends on the scope and location. In NYC, if the work is for a one-to-four family home and exceeds a certain value (e.g., $200), or if it involves regulated trades, you'll need a DCWP Home Improvement Contractor license. For minor repairs that don't require permits and are below certain thresholds, a license might not be strictly required, but always verify with local authorities. Many municipalities outside NYC have similar rules; check with the local building department.
 
-### Q: Can I get a statewide general contractor license in New York?
+### Can I get a statewide general contractor license in New York?
 
 A: No. New York State does not issue a statewide general contractor license. Licensing and regulation for general contractors are handled at the county and municipal levels, with New York City having its own comprehensive system through the Department of Buildings and the Department of Consumer and Worker Protection.
 
-### Q: What's the difference between a DCWP Home Improvement Contractor license and an NYC DOB license?
+### What's the difference between a DCWP Home Improvement Contractor license and an NYC DOB license?
 
 A: The DCWP Home Improvement Contractor (HIC) license is primarily for businesses performing residential renovation, repair, or alteration work on one-to-four family homes within NYC. It's a business operating license. The NYC DOB (Department of Buildings) issues specific individual licenses for supervisory roles (like Construction Superintendents or Site Safety Managers) and registers certain types of specialized general contractors (e.g., for demolition). As a general contractor in NYC, you might need both: an HIC license for residential projects, and to ensure DOB-licensed personnel are on your commercial or larger projects.
 
-### Q: How long does it take to get a contractor license in New York?
+### How long does it take to get a contractor license in New York?
 
 A: The timeline varies greatly. For a DCWP HIC license, it can take anywhere from 1-4 months, depending on how quickly you gather documents and DCWP's processing times. For an NYC DOB individual supervisory license (like Construction Superintendent), due to experience verification and exam requirements, it can easily take 6-12 months or even longer. Local county licenses might be quicker, typically a few weeks to a few months. Always factor in potential delays.
 
-### Q: What are the biggest risks for unlicensed contractors in New York?
+### What are the biggest risks for unlicensed contractors in New York?
 
 A: Operating without the proper licenses or registrations in New York carries severe risks. These include: hefty fines from local authorities, stop-work orders on your projects, inability to legally pull permits, inability to enforce contracts or collect payment, personal liability for damages or injuries (as insurance may deny claims), and irreversible damage to your business reputation. In NYC, the DOB is particularly aggressive in penalizing unlicensed work.
 
-### Q: Do I need a license if I only work as a subcontractor in New York?
+### Do I need a license if I only work as a subcontractor in New York?
 
 A: Even as a subcontractor, you likely need to be licensed or registered depending on your trade and location. For example, if you're a plumbing or electrical subcontractor in NYC, you need a Master Plumber or Master Electrician license from the DOB. If you're a general subcontractor performing residential home improvement work in Nassau County, you'd likely need their HIC license. Always check the specific requirements for your trade and the municipality where you're working.
 

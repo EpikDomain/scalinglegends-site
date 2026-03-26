@@ -255,19 +255,19 @@ While competition is fierce, a CSLB license, combined with solid business practi
 
 ### Frequently Asked Questions (FAQ)
 
-### Q: How long does the entire CA contractor licensing process take?
+### How long does the entire CA contractor licensing process take?
 
 A: Realistically, expect anywhere from 3 to 6 months from submitting your application to receiving your license, assuming you have all your experience documented and pass the exams on your first try. Delays due to incomplete applications or failed exams can extend this significantly.
 
-### Q: Can I get a CA contractor license with a criminal record?
+### Can I get a CA contractor license with a criminal record?
 
 A: It depends on the nature and recency of the crime. The CSLB conducts a criminal background check. Minor offenses might not be an issue, but serious felonies, especially those related to construction, fraud, or violence, can lead to denial. Always be honest on your application. The CSLB evaluates each case individually, considering rehabilitation and other factors.
 
-### Q: Do I need a physical office in California to get a license?
+### Do I need a physical office in California to get a license?
 
 A: No, the CSLB does not explicitly require you to have a physical office location in California. However, you must provide a mailing address where the CSLB can send official correspondence, and it must be a valid California address. Many contractors start with a home office or a P.O. Box, but a physical presence can enhance credibility.
 
-### Q: What's the difference between a Class A, B, and C license in California?
+### What's the difference between a Class A, B, and C license in California?
 
 A:
 
@@ -277,11 +277,11 @@ A:
 
 - **Class C (Specialty Contractor):** For specific trades, such as C-10 Electrical, C-20 HVAC, C-36 Plumbing, C-39 Roofing, etc. There are over 40 different C classifications.
 
-### Q: Can I apply for multiple license classifications at once?
+### Can I apply for multiple license classifications at once?
 
 A: Yes, you can apply for multiple classifications on a single application, provided you meet the experience requirements for each. You'll still need to pass the Law & Business exam once, but you'll have to pass a separate trade exam for each classification you apply for.
 
-### Q: What if I don't have exactly four years of journeyman experience?
+### What if I don't have exactly four years of journeyman experience?
 
 A: The CSLB is strict about the four-year requirement. However, they do allow certain education to substitute for a portion of the experience (as detailed above). If you're slightly short, consider taking relevant college courses or vocational training to bridge the gap. Do not exaggerate your experience; it's a common reason for application delays or denial.
 
