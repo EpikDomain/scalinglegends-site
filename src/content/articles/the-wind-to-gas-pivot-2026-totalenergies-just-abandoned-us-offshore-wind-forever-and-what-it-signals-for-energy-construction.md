@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2655712/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
+updatedAt: "2026-03-26"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -94,7 +95,7 @@ While TotalEnergies' exit removes a major developer from the pipeline, it does n
 
 - **Upgrade Your [Construction Estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) Software.** Ensure your [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026 can handle the complexities of diverse energy projects, including varying material costs, specialized labor rates, and regulatory compliance for different sectors. Accurate bids are paramount for profitability in a shifting market.
 
-- **Monitor Market Intelligence Continuously.** Utilize platforms like [Smart Business Automator](https://smartbusinessautomator.com) to track new project announcements, policy changes, and developer investment patterns. Real-time data allows for agile decision-making and proactive adjustment of your business strategy.
+- **Monitor [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) Continuously.** Utilize platforms like [Smart Business Automator](https://smartbusinessautomator.com) to track new project announcements, policy changes, and developer investment patterns. Real-time data allows for agile decision-making and proactive adjustment of your business strategy.
 
 - **Strengthen [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).** In times of market volatility, robust [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) is non-negotiable. Focus on tight control over receivables, efficient invoicing, and managing retainage to ensure liquidity, especially when transitioning between different project types or scales.
 

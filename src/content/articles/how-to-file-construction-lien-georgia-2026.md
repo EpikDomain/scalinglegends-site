@@ -357,31 +357,31 @@ Implementing these technologies can reduce administrative burden, minimize the r
 
 ## Frequently Asked Questions (FAQ) About Georgia Construction Liens
 
-### Q1: Can I file a lien without a written contract in Georgia?
+### Can I file a lien without a written contract in Georgia?
 
 A1: Yes, in many cases, you can still file a lien without a formal written contract, provided you can prove that you furnished labor, services, or materials to the property with the owner's knowledge and consent, and that you have an implied contract or a clear understanding of the work to be performed and the agreed-upon price. However, having a written contract significantly strengthens your position and simplifies proving your claim. It is always advisable to have a written contract.
 
-### Q2: What happens if the property owner files for bankruptcy after I file a lien?
+### What happens if the property owner files for bankruptcy after I file a lien?
 
 A2: When a property owner files for bankruptcy, an "automatic stay" typically goes into effect, which halts most collection actions, including the enforcement of a lien. However, if your lien was properly filed and perfected *before* the bankruptcy filing, it generally remains a secured claim against the property in the bankruptcy proceedings. You will likely need to file a "proof of claim" in the bankruptcy court and potentially seek relief from the automatic stay to enforce your lien. This is a complex area of law and requires immediate consultation with a Georgia bankruptcy and construction attorney.
 
-### Q3: How is "completion of work" defined for the 90-day lien filing deadline?
+### How is "completion of work" defined for the 90-day lien filing deadline?
 
 A3: Georgia law defines "completion of work" as the last date upon which labor, services, or materials were furnished to the property. This is a factual determination. It generally refers to the last day you performed actual, physical work on the project or delivered materials that were incorporated into the project. Punch list items, warranty work, or minor corrective actions typically do not restart the 90-day clock. It's crucial to track your last day on site meticulously.
 
-### Q4: Can I include attorney fees and collection costs in my Georgia lien amount?
+### Can I include attorney fees and collection costs in my Georgia lien amount?
 
 A4: Generally, no. Georgia's mechanics lien statute is strictly construed, and it typically only allows you to lien for the value of the labor, services, or materials furnished to the property. Attorney fees, interest, and collection costs are usually not lienable items unless specifically provided for in a written contract between the parties that explicitly allows for such recovery in a lien action, and even then, their enforceability within the lien itself can be challenged. You may be able to recover these costs in a subsequent breach of contract lawsuit, but they are typically not part of the lien amount itself.
 
-### Q5: What's the difference between a Georgia mechanics lien and a bond claim?
+### What's the difference between a Georgia mechanics lien and a bond claim?
 
 A5: A Georgia mechanics lien (O.C.G.A. §44-14-360 et seq.) is a claim against the *real property* itself, providing a security interest in the property's value. It is used on private [construction projects](/article/surviving-the-messy-middle-of-construction-growth/). A bond claim (under Georgia's Little Miller Act, O.C.G.A. §36-82-101 et seq.) is a claim against a *payment bond* provided by the general contractor on public construction projects. Because public property cannot be liened, the bond acts as a substitute security, guaranteeing payment to subcontractors and suppliers. The procedures, deadlines, and enforcement mechanisms for each are distinct.
 
-### Q6: What if I supply materials to another supplier, not directly to the project or a subcontractor?
+### What if I supply materials to another supplier, not directly to the project or a subcontractor?
 
 A6: In Georgia, lien rights typically extend down to the second tier (e.g., a supplier to a subcontractor). However, generally, a "supplier to a supplier" does not have lien rights. The materials must be furnished either to the owner, general contractor, or a subcontractor who is actually performing work on the project. If you supply materials to another supplier who then furnishes them to the project, you likely do not have lien rights under Georgia law.
 
-### Q7: Can a subcontractor lien a residential property if the GC already paid them, but the owner hasn't paid the GC?
+### Can a subcontractor lien a residential property if the GC already paid them, but the owner hasn't paid the GC?
 
 A7: This scenario touches on Georgia's "full price" lien rule versus the "defense of payment." Georgia is generally considered a "full price" lien state, meaning a lien claimant's recovery is based on the value of their work/materials, not limited by what the owner owes the general contractor. However, for residential projects, the effectiveness of the "Notice to Contractor" (preliminary notice) is crucial. If a subcontractor or supplier fails to send the required Notice to Contractor on a residential project, the owner *can* assert a "defense of payment" if they have already paid the general contractor in full. But if the Notice to Contractor was properly sent, the owner may not be able to assert this defense, and the subcontractor's lien could still be valid even if the owner paid the GC. This is a complex area where legal advice is paramount.
 

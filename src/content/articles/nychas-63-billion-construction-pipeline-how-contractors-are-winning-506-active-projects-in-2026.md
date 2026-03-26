@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2660387/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
+updatedAt: "2026-03-26"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -162,7 +163,7 @@ Winning a share of NYCHA's $6.3 billion pipeline requires a strategic, multi-fac
 
 - **Strengthen Your [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).** Implement robust [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) strategies. Establish a strong line of credit, negotiate favorable payment terms with suppliers, and ensure prompt and accurate invoicing to mitigate the impact of longer public sector payment cycles and retainage.
 
-- **Leverage Project Management Software.** Adopt comprehensive `[construction project management](/article/surviving-the-messy-middle-of-construction-growth/) software` for real-time tracking of schedules, budgets, resources, and compliance across your NYCHA projects. This will ensure efficient execution, minimize delays, and help maintain healthy `contractor profit margins 2026`.
+- **Leverage [Project Management](/article/surviving-the-messy-middle-of-construction-growth/) Software.** Adopt comprehensive `[construction project management](/article/surviving-the-messy-middle-of-construction-growth/) software` for real-time tracking of schedules, budgets, resources, and compliance across your NYCHA projects. This will ensure efficient execution, minimize delays, and help maintain healthy `contractor profit margins 2026`.
 
 - **Seek MWBE Certification (if applicable).** If your firm qualifies as a Minority or Woman-Owned Business Enterprise, pursue certification with New York City. This status can unlock access to set-aside contracts, mentorship programs, and networking opportunities specifically designed to support diverse firms.
 

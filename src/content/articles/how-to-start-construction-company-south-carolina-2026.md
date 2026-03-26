@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-south-ca
 readTime: "30 min read"
 published: true
 season: 2
+updatedAt: "2026-03-26"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -349,27 +350,27 @@ For a new company without an EMR, you'll typically start with a "manual rate" wh
 
 ### FAQ: [Starting a Construction](/article/starting-a-construction-business-under-30-tips-from-next-generation-contractors/) Company in South Carolina
 
-### Q1: Do I need a license to do small handyman jobs under $5,000 in South Carolina?
+### Do I need a license to do small handyman jobs under $5,000 in South Carolina?
 
 A1: Generally, no. The South Carolina Contractors' Licensing Board (SC CLB) requires a license for projects costing $5,000 or more. For residential work, the Residential Builders Commission (RBC) has a similar threshold. However, you must ensure the cumulative total of your work on a single project does not exceed this amount, and that you are not misrepresenting yourself as a licensed contractor. Always check local municipal requirements, as some cities or counties may have their own registration or permitting rules for even small jobs.
 
-### Q2: Can I get an SC contractor's license if I'm new to the state or don't have extensive financial history?
+### Can I get an SC contractor's license if I'm new to the state or don't have extensive financial history?
 
 A2: Yes, it's possible. The SC CLB requires a CPA-prepared financial statement demonstrating a minimum net worth for your desired group classification. If your net worth doesn't meet the full requirement, you may be able to substitute a portion of it with a surety bond. For new businesses, this is a common pathway. You'll still need to pass the trade and business & law exams and meet all other application criteria.
 
-### Q3: What's the difference between an SC General Contractor's license and a Residential Builder's license?
+### What's the difference between an SC General Contractor's license and a Residential Builder's license?
 
 A3: An SC General Contractor's license (from the SC CLB) is typically for commercial, industrial, and heavy construction projects over $5,000. It has various classifications (e.g., Building, Highway, Public Utilities). A Residential Builder's license (from the SC Residential Builders Commission) is specifically for constructing, renovating, or repairing residential structures. Depending on the scope and value of your work, you may need one or both. For new home construction, you will almost certainly need the Residential Builder's license.
 
-### Q4: Are there specific environmental regulations I need to be aware of for construction in South Carolina?
+### Are there specific environmental regulations I need to be aware of for construction in South Carolina?
 
 A4: Absolutely. The SC Department of Health and Environmental Control (DHEC) oversees numerous environmental regulations. This includes stormwater management plans for land disturbance, waste disposal, air quality permits for certain operations, and specific regulations for working in critical areas, especially along the coast (through DHEC's Office of Coastal Resource Management). Failing to comply can result in significant fines and project delays. Always consult DHEC for project-specific environmental requirements.
 
-### Q5: How important is networking in the South Carolina [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)?
+### How important is networking in the South Carolina [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)?
 
 A5: Extremely important. South Carolina, despite its growth, still operates on relationships. Attending events hosted by organizations like ABC Carolinas, Carolinas AGC, and local Chambers of Commerce is vital. These events allow you to meet general contractors, developers, architects, and suppliers. Building a reputation for quality work, reliability, and integrity through these connections is often how you secure repeat business and referrals in the Palmetto State.
 
-### Q6: What should I know about South Carolina's lien laws?
+### What should I know about South Carolina's lien laws?
 
 A6: South Carolina has specific mechanic's lien laws (SC Code of Laws Title 29, Chapter 5) that allow contractors, subcontractors, and suppliers to place a lien on property if they are not paid for their labor or materials. It's crucial to understand the deadlines and procedures for filing and enforcing a lien (e.g., filing a Notice of Project Commencement, timely filing of the lien itself). Consult with a South Carolina attorney experienced in construction law to protect your payment rights.
 
