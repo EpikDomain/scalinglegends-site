@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2655714/scalinglegends/2026_0
 readTime: "20 min read"
 published: true
 season: 2
+updatedAt: "2026-03-26"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -28,7 +29,7 @@ A nuclear waste site in Ohio is about to become the largest data center campus o
 
 - **Critical Red Flags to Monitor:** Despite the grand announcement, no permits have been filed, and crucially, no PJM interconnection application has been submitted. The PJM queue is currently backed up 3-5 years, posing a significant hurdle. SoftBank also has a history of ambitious announcements that don't always materialize at their initially stated full scale, necessitating careful due diligence by contractors.
 
-- **Massive Regional Opportunity:** Even if the project scales back to 50% of its announced size, it still represents an $18 billion+ construction opportunity. Contractors in Ohio, Kentucky, and West Virginia should anticipate massive demand for heavy civil, power plant construction, data center MEP, concrete, and structural steel expertise.
+- **Massive Regional Opportunity:** Even if the project scales back to 50% of its announced size, it still represents an $18 billion+ [construction opportunity](/article/highway-construction-opportunity-2026-how-to-win-your-share-of-the-record-209-billion-highway-market-before-the-iija-expires/). Contractors in Ohio, Kentucky, and West Virginia should anticipate massive demand for heavy civil, power plant construction, data center MEP, concrete, and structural steel expertise.
 
 ## The $37.5 Billion Ohio Megaproject: A 2026 [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) Catalyst
 

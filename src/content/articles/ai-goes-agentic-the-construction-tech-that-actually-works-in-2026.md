@@ -87,7 +87,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 ### What is agentic [AI in construction](/article/how-to-use-ai-in-construction-practical-guide-2026/)?
 
-Agentic AI in construction refers to systems capable of taking proactive steps, making decisions, and executing tasks autonomously, rather than just generating reports. This evolution means AI tools can actively solve problems, such as optimizing resource allocation or adjusting schedules based on real-time data, allowing project managers to focus on high-level strategy and deliver measurable improvements to workflows.
+Agentic [AI in construction](/article/how-to-use-ai-in-construction-practical-guide-2026/) refers to systems capable of taking proactive steps, making decisions, and executing tasks autonomously, rather than just generating reports. This evolution means AI tools can actively solve problems, such as optimizing resource allocation or adjusting schedules based on real-time data, allowing project managers to focus on high-level strategy and deliver measurable improvements to workflows.
 
 ### How quickly can [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) see ROI from AI?
 

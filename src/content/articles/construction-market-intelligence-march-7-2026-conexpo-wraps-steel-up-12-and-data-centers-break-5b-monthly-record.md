@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2660884/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-03-26"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -75,7 +75,7 @@ January 2026 saw **$25.2 billion in data center construction starts**, the highe
 
 Amazon, Alphabet, Microsoft, Meta, and Oracle have announced a combined **$700 billion in capex for 2026**, largely driven by AI infrastructure. Moody's projects **$3 trillion in global data center spending** over the next five years. Over 56% of near-term spending is concentrated in the South. Power infrastructure alone has 86 GW planned for 2026.
 
-For contractors not in this space: data centers are outbidding traditional commercial construction for both labor and materials. You're competing against this boom whether you're participating in it or not. For contractors who can position for it: this is the single largest construction opportunity in a generation.
+For contractors not in this space: data centers are outbidding traditional commercial construction for both labor and materials. You're competing against this boom whether you're participating in it or not. For contractors who can position for it: this is the single largest [construction opportunity](/article/highway-construction-opportunity-2026-how-to-win-your-share-of-the-record-209-billion-highway-market-before-the-iija-expires/) in a generation.
 
 ## The Two-Speed Economy: Boom and Bust in the Same Industry
 
