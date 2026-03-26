@@ -2,8 +2,7 @@
 title: "Construction Market Intelligence: March 23 - US Offshore Wind Hits $23 Billion in Active Projects as Court Victories Secure Construction Pipeline"
 description: "Weekend intelligence briefing covering $23 billion+ in US offshore wind projects passing key milestones with court victories, the 2-week construction software buying cycle analysis, China ramping non-fossil energy construction in response to Middle East war, tariff refund process update, and weekly trend recap showing construction management software at 12+ days of sustained growth."
 date: "2026-03-23"
-image: "/img/articles/construction-market-intelligence-march-23-us-offshore-wind-hits-23-billion-in-active-projects-as-court-victories-secure-construction-pipeline-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-23---us-offshore-wind-1774255273.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-23---us-offshore-wind-1774255273.png"
 audioUrl: "https://content.rss.com/episodes/332597/2651378/scalinglegends/2026_03_23_09_02_51_d93a1f60-e0cd-4b3b-8ccf-0967fe95d12c.mp3"
 readTime: "17 min read"
 published: true

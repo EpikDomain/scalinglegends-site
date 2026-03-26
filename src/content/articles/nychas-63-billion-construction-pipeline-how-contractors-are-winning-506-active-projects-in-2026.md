@@ -2,8 +2,7 @@
 title: "NYCHA's $6.3 Billion Construction Pipeline: How Contractors Are Winning 506 Active Projects in 2026"
 description: "Scaling Legends - NYCHA's $6.3 Billion Construction Pipeline: How Contractors Are Winning 506 Active Projects in 2026"
 date: "2026-03-24"
-image: "/img/articles/nychas-63-billion-construction-pipeline-how-contractors-are-winning-506-active-projects-in-2026-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/nychas-63-billion-construction-pipeline-how-contractors-are--1774362927.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/nychas-63-billion-construction-pipeline-how-contractors-are--1774362927.png"
 audioUrl: "https://content.rss.com/episodes/332597/2660387/scalinglegends/2026_03_25_09_45_31_597dc485-9584-4269-9daa-d81ddbd1b91b.mp3"
 readTime: "17 min read"
 published: true
@@ -172,4 +171,4 @@ Winning a share of NYCHA's $6.3 billion pipeline requires a strategic, multi-fac
 
 ## Bottom Line
 
-The NYCHA $6.3 billion construction pipeline for 2026 is a definitive, multi-year opportunity for `[construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth 2026`. To capitalize on this, immediately assess your current capabilities against NYCHA's pre-qualification requirements and identify any gaps in your estimating software, project management systems, or [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) strategies.
+The NYCHA $6.3 billion construction pipeline for 2026 is a definitive, multi-year opportunity for `[construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth 2026`. To capitalize on this, immediately assess your current capabilities against NYCHA's pre-qualification requirements and identify any gaps in your estimating software, [project management](/article/surviving-the-messy-middle-of-construction-growth/) systems, or [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) strategies.

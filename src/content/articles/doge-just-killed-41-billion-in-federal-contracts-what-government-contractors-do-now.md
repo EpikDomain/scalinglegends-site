@@ -2,8 +2,7 @@
 title: "DOGE Just Killed $41 Billion in Federal Contracts: What Government Contractors Do Now"
 description: "DOGE has cancelled or reduced $41.5 billion in federal contracts across 24 agencies. DOD alone cut $18.3 billion. 750 GSA leases terminated covering 10 million square feet. Meanwhile Congress rejected the worst cuts but the damage is done. What does a government contractor do when 20% of their pipeline evaporates overnight?"
 date: "2026-03-11"
-image: "/img/articles/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-just-killed-41-billion-in-federal-contracts-what-govern-1773235593.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-just-killed-41-billion-in-federal-contracts-what-govern-1773235593.png"
 audioUrl: "https://content.rss.com/episodes/332597/2619680/scalinglegends/2026_03_11_14_07_31_49e404f8-61e0-466a-a5ac-824e37d328d3.mp3"
 readTime: "4 min read"
 published: true

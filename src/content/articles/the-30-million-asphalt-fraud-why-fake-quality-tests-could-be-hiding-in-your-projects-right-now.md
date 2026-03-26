@@ -2,8 +2,7 @@
 title: "The $30 Million Asphalt Fraud: Why Fake Quality Tests Could Be Hiding in YOUR Projects Right Now"
 description: "Two Ohio asphalt companies just paid $30 million for submitting fabricated quality control test results on federally-funded highway projects for over 12 years. This episode breaks down what happened, how the fraud went undetected, and what every contractor must do to verify that their subcontractors are actually testing."
 date: "2026-03-14"
-image: "/img/articles/the-30-million-asphalt-fraud-why-fake-quality-tests-could-be-hiding-in-your-projects-right-now-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-30-million-asphalt-fraud-why-fake-quality-tests-could-be-1773508107.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-30-million-asphalt-fraud-why-fake-quality-tests-could-be-1773508107.png"
 audioUrl: "https://content.rss.com/episodes/332597/2628404/scalinglegends/2026_03_14_17_03_36_ad19868e-7797-4f0f-8cc1-cc8449262d54.mp3"
 readTime: "7 min read"
 published: true

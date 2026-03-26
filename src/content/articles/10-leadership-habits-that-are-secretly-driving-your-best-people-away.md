@@ -2,8 +2,7 @@
 title: "10 Leadership Habits That Are Secretly Driving Your Best People Away"
 description: "You might be the reason your best employees quit. Not the pay, not the commute, not a competitor. YOU. This episode exposes 10 subtle leadership behaviors that disrespect your team without you even realizing it - from unclear instructions and constant interruptions to poor planning and broken promises. Each comes with a concrete fix you can implement this week."
 date: "2026-03-15"
-image: "/img/articles/10-leadership-habits-that-are-secretly-driving-your-best-people-away-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/10-leadership-habits-that-are-secretly-driving-your-best-peo-1773618418.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/10-leadership-habits-that-are-secretly-driving-your-best-peo-1773618418.png"
 audioUrl: "https://content.rss.com/episodes/332597/2630894/scalinglegends/2026_03_15_23_31_41_fd95614b-651e-4235-827a-cbb0386cdb3b.mp3"
 readTime: "8 min read"
 published: true

@@ -394,27 +394,27 @@ A General Contractor license in Arizona isn't just a piece of paper; it's your k
 
 ## FAQs About Getting Your AZ Contractor License
 
-### Do I need a separate license for residential and commercial projects in Arizona?
+### Q: Do I need a separate license for residential and commercial projects in Arizona?
 
 A: Yes, Arizona operates a dual licensing system. You need a C-1 Residential General Contractor license for residential projects and a B-1 Commercial General Contractor license for commercial projects. Many successful contractors obtain both to maximize their market reach.
 
-### How long does it take to get an Arizona contractor license?
+### Q: How long does it take to get an Arizona contractor license?
 
 A: Realistically, expect the entire process to take anywhere from 3 to 6 months, assuming you're starting from scratch. This includes time for experience documentation, exam preparation, business setup, and the ROC's application processing and background checks. Being thorough and proactive can help expedite the process.
 
-### Can I use out-of-state experience for my Arizona application?
+### Q: Can I use out-of-state experience for my Arizona application?
 
 A: Yes, the Arizona Registrar of Contractors (ROC) accepts verifiable out-of-state supervisory experience. You must still provide detailed documentation, including project specifics, dates, and contacts for verification, on the Affidavit of Experience form. The ROC will scrutinize this experience to ensure it meets their standards for the classification you're applying for.
 
-### What happens if I fail an Arizona contractor exam?
+### Q: What happens if I fail an Arizona contractor exam?
 
 A: If you fail either the Trade or Business Management exam, you will need to reschedule and pay the exam fee again to retake it. There is typically no limit to the number of times you can retake the exams, but it will cost you time and money. It's crucial to review the sections you struggled with and study more thoroughly before attempting a retake.
 
-### Is a bond required for all Arizona contractor licenses?
+### Q: Is a bond required for all Arizona contractor licenses?
 
 A: Yes, a surety bond is a mandatory requirement for all licensed contractors in Arizona, regardless of classification. The specific bond amount will vary based on your license type (residential vs. commercial) and your estimated annual gross volume of work. This bond protects the public and ensures contractors adhere to their contractual obligations and ROC rules.
 
-### What is the Arizona Registrar of Contractors (ROC)?
+### Q: What is the Arizona Registrar of Contractors (ROC)?
 
 A: The Arizona Registrar of Contractors (ROC) is the state agency responsible for licensing and regulating all contractors in Arizona. Its primary mission is to protect the public by ensuring that contractors are qualified, competent, and financially responsible. All applications for contractor licenses in Arizona are processed and approved by the ROC, and they also handle consumer complaints against licensed contractors.
 

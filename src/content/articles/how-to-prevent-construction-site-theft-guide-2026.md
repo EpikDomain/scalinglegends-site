@@ -313,27 +313,27 @@ View security as an essential investment, not an expendable cost. The expense of
 
 ## Frequently Asked Questions About Construction Site Theft Prevention
 
-### How much does construction site theft cost the industry annually?
+### Q: How much does construction site theft cost the industry annually?
 
 A: Estimates vary, but the consensus points to over $1 billion, with some reports reaching $2 billion annually in the U.S. alone. This figure primarily covers direct losses, not the substantial indirect costs like project delays, increased insurance premiums, and lost productivity.
 
-### What are the most commonly stolen items from construction sites?
+### Q: What are the most commonly stolen items from construction sites?
 
 A: Heavy equipment (skid steers, loaders, excavators), power tools (drills, saws), copper wiring and other metals, building materials (lumber, rebar, appliances), and fuel are frequently targeted due to their high resale value or ease of disposal.
 
-### Is GPS tracking effective for preventing equipment theft?
+### Q: Is GPS tracking effective for preventing equipment theft?
 
 A: Yes, GPS tracking is highly effective for recovery and can act as a deterrent. While it doesn't physically prevent the initial theft, it significantly increases the chances of locating and retrieving stolen equipment, often leading to arrests. Many systems also offer geofencing and remote immobilization features.
 
-### What role do employees play in construction site theft?
+### Q: What role do employees play in construction site theft?
 
 A: Employee theft is a significant concern and can account for a substantial portion of losses. It can range from petty pilfering of tools or materials to more organized schemes. Robust inventory management, thorough background checks, clear policies, and fostering a culture of accountability and anonymous reporting are crucial for prevention.
 
-### How can small construction businesses afford comprehensive security?
+### Q: How can small construction businesses afford comprehensive security?
 
 A: Small businesses should prioritize a multi-layered approach starting with basic physical security (fencing, lighting, secure storage). Gradually integrate cost-effective technologies like solar-powered cameras with remote monitoring, basic GPS trackers for high-value equipment, and smart tool systems. Partnering with other local businesses for shared security resources or leveraging cloud-based monitoring services can also be economical.
 
-### Should I hire overnight security guards?
+### Q: Should I hire overnight security guards?
 
 A: For high-value sites, particularly those with significant equipment or materials, overnight security guards can be a strong deterrent and provide immediate response. However, it's a significant expense. Consider a combination of robust physical barriers, advanced surveillance with remote monitoring, and randomized patrols to achieve a similar level of security more cost-effectively, especially for smaller projects or those with lower risk profiles.
 

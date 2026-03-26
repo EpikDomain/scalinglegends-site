@@ -2,8 +2,7 @@
 title: "How to Talk Money Without Killing the Deal: Pricing Conversations That Close"
 description: "The way you talk about money determines whether you close or lose the deal. This episode teaches contractors how to frame pricing conversations that build confidence instead of creating objections."
 date: "2026-03-18"
-image: "/img/articles/how-to-talk-money-without-killing-the-deal-pricing-conversations-that-close-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-to-talk-money-without-killing-the-deal-pricing-conversat-1773823108.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-to-talk-money-without-killing-the-deal-pricing-conversat-1773823108.png"
 audioUrl: "https://content.rss.com/episodes/332597/2636367/scalinglegends/2026_03_17_14_43_42_259d2eb5-87a7-40f8-afa8-349966118aa3.mp3"
 readTime: "15 min read"
 published: true

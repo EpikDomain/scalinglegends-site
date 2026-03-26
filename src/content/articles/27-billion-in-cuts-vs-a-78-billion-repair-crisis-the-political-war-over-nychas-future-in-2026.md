@@ -2,8 +2,7 @@
 title: "$27 Billion in Cuts vs. a $78 Billion Repair Crisis: The Political War Over NYCHA's Future in 2026"
 description: "Scaling Legends - $27 Billion in Cuts vs. a $78 Billion Repair Crisis: The Political War Over NYCHA's Future in 2026"
 date: "2026-03-24"
-image: "/img/articles/27-billion-in-cuts-vs-a-78-billion-repair-crisis-the-political-war-over-nychas-future-in-2026-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/27-billion-in-cuts-vs-a-78-billion-repair-crisis-the-politic-1774362989.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/27-billion-in-cuts-vs-a-78-billion-repair-crisis-the-politic-1774362989.png"
 audioUrl: "https://content.rss.com/episodes/332597/2660382/scalinglegends/2026_03_25_09_42_49_22d8f108-c97b-4bbe-a7bf-17d5f0333e9a.mp3"
 readTime: "17 min read"
 published: true
@@ -114,13 +113,13 @@ The outlook for `[construction business](/article/how-to-scale-a-construction-bu
 
 Key challenges for contractors pursuing NYCHA projects in 2026 include navigating volatile funding decisions, managing potential payment delays, dealing with stringent regulatory compliance, and overcoming persistent supply chain and labor shortages. The sheer scale of the repair backlog also demands robust [construction project management](/article/construction-project-management-surviving-the-messy-middle/) and significant capital investment, making risk management paramount.
 
-### How can contractors prepare for autonomous equipment trends showcased at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/)?
+### How can contractors prepare for [autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) trends showcased at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/)?
 
-Contractors can prepare for `CONEXPO 2026 autonomous equipment` trends by investing in training for their workforce on new technologies, understanding the potential ROI of automation, and exploring pilot projects. Researching vendors, attending industry events like [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/), and leveraging [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) from sources like [Smart Business Automator](https://smartbusinessautomator.com) will be essential for strategic adoption.
+Contractors can prepare for `[CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) autonomous equipment` trends by investing in training for their workforce on new technologies, understanding the potential ROI of automation, and exploring pilot projects. Researching vendors, attending industry events like [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/), and leveraging [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) from sources like [Smart Business Automator](https://smartbusinessautomator.com) will be essential for strategic adoption.
 
 ## How to Secure Your Share of NYCHA's Repair Opportunities in 2026
 
-- **Conduct Deep Market Intelligence.** Utilize platforms like [Smart Business Automator](https://smartbusinessautomator.com) to track NYCHA's budget allocations, specific repair needs, and evolving political developments weekly. This will inform your strategic planning and bid selection.
+- **Conduct Deep [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/).** Utilize platforms like [Smart Business Automator](https://smartbusinessautomator.com) to track NYCHA's budget allocations, specific repair needs, and evolving political developments weekly. This will inform your strategic planning and bid selection.
 
 - **Certify for Public Contracts.** Actively pursue and obtain relevant Minority/Women-Owned Business Enterprise (MWBE) or Disadvantaged Business Enterprise (DBE) certifications to unlock access to set-aside contracts and meet diversity requirements for larger projects.
 

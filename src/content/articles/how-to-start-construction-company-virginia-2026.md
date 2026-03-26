@@ -473,27 +473,27 @@ Use this as your step-by-step guide to ensure you hit all the critical points:
 
 ## Virginia Construction Startup FAQs
 
-### Do I need a Class A, B, or C license in Virginia?
+### Q: Do I need a Class A, B, or C license in Virginia?
 
 A: It depends on the size of the projects you intend to undertake. A Class C license is for individual jobs up to $10,000 and total projects under $150,000 annually. A Class B is for jobs between $10,000 and $120,000, with annual totals under $7.5 million. A Class A license allows you to bid on and perform projects of unlimited value. You should apply for the highest class that your Designated Employee and Qualified Individual(s) qualify for based on their experience and your financial capacity, as this maximizes your opportunities.
 
-### How long does it take to get a contractor's license in Virginia?
+### Q: How long does it take to get a contractor's license in Virginia?
 
 A: The process can take anywhere from 2 to 4 months, sometimes longer if there are issues with your application. This includes time for the mandatory 8-hour pre-license course (for A/B), DPOR's application review, scheduling and passing the PSI exams, and the final processing of your license. Submitting a complete and accurate application from the start is crucial to avoid delays.
 
-### What are the biggest opportunities for new construction companies in Virginia?
+### Q: What are the biggest opportunities for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) Virginia?
 
 A: In 2026, Northern Virginia's data center and federal contracting sectors remain massive. Richmond offers strong opportunities in adaptive reuse, healthcare, and state government projects. Hampton Roads is robust with military, port, and coastal resilience work. Specialized trades, niche markets, and strong subcontracting relationships with established GCs are excellent entry points for new companies across the state.
 
-### Is Virginia a good state to start a construction company?
+### Q: Is Virginia a good state to start a construction company?
 
 A: Absolutely. Virginia boasts a diverse and growing economy, a strong job market, and significant investment in both public and private infrastructure. The presence of the federal government, a thriving tech sector, and major port operations provide a consistent demand for construction services. While competitive, especially in NoVA, strategic planning and a focus on quality can lead to significant success.
 
-### What is the SWaM certification in Virginia?
+### Q: What is the SWaM certification in Virginia?
 
 A: SWaM stands for Small, Women-owned, and Minority-owned. It's a certification program administered by the Virginia Department of Small Business and Supplier Diversity (SBSD). Obtaining SWaM certification provides your business with a competitive advantage when bidding on state and many local government contracts, as these public bodies often have specific procurement goals for SWaM-certified businesses.
 
-### Do I need workers' comp if I'm a sole proprietor in Virginia?
+### Q: Do I need workers' comp if I'm a sole proprietor in Virginia?
 
 A: Generally, no. As a sole proprietor or partner, if you have no employees, you are typically exempt from Virginia's mandatory workers' compensation requirements. However, if you hire even one employee, you will likely fall under the requirement if you reach the "two or more" employee threshold. Many sole proprietors choose to obtain voluntary coverage for themselves for personal protection, as personal health insurance typically does not cover work-related injuries.
 

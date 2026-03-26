@@ -2,8 +2,7 @@
 title: "Inside NYCHA's $492 Million Williamsburg Renovation: MDG, Wavecrest, and the PACT Playbook That's Reshaping NYC Construction"
 description: "Scaling Legends - Inside NYCHA's $492 Million Williamsburg Renovation: MDG, Wavecrest, and the PACT Playbook That's Reshaping NYC Construction"
 date: "2026-03-24"
-image: "/img/articles/inside-nychas-492-million-williamsburg-renovation-mdg-wavecrest-and-the-pact-playbook-thats-reshaping-nyc-construction-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/inside-nychas-492-million-williamsburg-renovation-mdg-wavecr-1774363058.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/inside-nychas-492-million-williamsburg-renovation-mdg-wavecr-1774363058.png"
 audioUrl: "https://content.rss.com/episodes/332597/2660888/scalinglegends/2026_03_25_14_06_00_8040a4d0-3e77-4010-99c8-e3f685016da6.mp3"
 readTime: "17 min read"
 published: true

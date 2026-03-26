@@ -407,27 +407,27 @@ Let's distill this down into a clear, actionable plan.
 
 ## FAQ: Illinois Construction Startup Edition
 
-### Do I need a state license to be a general contractor in Illinois?
+### Q: Do I need a state license to be [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) in Illinois?
 
 A: No, Illinois does not have a statewide general contractor license. However, if you plan to work within the City of Chicago, you absolutely need a City of Chicago General Contractor license. Additionally, many other local municipalities have their own registration or licensing requirements, and specific trades like roofing, plumbing, and electrical require statewide licenses through the IDFPR.
 
-### What's the deal with sales tax on materials for contractors in Illinois?
+### Q: What's the deal with sales tax on materials for contractors in Illinois?
 
 A: In Illinois, contractors are generally considered the "end-users" of materials they incorporate into real property. This means you typically pay sales tax to your suppliers when you purchase materials. You do NOT charge sales tax to your clients on the completed construction project itself. If you buy materials from out-of-state and didn't pay Illinois sales tax, you're responsible for remitting Use Tax to the IDOR.
 
-### Is Workers' Compensation mandatory for my construction company in Illinois?
+### Q: Is Workers' Compensation mandatory for my construction company in Illinois?
 
 A: Yes, if you have any employees, Workers' Compensation insurance is mandatory in Illinois. This includes yourself if you are an employee of your own corporation. It covers medical expenses and lost wages for employees injured on the job.
 
-### How important is prevailing wage in Illinois?
+### Q: How important is prevailing wage in Illinois?
 
 A: Extremely important if you plan to bid on or work as a subcontractor on any public construction project (state, county, municipal, school district, etc.). The Illinois Prevailing Wage Act requires you to pay specific wage and benefit rates, which are often higher than market rates, and submit certified payrolls. Non-compliance carries severe penalties.
 
-### Where are the best places to find construction work in Illinois?
+### Q: Where are the best places to find construction work in Illinois?
 
 A: The Chicago metropolitan area, including the collar counties, is the largest and most active market, with significant commercial, infrastructure, and industrial projects. Downstate, cities like Springfield, Peoria, Rockford, and Champaign also offer opportunities, particularly in government, education, and healthcare sectors. Infrastructure projects through IDOT are statewide.
 
-### What's the biggest challenge for a new construction company in Illinois?
+### Q: What's the biggest challenge for a new construction company in Illinois?
 
 A: Beyond the general challenges of starting a business, Illinois presents specific hurdles like complex local licensing (especially Chicago), high property taxes, a strong union presence (which impacts labor costs and relations), and the need to meticulously navigate prevailing wage laws for public work. Competition in the major markets is also intense.
 

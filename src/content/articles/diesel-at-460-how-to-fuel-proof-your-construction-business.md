@@ -2,8 +2,7 @@
 title: "Diesel at $4.60: How to Fuel-Proof Your Construction Business"
 description: "Oil broke $103 a barrel. Diesel is reacting more aggressively than gas. Equipment costs are up 5.6% YoY. Here's how to manage fuel exposure before it eats your margins."
 date: "2026-03-10"
-image: "/img/articles/diesel-at-460-how-to-fuel-proof-your-construction-business-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616405/scalinglegends/2026_03_10_12_19_54_7fccd1ae-abb4-42c3-980b-613bf68b1c55.mp3"
 readTime: "11 min read"
 published: true

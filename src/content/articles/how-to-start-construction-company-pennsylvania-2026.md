@@ -476,31 +476,31 @@ Begin with smaller, manageable projects to build your portfolio and refine your 
 
 ## Frequently Asked Questions About Starting a Construction Company in Pennsylvania
 
-### Do I need a statewide general contractor license to do commercial work in Pennsylvania?
+### Q: Do I need a statewide general contractor license to do commercial work in Pennsylvania?
 
 A: No. Pennsylvania does not have a statewide general contractor license for commercial construction. However, you will need to register your business entity with the PA Department of State, obtain an EIN, and comply with all local municipal permitting and licensing requirements, which can include local general contractor licenses (e.g., in Philadelphia) and specific trade licenses.
 
-### What is HIC registration, and when do I need it?
+### Q: What is HIC registration, and when do I need it?
 
 A: HIC stands for Home Improvement Contractor registration. If you perform more than $5,000 worth of home improvement work (repair, remodeling, alteration, addition) on existing residential properties in Pennsylvania in a calendar year, you must register with the PA Attorney General's Office. It is a registration, not a license, but it's legally required for consumer protection.
 
-### What are the sales tax implications for materials in Pennsylvania?
+### Q: What are the sales tax implications for materials in Pennsylvania?
 
 A: The statewide sales tax rate is 6% (8% in Philadelphia, 7% in Allegheny County). As a contractor, you are generally considered the "final consumer" of materials incorporated into real property. This means you typically pay sales tax when you purchase the materials from your suppliers. You usually do not charge sales tax to your client for the completed [construction project](/article/surviving-the-messy-middle-of-construction-growth/), unless it involves specific types of repairs or services not considered real property improvements. Consult the PA Department of Revenue or a tax professional for specific guidance.
 
-### Is Workers' Compensation insurance mandatory in Pennsylvania?
+### Q: Is Workers' Compensation insurance mandatory in Pennsylvania?
 
 A: Yes, absolutely. If your construction company employs one or more individuals, you are legally required to carry Workers' Compensation insurance in Pennsylvania. There are very limited exceptions for sole proprietors, partners, and certain corporate officers who can elect to exempt themselves, but if you have employees, it's non-negotiable. The PA Bureau of Workers' Compensation and the PA Compensation Rating Bureau (PCRB) oversee this system.
 
-### How do I find government construction contracts in Pennsylvania?
+### Q: How do I find government construction contracts in Pennsylvania?
 
 A: For state-level opportunities, register your business on the PA eMarketplace through the Department of General Services (DGS). For local municipal contracts, check individual city, borough, and township websites for RFPs and bid postings. For federally funded projects, monitor SAM.gov and the Unified Certification Program (UCP) for DBE opportunities, especially with PennDOT.
 
-### What are the prevailing wage requirements for public work in PA?
+### Q: What are the prevailing wage requirements for public work in PA?
 
 A: The Pennsylvania Prevailing Wage Act mandates that contractors and subcontractors on public works contracts exceeding $25,000 pay their employees no less than the prevailing wage rates for their specific job classifications, as determined by the PA Department of Labor & Industry (L&I). This includes base hourly rates and fringe benefits. Non-compliance carries significant penalties.
 
-### Where can I get free business advice for my construction startup in PA?
+### Q: Where can I get free business advice for my construction startup in PA?
 
 A: The U.S. Small Business Administration (SBA) has district offices in Philadelphia and Pittsburgh offering various resources. Additionally, SCORE provides free, confidential business mentoring and workshops through its numerous chapters across PA, including Philadelphia, Pittsburgh, Lancaster-Lebanon, and Northeast PA.
 

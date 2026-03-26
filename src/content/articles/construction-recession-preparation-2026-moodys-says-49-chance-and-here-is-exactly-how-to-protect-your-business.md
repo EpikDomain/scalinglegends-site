@@ -2,8 +2,7 @@
 title: "Construction Recession Preparation 2026: Moody's Says 49% Chance and Here Is Exactly How to Protect Your Business"
 description: "Moody's Analytics just put recession odds at 49%. The model has crossed 50% before every recession since 2001. Oil is near $100. BLS job data keeps getting revised down. Construction lost 2.2 million jobs in the 2008 recession. This episode gives you the 7-step recession-proofing playbook before it is too late."
 date: "2026-03-20"
-image: "/img/articles/construction-recession-preparation-2026-moodys-says-49-chance-and-here-is-exactly-how-to-protect-your-business-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-recession-preparation-2026-moodys-says-49-chanc-1773994786.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-recession-preparation-2026-moodys-says-49-chanc-1773994786.png"
 audioUrl: "https://content.rss.com/episodes/332597/2644992/scalinglegends/2026_03_20_09_48_03_d2f90e3e-b3e4-4c24-a7a7-24ad2f3f24de.mp3"
 readTime: "18 min read"
 published: true

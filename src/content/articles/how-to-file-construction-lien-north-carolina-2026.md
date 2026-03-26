@@ -364,27 +364,27 @@ The goal is to establish a robust system that minimizes human error and provides
 
 ## Frequently Asked Questions About North Carolina Construction Liens
 
-### Can a North Carolina lien be filed on a residential property?
+### Q: Can a North Carolina lien be filed on a residential property?
 
 A: Yes, North Carolina's mechanics lien laws apply to both commercial and residential private properties. However, there can be additional considerations for owner-occupied dwellings, particularly regarding the Notice of Claim of Lien Upon Funds, as the owner may be less likely to be withholding funds from a general contractor on a smaller residential project.
 
-### What is the difference between a Claim of Lien on Real Property and a Claim of Lien Upon Funds in North Carolina?
+### Q: What is the difference between a Claim of Lien on Real Property and a Claim of Lien Upon Funds in North Carolina?
 
 A: A **Claim of Lien on Real Property** (NCGS §44A-8) attaches to the actual land and buildings, providing a security interest in the property itself. A **Claim of Lien Upon Funds** (NCGS §44A-18) does not attach to the property but rather to the money owed from a higher-tier party (e.g., owner, general contractor) to a lower-tier party in the contractual chain. The COLUF serves to "freeze" funds, preventing them from being disbursed until the claim is resolved.
 
-### Do I need a written contract to file a North Carolina mechanics lien?
+### Q: Do I need a written contract to file a North Carolina mechanics lien?
 
 A: While North Carolina statutes do not explicitly require a written contract for a valid mechanics lien, having a clear, written agreement for your labor or materials makes proving the existence and terms of your contract, and thus your lien claim, significantly easier. It is always highly recommended to have a written contract.
 
-### What happens if I miss a North Carolina lien deadline?
+### Q: What happens if I miss a North Carolina lien deadline?
 
 A: Missing any of the critical deadlines (e.g., Notice of Subcontract, 120-day filing/service, 180-day enforcement lawsuit) is usually fatal to your lien rights. North Carolina courts strictly interpret these statutory requirements, and there are generally no exceptions for late filings or service.
 
-### Can I include attorney's fees or lost profits in my North Carolina lien amount?
+### Q: Can I include attorney's fees or lost profits in my North Carolina lien amount?
 
 A: Generally, no. The amount claimed in a North Carolina Claim of Lien on Real Property should reflect only the reasonable value of the labor, materials, or services furnished for the improvement of the real property. Attorney's fees, lost profits, delay damages, or other consequential damages typically cannot be included as part of the lien amount itself, although they may be recoverable in a separate breach of contract action or if specifically allowed by contract or statute in an enforcement lawsuit.
 
-### Is a pre-lien notice required for a general contractor in North Carolina?
+### Q: Is a pre-lien notice required for a general contractor in North Carolina?
 
 A: No. General contractors in North Carolina have a direct contractual relationship with the property owner and therefore have a "direct lien." They are not required to serve a Notice of Subcontract or a Notice of Claim of Lien Upon Funds as preliminary notices to preserve their lien rights on the real property.
 

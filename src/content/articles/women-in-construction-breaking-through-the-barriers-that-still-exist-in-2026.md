@@ -2,8 +2,7 @@
 title: "Women in Construction: Breaking Through the Barriers That Still Exist in 2026"
 description: "The real numbers on women in construction, the structural barriers that persist, and the companies and leaders breaking through them."
 date: "2026-03-05"
-image: "/img/articles/women-in-construction-breaking-through-the-barriers-that-still-exist-in-2026-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/women-in-construction-breaking-through-the-barriers-that-sti-1772747233.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/women-in-construction-breaking-through-the-barriers-that-sti-1772747233.png"
 readTime: "8 min read"
 published: true
 season: 2
