@@ -1,12 +1,12 @@
 ---
-title: "How to Win More Construction Bids: The Contractor's Playbook for 2026"
-description: "Proven bidding strategies, bid/no-bid frameworks, and win rate optimization tactics from GCs who consistently close 25%+ of their bids. Covers estimating accuracy, relationship selling, and bid tech tools."
+title: "Win Construction Bids: 2026 Strategy Guide"
+description: "Master proven construction bid strategies for 2026. Learn bid/no-bid frameworks & win rate optimization from GCs to close 25%+ of your bids. Actionable guide."
 date: "2026-02-28"
 image: "https://scalinglegends.com/og/how-to-win-construction-bids-contractors-playbook-2026.jpg"
 readTime: "50 min read"
 published: true
 season: 2
-updatedAt: "2026-03-17"
+updatedAt: "2026-03-26"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

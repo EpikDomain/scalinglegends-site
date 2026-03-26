@@ -1,12 +1,12 @@
 ---
-title: "How to Manage Construction Subcontractors Without the Headaches"
-description: "Build a reliable sub base and manage them like a pro. Covers pre-qualification, scope coordination, payment management, performance tracking, and the contract clauses that prevent disputes."
+title: "Construction Subcontractors: 2026 Trend Report"
+description: "Explore the evolving landscape of construction subcontractor management for 2026. Understand key trends in pre-qualification, payment, and dispute prevention."
 date: "2026-02-27"
 image: "https://scalinglegends.com/og/how-to-manage-construction-subcontractors-guide-2026.jpg"
 readTime: "60 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-26"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
