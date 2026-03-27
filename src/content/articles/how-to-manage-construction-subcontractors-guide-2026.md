@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-manage-construction-subcontractors-
 readTime: "60 min read"
 published: true
 season: 2
-updatedAt: "2026-03-26"
+updatedAt: "2026-03-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -610,7 +610,7 @@ Once awarded a project with DBE/MBE/WBE requirements, your responsibilities don'
 
 Navigating these requirements demands careful planning, diligent effort, and precise documentation. Integrate these considerations into your pre-qualification and bidding processes.
 
-## How to Build a Construction Crew of Reliable Subcontractors
+## How to [Build a Construction](/article/build-a-construction-company-that-runs-without-you-systems-over-superstars/) Crew of Reliable Subcontractors
 
 Building a top-tier network of subcontractors isn't a passive activity; it's a strategic initiative. Follow these steps to cultivate a reliable subcontractor base that fuels your growth:
 

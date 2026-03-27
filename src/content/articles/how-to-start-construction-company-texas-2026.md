@@ -131,7 +131,7 @@ However, opting out comes with significant risks:
 *   **Client Requirements:** Many general contractors, developers, and public entities will *require* their subcontractors to carry WC insurance, regardless of Texas law. If you don't have it, you won't get the job.
 *   **Employee Morale:** Employees often expect WC coverage. Not having it can impact recruitment and retention.
 
-**Recommendation:** While not legally required by the state for private employers, **carrying Workers' Compensation insurance is highly recommended** for any Texas construction company that has employees. It protects both your business and your workers. If you choose not to carry it, you *must* notify your employees of your non-subscriber status annually and post a notice in your workplace.
+**Recommendation:** While not legally required by the state for private employers, **carrying Workers' Compensation insurance is highly recommended** for any Texas [construction company that](/article/build-a-construction-company-that-runs-without-you-systems-over-superstars/) has employees. It protects both your business and your workers. If you choose not to carry it, you *must* notify your employees of your non-subscriber status annually and post a notice in your workplace.
 
 ### Commercial Auto Insurance
 

@@ -1,12 +1,12 @@
 ---
-title: "How to Price Construction Jobs: The Math Most Contractors Get Wrong"
-description: "Stop leaving money on the table. This guide breaks down markup vs margin, overhead allocation, pricing models, and the exact formulas GCs use to price jobs profitably in 2026."
+title: "Price Construction Jobs: Your 2026 Profit Formula Guide"
+description: "Master construction job pricing in 2026. Learn precise formulas for markup, margin, and overhead to ensure every project is profitable. Stop underpricing now!"
 date: "2026-03-01"
 image: "https://scalinglegends.com/og/how-to-price-construction-jobs-markup-margin-guide-2026.jpg"
 readTime: "66 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

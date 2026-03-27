@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.j
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-03-19"
+updatedAt: "2026-03-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -30,7 +30,7 @@ Research your local and regional markets. Are there specific types of projects c
 
 ### Developing a Robust Business Plan for Expansion
 
-A comprehensive business plan is your roadmap for growth. It should outline your vision, mission, target markets, service offerings, competitive analysis, marketing strategy, operational plan, management team, and detailed financial projections for the next 3-5 years. This isn't a static document; it's a living guide that you'll revisit and revise annually. Your plan should clearly articulate how you intend to transition from your current operational capacity to your desired future state, including the specific resources—human, financial, and technological—required at each stage. It's the blueprint for how to build a construction company that lasts and grows.
+A comprehensive business plan is your roadmap for growth. It should outline your vision, mission, target markets, service offerings, competitive analysis, marketing strategy, operational plan, management team, and detailed financial projections for the next 3-5 years. This isn't a static document; it's a living guide that you'll revisit and revise annually. Your plan should clearly articulate how you intend to transition from your current operational capacity to your desired future state, including the specific resources—human, financial, and technological—required at each stage. It's the blueprint for how to build a [construction company that](/article/build-a-construction-company-that-runs-without-you-systems-over-superstars/) lasts and grows.
 
 Include specific, measurable, achievable, relevant, and time-bound (SMART) goals. For instance, "Increase annual revenue from $5 million to $15 million within three years by securing 10 new data center fit-out contracts and expanding our project management team by 50%." This level of detail provides clarity and direction, ensuring all stakeholders are aligned with the company's growth objectives.
 

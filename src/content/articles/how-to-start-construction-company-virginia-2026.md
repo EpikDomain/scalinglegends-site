@@ -501,7 +501,7 @@ A: Generally, no. As a sole proprietor or partner, if you have no employees, you
 
 ### What are the main construction markets in Virginia in 2026?
 
-Virginia's 2026 construction market is dynamic. Northern Virginia (NoVA) leads with data center investments and federal contracts, experiencing billions in new projects. Richmond focuses on adaptive reuse, healthcare, and logistics along I-95/I-64. Hampton Roads benefits from military spending through DoD contracts and port-related industrial growth. Each region offers distinct opportunities for new companies.
+Virginia's [2026 construction](/article/how-to-handle-construction-change-orders-margins-2026/) market is dynamic. Northern Virginia (NoVA) leads with data center investments and federal contracts, experiencing billions in new projects. Richmond focuses on adaptive reuse, healthcare, and logistics along I-95/I-64. Hampton Roads benefits from military spending through DoD contracts and port-related industrial growth. Each region offers distinct opportunities for new companies.
 
 ### How difficult is it to get a contractor's license in Virginia?
 

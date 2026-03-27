@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616357/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -72,7 +72,7 @@ The new regulatory environment is highly localized, demanding a state-by-state a
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.
 
-## How to Prepare for New 2026 Construction Laws
+## How to Prepare for New [2026 Construction](/article/how-to-handle-construction-change-orders-margins-2026/) Laws
 
 - **Research State-Specific Regulatory Changes.** Identify which of the mentioned laws (e.g., California SB 61, prevailing wage updates in 12 states, apprenticeship changes in NY/IL) apply to your current or planned projects. Allocate 2-4 hours this week to review official state government websites.
 

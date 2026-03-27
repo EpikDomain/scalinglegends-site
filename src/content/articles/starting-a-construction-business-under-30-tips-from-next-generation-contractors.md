@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -137,7 +137,7 @@ Women held **12% of construction management roles** in 2024, projected to reach 
 
 Carlie Cook managing a 300-person data center crew at age 30 isn't an anomaly. It's a trend.
 
-Construction Dive's 2026 Construction Champions awards recognized 30 women across five categories, with a "Rising Stars" category specifically honoring women early in their construction careers. GinaMarie Napoli (STV, New York) and Lori Ann Stevens (Turner Construction) among the 2026 class.
+Construction Dive's [2026 Construction](/article/how-to-handle-construction-change-orders-margins-2026/) Champions awards recognized 30 women across five categories, with a "Rising Stars" category specifically honoring women early in their construction careers. GinaMarie Napoli (STV, New York) and Lori Ann Stevens (Turner Construction) among the 2026 class.
 
 California's $26 million ERiCA grant specifically targets female recruitment into construction apprenticeships, including $11.8 million just for childcare, acknowledging one of the primary barriers women face entering the trades.
 

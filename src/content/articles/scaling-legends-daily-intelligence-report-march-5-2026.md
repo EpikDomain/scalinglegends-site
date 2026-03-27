@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604819/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -39,7 +39,7 @@ To navigate the complexities of March 2026, a clear, data-driven perspective is 
 
 - **Construction Spending Growth:** As noted, Q4 2025 closed with a robust **6.8% year-over-year increase** in total construction spending. However, this growth isn't uniform. Residential construction, while still active, saw a modest **3.1% increase**, primarily driven by multi-family units and high-end custom homes. Non-residential private construction surged by **9.5%**, fueled by manufacturing plant expansions, data centers, and logistics facilities. Public construction, buoyed by BIL, jumped an impressive **11.2%**.
 
-**Material Cost Volatility:** While the extreme spikes of 2021-2022 have largely subsided, targeted volatility persists. According to SBA's Q1 2026 Construction Materials Index, overall material costs saw a moderate **2.8% increase over the last 12 months**. However, specific commodities tell a different story:
+**Material Cost Volatility:** While the extreme spikes of 2021-2022 have largely subsided, targeted volatility persists. According to SBA's Q1 [2026 Construction](/article/how-to-handle-construction-change-orders-margins-2026/) Materials Index, overall material costs saw a moderate **2.8% increase over the last 12 months**. However, specific commodities tell a different story:
 
 - **Lumber:** Stabilized, even seeing a **4.5% decrease** from its Q1 2025 average, but still 30% higher than pre-pandemic levels.
 
