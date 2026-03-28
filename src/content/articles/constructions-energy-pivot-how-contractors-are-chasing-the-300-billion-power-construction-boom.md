@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628650/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-24"
+updatedAt: "2026-03-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -87,7 +87,7 @@ The contractors winning in this new energy economy aren't waiting for the phone 
 
 ### 1. Specializing in High-Demand Niches
 
-While the overall market is vast, trying to be a generalist across all energy sectors can dilute resources. Smart contractors are identifying specific high-growth niches where they can develop deep expertise and a competitive advantage. This could mean:
+While the overall market is vast, trying to be a generalist across all energy sectors can dilute resources. Smart contractors are identifying specific high-growth niches where they can develop deep expertise and [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/). This could mean:
 
 - **Utility-Scale Solar EPC:** Focusing on the engineering, procurement, and construction of large ground-mount solar farms, often including associated battery storage.
 

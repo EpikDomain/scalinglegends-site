@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604819/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-03-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -15,7 +15,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), a bedrock of global economies, is currently navigating a period of unprecedented transformation. As we step into March 2026, a critical juncture looms: recent data from the U.S. Census Bureau indicates that construction spending reached an annualized rate of **$2.1 trillion in Q4 2025**, a robust 6.8% increase year-over-year. Yet, beneath this headline growth, a complex tapestry of challenges—from persistent labor shortages to evolving material costs and the rapid acceleration of technological adoption—demands more than just awareness; it requires strategic, data-driven action. Are you prepared not just to weather these shifts, but to leverage them into a competitive advantage, ensuring your firm doesn't just survive, but truly scales?
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), a bedrock of global economies, is currently navigating a period of unprecedented transformation. As we step into March 2026, a critical juncture looms: recent data from the U.S. Census Bureau indicates that construction spending reached an annualized rate of **$2.1 trillion in Q4 2025**, a robust 6.8% increase year-over-year. Yet, beneath this headline growth, a complex tapestry of challenges—from persistent labor shortages to evolving material costs and the rapid acceleration of technological adoption—demands more than just awareness; it requires strategic, data-driven action. Are you prepared not just to weather these shifts, but to leverage them into [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/), ensuring your firm doesn't just survive, but truly scales?
 
 <iframe src="https://www.youtube.com/embed/CyZd3cO1OZk" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 

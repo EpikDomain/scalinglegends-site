@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-20
 readTime: "70 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-03-28"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -20,7 +20,7 @@ Forget the "war for talent" – in construction, it's a full-blown existential b
 
 <iframe src="https://www.youtube.com/embed/LMYk4UNjka0" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-This isn't a problem for HR to solve in a vacuum; it's a strategic imperative that demands your immediate, direct attention. The ability to consistently attract, develop, and keep top-tier talent isn't just a competitive advantage in 2026 – it's the bedrock of your business's survival and scale. At Scaling Legends, we don't just talk about the problem; we arm you with the actionable solutions. This guide cuts through the noise, offering a no-BS roadmap for navigating the most challenging labor market in a generation.
+This isn't a problem for HR to solve in a vacuum; it's a strategic imperative that demands your immediate, direct attention. The ability to consistently attract, develop, and keep top-tier talent isn't just [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/) in 2026 – it's the bedrock of your business's survival and scale. At Scaling Legends, we don't just talk about the problem; we arm you with the actionable solutions. This guide cuts through the noise, offering a no-BS roadmap for navigating the most challenging labor market in a generation.
 
 We're going to dive deep into where the workers actually are, what they demand, and how you can build a company culture so compelling that your best people won't even consider leaving. This isn't about quick fixes; it's about fundamentally reshaping your approach to people, transforming your workforce from a liability into your greatest asset.
 

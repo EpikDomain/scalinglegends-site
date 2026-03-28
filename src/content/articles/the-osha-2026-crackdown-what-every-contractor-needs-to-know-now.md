@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604783/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-28"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -205,7 +205,7 @@ The integration of these technologies into your operations isn't just a luxury; 
 
 ## How to Prepare Your Business for the 2026 OSHA Shift
 
-The impending OSHA 2026 crackdown is not a threat to be feared, but a call to strategic action. By implementing a proactive, multi-faceted approach, you can transform potential compliance challenges into a competitive advantage. Here’s a 7-step plan to ensure your business is not just ready, but leading the pack.
+The impending OSHA 2026 crackdown is not a threat to be feared, but a call to strategic action. By implementing a proactive, multi-faceted approach, you can transform potential compliance challenges into [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/). Here’s a 7-step plan to ensure your business is not just ready, but leading the pack.
 
 **Conduct a Comprehensive Compliance Audit:**
 **Specific Instructions:** Hire a third-party safety consultant specializing in construction to perform a thorough, unbiased audit of all your current safety programs, policies, and jobsite practices. This audit should cover everything from your written safety plan and training records to equipment inspection logs and incident reports. The consultant should identify gaps between your current state and anticipated 2026 OSHA expectations, providing a detailed report with actionable recommendations. This is your baseline, your "before" picture, and it's critical to identify all weak points.

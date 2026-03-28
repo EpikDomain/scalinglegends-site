@@ -26,7 +26,7 @@ Record electricity demand, fueled by an explosion of AI data centers and electri
 
 - **Critical Worker Shortage Persists:** The grid sector alone faces a 439,000 worker shortage, with 89% of employers struggling to find qualified staff. This labor crunch will intensify competition for skilled trades and drive a 30% pay premium for specialized roles, impacting project timelines and overall profitability across all construction segments.
 
-- **Green Building Skills Explode:** Demand for green building skills has surged an astounding 71,650%, with prefab methods up 266,400% and modular construction up 107%. This indicates a definitive shift towards sustainable and efficient building practices, creating a competitive advantage for contractors who invest in these competencies.
+- **Green Building Skills Explode:** Demand for green building skills has surged an astounding 71,650%, with prefab methods up 266,400% and modular construction up 107%. This indicates a definitive shift towards sustainable and efficient building practices, creating [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/) for contractors who invest in these competencies.
 
 - **Market Rebalancing:** While private construction has seen a four-month decline, the combined force of massive energy infrastructure projects, strategic housing policy, and sustained highway spending ($209B) is generating a substantial new project pipeline. Contractors must strategically pivot towards public works and specialized energy projects to capitalize on these shifts.
 

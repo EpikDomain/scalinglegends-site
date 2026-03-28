@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2644965/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
+updatedAt: "2026-03-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -130,7 +131,7 @@ Key technology trends driving construction in 2026 include the widespread adopti
 
 - **Explore New Markets (Energy/Infrastructure).** Research opportunities arising from Japan's $73 billion investment in US nuclear SMRs and gas plants, or accelerating defense infrastructure spending. Identify specialized contractors or certifications needed to enter these high-growth sectors.
 
-- **Leverage AI for Permitting.** Investigate emerging AI construction technology 2026 solutions like Anori (Alphabet X spin-out) that promise to cut permitting times. While direct access may be limited, understanding how AI can expedite project starts will be a competitive advantage.
+- **Leverage AI for Permitting.** Investigate emerging AI construction technology 2026 solutions like Anori (Alphabet X spin-out) that promise to cut permitting times. While direct access may be limited, understanding how AI can expedite project starts will be [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/).
 
 - **Enhance Safety and Compliance.** Review your safety protocols in light of OSHA's new small business initiative. Utilize your construction project management software to track safety training, incident reports, and compliance documentation, reducing risk and potential liabilities.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2625118/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -59,7 +59,7 @@ For US contractors, this situation underscores the urgent need to audit their ba
 
 In a contracting market, robust [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) becomes not just important, but absolutely critical for survival and sustained growth. The Canadian example, particularly the struggles in the condo markets of Toronto and Vancouver, provides a stark reminder of how quickly market conditions can shift and impact liquidity. When projects slow down, new starts dry up, or payment terms become extended, even a profitable company can face a liquidity crisis if its cash flow isn't meticulously managed. This is particularly true for contractors who often operate with thin margins and rely heavily on steady project progression and timely payments.
 
-The oversupply signals now appearing in US condo markets like Miami, Austin, and Denver mirror the conditions Toronto experienced 12 months ago. This foreshadows potential future challenges for US contractors, including reduced demand, increased competition, and downward pressure on project pricing. In such an environment, the ability to maintain a healthy cash reserve, manage accounts receivable proactively, and negotiate favorable payment terms with clients and suppliers becomes a competitive advantage. Failing to adapt can lead to the "5 cash flow mistakes that kill [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/)," as detailed in our previous article, from poor budgeting to inadequate invoicing practices.
+The oversupply signals now appearing in US condo markets like Miami, Austin, and Denver mirror the conditions Toronto experienced 12 months ago. This foreshadows potential future challenges for US contractors, including reduced demand, increased competition, and downward pressure on project pricing. In such an environment, the ability to maintain a healthy cash reserve, manage accounts receivable proactively, and negotiate favorable payment terms with clients and suppliers becomes [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/). Failing to adapt can lead to the "5 cash flow mistakes that kill [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/)," as detailed in our previous article, from poor budgeting to inadequate invoicing practices.
 
 > **Key Stat:** US condo markets in Miami, Austin, and Denver are showing oversupply signals, echoing Toronto's market 12 months prior.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619680/scalinglegends/2026_0
 readTime: "4 min read"
 published: true
 season: 2
-updatedAt: "2026-03-21"
+updatedAt: "2026-03-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -159,7 +159,7 @@ While federal opportunities may shrink, other areas are poised for growth:
 
 - **Infrastructure Investment (State & Local):** Many states and municipalities are investing heavily in aging infrastructure, including roads, bridges, water systems, and public transit. Federal infrastructure bills, even if some direct federal contracts are cut, often provide funding to states, creating indirect opportunities.
 
-- **Green and Sustainable Construction:** There's a growing demand for environmentally friendly building practices, renewable energy installations, and energy-efficient retrofits across both public and private sectors. Contractors with expertise in sustainable construction will find a competitive advantage.
+- **Green and Sustainable Construction:** There's a growing demand for environmentally friendly building practices, renewable energy installations, and energy-efficient retrofits across both public and private sectors. Contractors with expertise in sustainable construction will find [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/).
 
 - **Smart Cities Initiatives:** Urban areas are increasingly adopting "smart" technologies for traffic management, public safety, and utility optimization. This creates opportunities for construction firms involved in integrating digital infrastructure.
 

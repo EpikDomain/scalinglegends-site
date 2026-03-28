@@ -491,7 +491,7 @@ A: Absolutely. Virginia boasts a diverse and growing economy, a strong job marke
 
 ### Q: What is the SWaM certification in Virginia?
 
-A: SWaM stands for Small, Women-owned, and Minority-owned. It's a certification program administered by the Virginia Department of Small Business and Supplier Diversity (SBSD). Obtaining SWaM certification provides your business with a competitive advantage when bidding on state and many local government contracts, as these public bodies often have specific procurement goals for SWaM-certified businesses.
+A: SWaM stands for Small, Women-owned, and Minority-owned. It's a certification program administered by the Virginia Department of Small Business and Supplier Diversity (SBSD). Obtaining SWaM certification provides your business with [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/) when bidding on state and many local government contracts, as these public bodies often have specific procurement goals for SWaM-certified businesses.
 
 ### Q: Do I need workers' comp if I'm a sole proprietor in Virginia?
 

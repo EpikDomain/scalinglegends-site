@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2646862/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-03-24"
+updatedAt: "2026-03-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -79,7 +79,7 @@ The cautionary tale of the $230 million Milwaukee Edison timber tower project se
 
 As the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) pushes for continued [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth 2026, sustainability is rapidly transitioning from a niche concern to a core operational requirement. The Associated General Contractors (AGC) is hosting a carbon reporting town hall for Earth Week, a clear signal that the industry is preparing for forthcoming disclosure requirements. This isn't just about environmental stewardship; it's about future-proofing your business. Clients, investors, and even government contracts are increasingly demanding transparency and demonstrable progress on environmental, social, and governance (ESG) metrics, particularly carbon emissions.
 
-For contractors, this means understanding your operational carbon footprint, from equipment fuel consumption to material sourcing. It also involves being able to report on the embodied carbon of the materials you use and the operational carbon efficiency of the structures you build. Firms that proactively develop robust carbon reporting capabilities will gain a competitive advantage, positioning themselves as leaders in sustainable construction. This trend also opens doors for specialized consulting, green building certifications, and innovative material solutions.
+For contractors, this means understanding your operational carbon footprint, from equipment fuel consumption to material sourcing. It also involves being able to report on the embodied carbon of the materials you use and the operational carbon efficiency of the structures you build. Firms that proactively develop robust carbon reporting capabilities will gain [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/), positioning themselves as leaders in sustainable construction. This trend also opens doors for specialized consulting, green building certifications, and innovative material solutions.
 
 Embracing sustainable practices can also be a powerful tool for talent acquisition and retention. A recent study indicated that 70% of construction professionals prefer to work for companies with strong environmental commitments. This is particularly relevant for attracting and retaining diverse talent, including a growing number of [women in construction](/article/women-in-construction-breaking-barriers-2026/) and those looking to build a career in a forward-thinking industry. Firms led by visionary leaders, such as a [woman owned construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/), are often at the forefront of adopting these progressive practices. Investing in cleaner equipment, optimizing logistics, and training staff on green building techniques are not just expenses; they are strategic investments in your firm's long-term viability and market appeal.
 

@@ -208,7 +208,7 @@ Key financial strategies include mastering cash flow management, implementing ri
 
 In 2026, technology is a game-changer. Integrated platforms for project management, ERP, and BIM streamline operations, improve collaboration, and reduce errors. AI and machine learning can optimize estimating, scheduling, and risk assessment, making your bids more competitive and projects more efficient. Drones offer rapid site surveying and progress monitoring. Adopting these technologies enables you to handle larger, more complex projects with greater precision and speed, directly contributing to your ability to scale construction business operations significantly.
 
-### What are the critical hiring considerations when you want to build a construction company for scale?
+### What are the critical hiring considerations when you want to [build a construction](/article/build-a-construction-company-that-runs-without-you-systems-over-superstars/) company for scale?
 
 When scaling, focus on hiring for leadership and specialized roles that can take tasks off your plate and manage teams. Look for individuals with a growth mindset, strong problem-solving skills, and a commitment to continuous improvement. Invest in talent development programs, offer competitive compensation, and foster a culture that encourages retention. Don't just hire for immediate needs; anticipate future demands and build a bench of talent ready to step into new roles as the company expands.
 

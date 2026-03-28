@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616310/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-24"
+updatedAt: "2026-03-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -47,7 +47,7 @@ The construction economy just split in two. Big firms are swimming in work, back
 
 - **Tariff Headwinds Persist.** The NAHB reports tariffs are adding an average of $10,900 to the cost of a new home, directly impacting project viability and [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) for residential builders. The IEEPA tariff refund ruling offers a glimmer of hope for some, but proactive material sourcing remains critical.
 
-- **Operating Costs Climb.** Equipment costs surged by 5.6% year-over-year, alongside new regulatory burdens like New York's electronic payroll mandate and California's seven new construction laws. These factors squeeze [contractor profit margins 2026](/article/contractor-profit-margins-2026/), demanding rigorous cost control and operational efficiency.
+- **Operating Costs Climb.** Equipment costs surged by 5.6% year-over-year, alongside new regulatory burdens like New York's electronic payroll mandate and California's seven [new construction laws](/article/new-construction-laws-q1-2026-7-regulations-that-just-took-effect-and-how-they-change-your-business-starting-now/). These factors squeeze [contractor profit margins 2026](/article/contractor-profit-margins-2026/), demanding rigorous cost control and operational efficiency.
 
 - **Global Infrastructure Boom.** While domestic markets face challenges, global opportunities are emerging. Germany’s €500B infrastructure fund, Japan's advancements in robot-built dams, and NEOM's pivot to data centers present potential avenues for diversification for highly specialized firms, but also signal a global race for innovation and talent.
 
