@@ -1,12 +1,12 @@
 ---
-title: "Construction Company 2026: Trends & Future Outlook"
-description: "Explore the key trends shaping construction companies in 2026. Understand market shifts, technology impacts, and what it takes to thrive in the coming year."
+title: "Construction Outlook 2026: Key Industry Shifts"
+description: "Discover the definitive construction outlook for 2026. Understand market shifts, technology impacts, and essential trends shaping companies in the coming year."
 date: "2026-02-10"
 image: "https://scalinglegends.com/og/how-to-start-construction-company-complete-guide-2026.jpg"
 readTime: "81 min read"
 published: true
 season: 2
-updatedAt: "2026-03-19"
+updatedAt: "2026-03-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
