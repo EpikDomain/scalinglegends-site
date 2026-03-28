@@ -81,19 +81,32 @@ const episodeData = audioUrl ? {
 
 // Extract HowTo steps from rendered content for structured data
 // Parse the raw markdown body looking for ## How to ... followed by list steps
-// Supports both ordered (1. **Step.**) and unordered (- **Step.**) list formats
+// Supports: ordered (1. **Step.**), unordered (- **Step.**), and heading (### Step N:) formats
+// Tries all ## How to sections and picks the one that yields steps
 const howToSteps: { name: string; text: string }[] = howTo || [];
 if (howToSteps.length === 0) {
-  const howToMatch = rawBody.match(/##\s*How [Tt]o\s+(.+?)\n([\s\S]*?)(?=\n##\s[^#]|\n$|$)/i);
-  if (howToMatch) {
+  const howToMatches = rawBody.matchAll(/##\s*How [Tt]o\s+(.+?)\n([\s\S]*?)(?=\n##\s[^#]|\n$|$)/gi);
+  for (const howToMatch of howToMatches) {
+    if (howToSteps.length > 0) break;
     const howToSection = howToMatch[2];
-    // Match both "1. **Step.** text" and "- **Step.** text" formats
+    // Try list format: "1. **Step.** text" and "- **Step.** text"
     const stepMatches = howToSection.matchAll(/(?:^|\n)\s*(?:\d+\.\s*|-\s*)\*\*(.+?)\*\*\s*([\s\S]*?)(?=\n\s*(?:\d+\.\s*|-\s*)\*\*|\n##|$)/g);
     for (const step of stepMatches) {
       const name = step[1].trim().replace(/\.$/, '');
       const text = step[2].trim().replace(/\n+/g, ' ').replace(/<[^>]+>/g, '');
       if (name && text) {
         howToSteps.push({ name, text });
+      }
+    }
+    // Fallback: heading format "### Step N: Title" followed by paragraph text
+    if (howToSteps.length === 0) {
+      const headingSteps = howToSection.matchAll(/###\s*Step\s*\d+[:.]\s*(.+?)\n([\s\S]*?)(?=\n###|\n##[^#]|$)/gi);
+      for (const step of headingSteps) {
+        const name = step[1].trim().replace(/\.$/, '');
+        const text = step[2].trim().replace(/\n+/g, ' ').replace(/<[^>]+>/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, '').slice(0, 300);
+        if (name && text) {
+          howToSteps.push({ name, text });
+        }
       }
     }
   }
