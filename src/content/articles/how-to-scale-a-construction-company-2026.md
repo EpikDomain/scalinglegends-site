@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.j
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-03-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -156,7 +156,7 @@ Growth introduces new complexities and risks. Proactive management is essential.
 
 As you scale, your exposure to risk increases. Develop a comprehensive risk management plan that identifies potential financial, operational, safety, legal, and reputational risks. Implement strategies to mitigate these risks, such as robust insurance policies (general liability, professional liability, workers' compensation), detailed safety programs, stringent contract review processes, and cybersecurity measures to protect sensitive data. Regular risk assessments should be conducted for both your overall business and individual projects. For example, when expanding into new geographical areas or project types, thoroughly research local regulations, labor laws, and market conditions to avoid unforeseen pitfalls.
 
-Consider the impact of climate change risks on your projects, such as increased frequency of extreme weather events, and plan for resilience in your designs and construction methods. For example, if you're building in coastal areas, understanding and mitigating flood risks is paramount. This foresight helps in how to build a construction company that is resilient and sustainable.
+Consider the impact of climate change risks on your projects, such as increased frequency of extreme weather events, and plan for resilience in your designs and construction methods. For example, if you're building in coastal areas, understanding and mitigating flood risks is paramount. This foresight helps in how to build a [construction company that](/article/build-a-construction-company-that-runs-without-you-systems-over-superstars/) is resilient and sustainable.
 
 ### Ensuring Legal and Regulatory Compliance
 
