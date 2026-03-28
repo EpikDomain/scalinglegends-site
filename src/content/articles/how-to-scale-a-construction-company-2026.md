@@ -134,7 +134,7 @@ Scaling requires a more sophisticated approach to attracting and securing new bu
 
 As you specialize, your marketing should become more targeted. Identify where your ideal clients spend their time – industry conferences, specific trade publications, online forums, or professional associations. Develop content marketing that positions your company as an expert in your niche. This could include whitepapers, case studies, blog posts, or webinars showcasing your expertise in, for example, sustainable building practices or complex industrial installations. A strong online presence, including an optimized website and active social media channels (LinkedIn is particularly important in B2B construction), is non-negotiable.
 
-Leverage SEO (Search Engine Optimization) to ensure your company appears prominently when potential clients search for services like "data center builder [city]" or "industrial concrete contractor." Invest in high-quality professional photography and videography of your completed projects to showcase your capabilities and craftsmanship. This is how you effectively market your efforts to how to build a construction company with a strong brand.
+Leverage SEO (Search Engine Optimization) to ensure your company appears prominently when potential clients search for services like "data center builder [city]" or "industrial concrete contractor." Invest in high-quality professional photography and videography of your completed projects to showcase your capabilities and craftsmanship. This is how you effectively market your efforts to how to [build a construction](/article/build-a-construction-company-that-runs-without-you-systems-over-superstars/) company with a strong brand.
 
 ### Building Strategic Partnerships and Networks
 
