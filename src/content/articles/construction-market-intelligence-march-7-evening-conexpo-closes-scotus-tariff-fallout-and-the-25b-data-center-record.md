@@ -3,11 +3,11 @@ title: "Construction Market Intelligence: March 7 Evening - CONEXPO Closes, SCOT
 description: "CONEXPO closes with autonomous equipment breakthrough, SCOTUS tariff ruling leaves Section 232 intact with steel up 20.7%, Ohio E-Verify deadline in 12 days, data centers hit 25.2B monthly record, and 43% of small contractors lack emergency capital."
 date: "2026-03-07"
 image: "/img/articles/construction-market-intelligence-march-7-evening-conexpo-closes-scotus-tariff-fallout-and-the-25b-data-center-record-hero.webp"
-audioUrl: "https://content.rss.com/episodes/332597/2667155/scalinglegends/2026_03_27_14_05_46_49309d2f-08ca-4e0b-ba9e-71517e539959.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2671117/scalinglegends/2026_03_29_08_47_16_1bfff239-08de-4d05-a6ab-f2deeeaadfb3.mp3"
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-29"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -160,7 +160,7 @@ The subcontractor cash flow crisis is getting worse, and the data is stark:
 
 The boom-year cash management habits that worked from 2021 through 2024 are now being brutally exposed by the 2025-2026 market shift. Contractors who scaled aggressively without building cash reserves are the most vulnerable.
 
-The combination of rising material costs, slower payments, and the capital demands of data center and infrastructure work is creating a squeeze that hits small and mid-size contractors disproportionately. This is where operational efficiency becomes a financial survival tool. Firms using automation for invoicing, payment tracking, and cash flow forecasting through platforms like [Smart Business Automator](https://smartbusinessautomator.com) are catching payment gaps weeks earlier than those running manual processes.
+The combination of rising material costs, slower payments, and the capital demands of data center and infrastructure work is creating a squeeze that hits small and mid-size contractors disproportionately. This is where operational efficiency becomes a financial survival tool. Firms using automation for invoicing, payment tracking, and [cash flow forecasting](/article/construction-cash-flow-forecasting-2026-the-13-week-method-that-prevents-82-of-business-failures/) through platforms like [Smart Business Automator](https://smartbusinessautomator.com) are catching payment gaps weeks earlier than those running manual processes.
 
 ## Government and Policy: What's Moving This Week
 

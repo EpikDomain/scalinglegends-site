@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-manage-construction-subcontractors-
 readTime: "60 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-03-29"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -650,7 +650,7 @@ Your standard subcontractor agreement should be reviewed by legal counsel at lea
 
 ### Can technology truly streamline subcontractor payments?
 
-Absolutely. Platforms like GCPay, Textura, and integrated ERP systems automate lien waiver collection, compliance checks, and payment processing. This reduces manual errors, speeds up payment cycles by as much as 50%, improves cash flow forecasting, and strengthens subcontractor relationships by ensuring timely, transparent payments. It also provides a robust audit trail.
+Absolutely. Platforms like GCPay, Textura, and integrated ERP systems automate lien waiver collection, compliance checks, and payment processing. This reduces manual errors, speeds up payment cycles by as much as 50%, improves [cash flow forecasting](/article/construction-cash-flow-forecasting-2026-the-13-week-method-that-prevents-82-of-business-failures/), and strengthens subcontractor relationships by ensuring timely, transparent payments. It also provides a robust audit trail.
 
 ### What's the best way to handle a subcontractor who consistently misses deadlines?
 

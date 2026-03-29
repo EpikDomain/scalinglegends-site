@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.j
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-03-29"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -176,7 +176,7 @@ Non-compliance can lead to hefty fines, legal disputes, reputational damage, and
 
 - **Build a High-Performing Leadership Team.** Recruit, train, and empower key individuals to take ownership of critical functions within your company. Delegate responsibilities effectively, freeing up your time for strategic planning and business development.
 
-- **Implement Rigorous Financial Management.** Master cash flow forecasting, budgeting, and job costing. Understand your true cost of doing business and strategically reinvest profits into growth-enabling assets and initiatives.
+- **Implement Rigorous Financial Management.** Master [cash flow forecasting](/article/construction-cash-flow-forecasting-2026-the-13-week-method-that-prevents-82-of-business-failures/), budgeting, and job costing. Understand your true cost of doing business and strategically reinvest profits into growth-enabling assets and initiatives.
 
 - **Cultivate a Strong Company Culture.** Foster an environment that prioritizes safety, quality, continuous learning, and accountability. A positive and supportive culture attracts and retains top talent, which is vital for sustained growth.
 
