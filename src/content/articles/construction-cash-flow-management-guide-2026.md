@@ -73,7 +73,7 @@ Key inputs for a weekly forecast:
 
 This forecast allows for rapid adjustments. If you see a shortfall, you can immediately prioritize payments, chase specific receivables aggressively, or draw on a line of credit if necessary.
 
-### Monthly Cash Flow Forecasting: Strategic Overview
+### Monthly [Cash Flow Forecasting](/article/construction-cash-flow-forecasting-2026-the-13-week-method-that-prevents-82-of-business-failures/): Strategic Overview
 
 The monthly forecast provides a broader, more strategic view, typically looking 3-6 months ahead. This helps you plan for larger expenditures, assess seasonal impacts, and identify potential larger cash shortfalls before they become crises. It's essential for construction cash flow management at a strategic level.
 

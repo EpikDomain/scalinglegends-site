@@ -26,7 +26,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 - **Data-driven strategies improve bid accuracy by 10-15%.** Incorporating sophisticated weather risk assessments into the bidding process allows for more precise cost estimates, reducing contingency funds and increasing the likelihood of winning profitable projects.
 
-- **Integrated weather data enhances operational efficiency by 20%.** Seamlessly blending weather intelligence with project management systems optimizes labor deployment, equipment scheduling, and supply chain logistics, minimizing idle time and rework.
+- **Integrated weather data enhances operational efficiency by 20%.** Seamlessly blending weather intelligence with [project management](/article/surviving-the-messy-middle-of-construction-growth/) systems optimizes labor deployment, equipment scheduling, and supply chain logistics, minimizing idle time and rework.
 
 - **Contractors gain a 2x ROI on weather technology investments.** The cost savings from reduced delays, improved safety, and optimized resource utilization significantly outweigh the investment in advanced weather risk management solutions, delivering substantial financial benefits.
 
