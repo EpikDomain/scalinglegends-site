@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2669013/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
+updatedAt: "2026-03-30"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -88,7 +89,7 @@ The investment in compliant payroll and HR systems, though potentially an initia
 
 ## Digital Transformation for Material Traceability & Site Monitoring
 
-The construction industry is rapidly embracing digital solutions, and Q1 2026 brings two innovative regulations that will further integrate technology into daily operations, particularly for material management and site safety surveillance. These changes are designed to enhance supply chain integrity and elevate on-site safety through data-driven insights.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is rapidly embracing digital solutions, and Q1 2026 brings two innovative regulations that will further integrate technology into daily operations, particularly for material management and site safety surveillance. These changes are designed to enhance supply chain integrity and elevate on-site safety through data-driven insights.
 
 **Regulation 5: New Material Traceability & Safety Data Sheet (SDS) Digital Requirements.** To combat the proliferation of counterfeit construction materials and ensure rapid access to critical safety information, new regulations mandate digital tracking for specific structural and safety-critical components. This applies to materials such as high-strength rebar, structural steel, pre-stressed concrete elements, and specialized fire-rated assemblies. Each of these materials must now carry a unique digital identifier (e.g., QR code or RFID tag) that, when scanned, provides real-time access to its origin, manufacturing batch data, quality certifications, and a complete Safety Data Sheet (SDS).
 
@@ -128,7 +129,7 @@ The most significant financial impacts stem from potential non-compliance fines,
 
 ### How can small contractors (under $5M) comply without breaking the bank?
 
-Small contractors should prioritize high-impact compliance areas. Focus on leveraging affordable, integrated digital platforms that combine project management, HR, and safety compliance features. Many platforms offer tiered pricing. Also, explore local grants for safety technology adoption, which can offset up to 50% of initial equipment costs. Partnering with larger firms on projects can also provide access to shared compliance resources and best practices.
+Small contractors should prioritize high-impact compliance areas. Focus on leveraging affordable, integrated digital platforms that combine [project management](/article/surviving-the-messy-middle-of-construction-growth/), HR, and safety compliance features. Many platforms offer tiered pricing. Also, explore local grants for safety technology adoption, which can offset up to 50% of initial equipment costs. Partnering with larger firms on projects can also provide access to shared compliance resources and best practices.
 
 ### Are there any specific grants or incentives for adopting new safety tech?
 

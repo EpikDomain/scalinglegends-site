@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-prevent-construction-site-theft-gui
 readTime: "37 min read"
 published: true
 season: 2
-updatedAt: "2026-03-29"
+updatedAt: "2026-03-30"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -14,7 +14,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-How to Prevent Construction Site Theft: Solving the $2 Billion Problem
+How to Prevent [Construction Site Theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/): Solving the $2 Billion Problem
 
 # How to Prevent Construction Site Theft: Solving the $2 Billion Problem
 
