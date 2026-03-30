@@ -16,7 +16,7 @@ sponsors:
 
 How to Prevent [Construction Site Theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/): Solving the $2 Billion Problem
 
-# How to Prevent Construction Site Theft: Solving the $2 Billion Problem
+# How to Prevent [Construction Site Theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/): Solving the $2 Billion Problem
 
 Construction sites are lucrative targets for thieves. The sheer volume of valuable equipment, tools, and materials, often left exposed or inadequately secured, presents an irresistible opportunity for criminals. This isn't a minor nuisance; it's a systemic drain on the industry, costing an estimated $1 to $2 billion annually in the U.S. alone. This staggering figure doesn't even account for the cascading indirect costs: project delays, increased insurance premiums, lost productivity, and damaged reputations.
 
