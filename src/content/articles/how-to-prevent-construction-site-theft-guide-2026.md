@@ -190,7 +190,7 @@ Beyond electronic tracking, clear physical identification is crucial for recover
 
 ## Internal Controls and Human Factors: Preventing Theft from Within
 
-It's an uncomfortable truth, but a significant portion of construction site theft is internal. Employees, subcontractors, or even visitors can be responsible. Addressing this requires robust internal controls and a culture of accountability.
+It's an uncomfortable truth, but a significant portion of [construction site theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/) is internal. Employees, subcontractors, or even visitors can be responsible. Addressing this requires robust internal controls and a culture of accountability.
 
 ### Robust Inventory Management: What You Don't Track, You Lose
 
@@ -310,7 +310,7 @@ Security is not a set-it-and-forget-it task. Regularly review your security plan
 
 View security as an essential investment, not an expendable cost. The expense of preventing theft is invariably less than the cost of recovering from it, both financially and operationally. Budget appropriately for robust construction site security measures.
 
-## Frequently Asked Questions About Construction Site Theft Prevention
+## Frequently Asked Questions About [Construction Site Theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/) Prevention
 
 ### Q: How much does construction site theft cost the industry annually?
 

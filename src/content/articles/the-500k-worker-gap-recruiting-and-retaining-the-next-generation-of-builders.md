@@ -21,7 +21,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 - **501,000 Worker Gap.** The industry must recruit over half a million new workers by 2026 to meet demand, driven by retirements and increased construction activity.
 
-- **Modern Apprenticeships are Critical.** Structured, tech-integrated apprenticeship programs are proving to be the most effective strategy, yielding up to a 150% ROI for contractors and significantly higher retention rates.
+- **Modern Apprenticeships are Critical.** Structured, tech-integrated [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) are proving to be the most effective strategy, yielding up to a 150% ROI for contractors and significantly higher retention rates.
 
 - **Invest in Upskilling & Career Paths.** Proactive `construction workforce development` through cross-training, mentorship, and clear promotional paths reduces turnover by up to 30% and builds loyalty.
 
@@ -49,7 +49,7 @@ The economic impact is substantial. Shortages drive up labor costs, making proje
 
 Traditional apprenticeship models, while foundational, are evolving to meet the demands of modern construction and attract a new generation of workers. Successful `[construction apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/)` today are characterized by their integration of technology, diverse recruitment efforts, and clear pathways to career advancement. For contractors aiming to solve the labor crisis, establishing or partnering with such programs is no longer optional—it's essential.
 
-Modern apprenticeships move beyond basic tool skills, incorporating training in digital blueprint reading, BIM software, drone operation, and advanced safety protocols. These programs offer a structured, earn-while-you-learn model that appeals strongly to individuals looking to avoid college debt and gain practical skills immediately. For contractors, investing in these programs yields significant returns. Studies show that companies with apprenticeship programs experience higher employee retention rates (up to 90% in some cases) and a 150% return on investment through increased productivity and reduced recruitment costs.
+Modern apprenticeships move beyond basic tool skills, incorporating training in digital blueprint reading, BIM software, drone operation, and advanced safety protocols. These programs offer a structured, earn-while-you-learn model that appeals strongly to individuals looking to avoid college debt and gain practical skills immediately. For contractors, investing in these programs yields significant returns. Studies show that companies with [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) experience higher employee retention rates (up to 90% in some cases) and a 150% return on investment through increased productivity and reduced recruitment costs.
 
 **Key Stat: Apprenticeship graduates earn an average of $300,000 more over their careers than non-apprenticeship graduates and have a 92% retention rate after program completion.**
 

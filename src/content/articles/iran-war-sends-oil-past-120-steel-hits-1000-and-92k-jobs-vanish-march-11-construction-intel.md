@@ -107,7 +107,7 @@ For contractors, this national dialogue underscores the urgency of investing in 
 
 ### Key Pillars of Workforce Development:
 
-- **[Apprenticeship Programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/):** Partner with local unions, trade schools, and community colleges to establish or participate in accredited apprenticeship programs, providing structured training and career pathways.
+- **[Apprenticeship Programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/):** Partner with local unions, trade schools, and community colleges to establish or participate in accredited [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/), providing structured training and career pathways.
 
 - **Internal Training & Upskilling:** Implement continuous learning programs for current employees, focusing on new technologies, safety protocols, and leadership development.
 

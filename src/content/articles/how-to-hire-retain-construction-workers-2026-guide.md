@@ -296,7 +296,7 @@ Broaden your net beyond traditional job boards to effectively [how to hire const
 
 - **Direct Partnerships:** Build relationships with local trade schools, community colleges, high school vocational programs, and union halls.
 
-- **Apprenticeship Programs:** Actively participate in or establish your own [construction apprenticeship programs](#) (NCCER, union, or in-house).
+- **[Apprenticeship Programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/):** Actively participate in or establish your own [construction apprenticeship programs](#) (NCCER, union, or in-house).
 
 - **Veteran Organizations:** Partner with programs like Helmets to Hardhats and local veteran employment services.
 
@@ -600,7 +600,7 @@ Younger generations are looking for stability, career progression, a positive wo
 
 - **Competitive Pay & Benefits:** While not the only factor, a strong starting wage and comprehensive benefits package are essential.
 
-### Can small GCs realistically implement apprenticeship programs?
+### Can small GCs realistically implement [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/)?
 
 Absolutely. While large GCs might have dedicated training facilities, smaller GCs can implement effective apprenticeship programs through partnerships and structured on-the-job training.
 
