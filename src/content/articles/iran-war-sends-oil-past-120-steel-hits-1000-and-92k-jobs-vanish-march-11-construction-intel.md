@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619679/scalinglegends/2026_0
 readTime: "5 min read"
 published: true
 season: 2
-updatedAt: "2026-03-15"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -59,7 +59,7 @@ The upcoming CPI (Consumer Price Index) data release today and the Federal Reser
 
 - **Financial Stress Testing:** Conduct sensitivity analyses on current and prospective projects, modeling scenarios with higher interest rates and increased material costs to understand potential impacts on profitability and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
 
-- **Labor Force Planning:** Despite broader job losses, continue to invest in workforce development, training, and retention programs. Explore partnerships with vocational schools and apprenticeship programs to secure a pipeline of skilled labor.
+- **Labor Force Planning:** Despite broader job losses, continue to invest in workforce development, training, and retention programs. Explore partnerships with vocational schools and [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) to secure a pipeline of skilled labor.
 
 - **Cash Flow Optimization:** Focus on aggressive invoicing, efficient collections, and prudent expense management to maintain strong cash reserves in a high-interest rate environment.
 
@@ -107,7 +107,7 @@ For contractors, this national dialogue underscores the urgency of investing in 
 
 ### Key Pillars of Workforce Development:
 
-- **Apprenticeship Programs:** Partner with local unions, trade schools, and community colleges to establish or participate in accredited apprenticeship programs, providing structured training and career pathways.
+- **[Apprenticeship Programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/):** Partner with local unions, trade schools, and community colleges to establish or participate in accredited apprenticeship programs, providing structured training and career pathways.
 
 - **Internal Training & Upskilling:** Implement continuous learning programs for current employees, focusing on new technologies, safety protocols, and leadership development.
 

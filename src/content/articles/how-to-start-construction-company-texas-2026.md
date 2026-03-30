@@ -276,7 +276,7 @@ These certifications can give you a competitive edge, especially on public contr
 Texas offers immense opportunities, but it's not without its unique hurdles.
 
 *   **Workforce Shortages:** The demand for skilled tradespeople far outstrips supply across the state.
-*   **Navigation:** Invest in training, offer competitive wages and benefits, cultivate a positive company culture, and partner with local trade schools or community colleges. Look for apprenticeship programs.
+*   **Navigation:** Invest in training, offer competitive wages and benefits, cultivate a positive company culture, and partner with local trade schools or community colleges. Look for [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/).
 *   **Material Costs and Supply Chain Volatility:** Rapid growth and global issues can lead to fluctuating material prices and delivery delays.
 *   **Navigation:** Build strong relationships with multiple suppliers, include escalation clauses in your contracts, maintain good [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) to pre-purchase materials when possible, and stay updated on market trends.
 *   **Extreme Weather:** Texas experiences everything from scorching summers to occasional freezes, severe thunderstorms, and hurricanes along the coast.

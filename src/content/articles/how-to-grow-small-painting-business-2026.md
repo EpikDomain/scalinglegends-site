@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-grow-small-painting-business-2026.j
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -66,7 +66,7 @@ Don't just look for warm bodies. Look for attitude, work ethic, and a willingnes
 
 - **Online Job Boards:** Craft compelling job descriptions that highlight your company culture and growth opportunities.
 
-- **Apprenticeship Programs:** Invest in developing talent from scratch.
+- **[Apprenticeship Programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/):** Invest in developing talent from scratch.
 
 ### Structured Training Programs: Don't Assume Competence
 

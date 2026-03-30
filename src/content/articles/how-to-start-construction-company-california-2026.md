@@ -347,7 +347,7 @@ California is a land of opportunity, but it's not without its unique obstacles. 
 
 - **Challenge:** Wages are high, especially for skilled trades. The cost of living makes it difficult to attract and retain workers, leading to labor shortages.
 
-- **Solution:** Focus on efficiency, invest in training and apprenticeship programs (your own or through unions), foster a strong company culture to retain employees, and explore technology to enhance productivity. Consider strategic partnerships to access specialized labor.
+- **Solution:** Focus on efficiency, invest in training and [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) (your own or through unions), foster a strong company culture to retain employees, and explore technology to enhance productivity. Consider strategic partnerships to access specialized labor.
 
 #### Permitting Delays & Environmental Scrutiny
 

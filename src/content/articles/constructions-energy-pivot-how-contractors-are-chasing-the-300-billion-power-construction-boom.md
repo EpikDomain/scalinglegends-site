@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628650/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -121,7 +121,7 @@ The skills gap in the energy sector is significant. Contractors serious about th
 
 - **Safety Training:** Energy projects often involve unique hazards (high voltage, working at heights, confined spaces). Robust, specialized safety training is non-negotiable.
 
-- **Apprenticeships & Upskilling:** Developing internal apprenticeship programs or partnering with local community colleges and trade schools to build a pipeline of skilled workers tailored to energy construction.
+- **Apprenticeships & Upskilling:** Developing internal [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) or partnering with local community colleges and trade schools to build a pipeline of skilled workers tailored to energy construction.
 
 - **Leadership & Project Management Training:** Equipping project managers and superintendents with the knowledge to manage the unique complexities of energy projects, including permitting, grid interconnection, and technology integration.
 

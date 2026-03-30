@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.j
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-03-29"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -66,7 +66,7 @@ Your team is the engine of your growth. In a competitive labor market, attractin
 
 ### Strategic Recruitment in a Tight Labor Market
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) continues to face significant labor shortages, a trend projected to persist through 2026. To combat this, you need a proactive and innovative recruitment strategy. Look beyond traditional job boards. Partner with vocational schools, community colleges, and apprenticeship programs. Offer internships and mentorships to cultivate future talent. Develop a strong employer brand that highlights your company culture, commitment to safety, professional development opportunities, and competitive compensation packages. Consider expanding your recruitment efforts to include underrepresented groups, such as women and veterans, who bring diverse skills and perspectives to the workforce.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) continues to face significant labor shortages, a trend projected to persist through 2026. To combat this, you need a proactive and innovative recruitment strategy. Look beyond traditional job boards. Partner with vocational schools, community colleges, and [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/). Offer internships and mentorships to cultivate future talent. Develop a strong employer brand that highlights your company culture, commitment to safety, professional development opportunities, and competitive compensation packages. Consider expanding your recruitment efforts to include underrepresented groups, such as women and veterans, who bring diverse skills and perspectives to the workforce.
 
 Furthermore, explore talent pools in adjacent industries or those with transferable skills. For example, individuals with strong organizational skills from logistics or manufacturing could be trained for project coordination roles. Emphasize continuous learning and career pathways within your organization to attract ambitious individuals looking for long-term growth. This approach is essential for how to grow a construction business effectively in the current climate.
 

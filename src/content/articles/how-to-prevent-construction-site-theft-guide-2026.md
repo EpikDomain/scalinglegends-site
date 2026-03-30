@@ -22,7 +22,7 @@ Construction sites are lucrative targets for thieves. The sheer volume of valuab
 
 For any [construction business](/article/how-to-scale-a-construction-business-without-losing-control/), from a small contractor to a large enterprise, construction site security is not an optional extra; it's a fundamental operational necessity. Ignoring it is akin to leaving money on the table for criminals to collect. This article provides a comprehensive, no-nonsense guide to construction theft prevention, outlining the strategies, technologies, and best practices required to protect your assets, maintain project timelines, and safeguard your bottom line.
 
-## The Alarming Scale of Construction Site Theft: A $2 Billion Burden
+## The Alarming Scale of [Construction Site Theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/): A $2 Billion Burden
 
 The statistics paint a grim picture. Every year, thousands of pieces of heavy equipment, countless power tools, and tons of raw materials vanish from construction sites across the nation. This isn't just opportunistic petty theft; it's often organized crime, with professional thieves targeting specific items for their high resale value.
 
@@ -146,7 +146,7 @@ The future of construction site security is increasingly incorporating sophistic
 
 ## Technological Solutions for Equipment and Tool Tracking: Beyond Physical Barriers
 
-Even with the best physical security, determined thieves can sometimes bypass defenses. This is where asset tracking technology becomes invaluable, transforming "stolen" into "recoverable." These are critical construction site theft solutions.
+Even with the best physical security, determined thieves can sometimes bypass defenses. This is where asset tracking technology becomes invaluable, transforming "stolen" into "recoverable." These are critical [construction site theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/) solutions.
 
 ### GPS Tracking for Heavy Equipment: Locating Your Assets
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604270/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-03-30"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -45,9 +45,9 @@ Moreover, the perception of construction as a physically demanding, low-tech, an
 
 The economic impact is substantial. Shortages drive up labor costs, making projects less competitive and potentially passing higher expenses on to clients. For a contractor aiming to grow from $10M to $25M, a consistent lack of skilled electricians, plumbers, or carpenters can stall that growth indefinitely. Data from [Smart Business Automator](https://smartbusinessautomator.com) indicates that firms with robust talent acquisition and retention strategies outperform their peers by up to 20% in project completion efficiency and profitability. This crisis demands a proactive, multi-pronged approach, starting with how we train the next generation.
 
-## Building the Bench: Modern `construction apprenticeship programs`
+## Building the Bench: Modern `[construction apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/)`
 
-Traditional apprenticeship models, while foundational, are evolving to meet the demands of modern construction and attract a new generation of workers. Successful `construction apprenticeship programs` today are characterized by their integration of technology, diverse recruitment efforts, and clear pathways to career advancement. For contractors aiming to solve the labor crisis, establishing or partnering with such programs is no longer optional—it's essential.
+Traditional apprenticeship models, while foundational, are evolving to meet the demands of modern construction and attract a new generation of workers. Successful `[construction apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/)` today are characterized by their integration of technology, diverse recruitment efforts, and clear pathways to career advancement. For contractors aiming to solve the labor crisis, establishing or partnering with such programs is no longer optional—it's essential.
 
 Modern apprenticeships move beyond basic tool skills, incorporating training in digital blueprint reading, BIM software, drone operation, and advanced safety protocols. These programs offer a structured, earn-while-you-learn model that appeals strongly to individuals looking to avoid college debt and gain practical skills immediately. For contractors, investing in these programs yields significant returns. Studies show that companies with apprenticeship programs experience higher employee retention rates (up to 90% in some cases) and a 150% return on investment through increased productivity and reduced recruitment costs.
 

@@ -381,7 +381,7 @@ Especially in NoVA, the market is saturated with highly capable contractors. Dif
 
 This is a nationwide problem, and Virginia is no exception. Finding skilled tradespeople (carpenters, electricians, plumbers, HVAC technicians) is a constant challenge.
 
-- **Strategy:** Invest in training, offer competitive wages and benefits, foster a positive company culture, and partner with local trade schools or apprenticeship programs. Consider recruiting veterans, who often possess valuable skills and discipline.
+- **Strategy:** Invest in training, offer competitive wages and benefits, foster a positive company culture, and partner with local trade schools or [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/). Consider recruiting veterans, who often possess valuable skills and discipline.
 
 ### Local Permitting Nuances
 

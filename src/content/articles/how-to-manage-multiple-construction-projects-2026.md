@@ -3,7 +3,7 @@ title: "Construction Projects 2026: Trends & Forecasts"
 description: "Explore the future of managing multiple construction projects in 2026. Uncover upcoming trends, tech insights, and operational shifts for GCs to stay ahead."
 date: "2026-02-17"
 image: "https://scalinglegends.com/og/how-to-manage-multiple-construction-projects-2026.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2648733/scalinglegends/2026_03_22_08_45_33_91367a5c-3ccc-4344-a5d0-1a0e7504fe92.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2673536/scalinglegends/2026_03_30_08_43_42_fc4ea1f8-6c21-4e5b-902e-e88096881d3c.mp3"
 readTime: "64 min read"
 published: true
 season: 2

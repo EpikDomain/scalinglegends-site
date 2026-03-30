@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-pennsylv
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -399,7 +399,7 @@ Every state has its challenges. In PA, being prepared means knowing what you're 
 
 - **Challenge:** Like everywhere, finding skilled labor is tough. Aging workforce, lack of interest in trades among younger generations.
 
-- **Navigation:** Invest in training and apprenticeship programs. Partner with vocational schools or community colleges. Foster a positive work environment to attract and retain talent. Look into state-funded workforce development programs.
+- **Navigation:** Invest in training and [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/). Partner with vocational schools or community colleges. Foster a positive work environment to attract and retain talent. Look into state-funded workforce development programs.
 
 **Material Costs and Supply Chain:**
 

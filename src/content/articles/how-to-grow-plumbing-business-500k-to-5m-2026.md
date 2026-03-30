@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-grow-plumbing-business-500k-to-5m-2
 readTime: "33 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -58,7 +58,7 @@ Both residential and commercial plumbing offer unique advantages and challenges.
 
 Your people are your greatest asset and often your biggest bottleneck. The talent shortage is real. You need a proactive strategy:
 
-- **Recruitment:** Go beyond traditional job boards. Partner with local trade schools, offer apprenticeship programs, and build a strong employer brand. Consider signing bonuses for experienced plumbers.
+- **Recruitment:** Go beyond traditional job boards. Partner with local trade schools, offer [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/), and build a strong employer brand. Consider signing bonuses for experienced plumbers.
 
 - **Training:** Don't just throw new hires into the deep end. Implement structured onboarding and ongoing technical training. Invest in factory training for specific equipment. Cross-train technicians on different systems (e.g., water heaters, drain cleaning, basic HVAC).
 
@@ -206,7 +206,7 @@ Essential technology includes Field Service Management (FSM) software (e.g., ent
 
 ### How do I attract and retain skilled plumbers?
 
-Attracting and retaining skilled plumbers requires a proactive strategy: offer competitive wages and benefits, establish clear career paths and opportunities for advancement, invest in ongoing training and professional development, and foster a positive, supportive company culture. Partner with trade schools and consider apprenticeship programs to build your talent pipeline.
+Attracting and retaining skilled plumbers requires a proactive strategy: offer competitive wages and benefits, establish clear career paths and opportunities for advancement, invest in ongoing training and professional development, and foster a positive, supportive company culture. Partner with trade schools and consider [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) to build your talent pipeline.
 
 ### When should a plumbing business consider diversification?
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-20
 readTime: "70 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-03-30"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -74,7 +74,7 @@ This is arguably the most critical long-term strategy for construction labor sho
 
 - **NCCER (National Center for Construction Education and Research):** NCCER provides standardized curriculum and certifications for a wide range of craft skills. Many community colleges and private training facilities use NCCER's framework. Partnering with NCCER-accredited programs ensures a baseline of quality training.
 
-- **Union Apprenticeships:** Don't dismiss unions if you haven't worked with them extensively. Union apprenticeship programs (e.g., United Brotherhood of Carpenters, International Brotherhood of Electrical Workers, United Association of Plumbers and Pipefitters) are highly respected, rigorous, and produce some of the most skilled tradespeople in the industry. Engaging with local union halls can provide access to a well-trained, reliable workforce. Understand their structure, benefits, and how you can become a signatory contractor if it aligns with your business model.
+- **Union Apprenticeships:** Don't dismiss unions if you haven't worked with them extensively. Union [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) (e.g., United Brotherhood of Carpenters, International Brotherhood of Electrical Workers, United Association of Plumbers and Pipefitters) are highly respected, rigorous, and produce some of the most skilled tradespeople in the industry. Engaging with local union halls can provide access to a well-trained, reliable workforce. Understand their structure, benefits, and how you can become a signatory contractor if it aligns with your business model.
 
 **In-House Apprenticeships & Training:** For GCs scaling to $50M+, creating your own structured in-house apprenticeship or training program is a powerful differentiator.
 
@@ -84,7 +84,7 @@ This is arguably the most critical long-term strategy for construction labor sho
 
 - **Certification Reimbursement:** Pay for employees to get relevant certifications (e.g., OSHA, specific equipment operation, specialized welding).
 
-- **SBA Resources:** The Small Business Administration (SBA) offers resources and guidance for businesses looking to establish or expand apprenticeship programs, including information on grants and tax credits. Explore their website for programs that can help offset the costs of training and development.
+- **SBA Resources:** The Small Business Administration (SBA) offers resources and guidance for businesses looking to establish or expand [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/), including information on grants and tax credits. Explore their website for programs that can help offset the costs of training and development.
 
 ### Tapping Into Untapped Pools: Veterans, Immigrants, and Second Chances
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -109,7 +109,7 @@ Construction content has carved out a genuine niche on TikTok. Satisfying renova
 
 The money flowing into trades training right now is unprecedented:
 
-**California** allocated **$68 million** for apprenticeship programs: $52M for Apprenticeship Innovation Funding and $16M for the California Opportunity Youth Apprenticeship program.
+**California** allocated **$68 million** for [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/): $52M for Apprenticeship Innovation Funding and $16M for the California Opportunity Youth Apprenticeship program.
 
 **California also invested $26 million** specifically to recruit women into construction apprenticeships. Breakdown: $11.8M for childcare, $7.2M for recruitment, $7M for worksite culture improvement including anti-harassment training and mental health support.
 
@@ -127,7 +127,7 @@ In Germany, approximately **50% of all school leavers** enter the dual apprentic
 
 In the US? **Less than 5% of young Americans** train as apprentices (Urban Institute).
 
-Australia launched a new Group Training Organization subsidy in January 2025 covering 400 apprentice places with a 20% target for women. Construction apprenticeship completions are **up 19.9%** in the March 2025 quarter. 320,830 active apprentice and trainee contracts nationally.
+Australia launched a new Group Training Organization subsidy in January 2025 covering 400 apprentice places with a 20% target for women. [Construction apprenticeship](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) completions are **up 19.9%** in the March 2025 quarter. 320,830 active apprentice and trainee contracts nationally.
 
 The gap between the US and these countries isn't cultural. It's structural. Germany and Australia built systems where training is employer-integrated from day one. The US is getting there with programs like BuildItAZ and GCU/McCarthy, but there's a decade of catch-up ahead.
 

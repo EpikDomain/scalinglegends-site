@@ -350,7 +350,7 @@ Every market has its quirks. North Carolina is no different.
 ### Labor Shortages & Talent Acquisition
 
 The booming construction market means fierce competition for skilled trades. Finding qualified electricians, plumbers, carpenters, and project managers is a constant challenge.
-**Strategy:** Invest in training, offer competitive wages and benefits, foster a positive company culture, partner with local community colleges and trade schools, and consider apprenticeship programs.
+**Strategy:** Invest in training, offer competitive wages and benefits, foster a positive company culture, partner with local community colleges and trade schools, and consider [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/).
 
 ### Navigating Local Permitting & Regulations
 

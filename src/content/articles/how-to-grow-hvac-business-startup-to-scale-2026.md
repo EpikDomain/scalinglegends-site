@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-grow-hvac-business-startup-to-scale
 readTime: "60 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -708,6 +708,6 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Streamline Your Customer Onboarding/Service Process.** Review your current customer intake and service delivery process to identify one bottleneck that adds 15+ minutes to a service call or administrative task, then implement a small fix this week like a standardized pre-call checklist.
 
-- **Research Local Training & Apprenticeship Programs.** Spend 1-2 hours identifying local HVAC trade schools, community colleges, or apprenticeship programs, creating a list of contacts to explore future talent pipeline partnerships.
+- **Research Local Training & [Apprenticeship Programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/).** Spend 1-2 hours identifying local HVAC trade schools, community colleges, or [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/), creating a list of contacts to explore future talent pipeline partnerships.
 
 - **Delegate One Owner-Operator Task.** Choose one recurring operational task (e.g., ordering parts, specific scheduling) that you currently handle personally, then empower a trusted employee to take it over this week, providing clear instructions and daily check-ins.

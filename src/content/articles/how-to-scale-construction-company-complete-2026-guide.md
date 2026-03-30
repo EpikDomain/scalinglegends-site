@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete
 readTime: "41 min read"
 published: true
 season: 2
-updatedAt: "2026-03-29"
+updatedAt: "2026-03-30"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -84,7 +84,7 @@ In the early stages, employees often wear many hats. As you scale, you need to b
 
 ### Attracting and Retaining Top Talent
 
-The construction industry faces a significant skilled labor shortage. To combat this, you need a proactive recruitment strategy. This includes competitive compensation packages, comprehensive benefits, a strong company culture, and opportunities for professional development. Apprenticeship programs, partnerships with vocational schools, and internal training initiatives can help build your talent pipeline. Retaining employees is equally important; foster a positive work environment, recognize achievements, and provide clear paths for advancement.
+The construction industry faces a significant skilled labor shortage. To combat this, you need a proactive recruitment strategy. This includes competitive compensation packages, comprehensive benefits, a strong company culture, and opportunities for professional development. [Apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/), partnerships with vocational schools, and internal training initiatives can help build your talent pipeline. Retaining employees is equally important; foster a positive work environment, recognize achievements, and provide clear paths for advancement.
 
 ### Developing Leadership and Delegation Skills
 
@@ -208,7 +208,7 @@ While profit margins vary widely by sector and project type, a healthy net profi
 
 ### How do I attract skilled labor when scaling my construction business?
 
-Attracting skilled labor requires a multi-faceted approach. Offer competitive wages and benefits, invest in training and career development programs, foster a positive and safe work culture, and engage with vocational schools or apprenticeship programs. Emphasize your company's growth opportunities and commitment to employee well-being to stand out in a competitive market.
+Attracting skilled labor requires a multi-faceted approach. Offer competitive wages and benefits, invest in training and career development programs, foster a positive and safe work culture, and engage with vocational schools or [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/). Emphasize your company's growth opportunities and commitment to employee well-being to stand out in a competitive market.
 
 ### What are the biggest cash flow challenges when growing a construction company?
 
