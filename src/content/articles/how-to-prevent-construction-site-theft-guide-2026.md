@@ -338,7 +338,7 @@ A: For high-value sites, particularly those with significant equipment or materi
 
 ## Conclusion
 
-The $2 billion problem of construction site theft is a direct assault on the profitability and efficiency of the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/). It's a challenge that demands a proactive, multi-faceted approach. There is no single silver bullet; instead, effective construction theft prevention relies on a carefully orchestrated blend of physical security, advanced technology, stringent internal controls, and collaborative partnerships.
+The $2 billion problem of [construction site theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/) is a direct assault on the profitability and efficiency of the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/). It's a challenge that demands a proactive, multi-faceted approach. There is no single silver bullet; instead, effective construction theft prevention relies on a carefully orchestrated blend of physical security, advanced technology, stringent internal controls, and collaborative partnerships.
 
 Implementing a comprehensive construction site security plan is not an expense; it is an essential investment in protecting your assets, ensuring project continuity, and safeguarding your company's reputation. By adopting the strategies outlined in this guide – from robust fencing and strategic lighting to cutting-edge GPS tracking and AI-powered surveillance – you can significantly reduce your vulnerability and turn your construction site into a fortress against crime. Take control, secure your sites, and stop contributing to the $2 billion problem.
 
