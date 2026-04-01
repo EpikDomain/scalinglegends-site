@@ -135,7 +135,7 @@ Leading sources for finding new [construction projects](/article/surviving-the-m
 
 - **Invest in Modern Estimating Software:** If you're not already, upgrade to [Smart Business Automator](https://smartbusinessautomator.com)-informed [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software that allows for real-time cost updates, detailed breakdowns, and efficient proposal generation. This will significantly improve accuracy and speed.
 
-- **Leverage [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/):** Subscribe to a market intelligence service or dedicate time to research industry trends and competitor activity. This data will inform your pricing strategy and help you identify emerging opportunities.
+- **Leverage [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/):** Subscribe to a [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) service or dedicate time to research industry trends and competitor activity. This data will inform your pricing strategy and help you identify emerging opportunities.
 
 ## Bottom Line
 

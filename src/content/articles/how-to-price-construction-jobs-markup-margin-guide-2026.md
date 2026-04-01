@@ -1,12 +1,12 @@
 ---
-title: "Price Construction Jobs: Your 2026 Profit Formula Guide"
-description: "Master construction job pricing in 2026. Learn precise formulas for markup, margin, and overhead to ensure every project is profitable. Stop underpricing now!"
+title: "Pricing Construction: 2026 Trends & Profit Mistakes"
+description: "Discover critical 2026 construction pricing trends and common errors costing contractors profit. Understand evolving market dynamics and pricing models."
 date: "2026-03-01"
 image: "https://scalinglegends.com/og/how-to-price-construction-jobs-markup-margin-guide-2026.jpg"
 readTime: "66 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-04-01"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

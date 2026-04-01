@@ -81,9 +81,9 @@ Effective January 2026, California's mandate for low-carbon concrete in building
 
 The DOE SPARK program opens applications on May 20 for $1.9 billion in funding, targeting innovative energy projects. Additionally, the IIJA has a September 30 deadline for various infrastructure funding streams. Contractors should prepare detailed proposals, ensure strong bonding capacity, and meet federal compliance requirements like prevailing wage to capitalize on these significant opportunities for [construction business growth 2026](/article/construction-business-growth-2026/).
 
-### Why is construction safety trending up +141%, and what does it mean for my business?
+### Why is [construction safety](/article/how-to-create-construction-safety-program-osha-2026/) trending up +141%, and what does it mean for my business?
 
-The +141% trend in construction safety reflects increased regulatory scrutiny, higher insurance costs, and a growing emphasis on worker well-being. For your business, this means investing in robust safety programs, advanced PPE, and potentially new technologies like IoT-enabled site monitoring. Proactive safety measures reduce OSHA citations, improve project efficiency, and enhance your firm's reputation, attracting better talent and reducing overall operational risks.
+The +141% trend in [construction safety](/article/how-to-create-construction-safety-program-osha-2026/) reflects increased regulatory scrutiny, higher insurance costs, and a growing emphasis on worker well-being. For your business, this means investing in robust safety programs, advanced PPE, and potentially new technologies like IoT-enabled site monitoring. Proactive safety measures reduce OSHA citations, improve project efficiency, and enhance your firm's reputation, attracting better talent and reducing overall operational risks.
 
 ### How can AI [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) 2026 improve my estimating process?
 

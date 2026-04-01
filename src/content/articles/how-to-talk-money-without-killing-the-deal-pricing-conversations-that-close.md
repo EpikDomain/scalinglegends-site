@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2636367/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
+updatedAt: "2026-04-01"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -42,7 +43,7 @@ Consider a recent study by [Smart Business Automator](https://smartbusinessautom
 
 **Key Stat: Clients who perceive high value are 60% less likely to request significant discounts, even when presented with competitive bids.**
 
-## Mastering the Art of "How to Discuss Pricing Construction" Early and Often
+## Mastering the Art of "How to Discuss [Pricing Construction](/article/how-to-price-construction-jobs-markup-margin-guide-2026/)" Early and Often
 
 The secret to successfully discussing pricing in construction isn't to delay it, but to integrate it strategically throughout the sales process. This doesn't mean giving a hard quote in the first meeting, but rather setting expectations and discussing budget parameters from the outset. Many contractors shy away from budget conversations, fearing it might scare off potential clients. However, avoiding these discussions leads to wasted time on projects that are fundamentally misaligned on cost, impacting your [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
 

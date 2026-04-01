@@ -1,12 +1,12 @@
 ---
-title: "How to Grow a Roofing Company: The Revenue Playbook for 2026"
-description: "Scale your roofing business from 00K to 0M+ with this playbook covering storm restoration, commercial roofing, crew development, sales team building, and the tech stack that top roofing companies run."
+title: "Roofing Company Trends: What's Next for 2026?"
+description: "Explore the future of roofing in 2026. Uncover key industry trends, tech advancements, and market shifts impacting growth for storm restoration and commercial roofing businesses."
 date: "2026-03-02"
 image: "https://scalinglegends.com/og/how-to-grow-roofing-company-revenue-playbook-2026.jpg"
 readTime: "49 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-01"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
