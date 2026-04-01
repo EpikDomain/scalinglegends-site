@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-prevent-construction-site-theft-gui
 readTime: "37 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-01"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -312,7 +312,7 @@ View security as an essential investment, not an expendable cost. The expense of
 
 ## Frequently Asked Questions About [Construction Site Theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/) Prevention
 
-### Q: How much does construction site theft cost the industry annually?
+### Q: How much does [construction site theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/) cost the industry annually?
 
 A: Estimates vary, but the consensus points to over $1 billion, with some reports reaching $2 billion annually in the U.S. alone. This figure primarily covers direct losses, not the substantial indirect costs like project delays, increased insurance premiums, and lost productivity.
 
@@ -324,7 +324,7 @@ A: Heavy equipment (skid steers, loaders, excavators), power tools (drills, saws
 
 A: Yes, GPS tracking is highly effective for recovery and can act as a deterrent. While it doesn't physically prevent the initial theft, it significantly increases the chances of locating and retrieving stolen equipment, often leading to arrests. Many systems also offer geofencing and remote immobilization features.
 
-### Q: What role do employees play in construction site theft?
+### Q: What role do employees play in [construction site theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/)?
 
 A: Employee theft is a significant concern and can account for a substantial portion of losses. It can range from petty pilfering of tools or materials to more organized schemes. Robust inventory management, thorough background checks, clear policies, and fostering a culture of accountability and anonymous reporting are crucial for prevention.
 

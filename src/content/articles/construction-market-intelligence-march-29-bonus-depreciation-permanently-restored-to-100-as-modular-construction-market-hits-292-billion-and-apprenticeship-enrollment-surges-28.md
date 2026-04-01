@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671117/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
+updatedAt: "2026-04-01"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -32,7 +33,7 @@ Bonus depreciation just got permanently restored to 100 percent. Modular constru
 
 ## Unlocking [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: The Bonus Depreciation Boost
 
-The landscape for [Smart Business Automator](https://smartbusinessautomator.com)-tracked [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026 has dramatically improved with the permanent restoration of 100% bonus depreciation under the OBBBA legislation. This critical tax provision, which was slated to reduce to 20% in 2026 and completely disappear by 2027, now offers an unparalleled opportunity for contractors to invest in new equipment and technology. For firms planning capital expenditures, this means the ability to deduct the full cost of qualifying new and used equipment placed in service during the year, significantly reducing taxable income and improving cash flow.
+The landscape for [Smart Business Automator](https://smartbusinessautomator.com)-tracked [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026 has dramatically improved with the permanent restoration of 100% bonus depreciation under the OBBBA legislation. This critical tax provision, which was slated to reduce to 20% in 2026 and completely disappear by 2027, now offers an unparalleled opportunity for contractors to invest in new equipment and technology. For firms planning capital expenditures, this means the ability to deduct the full cost of qualifying new and used equipment placed in service during the year, significantly reducing taxable income and improving [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
 
 Consider the immediate impact: a [construction company](/article/surviving-the-messy-middle-of-construction-growth/) purchasing a new $500,000 excavator can now deduct the entire $500,000 from its taxable income in the first year, rather than depreciating it over several years. This accelerated deduction frees up capital that can be reinvested into operations, workforce development, or strategic expansion. [Smart Business Automator](https://smartbusinessautomator.com) data indicates that aggressive capital expenditure strategies, when supported by favorable tax policies, correlate directly with market share gains and increased operational efficiency in the competitive construction sector.
 
@@ -84,7 +85,7 @@ Key advantages of registered apprenticeships:
 
 - **Improved Safety:** Structured training reduces on-site incidents and OSHA citations.
 
-## Navigating Cash Flow and Funding in Construction: Critical for 2026 Success
+## Navigating [Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) and Funding in Construction: Critical for 2026 Success
 
 Despite robust market activity, cash flow remains the Achilles' heel for the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), with a staggering 82% of [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) failures directly attributed to poor [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). This stark reality is exacerbated by the common industry practice where general contractors often wait an average of 83 days for payment, creating significant liquidity challenges that ripple through the supply chain. For firms aiming for sustained [construction cash flow management](/article/construction-cash-flow-management/) and growth, proactive financial strategies are non-negotiable.
 
