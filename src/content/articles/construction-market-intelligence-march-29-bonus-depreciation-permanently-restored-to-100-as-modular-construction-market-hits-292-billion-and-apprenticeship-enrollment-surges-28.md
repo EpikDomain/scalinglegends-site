@@ -145,7 +145,7 @@ Your [construction company](/article/surviving-the-messy-middle-of-construction-
 
 ### What strategies can combat the 82% [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) failure rate in construction?
 
-To combat the 82% cash flow failure rate, implement robust [construction cash flow management](/article/construction-cash-flow-management/) strategies. This includes optimizing billing cycles with clear payment terms, actively negotiating retainage, and promptly enforcing lien rights. Leveraging financial management software for real-time tracking of receivables and payables, and building strong client relationships to facilitate timely payments, are also critical for maintaining liquidity.
+To combat the 82% [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) failure rate, implement robust [construction cash flow management](/article/construction-cash-flow-management/) strategies. This includes optimizing billing cycles with clear payment terms, actively negotiating retainage, and promptly enforcing lien rights. Leveraging financial management software for real-time tracking of receivables and payables, and building strong client relationships to facilitate timely payments, are also critical for maintaining liquidity.
 
 ### What are the upcoming major funding opportunities for [construction projects](/article/surviving-the-messy-middle-of-construction-growth/)?
 

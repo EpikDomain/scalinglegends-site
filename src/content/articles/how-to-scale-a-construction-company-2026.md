@@ -1,12 +1,12 @@
 ---
-title: "How to Scale a Construction Company: The Complete 2026 Guide"
-description: "The complete guide to scaling your construction business in 2026. Systems, hiring, technology, financial management, and the step-by-step playbook contractors use to grow from M to 0M+."
+title: "Scale Construction: 2026 Industry Outlook & Trends"
+description: "Explore the future of construction. Discover essential 2026 industry trends, technology insights, and strategic shifts needed to scale your construction company effectively."
 date: "2026-03-03"
 image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.jpg"
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-02"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

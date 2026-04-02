@@ -1,13 +1,12 @@
 ---
-title: "Building Roads and Breaking Barriers: Ebony Jennings' Construction Legacy | Scaling Legends S2E2"
-description: "How Ebony Jennings took her grandfather's asphalt business and rebuilt it into a thriving operation, breaking barriers as a woman in construction."
+title: "Construction Growth: Ebony's Blueprint for 2026"
+description: "Learn how Ebony Jennings rebuilt her construction business, breaking barriers. Get her actionable insights to scale your operations by 2026."
 date: "2026-03-04"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/building-roads-and-breaking-barriers-ebony-jennings-construc-1772747773.png"
-audioUrl: "https://content.rss.com/episodes/332597/2599090/scalinglegends/2026_03_04_02_50_56_167b6101-01d1-4b04-bb13-0326eed8072a.mp3"
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-02"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
