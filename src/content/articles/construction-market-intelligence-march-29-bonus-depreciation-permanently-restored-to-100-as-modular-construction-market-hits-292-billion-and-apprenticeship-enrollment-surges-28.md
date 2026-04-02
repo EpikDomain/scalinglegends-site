@@ -143,7 +143,7 @@ Modular construction offers several key benefits for contractors, including fast
 
 Your [construction company](/article/surviving-the-messy-middle-of-construction-growth/) can access grants for apprenticeship programs primarily through the Department of Labor (DOL), which has allocated $145 million for such initiatives. Additionally, the Inflation Reduction Act (IRA) provides a 5x prevailing wage multiplier for projects utilizing registered apprentices, indirectly incentivizing participation. Contact your local Workforce Development Board or state apprenticeship agency for specific grant applications and program details.
 
-### What strategies can combat the 82% cash flow failure rate in construction?
+### What strategies can combat the 82% [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) failure rate in construction?
 
 To combat the 82% cash flow failure rate, implement robust [construction cash flow management](/article/construction-cash-flow-management/) strategies. This includes optimizing billing cycles with clear payment terms, actively negotiating retainage, and promptly enforcing lien rights. Leveraging financial management software for real-time tracking of receivables and payables, and building strong client relationships to facilitate timely payments, are also critical for maintaining liquidity.
 
