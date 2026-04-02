@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671117/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-04-01"
+updatedAt: "2026-04-02"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -99,7 +99,7 @@ AI [construction technology](/article/construction-market-intelligence-march-6-2
 
 - **Strengthen [Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) Projections:** Given the Gateway Tunnel's situation, dedicate time this week to stress-test your current [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) model. Analyze potential project delays, retainage impacts, and material cost fluctuations. Implement contingency plans for potential cash shortfalls on long-duration projects.
 
-- **Invest in Safety Technology & Training:** Capitalize on the +141% trend in construction safety. Review your current safety protocols and identify areas for improvement. Consider investing in new safety technology, such as wearable devices or drone inspections, and schedule refresher training for your field teams on work zone safety best practices.
+- **Invest in Safety Technology & Training:** Capitalize on the +141% trend in [construction safety](/article/how-to-create-construction-safety-program-osha-2026/). Review your current safety protocols and identify areas for improvement. Consider investing in new safety technology, such as wearable devices or drone inspections, and schedule refresher training for your field teams on work zone safety best practices.
 
 - **Explore Modular Construction Partnerships:** With modular construction trending +107%, research potential partnerships with off-site fabrication companies or consider developing in-house expertise. Identify project types where modular methods could offer competitive advantages in terms of speed, cost, and quality.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671117/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-04-01"
+updatedAt: "2026-04-02"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -133,7 +133,7 @@ Key technologies for 2026:
 
 ### How does 100% bonus depreciation affect my [construction business](/article/how-to-scale-a-construction-business-without-losing-control/)'s profitability?
 
-The permanent restoration of 100% bonus depreciation allows [your construction business](/article/how-to-systematize-construction-business-sops-software-2026/) to deduct the full cost of qualifying new and used equipment in the year it's placed in service. This significantly reduces your taxable income, leading to lower tax liabilities and improved cash flow. For example, a $200,000 equipment purchase could save your company tens of thousands in taxes, directly boosting your bottom line and freeing up capital for further investment.
+The permanent restoration of 100% bonus depreciation allows [your construction business](/article/how-to-systematize-construction-business-sops-software-2026/) to deduct the full cost of qualifying new and used equipment in the year it's placed in service. This significantly reduces your taxable income, leading to lower tax liabilities and improved [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/). For example, a $200,000 equipment purchase could save your company tens of thousands in taxes, directly boosting your bottom line and freeing up capital for further investment.
 
 ### What are the primary benefits of adopting modular construction methods for contractors?
 
