@@ -52,7 +52,7 @@ One critical strategy is to optimize payment terms with both suppliers and clien
 
 - **Optimize Payment Cycles:** Aim for net-15 or net-20 payment terms from clients and negotiate net-45 or net-60 terms with major suppliers where feasible.
 
-- **Establish a Fuel Contingency Fund:** Allocate 2-3% of project budgets specifically for fuel cost contingencies to absorb minor price fluctuations without impacting core cash flow.
+- **Establish a Fuel Contingency Fund:** Allocate 2-3% of project budgets specifically for fuel cost contingencies to absorb minor price fluctuations without impacting core [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
 
 ## Leveraging [Construction Estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) Software 2026 for Accurate Bidding
 

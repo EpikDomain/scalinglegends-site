@@ -1,12 +1,12 @@
 ---
-title: "How to Grow a Small Painting Business Into a Real Company"
-description: "Break out of the one-crew trap and build a real painting company. Covers multi-crew scaling, estimating, marketing with before/after portfolios, commercial contracts, and the systems that separate painters from painting business owners."
+title: "Painting Business Growth: Scale to 2026 Success"
+description: "Learn actionable strategies to scale your painting business beyond one crew. Implement systems, win commercial contracts, and market effectively for 2026 success."
 date: "2026-03-04"
 image: "https://scalinglegends.com/og/how-to-grow-small-painting-business-2026.jpg"
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-03"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

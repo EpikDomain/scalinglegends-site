@@ -36,7 +36,7 @@ Include specific, measurable, achievable, relevant, and time-bound (SMART) goals
 
 ### Understanding Your True Cost of Doing Business
 
-Many contractors underestimate their overheads, leading to underbidding and diminished profits. To truly scale, you must have a granular understanding of every cost associated with your operations – direct and indirect. This includes labor, materials, equipment, insurance, permits, administrative salaries, office rent, software subscriptions, marketing, and professional development. Implement job costing systems that provide real-time data on project expenses. For instance, if your general and administrative (G&A) overhead is 15% of your revenue, and your target net profit is 10%, you know your gross profit margin must consistently exceed 25% to hit your goals. This financial clarity is foundational to how to make a construction company successful.
+Many contractors underestimate their overheads, leading to underbidding and diminished profits. To truly scale, you must have a granular understanding of every cost associated with your operations – direct and indirect. This includes labor, materials, equipment, insurance, permits, administrative salaries, office rent, software subscriptions, marketing, and professional development. Implement job costing systems that provide real-time data on project expenses. For instance, if your general and administrative (G&A) overhead is 15% of your revenue, and your target net profit is 10%, you know your gross profit margin must consistently exceed 25% to hit your goals. This financial clarity is foundational to how to make [a construction company](/article/how-to-start-construction-company-washington-2026/) successful.
 
 ## Operational Excellence: Building Scalable Systems
 
