@@ -18,7 +18,7 @@ Navigating how to scale a [construction company from](/article/how-to-start-cons
 
 ## Beyond the Blueprint: Strategic Foundations for Growth
 
-Scaling a construction company isn't merely about taking on more projects; it's about building a robust infrastructure that can support increased volume without compromising quality or profitability. It starts with a clear, well-defined strategy.
+Scaling [a construction company](/article/how-to-start-construction-company-washington-2026/) isn't merely about taking on more projects; it's about building a robust infrastructure that can support increased volume without compromising quality or profitability. It starts with a clear, well-defined strategy.
 
 <iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 

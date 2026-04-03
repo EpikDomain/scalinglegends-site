@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616310/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-03"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -37,7 +37,7 @@ Diesel at $4.60/gallon (up 19% since January 2026) adds approximately 2-3% to to
 
 How to Scale a [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) 2026: K-Shaped Economy Deepens
 
-The construction economy just split in two. Big firms are swimming in work, backed by robust public and large-scale private projects. Small firms, however, are looking at exits, facing a stark 11,000 drop in February employment that signals a deepening K-shaped divide. This isn't just a market shift; it's an urgent call to action for contractors aiming to scale from $1M to $50M, demanding immediate strategic adjustments to survive and thrive.
+The [construction economy](/article/construction-economy-outlook-q2-2026-spending-up-52-but-starts-down-35-and-which-sectors-will-save-your-business/) just split in two. Big firms are swimming in work, backed by robust public and large-scale private projects. Small firms, however, are looking at exits, facing a stark 11,000 drop in February employment that signals a deepening K-shaped divide. This isn't just a market shift; it's an urgent call to action for contractors aiming to scale from $1M to $50M, demanding immediate strategic adjustments to survive and thrive.
 
 ## Key Takeaways
 
