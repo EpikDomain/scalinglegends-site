@@ -96,7 +96,7 @@ New construction starts are declining by 3.5% despite a 5.2% increase in spendin
 
 - **Strategize for Diversification.** Outline concrete steps to pivot or expand. This could involve targeted marketing, forming joint ventures with specialized firms, or investing in specific training for your project managers and crews.
 
-- **Tighten [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).** Implement a weekly cash flow forecast. Focus on accelerating receivables, negotiating favorable payment terms with clients, and optimizing payment schedules with subcontractors and suppliers to maintain liquidity.
+- **Tighten [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/).** Implement a weekly [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) forecast. Focus on accelerating receivables, negotiating favorable payment terms with clients, and optimizing payment schedules with subcontractors and suppliers to maintain liquidity.
 
 - **Enhance Estimating Accuracy.** Invest in or upgrade your [construction estimating software 2026](/article/construction-estimating-software-2026/). Given material cost volatility and tighter bid spreads, precise bidding is paramount to secure profitable work and avoid costly errors.
 
