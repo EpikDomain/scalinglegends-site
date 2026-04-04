@@ -1,12 +1,12 @@
 ---
-title: "Construction Growth: Ebony's Blueprint for 2026"
-description: "Learn how Ebony Jennings rebuilt her construction business, breaking barriers. Get her actionable insights to scale your operations by 2026."
+title: "Construction: Women Leaders & The Future by 2026"
+description: "Explore the impact of women like Ebony Jennings transforming construction. Discover trends shaping the industry and leadership landscape through 2026."
 date: "2026-03-04"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/building-roads-and-breaking-barriers-ebony-jennings-construc-1772747773.png"
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-02"
+updatedAt: "2026-04-04"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

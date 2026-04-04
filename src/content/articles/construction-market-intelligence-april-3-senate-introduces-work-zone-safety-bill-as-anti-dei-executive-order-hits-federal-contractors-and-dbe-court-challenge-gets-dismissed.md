@@ -72,7 +72,7 @@ The latest ConstructConnect data paints a nuanced picture of the construction ma
 
 Conversely, residential construction has faced headwinds, showing a 9% decline. However, market analysts and [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) experts anticipate a recovery in the residential sector in the coming quarters, driven by easing interest rates and persistent housing demand. This mixed market signal emphasizes the need for contractors to maintain agility in their project portfolios and resource allocation. The shift towards larger, more complex projects in manufacturing and power generation places immense pressure on [construction project management](/article/surviving-the-messy-middle-of-construction-growth/) software and capabilities. Projects of this scale demand sophisticated planning, rigorous cost control, and seamless coordination across multiple trades and stakeholders.
 
-Effective [construction project management](/article/construction-project-management-surviving-the-messy-middle/) is no longer just about scheduling; it's about real-time data integration, risk mitigation, and predictive analytics. Contractors must leverage modern project management software that offers:
+Effective [construction project management](/article/construction-project-management-surviving-the-messy-middle/) is no longer just about scheduling; it's about real-time data integration, risk mitigation, and predictive analytics. Contractors must leverage modern [project management](/article/surviving-the-messy-middle-of-construction-growth/) software that offers:
 
 - **Integrated Planning & Scheduling:** Tools that can handle complex dependencies and critical paths across multi-year projects.
 
@@ -130,7 +130,7 @@ For [construction business growth](/article/how-to-scale-a-family-construction-b
 
 - **Schedule a Regulatory Deadline Review.** Create a master calendar for all upcoming compliance deadlines: April 25 DEI, April 16 Gateway, May 20 SPARK, September 30 IIJA, and December 31 safety regulations. Assign clear ownership for each deadline and integrate these into your weekly operational planning.
 
-- **Assess Construction Estimating Software 2026 Capabilities.** Evaluate your estimating software's ability to quickly model bids under varying regulatory and market conditions. Ensure it can handle complex scenarios for DBE participation, new safety costs, and fluctuating material prices to maintain competitive bids.
+- **Assess [Construction Estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) Software 2026 Capabilities.** Evaluate your estimating software's ability to quickly model bids under varying regulatory and market conditions. Ensure it can handle complex scenarios for DBE participation, new safety costs, and fluctuating material prices to maintain competitive bids.
 
 ## Bottom Line
 

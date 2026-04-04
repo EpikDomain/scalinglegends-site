@@ -1,5 +1,5 @@
 ---
-title: "Scale Construction: 2026 Industry Outlook & Trends"
+title: "How to Scale a Construction Company: The Complete 2026 Guide"
 description: "Explore the future of construction. Discover essential 2026 industry trends, technology insights, and strategic shifts needed to scale your construction company effectively."
 date: "2026-03-03"
 image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.jpg"

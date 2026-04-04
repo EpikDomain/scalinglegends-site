@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-florida-
 readTime: "63 min read"
 published: true
 season: 2
-updatedAt: "2026-03-18"
+updatedAt: "2026-04-04"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -114,7 +114,7 @@ The CILB is serious about ensuring contractors are qualified, competent, and fin
 
 - **Trade Knowledge Exam:** Specific to your license category (e.g., General Contractor, Roofing, Plumbing, Electrical). These cover the Florida Building Code, relevant statutes, construction practices, estimating, and safety specific to your trade.
 
-- **Business & Finance Exam:** Covers Florida construction lien law, contract administration, project management, estimating, safety regulations, and business accounting principles relevant to Florida contractors.
+- **Business & Finance Exam:** Covers Florida [construction lien](/article/how-to-file-construction-lien-state-by-state-guide-2026/) law, contract administration, project management, estimating, safety regulations, and business accounting principles relevant to Florida contractors.
 
 These exams are challenging and require dedicated study. Many aspiring contractors utilize professional exam prep courses to increase their chances of success.
 - **Surety Bond:** Beyond the financial responsibility bond, some license types or specific situations may require additional surety bonds to protect consumers or ensure project completion.
