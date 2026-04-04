@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.j
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-04-03"
+updatedAt: "2026-04-04"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -74,7 +74,7 @@ Furthermore, explore talent pools in adjacent industries or those with transfera
 
 A strong company culture is a powerful tool for retention and productivity. Foster an environment where safety is paramount, quality is non-negotiable, and continuous improvement is encouraged. Implement regular training programs for both technical skills and soft skills like leadership, communication, and problem-solving. Empower your employees by delegating responsibility and providing opportunities for professional growth. A transparent and communicative leadership team builds trust and loyalty.
 
-Establish clear performance metrics and conduct regular performance reviews. Recognize and reward outstanding contributions. A culture of accountability means that everyone understands their role, their impact on the project, and is empowered to take ownership of their work. This not only improves project outcomes but also creates a more engaged and motivated workforce, which is crucial for how to make a construction company successful over the long term.
+Establish clear performance metrics and conduct regular performance reviews. Recognize and reward outstanding contributions. A culture of accountability means that everyone understands their role, their impact on the project, and is empowered to take ownership of their work. This not only improves project outcomes but also creates a more engaged and motivated workforce, which is crucial for how to make [a construction company](/article/how-to-start-construction-company-washington-2026/) successful over the long term.
 
 ### Effective Delegation and Leadership Development
 
