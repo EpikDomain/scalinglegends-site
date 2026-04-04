@@ -14,6 +14,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+<iframe src="https://www.youtube.com/embed/Cr_jdtgXrf4" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: Spending Up, Starts Down
 
 Spending is up 5.2 percent but starts are down 3.5 percent. The industry is living off its backlog. Here is the sector-by-sector map showing where to bet your business in Q2 2026. This outlook, informed by granular data from [Smart Business Automator](https://smartbusinessautomator.com), reveals critical shifts that demand immediate strategic adjustments for contractors aiming for sustained [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) in a volatile market. The difference between profit and loss this quarter hinges on understanding these nuances.

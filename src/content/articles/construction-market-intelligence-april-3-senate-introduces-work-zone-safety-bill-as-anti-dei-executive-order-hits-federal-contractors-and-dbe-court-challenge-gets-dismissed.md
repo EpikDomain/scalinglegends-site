@@ -14,6 +14,8 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
+<iframe src="https://www.youtube.com/embed/fjW-2DCfQuI" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
+
 A work zone safety bill just dropped. An anti-DEI order hits all federal contractors in 30 days. And a DBE court challenge was dismissed. Three regulatory earthquakes in one week. Your Friday intelligence starts now, offering crucial insights for your operations and long-term [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) strategies.
 
 ## Key Takeaways
