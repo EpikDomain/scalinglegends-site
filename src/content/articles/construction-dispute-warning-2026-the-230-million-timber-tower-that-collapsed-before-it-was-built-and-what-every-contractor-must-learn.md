@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2646876/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-04-04"
+updatedAt: "2026-04-05"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -93,7 +93,7 @@ Protecting **contractor profit margins 2026** in a dispute involves having clear
 
 ### What are the legal steps for filing a [construction lien](/article/how-to-file-construction-lien-state-by-state-guide-2026/)?
 
-The legal steps for filing a construction lien vary by state but generally involve sending a preliminary notice, preparing and recording the lien document with the county recorder within strict deadlines (e.g., Wisconsin's 6 months), and serving notice to relevant parties. Consulting with an attorney familiar with local lien laws is essential.
+The legal steps for filing a [construction lien](/article/how-to-file-construction-lien-state-by-state-guide-2026/) vary by state but generally involve sending a preliminary notice, preparing and recording the lien document with the county recorder within strict deadlines (e.g., Wisconsin's 6 months), and serving notice to relevant parties. Consulting with an attorney familiar with local lien laws is essential.
 
 ## How to Safeguard Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Against Project Collapse
 
