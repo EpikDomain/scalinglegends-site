@@ -43,7 +43,7 @@ For contractors scaling their operations, understanding and proactively managing
 
 Navigating the construction lien process requires precision, adherence to strict timelines, and a deep understanding of state-specific statutes. Missing a deadline or failing to include required information can irrevocably invalidate your lien rights. This is the general lifecycle:
 
-### How to File a Construction Lien: The Core Process
+### How to [File a Construction](/article/how-to-file-construction-lien-ohio-2026/) Lien: The Core Process
 
 - **Send a Preliminary Notice (Mandatory in Most States):** This is often the first, and most critical, step. It's a formal notice to the property owner, general contractor, and often the lender, informing them that you are providing labor or materials to the project and intend to protect your lien rights.
 

@@ -1,5 +1,5 @@
 ---
-title: "Construction Cash Flow Trends: Outlook for 2026"
+title: "Construction Cash Flow Outlook: Key Trends for 2026"
 description: "Discover the critical construction cash flow trends and economic factors shaping the industry for 2026. Get ahead of the curve and plan for future success."
 date: "2026-02-14"
 image: "https://scalinglegends.com/og/construction-cash-flow-management-guide-2026.jpg"
@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671116/scalinglegends/2026_0
 readTime: "59 min read"
 published: true
 season: 2
-updatedAt: "2026-04-03"
+updatedAt: "2026-04-05"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
