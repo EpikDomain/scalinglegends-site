@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-georgia-
 readTime: "52 min read"
 published: true
 season: 2
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -423,7 +424,7 @@ Alright, let's distill all this down into an actionable checklist.
 
 ### Do I need a license to do handyman work in Georgia?
 
-Generally, no. Georgia's state contractor licensing laws apply to projects exceeding certain thresholds or specific types of construction. For minor repairs or projects under a certain value (often $2,500, but this can vary by local ordinance and the nature of the work), a state contractor license is typically not required. However, you will still need a local business license in the city and/or county where you operate, and you must comply with all local building codes and permitting requirements for any structural, electrical, or plumbing work.
+Generally, no. Georgia's state contractor licensing laws apply to projects exceeding certain thresholds or specific types of construction. For minor repairs or projects under a certain value (often $2,500, but this can vary by local ordinance and the nature of the work), a state [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) is typically not required. However, you will still need a local business license in the city and/or county where you operate, and you must comply with all local building codes and permitting requirements for any structural, electrical, or plumbing work.
 
 ### What is the minimum net worth requirement for a Georgia General Contractor license?
 

@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-illinois
 readTime: "27 min read"
 published: true
 season: 2
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -91,7 +92,7 @@ Once your entity is registered with the ILSOS, you'll need an Employer Identific
 
 This is where many new contractors get tripped up. Illinois does NOT have a statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026/). This crucial detail dictates how you'll approach licensing.
 
-### No Statewide General Contractor License
+### No Statewide General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/)
 
 Let me repeat: There is no single, statewide license for general contractors in Illinois. This means you won't be applying to a state agency to become a "licensed GC for Illinois."
 

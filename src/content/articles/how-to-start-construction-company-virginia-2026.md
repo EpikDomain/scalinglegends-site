@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-virginia
 readTime: "51 min read"
 published: true
 season: 2
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -133,7 +134,7 @@ Regardless of the class, all applicants must meet certain criteria:
 
 - **Trade Exam(s):** Taken by the Qualified Individual for the specific classification(s) (e.g., Building, Electrical, HVAC, Plumbing).
 
-- **Receive Your License:** Once all steps are completed and passed, DPOR will issue your Virginia Contractor License.
+- **Receive Your License:** Once all steps are completed and passed, DPOR will issue your Virginia [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/).
 
 Don't underestimate the exams. They require dedicated study. PSI offers candidate information bulletins with content outlines and practice tests. Virginia has numerous approved providers for the mandatory 8-hour business course.
 

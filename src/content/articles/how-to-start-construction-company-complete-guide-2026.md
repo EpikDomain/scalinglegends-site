@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-complete
 readTime: "81 min read"
 published: true
 season: 2
-updatedAt: "2026-04-01"
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -113,7 +113,7 @@ The legal structure of your construction company impacts liability, taxation, an
 
 **Recommendation:** For most new construction companies, starting as an **LLC** is the most prudent choice. It provides essential liability protection without the complexity of a C-Corp. As your business grows and becomes profitable, you can elect for S-Corp taxation to potentially reduce your tax burden, often with the guidance of a CPA. Always consult with a qualified attorney and accountant to determine the best structure for your specific situation.
 
-## How to Get a Contractor License: Navigating the Regulatory Labyrinth
+## How to Get a [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/): Navigating the Regulatory Labyrinth
 
 This is arguably the most critical step for any aspiring contractor. Operating without the proper licenses is a fast track to legal trouble, fines, and reputation ruin. The process varies significantly by state, county, and even city.
 

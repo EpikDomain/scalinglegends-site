@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-arizona-
 readTime: "49 min read"
 published: true
 season: 2
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -83,7 +84,7 @@ This is arguably the most critical step for any construction company in Arizona:
 
 Arizona operates on a dual licensing system. You need separate licenses for residential and commercial work. This is a crucial distinction and often overlooked by newcomers:
 
-- **Residential Contractor License:** Allows you to bid on and perform work on residential structures (single-family homes, multi-family up to four units).
+- **Residential [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/):** Allows you to bid on and perform work on residential structures (single-family homes, multi-family up to four units).
 
 - **Commercial Contractor License:** Required for work on commercial buildings, industrial facilities, public works, and multi-family structures with five or more units.
 

@@ -431,7 +431,7 @@ Before anything else, figure out what type of construction you'll focus on (resi
 
 Consult with a California business attorney and CPA. Decide on an LLC or S-Corp for liability protection and tax efficiency. File your Articles of Organization/Incorporation with the California Secretary of State in Sacramento. Obtain your EIN from the IRS. Register for any local business licenses and a Fictitious Business Name (DBA) if needed, through your county clerk.
 
-### Secure Your California Contractor License (CSLB)
+### Secure Your California [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/) (CSLB)
 
 This is critical. Verify your four years of journeyman-level experience. Submit your CSLB application. Study for and pass both the Law & Business and your specific Trade exams. Complete fingerprinting and background checks. Secure your $25,000 contractor bond. This process takes time, so start early.
 

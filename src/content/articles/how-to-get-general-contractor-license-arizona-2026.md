@@ -1,12 +1,12 @@
 ---
-title: "How to Get a General Contractor License in Arizona: Complete 2026 Guide"
-description: "Everything you need to get your general contractor license in Arizona. Covers Arizona Registrar of Contractors (ROC), exam requirements, bonds, insurance, fees, and the step-by-step application process for 2026."
+title: "Contractor License AZ: 2026 Trends & Requirements"
+description: "Explore 2026 changes for your Arizona General Contractor License. Understand ROC updates, exam shifts, and key requirements for the coming year."
 date: "2026-03-05"
 image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-arizona-2026.jpg"
 readTime: "50 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-06"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -14,7 +14,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-## How to Get a General Contractor License in Arizona: Complete 2026 Guide
+## How to Get [a General Contractor](/article/how-to-get-general-contractor-license-florida-2026/) License in Arizona: Complete 2026 Guide
 
 You're looking to get licensed in Arizona. Good. You've picked one of the hottest markets in the country. Phoenix isn't just a big city; it's the fastest-growing metro in the nation. That means opportunity, but only if you're legit. This isn't a place for fly-by-night operations. Arizona's [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is booming, and the Arizona Registrar of Contractors (ROC) ensures that only qualified, responsible professionals get to build here.
 

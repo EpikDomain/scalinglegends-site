@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-pennsylv
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -117,7 +117,7 @@ Your entity choice significantly impacts your state tax obligations:
 
 Here's where many new contractors get tripped up. Pennsylvania does NOT have a statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026/) for commercial work. For residential work, it has a statewide registration. And then, cities like Philadelphia have their own licenses. Clear as mud? Let's clarify.
 
-### No Statewide General Contractor License
+### No Statewide General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/)
 
 That's right. If you're doing commercial construction anywhere in PA, the state itself doesn't require you to hold a "General Contractor" license. This doesn't mean it's a free-for-all. You'll still need:
 

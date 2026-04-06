@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-north-ca
 readTime: "47 min read"
 published: true
 season: 2
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -103,7 +104,7 @@ This is where North Carolina sets itself apart. The North Carolina Licensing Boa
 
 ### The $30,000 Threshold
 
-Understand this clearly: if the total cost of the undertaking (including labor, materials, supervision, etc.) is $30,000 or more, you need an NC General Contractor license. Operating without one for projects above this value carries severe penalties, including fines and potential criminal charges. Don't risk it.
+Understand this clearly: if the total cost of the undertaking (including labor, materials, supervision, etc.) is $30,000 or more, you need an NC General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/). Operating without one for projects above this value carries severe penalties, including fines and potential criminal charges. Don't risk it.
 
 ### License Classifications: Limited, Intermediate, Unlimited
 

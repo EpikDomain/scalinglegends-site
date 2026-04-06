@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-new-york
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -75,7 +75,7 @@ This is where New York gets tricky, and it's absolutely critical to understand.
 
 #### No Statewide [General Contractor License](/article/how-to-get-general-contractor-license-washington-2026/)
 
-Let's be crystal clear: **New York State does NOT have a statewide general contractor license.** Anyone can technically call themselves a "general contractor" outside of New York City without a state-issued license. This doesn't mean it's a free-for-all; it means you need to be acutely aware of local regulations.
+Let's be crystal clear: **New York State does NOT have a statewide general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/).** Anyone can technically call themselves a "general contractor" outside of New York City without a state-issued license. This doesn't mean it's a free-for-all; it means you need to be acutely aware of local regulations.
 
 #### NYC Department of Buildings (DOB) Licensing: The Big Exception
 

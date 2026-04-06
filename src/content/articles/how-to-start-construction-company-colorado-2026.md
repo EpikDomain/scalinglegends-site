@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-colorado
 readTime: "45 min read"
 published: true
 season: 2
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -77,7 +78,7 @@ The most common choices for [construction companies](/article/construction-marke
 
 Here's a critical point to understand in Colorado: **There is no statewide [general contractor license](/article/how-to-get-general-contractor-license-washington-2026/).** This often surprises newcomers, but it means your licensing requirements will vary significantly based on where you intend to work.
 
-### No State General Contractor License, But Local Requirements Are King
+### No State General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/), But Local Requirements Are King
 
 Instead of a state license, general contractors must obtain licenses from each individual city or county where they perform work. This is not a suggestion; it's a legal requirement. Failure to do so can result in hefty fines, project stoppages, and reputational damage.
 

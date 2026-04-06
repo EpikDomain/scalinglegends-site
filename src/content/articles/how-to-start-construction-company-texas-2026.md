@@ -357,7 +357,7 @@ The Texas market is dynamic. Stay informed about market trends, new technologies
 
 The absolute first step is to develop a comprehensive business plan that specifically details your target market within Texas, your services, and how you'll meet the unique local requirements. Simultaneously, you should choose your legal entity (LLC is often recommended) and register it with the Texas Secretary of State in Austin.
 
-### Do I need a general contractor license to work anywhere in Texas?
+### Do I need a general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) to work anywhere in Texas?
 
 No, Texas does not have a statewide general contractor license. However, this is a critical distinction: many individual cities and counties, such as Houston and San Antonio, require local registration or licensing to pull permits and operate within their jurisdictions. Always check with the specific municipality where you plan to work before bidding on or starting a project. Additionally, specific trades like electrical, plumbing, and HVAC require state-level licensing through the TDLR or TSBPE.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-06"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -51,7 +51,7 @@ Trade school enrollment is projected to grow **6.6% annually through 2030** vers
 
 ### Jesse Lane, J. Lane Construction (Jacksonville, FL)
 
-Got his building contractor license and started J. Lane Construction at 22. His first commercial permit was a 6,000 sq ft Brazils Waxing Center remodel. Grew the company from a few million in revenue to **eight figures by his late twenties**. Then built a YouTube channel (55,000+ subscribers) that generates six figures annually on its own. Now sells marketing systems and masterclass content to other young contractors. His path: license, first commercial job, reinvest in both the company and a personal brand.
+Got his building [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) and started J. Lane Construction at 22. His first commercial permit was a 6,000 sq ft Brazils Waxing Center remodel. Grew the company from a few million in revenue to **eight figures by his late twenties**. Then built a YouTube channel (55,000+ subscribers) that generates six figures annually on its own. Now sells marketing systems and masterclass content to other young contractors. His path: license, first commercial job, reinvest in both the company and a personal brand.
 
 ### Carlie Cook, Rosendin (Tempe, AZ)
 
