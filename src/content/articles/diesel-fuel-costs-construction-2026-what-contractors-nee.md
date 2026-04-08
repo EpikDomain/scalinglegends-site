@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2682988/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
+updatedAt: "2026-04-08"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -130,4 +131,4 @@ Operator behavior significantly impacts fuel consumption. Aggressive driving, ex
 
 ## Bottom Line
 
-To thrive amidst fluctuating diesel prices in 2026, construction contractors must implement a comprehensive fuel cost management strategy that integrates advanced technology, proactive financial planning, and rigorous operational efficiency. Start this week by establishing a real-time fuel consumption tracking system across your fleet and ensuring every bid includes a dynamic fuel cost component to protect your [contractor profit margins 2026](/article/contractor-profit-margins-2026/).
+To thrive amidst fluctuating diesel prices in 2026, [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) must implement a comprehensive fuel cost management strategy that integrates advanced technology, proactive financial planning, and rigorous operational efficiency. Start this week by establishing a real-time fuel consumption tracking system across your fleet and ensuring every bid includes a dynamic fuel cost component to protect your [contractor profit margins 2026](/article/contractor-profit-margins-2026/).

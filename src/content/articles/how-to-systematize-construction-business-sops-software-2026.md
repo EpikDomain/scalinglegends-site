@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2685830/scalinglegends/2026_0
 readTime: "44 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-08"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -19,7 +19,7 @@ sponsors:
 
 You started your construction company with grit, skill, and a relentless work ethic. You scaled it past the initial hurdles, hitting $1M, then maybe $5M, $10M, or even $20M. But now, you're hitting a wall. Growth feels less like acceleration and more like a constant grind. You're still the bottleneck, the chief problem-solver, the ultimate decision-maker for everything from project estimates to payroll disputes. Your business is trapped in your head.
 
-This isn't a unique problem. It's the defining challenge for construction contractors looking to scale beyond owner-operator dependency. You want to grow, but every new project, every new hire, every new challenge just adds more weight to your shoulders. The promise of scaling to $50M+ feels like a distant dream, bogged down by chaos, inconsistency, and inefficient processes.
+This isn't a unique problem. It's the defining challenge for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) looking to scale beyond owner-operator dependency. You want to grow, but every new project, every new hire, every new challenge just adds more weight to your shoulders. The promise of scaling to $50M+ feels like a distant dream, bogged down by chaos, inconsistency, and inefficient processes.
 
 The solution isn't to work harder; it's to work smarter. It’s about building a business that operates like a well-oiled machine, not a perpetual fire drill. This requires a deliberate, strategic approach to [how to systematize a construction business](https://scalinglegends.com/how-to-systematize-a-construction-business). It means moving beyond tribal knowledge and ad-hoc decisions to clearly defined Standard Operating Procedures (SOPs) and leveraging powerful software to automate, streamline, and scale your operations.
 

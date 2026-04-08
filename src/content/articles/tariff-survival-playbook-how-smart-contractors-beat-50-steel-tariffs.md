@@ -1,13 +1,12 @@
 ---
-title: "Tariff Survival Playbook: How Smart Contractors Beat 50% Steel Tariffs"
-description: "Deep dive into the 50% steel tariff impact on construction and the exact playbook contractors are using to protect margins through escalation clauses, bidding strategy, and procurement tactics."
+title: "Tariff Forecast 2026: Impact on Construction Contractors"
+description: "Get the latest 2026 steel tariff forecast and understand its projected impact on the construction industry. Prepare your business for upcoming market shifts."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tariff-survival-playbook-how-smart-contractors-beat-50-steel-1772743905.png"
-audioUrl: "https://content.rss.com/episodes/332597/2604313/scalinglegends/2026_03_05_19_17_46_ab0893a2-345c-4158-a30a-b9a7cb3b3b67.mp3"
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-08"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-avoid-construction-cost-overruns-ch
 readTime: "49 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -16,7 +16,7 @@ sponsors:
 
 # How to Avoid Construction Cost Overruns: A Project Manager's Checklist
 
-For ambitious construction contractors scaling from $1M to $50M+, managing project finances isn't just about staying profitable; it's about survival and growth. Cost overruns are the silent killers of profit margins, reputation, and future opportunities. At Scaling Legends, we equip you with the strategies to not just meet, but exceed your financial targets.
+For ambitious [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) scaling from $1M to $50M+, managing project finances isn't just about staying profitable; it's about survival and growth. Cost overruns are the silent killers of profit margins, reputation, and future opportunities. At Scaling Legends, we equip you with the strategies to not just meet, but exceed your financial targets.
 
 This isn't a theoretical exercise. This is a direct, no-BS guide for project managers who are serious about protecting their bottom line and delivering projects on budget, every single time.
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-use-ai-in-construction-practical-gu
 readTime: "107 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-08"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -554,7 +554,7 @@ For scaling contractors, drone + AI workflows offer a compelling competitive adv
 
 ## The Data Problem: Why Most Contractors Aren't AI-Ready
 
-AI is often touted as a magic bullet, but its efficacy is entirely dependent on one critical factor: data. Specifically, clean, organized, accessible, and relevant data. Unfortunately, for many construction contractors, their current data infrastructure is more of a tangled mess than a well-oiled machine, creating a significant barrier to AI adoption.
+AI is often touted as a magic bullet, but its efficacy is entirely dependent on one critical factor: data. Specifically, clean, organized, accessible, and relevant data. Unfortunately, for many [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/), their current data infrastructure is more of a tangled mess than a well-oiled machine, creating a significant barrier to AI adoption.
 
 ### The Foundation: Clean, Structured Data
 

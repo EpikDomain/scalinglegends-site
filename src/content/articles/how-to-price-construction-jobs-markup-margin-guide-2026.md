@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-price-construction-jobs-markup-marg
 readTime: "66 min read"
 published: true
 season: 2
-updatedAt: "2026-04-01"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -16,7 +16,7 @@ sponsors:
 
 ## How to Price Construction Jobs: The Math Most Contractors Get Wrong
 
-Let's cut to the chase. Most construction contractors – even those hitting $10M, $20M, or $30M – are leaving significant money on the table, or worse, unknowingly eroding their future, because they fundamentally misunderstand the math behind pricing. They're mistaking markup for margin, underestimating true overhead, or simply guessing what the market will bear.
+Let's cut to the chase. Most [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) – even those hitting $10M, $20M, or $30M – are leaving significant money on the table, or worse, unknowingly eroding their future, because they fundamentally misunderstand the math behind pricing. They're mistaking markup for margin, underestimating true overhead, or simply guessing what the market will bear.
 
 This isn't about bidding low to win work. That's a race to the bottom you can't afford. This is about strategic, profitable pricing that fuels growth, allows for reinvestment, and builds a resilient business. It's about understanding every dollar spent and every dollar earned. If you're scaling your [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) from $1M to $50M+, pricing isn't just an estimating function; it's a core financial strategy. Get it wrong, and you're building a house of cards. Get it right, and you're laying the foundation for an empire.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2613563/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-08"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -85,7 +85,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 ## Frequently Asked Questions
 
-### How does the ROAD to Housing Act benefit construction contractors?
+### How does the ROAD to Housing Act benefit [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/)?
 
 The Act opens unprecedented opportunities for contractors scaling from $1M to $50M. It introduces new funding streams, streamlines environmental reviews to cut project timelines, and modernizes manufactured housing rules. This first comprehensive housing bill in over a decade aims to reshape residential construction, providing a stable foundation for long-term growth and new project types.
 

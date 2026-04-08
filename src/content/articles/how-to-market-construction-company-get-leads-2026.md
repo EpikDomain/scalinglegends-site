@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-market-construction-company-get-lea
 readTime: "83 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -762,7 +762,7 @@ A balanced budget typically includes:
 
 ## Measuring ROI on Marketing Spend
 
-If you can't measure it, you can't manage it. For scaling construction contractors, understanding the Return on Investment (ROI) of your marketing spend is paramount. It allows you to optimize campaigns, justify budgets, and make data-driven decisions.
+If you can't measure it, you can't manage it. For scaling [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/), understanding the Return on Investment (ROI) of your marketing spend is paramount. It allows you to optimize campaigns, justify budgets, and make data-driven decisions.
 
 ### Define Your Key Performance Indicators (KPIs)
 

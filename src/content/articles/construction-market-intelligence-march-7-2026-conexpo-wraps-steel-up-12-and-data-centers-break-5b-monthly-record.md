@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-03-26"
+updatedAt: "2026-04-08"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -171,7 +171,7 @@ Caterpillar launched "Cat Compact" for small contractors and showed AI/autonomou
 
 $25.2 billion in data center construction starts in January 2026, the highest monthly figure ever. Twenty projects broke ground including two $10 billion developments. Tech companies have announced $700 billion in combined 2026 capex. Moody's projects $3 trillion in global data center spending over five years. Over 56% of near-term spending is in the South.
 
-### What is Ohio's E-Verify mandate for construction contractors?
+### What is Ohio's E-Verify mandate for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/)?
 
 Effective March 19, 2026, all nonresidential contractors in Ohio must use E-Verify. Penalties reach $25,000 per violation. Multiple violations can result in permanent business license revocation. This impacts an industry where 34% of trades workers are immigrants. Half of all states now require some form of E-Verify, though some Republican states are backing off under business pressure.
 

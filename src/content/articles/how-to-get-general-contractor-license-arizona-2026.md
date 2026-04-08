@@ -420,7 +420,7 @@ A: The Arizona Registrar of Contractors (ROC) is the state agency responsible fo
 
 ## Conclusion: Your Blueprint for Success in Arizona
 
-Getting your General Contractor license in Arizona is a rigorous process, but it's a necessary investment in your future. The Arizona Registrar of Contractors ensures that those who build in this state are qualified, responsible, and committed to upholding the industry's standards. With Phoenix leading the charge as the nation's fastest-growing metro, and a robust construction market spanning residential, commercial, and infrastructure projects, the opportunities for a licensed, competent contractor are immense.
+Getting your [General Contractor license](/article/how-to-get-general-contractor-license-washington-2026/) in Arizona is a rigorous process, but it's a necessary investment in your future. The Arizona Registrar of Contractors ensures that those who build in this state are qualified, responsible, and committed to upholding the industry's standards. With Phoenix leading the charge as the nation's fastest-growing metro, and a robust construction market spanning residential, commercial, and infrastructure projects, the opportunities for a licensed, competent contractor are immense.
 
 You now have the complete roadmap for 2026. Follow these steps, commit to the process, and leverage the resources available. Don't cut corners. Do the work. Secure your Arizona contractor license, and position yourself to build not just structures, but a lasting legacy in the Grand Canyon State. The market is waiting. Go get it done.
 

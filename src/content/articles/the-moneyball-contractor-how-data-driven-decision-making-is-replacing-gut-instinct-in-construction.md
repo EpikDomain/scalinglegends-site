@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2630895/scalinglegends/2026_0
 readTime: "7 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -81,7 +81,7 @@ Implementing a simple system to track these numbers can be transformative. Even 
 
 Embracing data-driven decisions can significantly boost your construction business profitability. By tracking key metrics, contractors can add six figures to their bottom line within a year. This approach helps identify efficiency gaps, optimize bidding strategies, and pinpoint the 20% of project types that generate 80% of your profit, transforming growth from stagnation to predictable expansion for businesses scaling from $1M to $50M.
 
-### What are the most important metrics for construction contractors to track?
+### What are the most important metrics for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) to track?
 
 To move from gut-feel to data-driven growth, focus on metrics like Revenue Per Employee Hour to spot efficiency gaps. Optimize bidding with Bid-to-Win Ratios, aiming for accurate predictions after tracking 50 bids. Additionally, identify your profit-driving projects (the 20% generating 80% of profit), monitor equipment utilization (idle 60% of the time is a rental), and track Change Order Percentage by PM to capture more revenue.
 

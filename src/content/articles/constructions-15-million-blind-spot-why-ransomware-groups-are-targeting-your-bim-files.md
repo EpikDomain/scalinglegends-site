@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2605990/scalinglegends/2026_0
 readTime: "5 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-08"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -25,7 +25,7 @@ There are two ransomware groups you have never heard of. Qilin and SafePay. And 
 
 - **BIM Files Are The Bullseye.** Attackers are after your Building Information Models, engineering specifications, project schedules, bid documents, and proprietary construction methods to disrupt operations and extort payments.
 
-- **CMMC Deadline Looms.** DoD construction contractors must achieve CMMC Level 2 certification by November 10, 2026. This process takes 6-12 months, meaning many firms are already behind schedule.
+- **CMMC Deadline Looms.** DoD [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) must achieve CMMC Level 2 certification by November 10, 2026. This process takes 6-12 months, meaning many firms are already behind schedule.
 
 - **Subcontractors Are Critical Vulnerabilities.** Hackers frequently exploit smaller subcontractors with weaker security to infiltrate larger general contractors, creating a significant supply chain risk.
 

@@ -122,7 +122,7 @@ Bonding companies evaluate insurance coverage adequacy, claims history, and fina
 
 - **Bundle policies strategically.** Package general liability, commercial auto, umbrella, and inland marine with one carrier for multi-policy discounts, but verify that bundled pricing beats separate quotes.
 
-- **Increase deductibles thoughtfully.** Raise deductibles from $5,000 to $10,000 or $25,000 where your cash flow allows. Calculate the premium savings against the increased out-of-pocket exposure to confirm the trade-off benefits your operation.
+- **Increase deductibles thoughtfully.** Raise deductibles from $5,000 to $10,000 or $25,000 where your [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) allows. Calculate the premium savings against the increased out-of-pocket exposure to confirm the trade-off benefits your operation.
 
 - **Optimize workers' comp classifications.** Ensure employees are classified correctly by trade. Misclassification—putting skilled workers in lower-rate classifications—can result in audit adjustments and penalties that exceed any premium savings.
 

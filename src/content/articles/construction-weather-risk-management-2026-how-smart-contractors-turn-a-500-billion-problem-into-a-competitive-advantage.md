@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2669016/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -31,7 +31,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 - **Contractors gain a 2x ROI on weather technology investments.** The cost savings from reduced delays, improved safety, and optimized resource utilization significantly outweigh the investment in advanced weather risk management solutions, delivering substantial financial benefits.
 
-## The $500 Billion Storm: Understanding Weather's True Impact on Construction
+## The $500 Billion Storm: Understanding Weather's True [Impact on Construction](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/)
 
 The notion that weather is simply an uncontrollable variable in construction is outdated and fiscally irresponsible. For contractors managing projects ranging from $1M remodels to $50M commercial builds, the financial implications of weather extend far beyond a rainy day. Consider the compounding effects: an unexpected freeze can delay concrete pours for days, incurring equipment rental fees for idle machinery, extending labor costs, and pushing back critical path activities. High winds exceeding 30 mph can render crane operations impossible, halting steel erection or prefabrication installation, leading to significant standby costs and impacting the entire project timeline.
 

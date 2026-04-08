@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2669013/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-08"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -67,7 +67,7 @@ The proactive adoption of waste tracking software, often integrated into field s
 
 ## Labor Force Verification & Fair Wage Enforcement
 
-The labor landscape for construction contractors is undergoing significant changes, particularly concerning workforce verification and the enforcement of fair wage practices. These new regulations, effective Q1 2026, aim to create a more transparent and compliant hiring environment, but they also introduce new layers of administrative responsibility and potential risk.
+The labor landscape for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) is undergoing significant changes, particularly concerning workforce verification and the enforcement of fair wage practices. These new regulations, effective Q1 2026, aim to create a more transparent and compliant hiring environment, but they also introduce new layers of administrative responsibility and potential risk.
 
 **Regulation 4: Expanded Prevailing Wage Enforcement & Digital Workforce Verification.** Building on existing E-Verify requirements, the new mandate extends compulsory E-Verify usage to all subcontractors working on federal and state-funded projects, regardless of contract size. Furthermore, prime contractors on private projects valued over $10 million are now also required to implement E-Verify for their entire workforce. This expansion signifies a strong governmental push for immediate, verifiable workforce authorization across the industry.
 

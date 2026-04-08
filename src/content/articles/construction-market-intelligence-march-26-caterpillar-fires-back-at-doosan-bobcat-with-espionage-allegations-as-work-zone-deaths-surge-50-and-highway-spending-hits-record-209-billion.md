@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2665637/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
+updatedAt: "2026-04-08"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -67,7 +68,7 @@ The biggest risks in construction work zones are surging fatalities, up 50% over
 
 The Infrastructure Investment and Jobs Act (IIJA) is driving record highway construction spending, projected to reach $209.1 billion in 2026. This act allocated $350 billion for highways, with 14 states receiving over $1 billion each. While it fuels significant opportunities, contractors must plan strategically as IIJA funding is set to expire on September 30, 2026, with no immediate replacement bill.
 
-### What is CMMC compliance for construction contractors?
+### What is CMMC compliance for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/)?
 
 CMMC (Cybersecurity Maturity Model Certification) is a mandatory cybersecurity framework for over 300,000 organizations in the defense industrial base, including construction contractors working with the DoD. Phase 1 began in November 2025, with Phase 2 audits starting November 2026. There is no small business exemption, and non-compliance risks contract ineligibility, False Claims Act penalties, and debarment.
 

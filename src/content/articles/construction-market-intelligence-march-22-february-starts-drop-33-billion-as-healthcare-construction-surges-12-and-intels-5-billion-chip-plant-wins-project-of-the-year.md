@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2648672/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-04-08"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -148,7 +149,7 @@ Understanding the broader economic context is vital for interpreting constructio
 
 Here’s a snapshot of how some of these indicators might be influencing the current market trends:
 
-| Indicator | Recent Trend (February/March 2024) | Impact on Construction |
+| Indicator | Recent Trend (February/March 2024) | [Impact on Construction](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) |
 | --- | --- | --- |
 | Federal Funds Rate | Holding steady at 5.25%-5.50% | Maintains higher borrowing costs, impacting new project financing and residential mortgage demand. |
 | Inflation (CPI) | ~3.2% annually, slightly above target | Continued pressure on material costs (e.g., concrete up 0.5% M-o-M) and labor wages, squeezing profit margins. |

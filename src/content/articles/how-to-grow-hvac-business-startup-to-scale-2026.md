@@ -1,12 +1,12 @@
 ---
-title: "HVAC Business Trends: What's Next for 2026 Growth?"
+title: "How to Grow an HVAC Business from Startup to Scale in 2026"
 description: "Explore the future of HVAC business growth in 2026. Discover key trends like the R-454B transition, evolving tech stacks, and market shifts for scaling your operations."
 date: "2026-03-05"
 image: "https://scalinglegends.com/og/how-to-grow-hvac-business-startup-to-scale-2026.jpg"
 readTime: "60 min read"
 published: true
 season: 2
-updatedAt: "2026-04-05"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

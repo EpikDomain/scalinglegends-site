@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-03-29"
+updatedAt: "2026-04-08"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -131,7 +131,7 @@ On March 19, 2026, Ohio's E-Verify Workforce Integrity Act takes effect. If you 
 
 ### Who's Covered
 
-All nonresidential construction contractors, subcontractors, and labor brokers. That means highways, bridges, utilities, commercial buildings, and everything in between.
+All nonresidential [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/), subcontractors, and labor brokers. That means highways, bridges, utilities, commercial buildings, and everything in between.
 
 ### The Penalty Structure
 

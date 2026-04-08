@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-florida-
 readTime: "63 min read"
 published: true
 season: 2
-updatedAt: "2026-04-04"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -181,7 +181,7 @@ If your business is structured as a C-Corporation, it will be subject to Florida
 
 ### Florida Sales and Use Tax
 
-This is absolutely critical for construction contractors in Florida. Florida imposes a 6% state sales tax on the retail sale of goods, including building materials and supplies. Many counties also have a discretionary sales surtax, meaning the total sales tax can be higher (e.g., 6.5% to 8.5% in some areas). You will collect this from customers if you are selling tangible personal property, but the rules are different for contractors.
+This is absolutely critical for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) in Florida. Florida imposes a 6% state sales tax on the retail sale of goods, including building materials and supplies. Many counties also have a discretionary sales surtax, meaning the total sales tax can be higher (e.g., 6.5% to 8.5% in some areas). You will collect this from customers if you are selling tangible personal property, but the rules are different for contractors.
 
 - **Materials:** As a contractor, you are generally considered the "final consumer" of the materials you incorporate into real property. This means you will pay sales tax on materials when you purchase them from your suppliers. You do not then charge sales tax to your customer on those materials if they are part of a lump-sum contract.
 

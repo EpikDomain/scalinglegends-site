@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671116/scalinglegends/2026_0
 readTime: "59 min read"
 published: true
 season: 2
-updatedAt: "2026-04-05"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -478,7 +478,7 @@ Invest in technology that grows with you. Don't be afraid to upgrade from QuickB
 
 ## SBA Loan Products: Government Backing for Your Working Capital
 
-The U.S. Small Business Administration (SBA) offers various loan programs designed to help small businesses, including construction contractors, access capital for working capital, equipment, and growth. These loans are often more accessible and have more favorable terms than conventional bank loans, making them excellent tools for construction cash flow management.
+The U.S. Small Business Administration (SBA) offers various loan programs designed to help small businesses, including [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/), access capital for working capital, equipment, and growth. These loans are often more accessible and have more favorable terms than conventional bank loans, making them excellent tools for construction cash flow management.
 
 ### SBA 7(a) Loans: The Versatile Workhorse
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/construction-quality-control-reduce-rework
 readTime: "32 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -16,7 +16,7 @@ sponsors:
 
 # Construction Quality Control: How to Reduce Rework and Defects That Kill Your Margins
 
-In the relentless pursuit of profit, construction contractors often battle a silent, insidious enemy: rework and defects. These aren't just minor annoyances; they are margin killers, profit evaporators, and reputation destroyers. For contractors scaling from $1M to $50M+, understanding and implementing robust construction quality control isn't just good practice—it's essential for survival and sustainable growth.
+In the relentless pursuit of profit, [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) often battle a silent, insidious enemy: rework and defects. These aren't just minor annoyances; they are margin killers, profit evaporators, and reputation destroyers. For contractors scaling from $1M to $50M+, understanding and implementing robust construction quality control isn't just good practice—it's essential for survival and sustainable growth.
 
 The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) grapples with significant financial losses due to poor quality. Studies consistently show that rework can account for anywhere from **5% to 12% of total project costs**, and in some complex projects, it can soar even higher. Imagine adding 5% to 12% directly to your bottom line simply by getting it right the first time. This article will dissect the anatomy of construction defects, differentiate between Quality Assurance and Quality Control, and provide a no-BS roadmap to building a quality management system that protects your profits and elevates your brand.
 
