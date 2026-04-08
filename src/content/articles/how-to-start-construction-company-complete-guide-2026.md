@@ -470,7 +470,7 @@ This is a general roadmap. Your specific timeline will vary based on your niche,
 *   Register your business with the state (Secretary of State).
 *   Apply for your EIN (Employer Identification Number).
 *   Open business bank accounts and credit cards.
-*   Begin contractor license application process (gather experience documentation).
+*   Begin [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) application process (gather experience documentation).
 *   Research and interview insurance brokers.
 *   Set up basic accounting software (QuickBooks).
 *   Start developing your brand (logo, basic website).

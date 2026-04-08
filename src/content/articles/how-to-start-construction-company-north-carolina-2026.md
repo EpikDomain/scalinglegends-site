@@ -412,7 +412,7 @@ Here’s your action plan, broken down into actionable steps.
 
 ## Frequently Asked Questions About Starting a Construction Company in North Carolina
 
-### How much does it cost to get an NC General Contractor License?
+### How much does it cost to get an NC General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/)?
 
 The application fee itself is typically around $100-125, and exam fees are $100-150 per section. However, the most significant cost is often the CPA-reviewed or audited financial statement, which can range from $2,000 to over $10,000, depending on the complexity of your financials and the CPA firm.
 

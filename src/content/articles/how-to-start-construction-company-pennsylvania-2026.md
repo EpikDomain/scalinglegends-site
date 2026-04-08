@@ -478,7 +478,7 @@ Begin with smaller, manageable projects to build your portfolio and refine your 
 
 ### Q: Do I need a statewide general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) to do commercial work in Pennsylvania?
 
-A: No. Pennsylvania does not have a statewide general contractor license for commercial construction. However, you will need to register your business entity with the PA Department of State, obtain an EIN, and comply with all local municipal permitting and licensing requirements, which can include local general contractor licenses (e.g., in Philadelphia) and specific trade licenses.
+A: No. Pennsylvania does not have a statewide general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) for commercial construction. However, you will need to register your business entity with the PA Department of State, obtain an EIN, and comply with all local municipal permitting and licensing requirements, which can include local general contractor licenses (e.g., in Philadelphia) and specific trade licenses.
 
 ### Q: What is HIC registration, and when do I need it?
 

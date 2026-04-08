@@ -410,7 +410,7 @@ Let's distill this down into a clear, actionable plan.
 
 ### Q: Do I need a state license to be [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) in Illinois?
 
-A: No, Illinois does not have a statewide general contractor license. However, if you plan to work within the City of Chicago, you absolutely need a City of Chicago General Contractor license. Additionally, many other local municipalities have their own registration or licensing requirements, and specific trades like roofing, plumbing, and electrical require statewide licenses through the IDFPR.
+A: No, Illinois does not have a statewide general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/). However, if you plan to work within the City of Chicago, you absolutely need a City of Chicago General Contractor license. Additionally, many other local municipalities have their own registration or licensing requirements, and specific trades like roofing, plumbing, and electrical require statewide licenses through the IDFPR.
 
 ### Q: What's the deal with sales tax on materials for contractors in Illinois?
 

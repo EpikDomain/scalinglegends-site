@@ -18,7 +18,7 @@ Construction insurance costs have surged 22% on average since 2023, now consumin
 
 ## Key Takeaways
 
-- **Insurance now eats 3-7% of gross revenue.** According to [Smart Business Automator](https://smartbusinessautomator.com) market intelligence, the average contractor spends $15,000-$50,000 annually on general liability, workers' comp, commercial auto, and umbrella coverage—representing 3-7% of top-line revenue.
+- **Insurance now eats 3-7% of gross revenue.** According to [Smart Business Automator](https://smartbusinessautomator.com) [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), the average contractor spends $15,000-$50,000 annually on general liability, workers' comp, commercial auto, and umbrella coverage—representing 3-7% of top-line revenue.
 
 - **General liability premiums jumped 25% in 2025.** Rising claims frequency, litigation costs, and supply chain vulnerabilities drove double-digit increases across most trades, with concrete and roofing seeing 30%+ hikes.
 
@@ -38,7 +38,7 @@ The construction insurance landscape has shifted dramatically, and the numbers t
 
 Workers' compensation costs remain the largest line item for most contractors, representing 12-35% of total payroll depending on the trade. Framing crews face lower rates than roofing or demolition specialists, but [every contractor must](/article/construction-dispute-warning-2026-the-230-million-timber-tower-that-collapsed-before-it-was-built-and-what-every-contractor-must-learn/) factor these percentages into bid calculations. Smart Business Automator data shows that 67% of contractors under  $10 million revenue do not adequately allocate workers' comp costs when submitting estimates, resulting in jobs that lose money despite appearing profitable on paper.
 
-The real problem isn't the premium itself—it's the cascading effect on [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). Premiums are typically paid monthly or annually, but claims hit unexpectedly, deductibles have ballooned to $10,000-$25,000, and coverage gaps from expired policies or inadequate limits can result in out-of-pocket exposures that bankrupt small contractors. Your insurance program is a cash flow tool, not just a compliance requirement.
+The real problem isn't the premium itself—it's the cascading effect on [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). Premiums are typically paid monthly or annually, but claims hit unexpectedly, deductibles have ballooned to $10,000-$25,000, and coverage gaps from expired policies or inadequate limits can result in out-of-pocket exposures that bankrupt small contractors. Your insurance program is a [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) tool, not just a compliance requirement.
 
 ## Types of Insurance Destroying Contractor Profit Margins
 

@@ -360,7 +360,7 @@ It's crucial to submit your renewal application on time. Late renewals can incur
 
 ### Continuing Education Requirements
 
-As of 2026, the Arizona Registrar of Contractors does **not currently mandate continuing education (CE)** for general contractor license renewal. However, this could change, so always check the latest ROC rules. Even without a mandate, engaging in voluntary continuing education is highly recommended. Staying updated on new building codes, construction techniques, safety standards (like OSHA updates), and business management practices will keep you competitive and compliant in Arizona's dynamic market.
+As of 2026, the Arizona Registrar of Contractors does **not currently mandate continuing education (CE)** for [general contractor license](/article/how-to-get-general-contractor-license-washington-2026/) renewal. However, this could change, so always check the latest ROC rules. Even without a mandate, engaging in voluntary continuing education is highly recommended. Staying updated on new building codes, construction techniques, safety standards (like OSHA updates), and business management practices will keep you competitive and compliant in Arizona's dynamic market.
 
 ## Leveraging Arizona SBA Resources for [Your Construction Business](/article/how-to-systematize-construction-business-sops-software-2026/)
 
