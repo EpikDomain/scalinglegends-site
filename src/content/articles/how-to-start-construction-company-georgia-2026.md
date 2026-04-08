@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-georgia-
 readTime: "52 min read"
 published: true
 season: 2
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -426,9 +426,9 @@ Alright, let's distill all this down into an actionable checklist.
 
 Generally, no. Georgia's state contractor licensing laws apply to projects exceeding certain thresholds or specific types of construction. For minor repairs or projects under a certain value (often $2,500, but this can vary by local ordinance and the nature of the work), a state [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) is typically not required. However, you will still need a local business license in the city and/or county where you operate, and you must comply with all local building codes and permitting requirements for any structural, electrical, or plumbing work.
 
-### What is the minimum net worth requirement for a Georgia General Contractor license?
+### What is the minimum net worth requirement for a Georgia General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/)?
 
-For a full General Contractor license in Georgia, you must demonstrate a minimum net worth of $150,000. Alternatively, you can provide a $150,000 surety bond in lieu of demonstrating the full net worth. The Residential Basic license requires $20,000 net worth or bond, and the Residential Light Commercial license requires $150,000 net worth or bond.
+For a full General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) in Georgia, you must demonstrate a minimum net worth of $150,000. Alternatively, you can provide a $150,000 surety bond in lieu of demonstrating the full net worth. The Residential Basic license requires $20,000 net worth or bond, and the Residential Light Commercial license requires $150,000 net worth or bond.
 
 ### Does Georgia have reciprocity with other states for contractor licenses?
 
@@ -440,7 +440,7 @@ The timeline can vary significantly. Once you've met all experience and financia
 
 ### Are subcontractors required to be licensed in Georgia?
 
-It depends on the scope of work. If a subcontractor is performing work that falls under one of the state-licensed trades (e.g., plumbing, electrical, HVAC, conditioned air, low-voltage), they must hold the appropriate specialty license. General [construction subcontractors](/article/how-to-manage-construction-subcontractors-guide-2026/) (e.g., framing, drywall, roofing) typically do not need a state general contractor license if they are working under a properly licensed general contractor who is pulling the overall building permit. However, local jurisdictions may still require them to have a local business license. Always verify specific requirements based on the project and location.
+It depends on the scope of work. If a subcontractor is performing work that falls under one of the state-licensed trades (e.g., plumbing, electrical, HVAC, conditioned air, low-voltage), they must hold the appropriate specialty license. General [construction subcontractors](/article/how-to-manage-construction-subcontractors-guide-2026/) (e.g., framing, drywall, roofing) typically do not need a state general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) if they are working under a properly licensed general contractor who is pulling the overall building permit. However, local jurisdictions may still require them to have a local business license. Always verify specific requirements based on the project and location.
 
 Starting a construction company in Georgia is a serious undertaking, but the rewards are substantial for those who do it right. Follow this guide, stay persistent, and build a reputation for quality and integrity. Now, go out there and build something great.
 

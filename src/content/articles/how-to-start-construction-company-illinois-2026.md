@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-illinois
 readTime: "27 min read"
 published: true
 season: 2
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -96,7 +96,7 @@ This is where many new contractors get tripped up. Illinois does NOT have a stat
 
 Let me repeat: There is no single, statewide license for general contractors in Illinois. This means you won't be applying to a state agency to become a "licensed GC for Illinois."
 
-### City of Chicago General Contractor License: A Major Exception
+### City of Chicago General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/): A Major Exception
 
 If you plan to work within the City of Chicago, you absolutely need a license. The [City of Chicago Department of Buildings](https://www.chicago.gov/city/en/depts/bldgs/supp_info/contractor_licensing.html) issues General Contractor licenses, and they are rigorous.
 
@@ -214,7 +214,7 @@ Every startup has costs, but operating in Illinois comes with some specific cons
 
 - City of Chicago GC license fees are substantial (e.g., over $2,000 for initial application/exam, plus annual renewals).
 
-- IDFPR Roofing Contractor license fees (around $175-$250 for application/renewal).
+- IDFPR Roofing [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) fees (around $175-$250 for application/renewal).
 
 - Local municipal registration fees (can range from $50 to several hundred dollars per jurisdiction).
 
@@ -382,7 +382,7 @@ Let's distill this down into a clear, actionable plan.
 
 **Secure Illinois-Specific Licensing & Registrations:**
 
-- If working in Chicago, apply for your City of Chicago General Contractor license (Class A, B, or C).
+- If working in Chicago, apply for your City of Chicago General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) (Class A, B, or C).
 
 - If a roofing contractor, get your statewide IDFPR license.
 

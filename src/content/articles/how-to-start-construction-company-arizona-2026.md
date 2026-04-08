@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-arizona-
 readTime: "49 min read"
 published: true
 season: 2
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -86,7 +86,7 @@ Arizona operates on a dual licensing system. You need separate licenses for resi
 
 - **Residential [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/):** Allows you to bid on and perform work on residential structures (single-family homes, multi-family up to four units).
 
-- **Commercial Contractor License:** Required for work on commercial buildings, industrial facilities, public works, and multi-family structures with five or more units.
+- **Commercial [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/):** Required for work on commercial buildings, industrial facilities, public works, and multi-family structures with five or more units.
 
 Many successful Arizona contractors hold both residential and commercial licenses, allowing them to pursue a wider range of projects. Consider your target market when deciding which to pursue first, or if dual licensing is necessary from the outset.
 
@@ -365,7 +365,7 @@ No, not for any significant work. Arizona law (A.R.S. § 32-1121) generally requ
 
 ### What is the difference between a residential and commercial [contractor license in](/article/how-to-get-general-contractor-license-washington-2026/) Arizona?
 
-Arizona has a dual licensing system. A Residential Contractor license allows you to build or modify residential structures (single-family homes, multi-family up to four units). A Commercial Contractor license is required for work on commercial, industrial, public works, and multi-family structures with five or more units. Many contractors obtain both to maximize their opportunities in the diverse Arizona market.
+Arizona has a dual licensing system. A Residential [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) allows you to build or modify residential structures (single-family homes, multi-family up to four units). A Commercial [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) is required for work on commercial, industrial, public works, and multi-family structures with five or more units. Many contractors obtain both to maximize their opportunities in the diverse Arizona market.
 
 ### How long does it take to get a contractor's license in Arizona?
 

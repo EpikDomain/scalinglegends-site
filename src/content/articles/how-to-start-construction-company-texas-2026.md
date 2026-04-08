@@ -359,7 +359,7 @@ The absolute first step is to develop a comprehensive business plan that specifi
 
 ### Do I need a general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) to work anywhere in Texas?
 
-No, Texas does not have a statewide general contractor license. However, this is a critical distinction: many individual cities and counties, such as Houston and San Antonio, require local registration or licensing to pull permits and operate within their jurisdictions. Always check with the specific municipality where you plan to work before bidding on or starting a project. Additionally, specific trades like electrical, plumbing, and HVAC require state-level licensing through the TDLR or TSBPE.
+No, Texas does not have a statewide general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/). However, this is a critical distinction: many individual cities and counties, such as Houston and San Antonio, require local registration or licensing to pull permits and operate within their jurisdictions. Always check with the specific municipality where you plan to work before bidding on or starting a project. Additionally, specific trades like electrical, plumbing, and HVAC require state-level licensing through the TDLR or TSBPE.
 
 ### Is Workers' Compensation insurance mandatory for [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) Texas?
 

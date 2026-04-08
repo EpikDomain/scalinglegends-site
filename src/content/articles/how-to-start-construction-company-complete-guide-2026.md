@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-complete
 readTime: "81 min read"
 published: true
 season: 2
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -119,7 +119,7 @@ This is arguably the most critical step for any aspiring contractor. Operating w
 
 ### Construction Company Licensing: A General Overview
 
-There is no federal contractor license. Every state has its own licensing board and requirements. Some states, like New York, license contractors at the municipal level, not the state level. Others, like California (Contractors State License Board - CSLB) or Florida (Department of Business and Professional Regulation - DBPR), have robust statewide licensing.
+There is no federal [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/). Every state has its own licensing board and requirements. Some states, like New York, license contractors at the municipal level, not the state level. Others, like California (Contractors State License Board - CSLB) or Florida (Department of Business and Professional Regulation - DBPR), have robust statewide licensing.
 
 **General Requirements You Can Expect:**
 
@@ -133,7 +133,7 @@ There is no federal contractor license. Every state has its own licensing board 
 6.  **Background Check:** Most states require a criminal background check.
 7.  **Application Fees:** Expect to pay non-refundable application and examination fees, which can range from a few hundred to over a thousand dollars.
 
-### How To Get Your Contractor License (Step-by-Step)
+### How To Get Your [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/) (Step-by-Step)
 
 This is a general guide; always refer to your specific state's licensing board website (e.g., CSLB.ca.gov, MyFloridaLicense.com, etc.).
 
@@ -189,7 +189,7 @@ In construction, risk is inherent. One unforeseen incident can derail your compa
 *   **What it Covers:** Damage to and liability from vehicles used for business purposes (trucks, vans, trailers).
 *   **Why it's Crucial:** Personal auto policies typically don't cover business use. If your work truck gets into an accident, you need commercial coverage.
 *   **Cost Estimate:** $1,500 - $5,000+ annually per vehicle, depending on vehicle type, usage, and driver history.
-4.  **Builder's Risk Insurance (Course of Construction Insurance):**
+4.  **Builder's Risk Insurance (Course of [Construction Insurance](/article/construction-insurance-costs-the-hidden-profit-killer/)/):**
 *   **What it Covers:** Damage to a building or structure during construction, renovation, or repair. This includes materials, fixtures, and equipment on site from perils like fire, theft, vandalism, and severe weather.
 *   **Why it's Crucial:** Protects the project itself. Often required by lenders or property owners for larger projects.
 *   **Cost Estimate:** Typically 1-5% of the total construction cost, but this is project-specific.
@@ -215,7 +215,7 @@ Here's a breakdown of common startup expenses:
 1.  **Legal & Licensing: ($1,000 - $5,000)**
 *   Business Formation (LLC/Corp filing): $100 - $500 (state fees)
 *   Attorney Fees (for operating agreement, initial contracts review): $500 - $2,000+
-*   Contractor License Application/Exam Fees: $200 - $1,000+
+*   [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/) Application/Exam Fees: $200 - $1,000+
 *   Local Business Licenses/Permits: $50 - $500
 *   EIN Application (free, but accountant might charge if they do it): $0
 2.  **Insurance & Bonding: ($2,000 - $10,000+ first year)**

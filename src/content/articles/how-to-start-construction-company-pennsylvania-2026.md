@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-pennsylv
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -149,13 +149,13 @@ If you plan to perform home improvements (repair, remodeling, alteration, additi
 
 If you plan to work in Philadelphia, prepare for an entirely different layer of regulation. The City of Philadelphia has its own comprehensive licensing system administered by the Department of Licenses and Inspections (L&I).
 
-- **Philadelphia General Contractor License:** Required for most construction work within city limits. There are different classifications (e.g., Class A for unlimited work, Class B, C, D for smaller projects).
+- **Philadelphia General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/):** Required for most construction work within city limits. There are different classifications (e.g., Class A for unlimited work, Class B, C, D for smaller projects).
 
 - **Trade Licenses:** Electricians, plumbers, HVAC contractors, etc., require specific Philadelphia trade licenses.
 
 - **Application Process:** Involves submitting an application, proof of insurance, bonding, and often passing an exam or demonstrating experience. Fees are also higher.
 
-- **Important Note:** Your statewide HIC registration is NOT sufficient for most work in Philadelphia, even residential. You'll likely need the appropriate Philadelphia General Contractor license IN ADDITION to your HIC registration for residential projects.
+- **Important Note:** Your statewide HIC registration is NOT sufficient for most work in Philadelphia, even residential. You'll likely need the appropriate Philadelphia General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) IN ADDITION to your HIC registration for residential projects.
 
 **Always check with the specific municipality** where you intend to work for any local licensing or permitting requirements. Every city, borough, and township can have its own rules.
 
@@ -476,7 +476,7 @@ Begin with smaller, manageable projects to build your portfolio and refine your 
 
 ## Frequently Asked Questions About Starting a Construction Company in Pennsylvania
 
-### Q: Do I need a statewide general contractor license to do commercial work in Pennsylvania?
+### Q: Do I need a statewide general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) to do commercial work in Pennsylvania?
 
 A: No. Pennsylvania does not have a statewide general contractor license for commercial construction. However, you will need to register your business entity with the PA Department of State, obtain an EIN, and comply with all local municipal permitting and licensing requirements, which can include local general contractor licenses (e.g., in Philadelphia) and specific trade licenses.
 

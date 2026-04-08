@@ -208,7 +208,7 @@ Starting a construction company isn't cheap, but understanding where your money 
 
 ### Licensing & Registration Fees
 
-- **DPOR Contractor License Application:** $235 - $385 (depending on class).
+- **DPOR [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/) Application:** $235 - $385 (depending on class).
 
 - **PSI Exams:** $40 - $70 per exam (Business Law, Trade Specific).
 

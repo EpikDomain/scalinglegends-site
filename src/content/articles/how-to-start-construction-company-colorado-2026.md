@@ -390,7 +390,7 @@ The Limited Liability Company (LLC) is often the most popular choice due to its 
 
 ### Do I need a state license to be [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) in Colorado?
 
-No, Colorado does not have a statewide general contractor license. Instead, licensing is handled at the municipal (city and county) level. You must obtain a license from each specific city or county where you plan to perform work. Trades like electrical and plumbing, however, do require statewide licensing through DORA.
+No, Colorado does not have a statewide general [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/). Instead, licensing is handled at the municipal (city and county) level. You must obtain a license from each specific city or county where you plan to perform work. Trades like electrical and plumbing, however, do require statewide licensing through DORA.
 
 ### How much general liability insurance do I need for a construction company in Colorado?
 

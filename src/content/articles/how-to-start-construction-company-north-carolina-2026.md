@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-north-ca
 readTime: "47 min read"
 published: true
 season: 2
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-08"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -148,7 +148,7 @@ Study guides and prep courses are highly recommended. Don't go into this cold.
 
 Your license isn't a one-and-done deal. You'll need to renew it annually and maintain your financial standing. Keep your records meticulous.
 
-Specialty trades (Electrical, Plumbing, HVAC) have separate licensing boards and requirements. The General Contractor license covers the overall project management and coordination, not necessarily the hands-on work of these licensed trades.
+Specialty trades (Electrical, Plumbing, HVAC) have separate licensing boards and requirements. The General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) covers the overall project management and coordination, not necessarily the hands-on work of these licensed trades.
 
 ## Essential North Carolina [Construction Insurance](/article/construction-insurance-crisis-2026-why-your-premiums-are-up-20-and-how-to-fight-back/) & Bonding
 
@@ -222,7 +222,7 @@ If you have employees, you'll need to register with the North Carolina Division 
 
 - **Business Registration Fees:** ~$125 for LLC Articles of Organization/Incorporation with the NC Secretary of State.
 
-**NC General Contractor License:**
+**NC General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/):**
 
 - Application Fee: ~$100-125.
 
@@ -392,7 +392,7 @@ Here’s your action plan, broken down into actionable steps.
 
 - **Secure Financing:** Line up your startup capital (SBA loans, lines of credit, personal investment).
 
-- **Apply for Your NC General Contractor License:** This is crucial for projects over $30,000. Prepare your financial statement, submit your application to the NC Licensing Board for General Contractors, and study for the exam.
+- **Apply for Your NC General [Contractor License](/article/how-to-get-general-contractor-license-arizona-2026/):** This is crucial for projects over $30,000. Prepare your financial statement, submit your application to the NC Licensing Board for General Contractors, and study for the exam.
 
 - **Obtain Necessary Insurance & Bonding:** Secure General Liability, Workers' Compensation (if 3+ employees), Commercial Auto, Equipment Floater, and bonding as needed.
 
