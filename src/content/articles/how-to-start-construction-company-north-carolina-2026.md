@@ -418,7 +418,7 @@ The application fee itself is typically around $100-125, and exam fees are $100-
 
 ### Do I need a license for small construction jobs in North Carolina?
 
-If the total value of the project (including labor and materials) is less than $30,000, you do not need a North Carolina General Contractor license. However, you will still need local business licenses and ensure you comply with all local permitting and building codes.
+If the total value of the project (including labor and materials) is less than $30,000, you do not need a North Carolina General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/). However, you will still need local business licenses and ensure you comply with all local permitting and building codes.
 
 ### What are the workers' compensation requirements in North Carolina?
 
@@ -440,6 +440,6 @@ Yes, absolutely. With continuous population growth, major corporate relocations,
 
 Starting a construction company in North Carolina in 2026 is a serious undertaking, but the rewards are substantial for those who do it right. This isn't a state where you can cut corners on licensing, insurance, or taxes. The regulatory framework is clear, and the enforcement is real.
 
-Focus on understanding the North Carolina-specific requirements, especially the General Contractor license for projects over $30,000. Build strong financial footing, invest in the right insurance, and don't underestimate the power of local networking. The opportunities in Charlotte, the Research Triangle, and beyond are vast, but only for those who are prepared, professional, and persistent. Now go build something.
+Focus on understanding the North Carolina-specific requirements, especially the General [Contractor license](/article/how-to-get-general-contractor-license-arizona-2026/) for projects over $30,000. Build strong financial footing, invest in the right insurance, and don't underestimate the power of local networking. The opportunities in Charlotte, the Research Triangle, and beyond are vast, but only for those who are prepared, professional, and persistent. Now go build something.
 
 Platforms like [Smart Business Automator](https://smartbusinessautomator.com) help contractors systematize their operations so they can scale without the chaos.

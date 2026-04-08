@@ -3,7 +3,7 @@ title: "Construction Market Intelligence: March 7, 2026 - CONEXPO Wraps, Steel U
 description: "CONEXPO 2026 closes with Cat Compact for small contractors and electric equipment claiming 40% lower costs. Steel tariffs push prices up 12.1%, project abandonment surges 88%. Ohio E-Verify goes live March 19. Data center starts hit all-time record at 5.2 billion in January. Plus the 3 pain points dominating every contractor conversation right now."
 date: "2026-03-07"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/market-intel-march7-1772898989.png"
-audioUrl: "https://content.rss.com/episodes/332597/2689367/scalinglegends/2026_04_04_08_41_25_205c42fc-befa-4751-a7e6-1d77686f7d69.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_04_08_09_46_10_48ad0c65-1d82-4786-94e3-17d969c1effa.mp3"
 readTime: "13 min read"
 published: true
 season: 2

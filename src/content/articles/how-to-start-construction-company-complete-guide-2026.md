@@ -479,7 +479,7 @@ This is a general roadmap. Your specific timeline will vary based on your niche,
 *   Secure essential insurance policies (GL, WC, Commercial Auto).
 *   Obtain necessary surety bonds.
 *   Pass contractor licensing exams.
-*   Acquire your contractor license.
+*   Acquire your [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/).
 *   Secure local business licenses and permits.
 *   Invest in essential tools and a reliable work vehicle (buy, lease, or rent strategically).
 *   Set up your Google Business Profile.
@@ -596,7 +596,7 @@ While you might start a very lean, specialized operation with as little as $10,0
 
 <iframe src="https://www.youtube.com/embed/qNx-M-xqE6g" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-### How long does it take to get a contractor license?
+### How long does it take to get a [contractor license](/article/how-to-get-general-contractor-license-arizona-2026/)?
 
 The timeline varies significantly by state and your personal preparation. The process can take anywhere from 2-3 months to over a year. Key factors include the time it takes to gather verifiable experience documentation, the scheduling and passing of required exams (Business & Law, Trade), and the processing time of the state licensing board. It's crucial to start this process as early as possible.
 

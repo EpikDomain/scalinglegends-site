@@ -396,7 +396,7 @@ Let's talk about why you're doing all this work. Arizona, particularly the Phoen
 
 ### Q: Do I need a separate license for residential and commercial projects in Arizona?
 
-A: Yes, Arizona operates a dual licensing system. You need a C-1 Residential General Contractor license for residential projects and a B-1 Commercial General Contractor license for commercial projects. Many successful contractors obtain both to maximize their market reach.
+A: Yes, Arizona operates a dual licensing system. You need a C-1 Residential [General Contractor license](/article/how-to-get-general-contractor-license-washington-2026/) for residential projects and a B-1 Commercial [General Contractor license](/article/how-to-get-general-contractor-license-washington-2026/) for commercial projects. Many successful contractors obtain both to maximize their market reach.
 
 ### Q: How long does it take to get an Arizona contractor license?
 
