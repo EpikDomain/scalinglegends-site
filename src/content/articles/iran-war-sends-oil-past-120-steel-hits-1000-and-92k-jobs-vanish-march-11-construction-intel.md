@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619679/scalinglegends/2026_0
 readTime: "5 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-09"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -67,7 +67,7 @@ The upcoming CPI (Consumer Price Index) data release today and the Federal Reser
 
 ## Regulatory Landscape Shifts: E-Verify Expansion and Compliance Imperatives
 
-The expansion of E-Verify on March 19 represents a significant tightening of immigration and employment compliance for all US businesses, including construction contractors. E-Verify is an internet-based system that allows businesses to determine the eligibility of their employees to work in the United States. While many federal contractors are already mandated to use E-Verify, this expansion suggests a broader push towards universal adoption or increased scrutiny for companies not currently covered. For contractors, this means a heightened responsibility to verify the employment eligibility of all new hires, and potentially, existing employees in certain circumstances. Non-compliance can lead to severe penalties, including hefty fines, debarment from federal contracts, and even criminal charges.
+The expansion of E-Verify on March 19 represents a significant tightening of immigration and employment compliance for all US businesses, including [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/). E-Verify is an internet-based system that allows businesses to determine the eligibility of their employees to work in the United States. While many federal contractors are already mandated to use E-Verify, this expansion suggests a broader push towards universal adoption or increased scrutiny for companies not currently covered. For contractors, this means a heightened responsibility to verify the employment eligibility of all new hires, and potentially, existing employees in certain circumstances. Non-compliance can lead to severe penalties, including hefty fines, debarment from federal contracts, and even criminal charges.
 
 The implications for the construction industry are particularly acute, given its historical reliance on a diverse workforce, including immigrant labor. Contractors must ensure their HR and onboarding processes are robust enough to handle the E-Verify requirements seamlessly. This includes training HR staff, implementing clear procedures for document verification, and understanding the nuances of the E-Verify system, such as handling tentative non-confirmations. Proactive measures are essential to avoid disruptions to hiring, maintain project schedules, and protect the company's reputation. The expansion signals a long-term trend towards stricter enforcement of immigration laws in the workplace, making compliance a non-negotiable aspect of risk management for any scaling construction business.
 

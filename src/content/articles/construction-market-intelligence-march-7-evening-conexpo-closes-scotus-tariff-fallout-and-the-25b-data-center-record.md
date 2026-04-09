@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-09"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -231,7 +231,7 @@ No. The Supreme Court struck down IEEPA tariffs on February 20, 2026, but Sectio
 
 ### What is the Ohio E-Verify deadline and who does it apply to?
 
-Ohio's E-Verify Workforce Integrity Act takes effect on March 19, 2026. It applies to all nonresidential construction contractors, subcontractors, and labor brokers with no small business exemption. Penalties range from $250 for the first failure to create an E-Verify case up to $25,000 for continuing to employ a worker after final nonconfirmation. Records must be retained for 3 years from hire or 1 year after termination.
+Ohio's E-Verify Workforce Integrity Act takes effect on March 19, 2026. It applies to all nonresidential [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/), subcontractors, and labor brokers with no small business exemption. Penalties range from $250 for the first failure to create an E-Verify case up to $25,000 for continuing to employ a worker after final nonconfirmation. Records must be retained for 3 years from hire or 1 year after termination.
 
 ### How big is the data center construction boom in 2026?
 

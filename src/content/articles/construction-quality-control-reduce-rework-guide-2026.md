@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/construction-quality-control-reduce-rework
 readTime: "32 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-09"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -58,7 +58,7 @@ Both QA and QC are indispensable components of a comprehensive **construction qu
 
 ## The Hidden Killer: The True Cost of Rework and Defects
 
-The phrase "rework kills margins" isn't hyperbole; it's a stark reality for construction contractors. While the direct costs are often obvious, the true financial drain extends far beyond what's immediately visible. Understanding these costs is the first step in prioritizing **how to reduce rework in construction**.
+The phrase "rework kills margins" isn't hyperbole; it's a stark reality for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/). While the direct costs are often obvious, the true financial drain extends far beyond what's immediately visible. Understanding these costs is the first step in prioritizing **how to reduce rework in construction**.
 
 Industry reports, such as those from the Construction Industry Institute (CII) and various academic studies, consistently highlight that rework costs typically range from **5% to 12% of the total project value**. For a $10 million project, that's $500,000 to $1.2 million directly out of your pocket. Consider the average net profit margin for general contractors, which often hovers around 2-5%. Rework can easily consume *all* of your projected profit, leaving you with a break-even or, worse, a loss.
 

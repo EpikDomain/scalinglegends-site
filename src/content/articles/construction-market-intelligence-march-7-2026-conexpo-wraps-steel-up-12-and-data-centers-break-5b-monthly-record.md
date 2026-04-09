@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-09"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -41,7 +41,7 @@ The takeaway for contractors under $10M: Cat Compact simplifies equipment purcha
 
 The numbers are brutal. Steel tariffs at 50%. Aluminum at 50%. Copper products at 50%. Softwood lumber at 10% base plus 25% on derivatives.
 
-Year-over-year impact on construction inputs as of January 2026:
+Year-over-year [impact on construction](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) inputs as of January 2026:
 
 - Steel bars/plates/structural shapes: **up 12.1%**
 

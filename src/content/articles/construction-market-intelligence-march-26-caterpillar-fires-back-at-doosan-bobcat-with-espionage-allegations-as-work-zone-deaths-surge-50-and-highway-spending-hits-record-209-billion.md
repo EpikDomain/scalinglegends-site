@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2665637/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-09"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -70,7 +70,7 @@ The Infrastructure Investment and Jobs Act (IIJA) is driving record highway cons
 
 ### What is CMMC compliance for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/)?
 
-CMMC (Cybersecurity Maturity Model Certification) is a mandatory cybersecurity framework for over 300,000 organizations in the defense industrial base, including construction contractors working with the DoD. Phase 1 began in November 2025, with Phase 2 audits starting November 2026. There is no small business exemption, and non-compliance risks contract ineligibility, False Claims Act penalties, and debarment.
+CMMC (Cybersecurity Maturity Model Certification) is a mandatory cybersecurity framework for over 300,000 organizations in the defense industrial base, including [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) working with the DoD. Phase 1 began in November 2025, with Phase 2 audits starting November 2026. There is no small business exemption, and non-compliance risks contract ineligibility, False Claims Act penalties, and debarment.
 
 ### Which construction skills are seeing the most growth for 2026?
 
