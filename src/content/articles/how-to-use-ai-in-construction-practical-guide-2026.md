@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-use-ai-in-construction-practical-gu
 readTime: "107 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-09"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -28,7 +28,7 @@ Let's be blunt: not all AI is created equal, especially in construction. The ind
 
 ### The Hype Cycle vs. Practical Applications
 
-The Gartner Hype Cycle for Emerging Technologies accurately describes the journey of many AI innovations. Initial enthusiasm often leads to inflated expectations, followed by a "trough of disillusionment" when promised capabilities don't materialize quickly. For construction AI, we've largely moved past the peak for many core applications. We're now in an era where mature, specialized AI tools are delivering measurable ROI. These aren't general-purpose AI models trying to solve everything; they're purpose-built systems trained on vast datasets specific to construction, like blueprints, schedules, safety logs, and equipment telemetry.
+The Gartner Hype Cycle for Emerging Technologies accurately describes the journey of many AI innovations. Initial enthusiasm often leads to inflated expectations, followed by a "trough of disillusionment" when promised capabilities don't materialize quickly. For [construction AI](/article/ai-goes-agentic-the-construction-tech-that-actually-works-in-2026/), we've largely moved past the peak for many core applications. We're now in an era where mature, specialized AI tools are delivering measurable ROI. These aren't general-purpose AI models trying to solve everything; they're purpose-built systems trained on vast datasets specific to construction, like blueprints, schedules, safety logs, and equipment telemetry.
 
 For instance, while fully autonomous job sites remain a distant vision, AI-powered computer vision systems that monitor safety compliance or track progress are now commonplace. Similarly, AI that can draft a perfect contract from scratch is still nascent, but AI that can analyze existing contracts for specific clauses or risks is a powerful reality.
 

@@ -1,13 +1,12 @@
 ---
-title: "AI Goes Agentic: The Construction Tech That Actually Works in 2026"
-description: "From autonomous site inspection drones to AI estimating that learns from your bids, here's what construction AI actually delivers today vs. the hype."
+title: "Construction AI: Reality vs. Hype for 2026"
+description: "Explore the true state of construction AI. We cut through the hype to reveal which AI technologies are truly impactful and what's coming by 2026."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/ai-goes-agentic-the-construction-tech-that-actually-works-in-1772746610.png"
-audioUrl: "https://content.rss.com/episodes/332597/2604689/scalinglegends/2026_03_05_22_18_26_4a87af53-c1d6-4ad7-a796-2fbe66e667a1.mp3"
 readTime: "7 min read"
 published: true
 season: 2
-updatedAt: "2026-03-26"
+updatedAt: "2026-04-09"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
