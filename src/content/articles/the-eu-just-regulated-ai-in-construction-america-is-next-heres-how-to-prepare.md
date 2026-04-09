@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2613519/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-09"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -75,7 +75,7 @@ Here's a structured approach to prepare for AI safety construction 2026:
 
 - **Audit All Current AI Tools:** Create a comprehensive inventory of every AI-powered tool or feature you currently use. This includes everything from AI within your ERP system, automated scheduling software, BIM tools with generative design capabilities, safety monitoring cameras, and even AI-powered analytics platforms. Document the vendor, purpose, and data inputs for each. For instance, if you use a platform like OpenSpace for site capture, assess how its AI features analyze progress or safety.
 
-- **Understand Decision-Making Influence:** For each identified AI tool, determine what decisions it makes or significantly influences. Is it merely providing insights, or is it autonomously scheduling tasks, dispatching equipment, or flagging workers for disciplinary action? The higher the degree of autonomous decision-making, especially in critical areas like safety or personnel management, the higher the risk profile.
+- **Understand Decision-Making Influence:** For each identified AI tool, determine what decisions it makes or significantly influences. Is it merely providing insights, or is it autonomously scheduling tasks, dispatching equipment, or flagging workers for disciplinary action? The higher the degree of [autonomous decision-making](/article/construction-ai-monitoring-2026-senseras-27-million-bet-2000-gcs-on-board-and-how-jobsite-ai-is-moving-from-cameras-to-autonomous-decision-making/), especially in critical areas like safety or personnel management, the higher the risk profile.
 
 - **Establish Human Review Processes:** For any AI tool that makes or significantly influences high-risk decisions (e.g., worker safety alerts, automated task assignments, or predictive maintenance recommendations that could impact structural integrity), implement a clear, mandatory human review process. Humans must have the final say and the ability to override AI decisions. This also means training your team on how to effectively interact with and interpret AI outputs.
 
