@@ -247,7 +247,7 @@ The industry needs between 349,000 and 500,000 additional workers to meet curren
 
 **Sources:** Google Trends (pytrends, real-time March 7, 2026), AGC Economic Data, Construction Dive, ConstructConnect Data Center Report (March 2026), Engineering News-Record, OSHA, Census Bureau, Supreme Court Case 24-1287, White House Section 122 Executive Order (Feb 24, 2026), Ohio E-Verify Workforce Integrity Act, CONEXPO-CON/AGG 2026 exhibitor announcements. All data accessed March 7, 2026.
 
-**Scaling Legends** delivers daily intelligence briefings for construction contractors who want to scale. Subscribe wherever you listen to podcasts.
+**Scaling Legends** delivers daily intelligence briefings for [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) who want to scale. Subscribe wherever you listen to podcasts.
 
 [scalinglegends.com](https://scalinglegends.com)
 
