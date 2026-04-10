@@ -1,5 +1,5 @@
 ---
-title: "Construction Projects 2026: Key Industry Trends"
+title: "Construction Projects 2026: Trends & Forecasts"
 description: "Discover the major shifts for construction projects in 2026. Get insights into emerging trends, technology forecasts, and operational changes shaping the industry's future."
 date: "2026-02-17"
 image: "https://scalinglegends.com/og/how-to-manage-multiple-construction-projects-2026.jpg"
@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2673536/scalinglegends/2026_0
 readTime: "64 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-10"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

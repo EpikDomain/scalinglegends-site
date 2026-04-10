@@ -1,12 +1,12 @@
 ---
-title: "Scaling Construction: Trends & Outlook for 2026"
-description: "Discover the key trends shaping construction growth in 2026. Understand the outlook for scaling, revenue milestones, and critical leadership shifts."
+title: "Construction Growth: Strategies for 2026 Success"
+description: "Unlock construction growth in 2026. Learn actionable strategies for scaling your business, hitting revenue goals, and leading effectively next year."
 date: "2026-02-12"
 image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete-2026-guide.jpg"
 readTime: "41 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-10"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

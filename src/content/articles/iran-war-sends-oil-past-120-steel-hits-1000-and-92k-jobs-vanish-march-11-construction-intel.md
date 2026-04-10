@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619679/scalinglegends/2026_0
 readTime: "5 min read"
 published: true
 season: 2
-updatedAt: "2026-04-09"
+updatedAt: "2026-04-10"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -145,7 +145,7 @@ Technology plays a crucial role in this. Platforms like Smart Business Automator
 
 - **Lock in fuel prices with your supplier for 90 days.** Call your diesel supplier today and negotiate a fixed-rate contract. Even a 5% premium over spot is worth the predictability on a $2M project.
 
-- **Run E-Verify compliance check before March 19.** Audit your I-9 files, register for E-Verify if you haven't, and train your hiring managers on the new enforcement procedures taking effect this week.
+- **Run E-Verify compliance check before March 19.** Audit your I-9 files, register for E-Verify if you haven't, and train your hiring managers on [the new enforcement](/article/the-osha-2026-crackdown-fall-protection-documentation-and-the-new-enforcement-reality/) procedures taking effect this week.
 
 - **Diversify your pipeline away from federal contracts.** With $41.5B in DOGE cuts hitting, shift prospecting effort to state DOT projects, private data center builds, and municipal infrastructure where funding is still flowing.
 

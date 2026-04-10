@@ -646,7 +646,7 @@ For a general contractor in Texas in 2026, the opportunities are vast and varied
 
 ### Q3: Do I need insurance to be a general contractor in Texas?
 
-**A:** Absolutely, yes. While there are no state-mandated minimums for general contractors, General Liability insurance is universally required by clients and most municipalities for contractor registration. Typical coverage is $1 million per occurrence / $2 million aggregate. If you have employees, Workers' Compensation insurance is highly recommended (even though it's elective in Texas) to protect your business from lawsuits. Commercial auto and Builder's Risk insurance are also essential.
+**A:** Absolutely, yes. While there are no state-mandated minimums for general contractors, General Liability insurance is universally required by clients and most municipalities for contractor registration. Typical coverage is $1 million per occurrence / $2 million aggregate. If you have employees, Workers' Compensation insurance is highly recommended (even though it's elective in Texas) to [protect your business](/article/when-your-client-goes-bankrupt-2026-the-17-million-contractor-nightmare-and-7-ways-to-protect-your-business-before-it-happens/) from lawsuits. Commercial auto and Builder's Risk insurance are also essential.
 
 ### Q4: How do I find out the specific requirements for general contractors in Houston, Dallas, San Antonio, or Austin?
 
