@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-penn
 readTime: "46 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-10"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -116,7 +116,7 @@ While the state won't ask for your resume, your clients will. Banks will. Insura
 
 ### Bond and Insurance Requirements in Pennsylvania
 
-This is where you protect your business and your clients. Don't skimp here.
+This is where you [protect your business](/article/when-your-client-goes-bankrupt-2026-the-17-million-contractor-nightmare-and-7-ways-to-protect-your-business-before-it-happens/) and your clients. Don't skimp here.
 
 #### 1. Home Improvement Contractor (HIC) Registration - State Level:
 

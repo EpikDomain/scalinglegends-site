@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2655716/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
+updatedAt: "2026-04-10"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -16,7 +17,7 @@ sponsors:
 
 [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: Federal Funding Freeze Hits $5B Transit Projects
 
-Walsh and VINCI just got told to demobilize their $2.9 billion team by March 27. Gateway has 2-3 months of cash left. Over $5 billion in transit construction is frozen. This isn't a forecast; it's the current reality for federal transit projects across the nation. Here is what happened and how to protect your business when the government stops paying, ensuring your [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) can navigate this unprecedented financial freeze.
+Walsh and VINCI just got told to demobilize their $2.9 billion team by March 27. Gateway has 2-3 months of cash left. Over $5 billion in transit construction is frozen. This isn't a forecast; it's the current reality for federal transit projects across the nation. Here is what happened and how to [protect your business](/article/when-your-client-goes-bankrupt-2026-the-17-million-contractor-nightmare-and-7-ways-to-protect-your-business-before-it-happens/) when the government stops paying, ensuring your [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) can navigate this unprecedented financial freeze.
 
 ## Key Takeaways
 

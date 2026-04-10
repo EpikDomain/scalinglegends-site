@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
+updatedAt: "2026-04-10"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -36,7 +37,7 @@ The FY2027 federal budget proposal represents a seismic shift in the constructio
 
 For general contractors who rely on these federal streams for municipal water work, the implications are immediate and severe. The Community Development Block Grants (CDBG) are being eliminated entirely, removing $3.3 billion from the pipeline. Similarly, the HOME Investment Partnerships program, which has historically supported affordable housing and related construction, is cut by $1.3 billion. The Economic Development Administration (EDA) grant of $449 million is also eliminated. This "wipeout" of the community development sector forces a hard pivot. A contractor's portfolio is no longer sustainable if it remains heavily reliant on federal community grants, as the funding simply will not exist in 2026.
 
-Conversely, the defense sector is seeing a massive injection of capital. The Department of Defense is surging to $1.5 trillion, the highest level since the World War II era. This isn't just a bump; it represents a massive YoY increase that is driving demand for specialized contracting in fortification, logistics, and base infrastructure. However, not all defense contracting is created equal. Many general contractors are missing out on this surge because they lack the specialized bonding capacity or security clearances required for these projects.
+Conversely, the defense sector is seeing a massive injection of capital. The Department of Defense is surging to $1.5 trillion, the highest level since the World War II era. This isn't just a bump; it represents a massive YoY increase that is driving demand for specialized contracting in fortification, logistics, and base infrastructure. However, not all defense contracting is created equal. Many general [contractors are missing](/article/construction-tax-strategy-2026-bonus-depreciation-is-back-to-100-and-here-are-7-deductions-most-contractors-are-missing/) out on this surge because they lack the specialized bonding capacity or security clearances required for these projects.
 
 The Department of Transportation (DOT) is also receiving a boost, with an additional $1.3 billion allocated for freight, highway, and bridge infrastructure. This indicates a clear message from Washington: money is moving strictly toward transport and defense, away from environmental and general community development. This shift necessitates a recalibration of your bid strategy. If you are waiting on the government to fund your next water retrofit project, you may find yourself waiting until the budget is actually passed and distributed, which could delay your revenue cycles significantly.
 

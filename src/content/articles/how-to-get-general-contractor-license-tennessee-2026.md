@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-tenn
 readTime: "40 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-10"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -152,7 +152,7 @@ Study hard, show up prepared, and pass those exams. PSI will report your scores 
 
 Once you've passed your exams and your application is otherwise complete, you'll need to secure the necessary insurance. This is a non-negotiable step before your license can be issued.
 
-- **General Liability Insurance:** This protects you from claims of bodily injury or property damage that occur as a result of your business operations. While the Board doesn't specify a minimum dollar amount, most contractors carry at least $1 million per occurrence / $2 million aggregate. This is a wise investment to protect your business in Tennessee's active construction market.
+- **General Liability Insurance:** This protects you from claims of bodily injury or property damage that occur as a result of your business operations. While the Board doesn't specify a minimum dollar amount, most contractors carry at least $1 million per occurrence / $2 million aggregate. This is a wise investment to [protect your business](/article/when-your-client-goes-bankrupt-2026-the-17-million-contractor-nightmare-and-7-ways-to-protect-your-business-before-it-happens/) in Tennessee's active construction market.
 
 - **Workers' Compensation Insurance:** If you have employees, Tennessee law requires you to carry Workers' Compensation insurance. The threshold is typically five or more employees, but many contractors opt to carry it even with fewer employees for protection. If you are a sole proprietor with no employees, you can usually file an exemption. However, if you plan to hire, get this in place.
 

@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-texa
 readTime: "81 min read"
 published: true
 season: 2
+updatedAt: "2026-04-10"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -89,7 +90,7 @@ This is where the "no state license" situation becomes complex. You *must* inves
 
 #### Step 3: Secure Comprehensive Insurance and Bonding
 
-This isn't optional. This is how you protect your business, your clients, and your livelihood in Texas.
+This isn't optional. This is how you [protect your business](/article/when-your-client-goes-bankrupt-2026-the-17-million-contractor-nightmare-and-7-ways-to-protect-your-business-before-it-happens/), your clients, and your livelihood in Texas.
 
 - **General Liability Insurance:** Absolutely non-negotiable. This protects you from claims of property damage, bodily injury, and advertising injury resulting from your operations. Most clients and municipalities will require you to carry at least $1 million per occurrence / $2 million aggregate. Secure a robust policy.
 

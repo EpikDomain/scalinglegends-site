@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2632307/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-04-03"
+updatedAt: "2026-04-10"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -57,7 +57,7 @@ Effective payment schedule negotiation also includes clauses for change orders. 
 
 ## Navigating Slow-Pays and Protecting Your Cash Reserves
 
-Even with optimized payment schedules, slow-paying clients are an unfortunate reality in the construction industry. How you respond to these delays directly impacts your cash flow and overall financial health. A clear, escalating protocol is essential to protect your business.
+Even with optimized payment schedules, slow-paying clients are an unfortunate reality in the construction industry. How you respond to these delays directly impacts your cash flow and overall financial health. A clear, escalating protocol is essential to [protect your business](/article/when-your-client-goes-bankrupt-2026-the-17-million-contractor-nightmare-and-7-ways-to-protect-your-business-before-it-happens/).
 Here’s a proven slow-pay escalation strategy:
 
 - **Day 31: Friendly Reminder.** One day after the invoice is due, send a polite email or make a quick call. Assume it was an oversight. Attach the original invoice.
