@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2713422/scalinglegends/2026_0
 readTime: "19 min read"
 published: true
 season: 2
+updatedAt: "2026-04-11"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -34,7 +35,7 @@ The San Diego International Airport's South Terminal Project is not just a const
 
 - **Collaborative Delivery Models Work.** The integration of Gensler and MKA structural design with a construction joint venture demonstrates how integrated project delivery (IPD) reduces risk and enhances team alignment on complex mega-projects.
 
-- **Future-Proofing Infrastructure.** With 25,300 construction jobs generated and a $4.5 billion projected economic impact, the project sets a new standard for regional economic development tied to construction growth.
+- **Future-Proofing Infrastructure.** With 25,300 construction jobs generated and a $4.5 billion projected economic impact, the project sets a new standard for regional economic development tied to [construction growth](/article/surviving-the-messy-middle-of-construction-growth/).
 
 ## The Geotechnical Hurdle: Building on Liquefiable Soil
 
@@ -90,7 +91,7 @@ The team worked around a single active runway by adhering to strict noise abatem
 
 ### What role does [Smart Business Automator](https://smartbusinessautomator.com) play in this context?
 
-While not explicitly named in the project's public report, tools like [Smart Business Automator](https://smartbusinessautomator.com) provide the market intelligence necessary to benchmark such massive projects. They allow contractors to access data on steel pricing, labor rates, and regional economic impacts to make informed decisions during the bid and planning phases.
+While not explicitly named in the project's public report, tools like [Smart Business Automator](https://smartbusinessautomator.com) provide the [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) necessary to benchmark such massive projects. They allow contractors to access data on steel pricing, labor rates, and regional economic impacts to make informed decisions during the bid and planning phases.
 
 ## How to Apply Structural Efficiency to Your 2026 Projects
 
