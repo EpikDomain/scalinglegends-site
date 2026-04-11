@@ -3,7 +3,7 @@ title: "Construction Progressive Collapse 2026: What the Philadelphia Parking Ga
 description: "A 7-story parking garage partially collapsed in Philadelphia on April 8, killing at least one ironworker and trapping two more. A precast roof segment failed during placement, triggering cascading failure. This episode explains what progressive collapse is, why the erection phase is the most dangerous, and what every structural contractor must check before the next lift."
 date: "2026-04-11"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2725277/scalinglegends/2026_04_11_08_39_27_18720c54-f29f-46af-8933-a13bc75314f7.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2725706/scalinglegends/2026_04_11_11_53_16_d8d8fa16-d84f-4058-8f03-c623dd795a5f.mp3"
 readTime: "2 min read"
 published: true
 season: 2

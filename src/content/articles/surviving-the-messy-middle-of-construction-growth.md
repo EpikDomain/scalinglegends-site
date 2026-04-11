@@ -2,7 +2,8 @@
 title: "Surviving the Messy Middle of Construction Growth"
 description: "The $3M-$7M revenue zone where most construction companies stall or fail. What happens in the messy middle and how to push through it."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/surviving-the-messy-middle-of-construction-growth-1772747275.png"
+image: "/img/articles/surviving-the-messy-middle-of-construction-growth-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/surviving-the-messy-middle-of-construction-growth-1772747275.png"
 audioUrl: "https://content.rss.com/episodes/332597/2598785/scalinglegends/2026_03_04_00_32_22_742cd069-905c-4f7f-ae0e-5e8ee5368867.mp3"
 readTime: "9 min read"
 published: true

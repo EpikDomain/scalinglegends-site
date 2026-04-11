@@ -2,7 +2,8 @@
 title: "Scaling Finance: Build Your $10M System by 2026"
 description: "Learn the financial infrastructure to scale your construction business from $3M to $10M. Implement systems, accounts, and reporting for growth by 2026. Stop bleeding cash!"
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/scaling-without-bleeding-cash-the-financial-system-that-take-1772746652.png"
+image: "/img/articles/scaling-without-bleeding-cash-the-financial-system-that-takes-you-from-3m-to-10m-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/scaling-without-bleeding-cash-the-financial-system-that-take-1772746652.png"
 readTime: "8 min read"
 published: true
 season: 2

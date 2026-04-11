@@ -44,7 +44,7 @@ Construction employment increased in 38 states during March 2026, with a total o
 
 The Sixth Circuit Court of Appeals struck down the NLRB's Cemex bargaining order framework. Under Cemex, if an employer committed unfair labor practices during a union election campaign, the NLRB could order the employer to bargain with the union without holding an election. The Sixth Circuit ruled this exceeded the NLRB's authority, significantly changing the legal landscape for union organizing in construction and other industries.
 
-### How are steel tariffs affecting construction costs in 2026?
+### How are steel tariffs affecting [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/) in 2026?
 
 Steel prices increased 11.9% in 2025 due to tariff policies, and that pressure is carrying into Q2 2026. For contractors, this means higher material costs on structural steel, rebar, and metal fabrication. Projects bid before the tariff increases are seeing margin compression, while new bids must account for continued volatility. Fuel escalation clauses and material price adjustment provisions are now essential in every contract.
 
@@ -94,7 +94,7 @@ For contractors, this means three things:
 
 - **Alternative materials deserve evaluation.** Mass timber, precast concrete, and aluminum framing are gaining share partly because of steel price volatility. The prefab [construction company](/article/surviving-the-messy-middle-of-construction-growth/) trend (Score 100 in our tracker) is partly a response to material cost unpredictability.
 
-## How to Protect Your Business from Client Bankruptcy
+## How to [Protect Your Business](/article/when-your-client-goes-bankrupt-2026-the-17-million-contractor-nightmare-and-7-ways-to-protect-your-business-before-it-happens/) from Client Bankruptcy
 
 - **Vet client financing before mobilizing.** Request proof of committed capital, not just letters of intent. For bond-funded projects, verify the bond trustee and disbursement schedule. The Oroville Hospital had $196M in bonds but the financial structure was fragile.
 

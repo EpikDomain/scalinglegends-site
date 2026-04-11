@@ -2,7 +2,8 @@
 title: "Construction AI: Reality vs. Hype for 2026"
 description: "Explore the true state of construction AI. We cut through the hype to reveal which AI technologies are truly impactful and what's coming by 2026."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/ai-goes-agentic-the-construction-tech-that-actually-works-in-1772746610.png"
+image: "/img/articles/ai-goes-agentic-the-construction-tech-that-actually-works-in-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/ai-goes-agentic-the-construction-tech-that-actually-works-in-1772746610.png"
 readTime: "7 min read"
 published: true
 season: 2

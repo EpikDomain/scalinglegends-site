@@ -2,7 +2,8 @@
 title: "Diesel Fuel Costs Construction 2026: What Contractors Nee..."
 description: "Deep dive into diesel fuel costs construction and what it means for construction businesses in 2026."
 date: "2026-04-02"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-fuel-costs-construction-2026-what-contractors-nee-1775135243.png"
+image: "/img/articles/diesel-fuel-costs-construction-2026-what-contractors-nee-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-fuel-costs-construction-2026-what-contractors-nee-1775135243.png"
 audioUrl: "https://content.rss.com/episodes/332597/2682988/scalinglegends/2026_04_02_13_23_36_279e5a5f-50c3-40ed-b990-085df328c30b.mp3"
 readTime: "18 min read"
 published: true

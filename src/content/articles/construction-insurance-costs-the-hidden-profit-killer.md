@@ -2,7 +2,8 @@
 title: "Construction Insurance Costs: The Hidden Profit Killer"
 description: "Scaling Legends - Construction Insurance Costs: The Hidden Profit Killer"
 date: "2026-04-06"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-insurance-costs-the-hidden-profit-killer-1775514380.png"
+image: "/img/articles/construction-insurance-costs-the-hidden-profit-killer-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-insurance-costs-the-hidden-profit-killer-1775514380.png"
 readTime: "15 min read"
 published: true
 season: 2

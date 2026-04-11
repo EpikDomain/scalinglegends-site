@@ -32,7 +32,7 @@ A $1.17 billion rail project in Angola is America's answer to China's Belt and R
 
 ## Frequently Asked Questions
 
-### What is the Lobito Corridor construction project?
+### What is the Lobito Corridor [construction project](/article/surviving-the-messy-middle-of-construction-growth/)?
 
 The Lobito Corridor is a US-backed infrastructure initiative connecting the Democratic Republic of Congo and Zambia's mineral-rich regions to the Atlantic coast through Angola. The anchor project is a $1.17 billion rail line spanning 260 kilometers from Luena to Saurimo in Angola, with 11 bridges, 8 stations, and capacity for both freight and passenger service. The project is designed to create a Western alternative to Chinese-controlled supply chains for critical minerals including cobalt, copper, and lithium.
 
@@ -40,7 +40,7 @@ The Lobito Corridor is a US-backed infrastructure initiative connecting the Demo
 
 The US Development Finance Corporation (DFC) provided a $553 million loan to support the rail construction. This is part of the broader Partnership for Global Infrastructure and Investment (PGII), the G7's answer to China's Belt and Road Initiative. Additional funding comes from the African Development Bank, the European Union, and private sector partners. [Smart Business Automator](https://smartbusinessautomator.com) tracks international infrastructure funding pipelines for strategic planning.
 
-### Can American construction companies work on the Lobito Corridor?
+### Can American [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) work on the Lobito Corridor?
 
 Yes. DFC-backed projects are required to follow US procurement standards, which create opportunities for American firms to supply equipment, engineering services, and specialized construction expertise. The DFC procurement process is open and documented. Companies with experience in rail construction, bridge building, heavy civil, or port infrastructure are best positioned to participate. Contact the DFC's Office of Development Credit directly for procurement guidelines.
 
@@ -54,7 +54,7 @@ The corridor connects deposits of cobalt (essential for EV batteries, 70%+ of gl
 
 ## The $1.17 Billion Rail Project: What Is Being Built
 
-The anchor construction project is a 260-kilometer rail line connecting Luena to Saurimo in eastern Angola. The construction consortium is led by Odebrecht (now Novonor) and Bento Pedroso Construcoes, both experienced in African infrastructure. Groundbreaking occurred in January 2026.
+The anchor [construction project](/article/surviving-the-messy-middle-of-construction-growth/) is a 260-kilometer rail line connecting Luena to Saurimo in eastern Angola. The construction consortium is led by Odebrecht (now Novonor) and Bento Pedroso Construcoes, both experienced in African infrastructure. Groundbreaking occurred in January 2026.
 
 The scope includes:
 

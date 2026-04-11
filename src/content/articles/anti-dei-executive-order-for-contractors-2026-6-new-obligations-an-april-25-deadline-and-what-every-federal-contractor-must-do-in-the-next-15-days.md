@@ -94,7 +94,7 @@ This table highlights the stark contrast between proactive compliance management
 
 ## Safety Culture and Compliance: The Hidden Connection
 
-While the title of the Executive Order focuses on DEI, the implementation of this order is fundamentally a safety culture initiative. In the construction industry, safety is not just about hard hats and fall protection; it is about the integrity of your reporting and communication systems. A company that is rigorous in verifying the demographics and wage data of its workforce is typically a company that is rigorous in verifying the qualifications of its crew on a job site.
+While the title of the Executive Order focuses on DEI, the implementation of this order is fundamentally a safety culture initiative. In the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), safety is not just about hard hats and fall protection; it is about the integrity of your reporting and communication systems. A company that is rigorous in verifying the demographics and wage data of its workforce is typically a company that is rigorous in verifying the qualifications of its crew on a job site.
 
 There is a strong correlation between data transparency and incident prevention. When management is required to log detailed data on their workforce, they inevitably have more visibility into who is working on their jobs. This visibility allows for better assignment of tasks based on skill and certification. If your system flags that a worker is being paid less than the prevailing wage, it is highly likely that other compliance metrics, such as OSHA 300 logs, are also under scrutiny. By tightening your compliance data flows, you inadvertently tighten your safety controls.
 
@@ -108,7 +108,7 @@ The link between administrative compliance and field safety cannot be overstated
 
 ### What happens if we miss the April 25 deadline?
 
-Missing the April 25 deadline will result in your company being flagged as non-compliant in the federal portal. You will be ineligible for any new federal contract awards until compliance is verified, which typically takes 3-4 weeks of manual audit. During this time, cash flow from bids will stall.
+Missing the April 25 deadline will result in your company being flagged as non-compliant in the federal portal. You will be ineligible for any new federal contract awards until compliance is verified, which typically takes 3-4 weeks of manual audit. During this time, [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) from bids will stall.
 
 ### Do we need to change our entire payroll system?
 
