@@ -72,7 +72,7 @@ The project creates an estimated 2,000 direct construction jobs, with downstream
 
 ## The Geopolitics: Why the US Is Investing in African Rail
 
-The Lobito Corridor is not just a construction project. It is a geopolitical strategy. China's Belt and Road Initiative has invested over $1 trillion in global infrastructure, with Africa as a primary focus. Chinese-built railways, ports, and highways span the continent, often with financing terms that have been criticized as creating debt traps for host nations.
+The Lobito Corridor is not just a [construction project](/article/surviving-the-messy-middle-of-construction-growth/). It is a geopolitical strategy. China's Belt and Road Initiative has invested over $1 trillion in global infrastructure, with Africa as a primary focus. Chinese-built railways, ports, and highways span the continent, often with financing terms that have been criticized as creating debt traps for host nations.
 
 The US response is the Partnership for Global Infrastructure and Investment (PGII), announced at the G7 summit in 2022. The Lobito Corridor is PGII's flagship project. The strategic logic is straightforward: the Democratic Republic of Congo and Zambia contain the world's largest deposits of cobalt and copper, minerals essential for electric vehicles, batteries, data centers, and the energy transition.
 

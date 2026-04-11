@@ -195,6 +195,6 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Implement Payment Compliance Software.** Integrate Handle's construction payment compliance software into your operations to manage lien rights, preliminary notices, and payment tracking, safeguarding your business from legal and administrative oversights.
 
-- **Explore Project-Specific Lending.** Research CoFi Lending's digital marketplace for construction loans ranging from $250K to $60M, understanding their offerings to secure capital for larger projects as your business grows.
+- **Explore Project-Specific Lending.** Research CoFi Lending's digital marketplace for [construction loans](/article/va-construction-loans-2026-zero-down-payment-no-pmi-and-why-every-contractor-should-know-how-to-build-for-veterans/) ranging from $250K to $60M, understanding their offerings to secure capital for larger projects as your business grows.
 
 - **Capitalize on Workforce Development Grants.** Identify and apply for available federal workforce training grants, such as the $7,395 grant mentioned, to offset initial education or training costs and reduce your personal investment.

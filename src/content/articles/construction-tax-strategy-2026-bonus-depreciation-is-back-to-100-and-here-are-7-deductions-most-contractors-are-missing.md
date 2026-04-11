@@ -94,7 +94,7 @@ To ensure you capture these deductions without risking an audit, you need a stru
 
 - **Audit Your Mileage Logs.** Ensure every vehicle trip is logged. Business use must be distinguished from personal use. For tax purposes, the IRS requires detailed mileage records. Failure to provide these can disqualify the deduction for vehicle expenses entirely.
 
-- **Review Contract Terms.** Analyze your bid spreads. Ensure your pricing models account for the tax impact of your deductible expenses. If you expect to buy a fleet of trucks, factor that tax deduction into your cash flow projection for the quarter to maximize the timing of the purchase.
+- **Review Contract Terms.** Analyze your bid spreads. Ensure your pricing models account for the tax impact of your deductible expenses. If you expect to buy a fleet of trucks, factor that tax deduction into your [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) projection for the quarter to maximize the timing of the purchase.
 
 - **File for R&D Credits.** If you developed new construction methods or safety jigs, file for the R&D Tax Credit. This is often missed by contractors. The cost of designing custom fixtures for safety falls under R&D, and credits can range from **20% of qualifying costs**.
 
