@@ -1,13 +1,12 @@
 ---
-title: "Construction Estimating: 2026 Market Insights"
-description: "Explore the latest construction estimating trends and market insights for 2026. Understand evolving costs, project demands, and strategies to stay competitive in the industry."
+title: "Construction Estimating: 2026 Industry Trends"
+description: "Discover the top construction estimating trends impacting 2026. Get market insights on evolving costs, project demands, and the future of the industry."
 date: "2026-02-21"
 image: "https://scalinglegends.com/og/construction-estimating-101-how-to-estimate-any-project-2026.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2662968/scalinglegends/2026_03_26_08_38_27_3a94e454-6902-48ae-9176-22bdee5ab5f2.mp3"
 readTime: "53 min read"
 published: true
 season: 2
-updatedAt: "2026-03-22"
+updatedAt: "2026-04-11"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

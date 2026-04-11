@@ -112,7 +112,7 @@ Section 179 allows an immediate deduction for specific equipment purchases with 
 
 ### Do I need to pay taxes on the full retainage amount in the year of completion?
 
-Generally, no. If you use the Percentage of Completion method, you recognize revenue as work is performed, not when retainage is released. However, if you are on the Completed Contract method, you wait until the project ends. Ensure your accounting method is consistent with your state's tax regulations to avoid cash flow mismatches between income recognition and tax liability.
+Generally, no. If you use the Percentage of Completion method, you recognize revenue as work is performed, not when retainage is released. However, if you are on the Completed Contract method, you wait until the project ends. Ensure your accounting method is consistent with your state's tax regulations to avoid [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) mismatches between income recognition and tax liability.
 
 ### How does buying safety equipment affect my bond premium?
 

@@ -3,7 +3,7 @@ title: "EPA Microplastics Regulation 2026: What the First-Ever Construction Cont
 description: "The EPA just added microplastics to its contaminant regulation list for the first time. HHS launched a $144 million monitoring initiative. Construction is a major source: stormwater, demolition waste, concrete fiber, plastic pipes. This episode explains what is coming, when it hits, and how to get ahead of it."
 date: "2026-04-11"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2725282/scalinglegends/2026_04_11_08_40_45_55d8c4bb-5cc9-4c22-ace9-936c4c5f69de.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2726417/scalinglegends/2026_04_11_14_46_33_2fb1947f-4713-4aef-9cd6-7e590e57a6b9.mp3"
 readTime: "2 min read"
 published: true
 season: 2

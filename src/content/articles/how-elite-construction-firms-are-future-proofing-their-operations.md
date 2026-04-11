@@ -1,12 +1,12 @@
 ---
-title: "How Elite Construction Firms Are Future-Proofing Their Operations"
-description: "The operational playbook of top-performing construction firms. What $20M-$50M contractors do differently with scheduling, procurement, and team structure."
+title: "Construction Playbook 2026: Future-Proof Your Firm"
+description: "Learn the operational playbook of top $20M-$50M construction firms. Implement strategies for future-proofing your business by 2026 in scheduling, procurement & team structure."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-elite-construction-firms-are-future-proofing-their-opera-1772746740.png"
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-11"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

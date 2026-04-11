@@ -110,7 +110,7 @@ For contractors with marine construction experience, the Lobito port expansion r
 
 - **Understand the regulatory environment.** Angola requires foreign contractors to partner with local firms for certain scopes. Labor laws, safety standards, and environmental regulations differ from US norms. Hire local legal counsel before committing.
 
-- **Start small with equipment supply or consulting.** If deploying crews to Angola is too large a step, start by supplying equipment, providing engineering consulting, or offering project management services remotely. Many international engagements begin as equipment supply contracts.
+- **Start small with equipment supply or consulting.** If deploying crews to Angola is too large a step, start by supplying equipment, providing engineering consulting, or offering [project management](/article/surviving-the-messy-middle-of-construction-growth/) services remotely. Many international engagements begin as equipment supply contracts.
 
 - **Track the broader PGII pipeline.** The Lobito Corridor is one project in a multi-billion-dollar global infrastructure initiative. Additional PGII projects are in development across Africa, Southeast Asia, and Latin America. [Smart Business Automator](https://smartbusinessautomator.com) tracks international infrastructure pipelines so you can identify opportunities before they go to bid.
 
