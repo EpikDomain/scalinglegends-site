@@ -66,7 +66,7 @@ For contractors, the lesson is clear: **a completed building does not guarantee 
 
 The March 2026 employment data paints a broadly positive picture for construction labor demand. Employment increased in 38 states, with a total of 26,000 jobs added across the sector. This is the broadest state-level expansion in over a year.
 
-The gains were split across residential and nonresidential sectors. Data center construction continues to drive nonresidential hiring, particularly in Virginia, Texas, Ohio, and Georgia. Healthcare construction, projected at $30.7 billion in 2026, is adding jobs in states with major hospital expansions. Highway and bridge construction is steady, supported by the IIJA pipeline.
+The gains were split across residential and nonresidential sectors. [Data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) continues to drive nonresidential hiring, particularly in Virginia, Texas, Ohio, and Georgia. [Healthcare construction](/article/healthcare-construction-boom-2026-why-hospitals-are-the-safest-bet-in-a-recession-and-how-to-win-these-projects/), projected at $30.7 billion in 2026, is adding jobs in states with major hospital expansions. Highway and bridge construction is steady, supported by the IIJA pipeline.
 
 However, the labor supply remains tight. The construction workforce gap, estimated at 500,000+ workers, means that even with 26,000 new jobs, contractors in most markets still cannot find enough skilled labor. Wage inflation in construction is running above the national average, particularly for electricians, welders, and equipment operators.
 
@@ -78,7 +78,7 @@ The Sixth Circuit Court of Appeals issued a ruling that could reshape union orga
 
 The Cemex framework was introduced in 2023 and represented the NLRB's most aggressive pro-union stance in decades. Under Cemex, if a union collected authorization cards from a majority of workers and the employer then engaged in conduct that the NLRB deemed unfair (such as threatening job loss or interrogating workers about union activity), the NLRB could bypass the traditional secret-ballot election and simply order the employer to recognize and bargain with the union.
 
-The Sixth Circuit ruled this exceeded the NLRB's statutory authority. The practical impact for construction contractors is significant: **the traditional election process remains the primary path to unionization in the Sixth Circuit's jurisdiction** (Michigan, Ohio, Kentucky, Tennessee). Other circuits may follow, or the issue could reach the Supreme Court.
+The Sixth Circuit ruled this exceeded the NLRB's statutory authority. The practical impact for [construction contractors](/article/the-lobito-corridor-2026-how-a-117-billion-african-rail-project-is-becoming-americas-answer-to-chinas-belt-and-road-and-why-construction-contractors-should-care/) is significant: **the traditional election process remains the primary path to unionization in the Sixth Circuit's jurisdiction** (Michigan, Ohio, Kentucky, Tennessee). Other circuits may follow, or the issue could reach the Supreme Court.
 
 For non-union contractors, this provides breathing room. For union contractors, the organizing landscape remains favorable in other circuits. Either way, contractors should review their labor relations practices with counsel.
 
@@ -92,7 +92,7 @@ For contractors, this means three things:
 
 - **Escalation clauses are mandatory.** Every new contract should include material price adjustment provisions. The AGC has model language available.
 
-- **Alternative materials deserve evaluation.** Mass timber, precast concrete, and aluminum framing are gaining share partly because of steel price volatility. The prefab construction company trend (Score 100 in our tracker) is partly a response to material cost unpredictability.
+- **Alternative materials deserve evaluation.** Mass timber, precast concrete, and aluminum framing are gaining share partly because of steel price volatility. The prefab [construction company](/article/surviving-the-messy-middle-of-construction-growth/) trend (Score 100 in our tracker) is partly a response to material cost unpredictability.
 
 ## How to Protect Your Business from Client Bankruptcy
 
@@ -128,7 +128,7 @@ This was a packed week for construction intelligence:
 
 - **April 16:** Gateway tunnel court hearing (6 days). If funds are not released, this becomes the largest infrastructure cancellation in US history.
 
-- **April 25:** Anti-DEI Executive Order compliance deadline (15 days). All federal contractors must have new certifications in place.
+- **April 25:** [Anti-DEI Executive Order](/article/anti-dei-executive-order-for-contractors-2026-6-new-obligations-an-april-25-deadline-and-what-every-federal-contractor-must-do-in-the-next-15-days/) compliance deadline (15 days). All federal contractors must have new certifications in place.
 
 - **May 20:** SPARK Act deadline (40 days).
 

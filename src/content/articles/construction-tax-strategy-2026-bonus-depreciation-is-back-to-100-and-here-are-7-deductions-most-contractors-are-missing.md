@@ -40,7 +40,7 @@ This guide outlines the precise financial maneuvers you can deploy in 2026 to al
 
 ## Understanding the Shift: 100% Bonus Depreciation and IRC Section 179
 
-The 2026 tax code offers a unique window where the American Jobs Plan and subsequent extensions allow for 100% bonus depreciation on qualifying new and used property. For a contracting firm scaling from $1M to $50M, this is the most potent lever available for cash flow management. Historically, the bonus depreciation phase-out was scheduled to reduce to 60% by 2025, but recent legislative adjustments and market stabilization efforts have preserved the 100% rate for assets placed in service before December 31, 2026. This means that the cost basis of eligible assets can be fully deducted against gross income in the year of acquisition.
+The 2026 tax code offers a unique window where the American Jobs Plan and subsequent extensions allow for 100% bonus depreciation on qualifying new and used property. For a contracting firm scaling from $1M to $50M, this is the most potent lever available for [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). Historically, the bonus depreciation phase-out was scheduled to reduce to 60% by 2025, but recent legislative adjustments and market stabilization efforts have preserved the 100% rate for assets placed in service before December 31, 2026. This means that the cost basis of eligible assets can be fully deducted against gross income in the year of acquisition.
 
 This strategy fundamentally changes how you approach capital expenditure (CapEx). Instead of recognizing the expense over the useful life of the machine, you recognize it immediately. Consider a fleet acquisition scenario: A contractor purchasing **$200,000** in new heavy machinery (cranes, excavators) in Q4 2026 would normally depreciate this over 7 years. With 100% bonus depreciation, the entire **$200,000** reduces taxable income immediately. If your marginal tax rate is **21%**, this single transaction generates a **$42,000** tax refund or credit, effectively improving your liquidity position instantly.
 
@@ -86,7 +86,7 @@ Additionally, infrastructure improvements related to the job site often qualify 
 
 To ensure you capture these deductions without risking an audit, you need a structured approach to your accounting operations. Implementing the following steps will align your field operations with your financial strategy effectively.
 
-- **Assign a Tax Strategist.** Do not rely on a generic general accountant. Hire a CPA or tax advisor who specializes in the construction industry and understands MACRS, Section 179, and bonus depreciation rules. The specialized knowledge required here can justify the fee by recovering at least **$25,000** in first-year savings.
+- **Assign a Tax Strategist.** Do not rely on a generic general accountant. Hire a CPA or tax advisor who specializes in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) and understands MACRS, Section 179, and bonus depreciation rules. The specialized knowledge required here can justify the fee by recovering at least **$25,000** in first-year savings.
 
 - **Digitize Asset Tracking.** Move away from paper logs for equipment. Implement a system where every asset (drill, saw, truck) is tagged and tracked. [Smart Business Automator](https://smartbusinessautomator.com) solutions can link asset purchases to depreciation schedules automatically, reducing administrative errors.
 

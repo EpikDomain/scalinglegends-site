@@ -28,7 +28,7 @@ A $1.17 billion rail project in Angola is America's answer to China's Belt and R
 
 - **2,000 construction jobs.** The rail project alone creates direct employment, with downstream infrastructure creating thousands more.
 
-- **DFC procurement is open to US firms.** American construction companies can participate through DFC procurement channels for equipment, engineering, and specialized services.
+- **DFC procurement is open to US firms.** American [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) can participate through DFC procurement channels for equipment, engineering, and specialized services.
 
 ## Frequently Asked Questions
 
@@ -98,7 +98,7 @@ Port construction scope includes:
 
 For contractors with marine construction experience, the Lobito port expansion represents a multi-year engagement. The combination of rail and port creates an integrated logistics corridor that will require maintenance and expansion for decades.
 
-## How to Position Your Construction Business for International Infrastructure
+## How to Position Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) for International Infrastructure
 
 - **Register with the DFC procurement portal.** The Development Finance Corporation maintains an open procurement system for US firms. Registration is free and puts you on the list for bid notifications on DFC-backed projects globally, not just the Lobito Corridor.
 
@@ -116,4 +116,4 @@ For contractors with marine construction experience, the Lobito port expansion r
 
 ## The Bottom Line
 
-The Lobito Corridor is a signal that international infrastructure is entering a new era. The US government is actively investing in global construction projects to compete with China, and US construction firms have a front-row seat. The $1.17 billion rail project is just the beginning. Port expansions, road networks, power generation, and industrial facilities will follow as the corridor develops. Contractors who position themselves now, through DFC registration, prime contractor relationships, and international capability building, will access a market that most of their competitors do not even know exists. Subscribe to Scaling Legends for the construction intelligence that shows you where the market is going before everyone else arrives.
+The Lobito Corridor is a signal that international infrastructure is entering a new era. The US government is actively investing in global [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) to compete with China, and US construction firms have a front-row seat. The $1.17 billion rail project is just the beginning. Port expansions, road networks, power generation, and industrial facilities will follow as the corridor develops. Contractors who position themselves now, through DFC registration, prime contractor relationships, and international capability building, will access a market that most of their competitors do not even know exists. Subscribe to Scaling Legends for the construction intelligence that shows you where the market is going before everyone else arrives.
