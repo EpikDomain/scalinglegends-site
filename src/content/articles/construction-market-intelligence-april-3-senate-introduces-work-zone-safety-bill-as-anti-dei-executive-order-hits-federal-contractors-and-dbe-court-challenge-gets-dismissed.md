@@ -2,8 +2,7 @@
 title: "Construction Market Intelligence: April 3 - Senate Introduces Work Zone Safety Bill as Anti-DEI Executive Order Hits Federal Contractors and DBE Court Challenge Gets Dismissed"
 description: "Friday market intelligence covering the bipartisan Safe Roads for Those Who Serve Act introduced by Senators Cortez Masto and McCormick, the March 26 Anti-DEI executive order creating 6 new obligations for all federal contractors and subs, the Mid-America Milling v. DOT DBE challenge dismissed as moot, ConstructConnect data showing spending up 5.2% but starts down 3.5%, and weekly trend recap."
 date: "2026-04-03"
-image: "/img/articles/construction-market-intelligence-april-3-senate-introduces-work-zone-safety-bill-as-anti-dei-executive-order-hits-federal-contractors-and-dbe-court-challenge-gets-dismissed-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-3---senate-introduces-1775204735.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-3---senate-introduces-1775204735.png"
 audioUrl: "https://content.rss.com/episodes/332597/2685827/scalinglegends/2026_04_03_08_41_55_14aa7e7c-8a25-477a-9c6f-cb5f20a314b4.mp3"
 readTime: "23 min read"
 published: true

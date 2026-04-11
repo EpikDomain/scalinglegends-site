@@ -2,8 +2,7 @@
 title: "Operational Secrets Behind $50M General Contractors"
 description: "Inside the operational DNA of $50M+ general contractors. The scheduling systems, team structures, and risk management frameworks that separate them from everyone else."
 date: "2026-03-05"
-image: "/img/articles/operational-secrets-behind-50m-general-contractors-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/operational-secrets-behind-50m-general-contractors-1772746863.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/operational-secrets-behind-50m-general-contractors-1772746863.png"
 readTime: "9 min read"
 published: true
 season: 2

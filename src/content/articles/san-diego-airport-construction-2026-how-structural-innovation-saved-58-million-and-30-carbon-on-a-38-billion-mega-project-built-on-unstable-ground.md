@@ -2,8 +2,7 @@
 title: "San Diego Airport Construction 2026: How Structural Innovation Saved $58 Million and 30% Carbon on a $3.8 Billion Mega-Project Built on Unstable Ground"
 description: "San Diego's $3.8 billion airport program saved $58 million and reduced embodied carbon 30% by eliminating 100 columns with buckling restrained braces. Built on liquefiable reclaimed land with 3,000 piles to 90 feet. Turner-Flatiron JV + Hensel Phelps. This is a masterclass in constrained construction."
 date: "2026-04-09"
-image: "/img/articles/san-diego-airport-construction-2026-how-structural-innovation-saved-58-million-and-30-carbon-on-a-38-billion-mega-project-built-on-unstable-ground-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/san-diego-airport-construction-2026-how-structural-innovatio-1775728934.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/san-diego-airport-construction-2026-how-structural-innovatio-1775728934.png"
 audioUrl: "https://content.rss.com/episodes/332597/2713422/scalinglegends/2026_04_09_09_53_51_1f17a45c-760f-44ae-bb71-99296071e5c8.mp3"
 readTime: "19 min read"
 published: true

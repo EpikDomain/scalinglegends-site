@@ -2,8 +2,7 @@
 title: "Is Indecision Crippling Your Construction Business? How to Make Faster, Better Decisions"
 description: "Most contractors lose more money from delayed decisions than from bad ones. This episode breaks down the psychology of indecision in construction, the real cost of waiting, and a practical framework for making faster, better decisions under pressure."
 date: "2026-03-18"
-image: "/img/articles/is-indecision-crippling-your-construction-business-how-to-make-faster-better-decisions-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/is-indecision-crippling-your-construction-business-how-to-ma-1773822987.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/is-indecision-crippling-your-construction-business-how-to-ma-1773822987.png"
 audioUrl: "https://content.rss.com/episodes/332597/2636375/scalinglegends/2026_03_17_14_45_41_e8aa16a3-de1d-4452-8c8f-32ad84674961.mp3"
 readTime: "18 min read"
 published: true

@@ -2,8 +2,7 @@
 title: "Construction Bidding Process 2026: Where to Find Projects, How to Qualify Opportunities, and the 10 Mistakes That Are Losing You Money"
 description: "The average construction firm bids 5-10 projects for every one they win. Public work hit ratios are 7-10:1. Most contractors have no go/no-go framework and waste thousands on bids they should never submit. This episode covers where to find projects, how to decide which to bid, and the 10 mistakes that are killing your win rate."
 date: "2026-03-30"
-image: "/img/articles/construction-bidding-process-2026-where-to-find-projects-how-to-qualify-opportunities-and-the-10-mistakes-that-are-losing-you-money-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-bidding-process-2026-where-to-find-projects-how-1774860853.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-bidding-process-2026-where-to-find-projects-how-1774860853.png"
 audioUrl: "https://content.rss.com/episodes/332597/2673536/scalinglegends/2026_03_30_08_43_42_fc4ea1f8-6c21-4e5b-902e-e88096881d3c.mp3"
 readTime: "18 min read"
 published: true

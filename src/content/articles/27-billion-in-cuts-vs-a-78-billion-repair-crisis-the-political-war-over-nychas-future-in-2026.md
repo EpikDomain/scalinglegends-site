@@ -2,8 +2,7 @@
 title: "$27 Billion in Cuts vs. a $78 Billion Repair Crisis: The Political War Over NYCHA's Future in 2026"
 description: "Scaling Legends - $27 Billion in Cuts vs. a $78 Billion Repair Crisis: The Political War Over NYCHA's Future in 2026"
 date: "2026-03-24"
-image: "/img/articles/27-billion-in-cuts-vs-a-78-billion-repair-crisis-the-political-war-over-nychas-future-in-2026-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/27-billion-in-cuts-vs-a-78-billion-repair-crisis-the-politic-1774362989.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/27-billion-in-cuts-vs-a-78-billion-repair-crisis-the-politic-1774362989.png"
 audioUrl: "https://content.rss.com/episodes/332597/2660382/scalinglegends/2026_03_25_09_42_49_22d8f108-c97b-4bbe-a7bf-17d5f0333e9a.mp3"
 readTime: "17 min read"
 published: true

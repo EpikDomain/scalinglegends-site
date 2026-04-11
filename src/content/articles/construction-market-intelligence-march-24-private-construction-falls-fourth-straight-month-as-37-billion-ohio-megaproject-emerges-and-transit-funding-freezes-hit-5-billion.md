@@ -2,8 +2,7 @@
 title: "Construction Market Intelligence: March 24 - Private Construction Falls Fourth Straight Month as $37 Billion Ohio Megaproject Emerges and Transit Funding Freezes Hit $5 Billion"
 description: "Monday market intelligence covering ABC data showing private nonresidential construction declining for the fourth consecutive month, SoftBank's $37.5 billion Ohio data center and power megaproject on a former uranium enrichment site, CTA facing $2.1 billion transit funding freeze with work stoppages by March 27, Gateway tunnel shutdown costing millions with April 16 court date, TotalEnergies accepting $928 million wind buyout to pivot to Texas gas, and safety management software hitting +550%."
 date: "2026-03-24"
-image: "/img/articles/construction-market-intelligence-march-24-private-construction-falls-fourth-straight-month-as-37-billion-ohio-megaproject-emerges-and-transit-funding-freezes-hit-5-billion-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-24---private-construc-1774341729.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-24---private-construc-1774341729.png"
 audioUrl: "https://content.rss.com/episodes/332597/2655767/scalinglegends/2026_03_24_09_02_35_a8532308-051b-4d81-886c-5e0292394fd3.mp3"
 readTime: "18 min read"
 published: true

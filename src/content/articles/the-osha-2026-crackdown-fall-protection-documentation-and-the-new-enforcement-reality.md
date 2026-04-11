@@ -2,8 +2,7 @@
 title: "OSHA 2026: The New Enforcement Reality"
 description: "Understand OSHA's 2026 enforcement shifts, new penalty structures, and key priorities for fall protection. Stay informed on the changing regulatory landscape."
 date: "2026-03-05"
-image: "/img/articles/the-osha-2026-crackdown-fall-protection-documentation-and-the-new-enforcement-reality-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-osha-2026-crackdown-fall-protection-documentation-and-th-1772746695.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-osha-2026-crackdown-fall-protection-documentation-and-th-1772746695.png"
 readTime: "10 min read"
 published: true
 season: 2

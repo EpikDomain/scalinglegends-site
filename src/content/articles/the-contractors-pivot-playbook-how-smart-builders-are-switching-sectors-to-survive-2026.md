@@ -2,8 +2,7 @@
 title: "The Contractor's Pivot Playbook: How Smart Builders Are Switching Sectors to Survive 2026"
 description: "Sacramento lost 5,100 construction jobs. Commercial projects are stalling nationwide. But affordable housing has a 40,000-unit backlog in California alone. Smart contractors are not waiting for the market to come back. They are pivoting. This episode breaks down how to switch sectors, which markets are growing, and the tactical steps to make the transition without killing your margins."
 date: "2026-03-17"
-image: "/img/articles/the-contractors-pivot-playbook-how-smart-builders-are-switching-sectors-to-survive-2026-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-pivot-playbook-how-smart-builders-are-switch-1773740282.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-pivot-playbook-how-smart-builders-are-switch-1773740282.png"
 audioUrl: "https://content.rss.com/episodes/332597/2635778/scalinglegends/2026_03_17_09_29_45_1fd68785-d2db-46fd-a4c1-7e56eae877d1.mp3"
 readTime: "18 min read"
 published: true

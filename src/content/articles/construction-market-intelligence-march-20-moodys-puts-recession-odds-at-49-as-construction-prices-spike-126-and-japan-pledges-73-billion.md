@@ -2,8 +2,7 @@
 title: "Construction Market Intelligence: March 20 - Moody's Puts Recession Odds at 49% as Construction Prices Spike 12.6% and Japan Pledges $73 Billion"
 description: "Daily market intelligence covering Moody's 49% recession probability warning, construction input prices spiking 12.6% annualized through February, Japan pledging $73 billion in US nuclear and gas power plant investment, Alphabet X spinning out Anori to fix construction permitting, OSHA launching a new small business safety initiative, the Fed holding rates amid oil price uncertainty, and global intel including UK Net Zero Carbon Buildings Standard and Middle East energy infrastructure attacks."
 date: "2026-03-20"
-image: "/img/articles/construction-market-intelligence-march-20-moodys-puts-recession-odds-at-49-as-construction-prices-spike-126-and-japan-pledges-73-billion-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-20---moodys-puts-rece-1773994731.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-20---moodys-puts-rece-1773994731.png"
 audioUrl: "https://content.rss.com/episodes/332597/2644965/scalinglegends/2026_03_20_09_20_37_e47e4bc6-873f-4189-a9ee-d968e18a45c8.mp3"
 readTime: "17 min read"
 published: true

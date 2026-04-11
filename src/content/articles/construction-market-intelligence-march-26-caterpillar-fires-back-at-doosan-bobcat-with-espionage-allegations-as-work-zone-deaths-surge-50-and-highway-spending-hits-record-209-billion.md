@@ -2,8 +2,7 @@
 title: "Construction Market Intelligence: March 26 - Caterpillar Fires Back at Doosan Bobcat with Espionage Allegations as Work Zone Deaths Surge 50% and Highway Spending Hits Record $209 Billion"
 description: "Wednesday market intelligence covering the Caterpillar vs Doosan Bobcat patent war and espionage allegations, the Kokosing $100K reward after a fatal work zone crash with national fatalities up 50% over a decade, highway construction spending hitting a record $209 billion, CMMC cybersecurity compliance deadline approaching for defense contractors, AGC urging H-2B visa cap relief, Detroit Michigan Central Station named Best Project 2025, OSHA deregulatory agenda review, and trend data showing green building skills at +76,050% breakout."
 date: "2026-03-26"
-image: "/img/articles/construction-market-intelligence-march-26-caterpillar-fires-back-at-doosan-bobcat-with-espionage-allegations-as-work-zone-deaths-surge-50-and-highway-spending-hits-record-209-billion-hero.webp"
-imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-26---caterpillar-fire-1774515038.png"
+image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-26---caterpillar-fire-1774515038.png"
 audioUrl: "https://content.rss.com/episodes/332597/2665637/scalinglegends/2026_03_27_08_36_22_2ee09ee9-4037-4fdd-9215-e3c38b85e598.mp3"
 readTime: "15 min read"
 published: true
