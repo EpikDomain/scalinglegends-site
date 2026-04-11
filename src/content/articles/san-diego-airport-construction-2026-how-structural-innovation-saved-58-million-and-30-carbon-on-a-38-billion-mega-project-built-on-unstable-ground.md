@@ -101,7 +101,7 @@ To leverage the lessons from the San Diego Airport project, contractors must shi
 
 - **Evaluate Structural Alternatives.** When designing a structure, consider the use of Buckling Restrained Braces (BRBs) or other seismic isolation systems. Ask your design team to model the cost of eliminating columns versus traditional framing to identify potential savings in steel and concrete.
 
-- **Invest in Market Intelligence.** Utilize tools that provide real-time market data on material costs. [Smart Business Automator](https://smartbusinessautomator.com) offers insights that help you anticipate price spikes and adjust your bid strategies accordingly, ensuring your margins remain healthy.
+- **Invest in [Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/).** Utilize tools that provide real-time market data on material costs. [Smart Business Automator](https://smartbusinessautomator.com) offers insights that help you anticipate price spikes and adjust your bid strategies accordingly, ensuring your margins remain healthy.
 
 - **Optimize [Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) with Automation.** Implement [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) to streamline the billing and payment process. By automating invoice generation and tracking payment milestones, you can maintain positive [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) even on long-term projects with complex phasing.
 
