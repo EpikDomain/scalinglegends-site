@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2726456/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
+updatedAt: "2026-04-16"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -24,7 +25,7 @@ sponsors:
 
 - **"Prefab [construction company](/article/surviving-the-messy-middle-of-construction-growth/)" hit Score 100** on our emerging trends scanner, the highest score ever recorded, confirming massive and accelerating market interest in prefabricated construction methods.
 
-- **VA construction loans surged with a +67,300% breakout**, and construction drone services continue climbing at Score 75, pointing to two high-opportunity niches for contractors in 2026.
+- **[VA construction loans](/article/va-construction-loans-2026-zero-down-payment-no-pmi-and-why-every-contractor-should-know-how-to-build-for-veterans/) surged with a +67,300% breakout**, and construction drone services continue climbing at Score 75, pointing to two high-opportunity niches for contractors in 2026.
 
 ## Philadelphia CHOP Parking Garage Collapse: What Happened
 
@@ -70,7 +71,7 @@ OSHA investigations of structural collapses typically examine multiple layers of
 
 Regardless of OSHA's findings, every contractor running structural work should conduct an internal review of their own erection procedures. Compare your practices against OSHA's precast concrete erection standards (29 CFR 1926.704) and the PCI Erector's Manual. If your temporary bracing plans were last reviewed more than a year ago, update them now.
 
-For a deeper look at how construction safety enforcement is evolving, check out our coverage of [OSHA enforcement trends in 2026](/article/construction-safety-osha-enforcement-trends-2026/).
+For a deeper look at how [construction safety](/article/how-to-create-construction-safety-program-osha-2026/) enforcement is evolving, check out our coverage of [OSHA enforcement trends in 2026](/article/construction-safety-osha-enforcement-trends-2026/).
 
 ## Brent Spence Bridge: $4.5 Billion Path Cleared
 
@@ -220,13 +221,13 @@ Investigators believe a precast concrete roof segment failed during placement on
 
 The $4.5 billion Brent Spence Bridge replacement project has cleared its final regulatory hurdles and is positioned for a spring 2026 groundbreaking. The project will build a new companion bridge alongside the existing 1963 structure carrying I-71/I-75 between Covington, Kentucky and Cincinnati, Ohio. The federal government has committed $1.6 billion through IIJA programs, with Kentucky and Ohio covering the remainder through tolling and state funds. The project timeline extends 5-7 years with substantial contracting opportunities.
 
-### How will [EPA microplastics regulation](/article/epa-microplastics-regulation-2026-what-the-first-ever-construction-contamination-rules-mean-for-contractors-and-how-to-prepare-before-they-hit/) affect the construction industry?
+### How will [EPA microplastics regulation](/article/epa-microplastics-regulation-2026-what-the-first-ever-construction-contamination-rules-mean-for-contractors-and-how-to-prepare-before-they-hit/) affect the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)?
 
 EPA added microplastics to its draft Contaminant Candidate List 6 on April 2, 2026, the first time microplastics have appeared on the list. While enforceable regulations are likely a decade away, construction has been identified as a significant microplastic source through stormwater runoff, demolition waste, synthetic fiber-reinforced concrete, plastic piping, and insulation foam. Contractors should begin auditing plastic waste streams, reviewing stormwater prevention plans, and evaluating material alternatives now to stay ahead of eventual compliance requirements.
 
 ### What does a Prefab Construction Score of 100 mean for contractors?
 
-A Score 100 on our emerging trends scanner means the search volume and market interest for "prefab construction company" is at the highest level we have ever measured. This signal is sustained across 12-month, 3-month, and 7-day timeframes and is accelerating. It indicates massive and growing demand for prefabricated construction services driven by labor shortages, rising insurance costs, technology improvements, and owner specifications. Contractors considering prefab should view this as a strong market entry or expansion signal.
+A Score 100 on our emerging trends scanner means the search volume and market interest for "prefab [construction company](/article/surviving-the-messy-middle-of-construction-growth/)" is at the highest level we have ever measured. This signal is sustained across 12-month, 3-month, and 7-day timeframes and is accelerating. It indicates massive and growing demand for prefabricated construction services driven by labor shortages, rising insurance costs, technology improvements, and owner specifications. Contractors considering prefab should view this as a strong market entry or expansion signal.
 
 ### What are the key construction deadlines in April and May 2026?
 
