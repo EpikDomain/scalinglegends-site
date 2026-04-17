@@ -1,12 +1,12 @@
 ---
-title: "Scaling Finance: Build Your $10M System by 2026"
-description: "Learn the financial infrastructure to scale your construction business from $3M to $10M. Implement systems, accounts, and reporting for growth by 2026. Stop bleeding cash!"
+title: "Scaling Trends: Finance Insights for 2026 Growth"
+description: "Uncover the key financial trends and systems driving construction contractors from $3M to $10M. Get insights into the numbers that matter for 2026 scaling success."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/scaling-without-bleeding-cash-the-financial-system-that-take-1772746652.png"
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-04-09"
+updatedAt: "2026-04-17"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
