@@ -91,7 +91,7 @@ Choosing the right partner depends on your current safety infrastructure. If you
 
 Partnering with these 15 companies requires a robust contractual framework that transfers risk appropriately while maintaining lien rights. When you integrate prefab components, the "site" definition changes. OSHA now recognizes the manufacturing facility as a controlled construction zone in many jurisdictions. You must ensure your contract with the manufacturer specifies that they are the "controlling contractor" for the safety of their own workers.
 
-One critical area is Retainage and Payment. Under the Infrastructure Investment and Jobs Act (IIJA), prefabricated components purchased for federal projects can be considered "completed work" upon shipment, subject to specific conditions. This accelerates cash flow but requires the documentation of shipping logs and safety certifications at the factory. If a manufacturer fails to provide this, you are liable for the cost of compliance. Ensure your contract states that safety data logs from the factory are a condition precedent for payment.
+One critical area is Retainage and Payment. Under the Infrastructure Investment and Jobs Act (IIJA), prefabricated components purchased for federal projects can be considered "completed work" upon shipment, subject to specific conditions. This accelerates [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) but requires the documentation of shipping logs and safety certifications at the factory. If a manufacturer fails to provide this, you are liable for the cost of compliance. Ensure your contract states that safety data logs from the factory are a condition precedent for payment.
 
 Additionally, you must address Lien Waivers. In states with strong lien rights, failure to correctly file preliminary notices for off-site work can jeopardize your claim. However, most major prefab providers operate as "design-build" entities which often allows for streamlined lien filing if you have a signed construction agreement. Make sure your legal team reviews the specific waiver language for the state where the building is located. This step prevents lien claims from the manufacturer if they are not paid, which would otherwise block your title transfer and completion.
 
@@ -129,7 +129,7 @@ For projects exceeding $5M, yes. A dedicated coordinator ensures that delivery w
 
 ### How do I ensure lien rights are protected with prefab vendors?
 
-You must file a preliminary notice immediately upon ordering the components. In many states, off-site fabrication is considered a "material man" activity, not a general contractor activity, which changes lien timelines. Ensure you file within the state's statutory window for suppliers.
+You must file a preliminary notice immediately upon ordering the components. In many states, off-site fabrication is considered a "material man" activity, not [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) activity, which changes lien timelines. Ensure you file within the state's statutory window for suppliers.
 
 ## How to Partner with Prefab Companies This Week
 
@@ -151,4 +151,4 @@ Integrating prefab construction into your business requires immediate action to 
 
 ## Ready to Scale Your Safety and Operations?
 
-The construction industry is moving towards manufacturing. By adopting these 15 leaders' methods, you are positioning your company to win more bids, reduce insurance costs, and protect your workforce. The window to implement these changes before the 2026 regulatory tightening is open now. To learn more about optimizing your operations and staying ahead of the curve, subscribe to Scaling Legends for weekly deep dives into construction scaling strategies.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is moving towards manufacturing. By adopting these 15 leaders' methods, you are positioning your company to win more bids, reduce insurance costs, and protect your workforce. The window to implement these changes before the 2026 regulatory tightening is open now. To learn more about optimizing your operations and staying ahead of the curve, subscribe to Scaling Legends for weekly deep dives into [construction scaling](/article/the-rise-of-software-in-construction-scaling/) strategies.
