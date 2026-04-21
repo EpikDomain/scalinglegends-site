@@ -20,7 +20,7 @@ A court just ordered Tutor Perini to pay $174.6 million in a Philadelphia hotel 
 
 - **$174.6 million verdict confirmed.** A court awarded this sum against Tutor Perini in a Philadelphia hotel dispute, making it one of the largest construction judgments of 2026 per Construction Dive reporting.
 
-- **Consequential damages are the killer number.** Nine-figure verdicts typically carry 40 to 60 percent in consequential damages, meaning lost revenue, lost business opportunity, and brand damage far beyond direct construction costs.
+- **Consequential damages are the killer number.** Nine-figure verdicts typically carry 40 to 60 percent in consequential damages, meaning lost revenue, lost business opportunity, and brand damage far beyond direct [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/).
 
 - **Three failure patterns drive most mega-verdicts.** Poor documentation, improperly claimed changes, and late notice of claim appear in virtually every eight- and nine-figure construction loss.
 
@@ -84,13 +84,13 @@ The contract clauses that separated recoverable from unrecoverable losses in the
 
 **Arbitration vs. litigation selection** deserves serious analysis before contract execution. In a $174 million dispute, arbitration is not automatically favorable to the contractor. Arbitrator selection in a large commercial dispute effectively determines the outcome. Parties can negotiate arbitrator qualifications, selection processes, and panel composition. A single arbitrator who is a former construction attorney with GC-side experience will analyze a delay claim differently than a retired judge with no construction background. The forum selection clause is a strategic decision, not a boilerplate formality.
 
-[Construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) platforms incorporating **AI construction technology 2026** capabilities are beginning to include contract risk scoring features that flag high-exposure clauses before execution. That capability, applied consistently at contract intake, is worth multiples of its cost on a single avoided dispute.
+[Construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) platforms incorporating **AI [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) 2026** capabilities are beginning to include contract risk scoring features that flag high-exposure clauses before execution. That capability, applied consistently at contract intake, is worth multiples of its cost on a single avoided dispute.
 
-## Subcontractor Cascade, Insurance Repricing, and the [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) Autonomous Equipment Context
+## Subcontractor Cascade, Insurance Repricing, and the [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) [Autonomous Equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) Context
 
 The downstream effects of a verdict like the Tutor Perini ruling extend well beyond the named parties. Understanding the cascade helps contractors at every tier assess their own exposure.
 
-**The subcontractor cascade operates through pay-when-paid and pay-if-paid provisions.** In practice, when a GC is fighting a nine-figure verdict, discretionary payments stop moving down the chain. Pay-if-paid clauses — enforceable in a majority of states — mean subcontractors receive payment only if and when the GC receives payment from the owner. During active litigation, GC cash flow is constrained, payment applications are disputed, and subcontractors are often the last to know the project is in legal crisis. By the time a sub realizes payment is unlikely, the bond claim window may have closed or the dispute is already framed in a way that excludes their recovery.
+**The subcontractor cascade operates through pay-when-paid and pay-if-paid provisions.** In practice, when a GC is fighting a nine-figure verdict, discretionary payments stop moving down the chain. Pay-if-paid clauses — enforceable in a majority of states — mean subcontractors receive payment only if and when the GC receives payment from the owner. During active litigation, GC [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) is constrained, payment applications are disputed, and subcontractors are often the last to know the project is in legal crisis. By the time a sub realizes payment is unlikely, the bond claim window may have closed or the dispute is already framed in a way that excludes their recovery.
 
 Effective [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) for subcontractors on large commercial projects requires monitoring GC financial health as a standing practice, not just processing pay apps and hoping for the best.
 
@@ -98,7 +98,7 @@ Effective [construction cash flow management](/article/5-cash-flow-mistakes-that
 
 For contractors in the $5 million to $50 million revenue range, insurance cost increases of 8 to 18 percent are not trivial. At $150,000 in annual premium, an 18 percent increase is $27,000 per year in additional overhead — equivalent to roughly $540,000 in contract volume at a 5 percent net margin. That math affects bid spreads, project selection, and whether certain project types remain economically viable for contractors at specific revenue levels.
 
-Against this backdrop, the [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) autonomous equipment and technology investment conversation looks different. Contractors deploying capital into **CONEXPO 2026 autonomous equipment** and AI-driven [project management](/article/surviving-the-messy-middle-of-construction-growth/) tools are simultaneously building a documentation infrastructure that creates dispute-resistant records. Machines that generate continuous as-built data, automated daily reports, and real-time schedule tracking produce the evidence layer that wins disputes. The ROI calculation on that technology includes the dispute risk reduction it provides — not just the labor cost savings.
+Against this backdrop, the [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) [autonomous equipment and](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) technology investment conversation looks different. Contractors deploying capital into **[CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) autonomous equipment** and AI-driven [project management](/article/surviving-the-messy-middle-of-construction-growth/) tools are simultaneously building a documentation infrastructure that creates dispute-resistant records. Machines that generate continuous as-built data, automated daily reports, and real-time schedule tracking produce the evidence layer that wins disputes. The ROI calculation on that technology includes the dispute risk reduction it provides — not just the labor cost savings.
 
 ## Frequently Asked Questions
 
@@ -106,7 +106,7 @@ Against this backdrop, the [CONEXPO 2026](/article/conexpo-2026-decoded-what-the
 
 The $174.6 million verdict against Tutor Perini in the Philadelphia hotel dispute reflected a combination of direct construction costs, consequential damages tied to delayed hotel revenue, and damages associated with the project's failure to meet completion milestones. Nine-figure verdicts in construction typically include 40 to 60 percent in consequential damages beyond direct repair and delay costs, amplifying the base claim significantly.
 
-### What construction contract clauses protect GCs from large consequential damage awards?
+### What [construction contract](/article/how-to-write-construction-contract-guide-2026/) clauses protect GCs from large consequential damage awards?
 
 Mutual consequential damages waivers are the highest-value protection, preventing either party from recovering lost business revenue or opportunity costs. No-damage-for-delay clauses, liquidated damages caps at 10 to 15 percent of contract value, and negotiated milestone structures further limit exposure. These provisions must be negotiated before contract execution to be enforceable — they cannot be added retroactively once a dispute begins.
 
@@ -114,11 +114,11 @@ Mutual consequential damages waivers are the highest-value protection, preventin
 
 Courts and arbitrators award damages based on the evidence presented. Contractors with detailed daily field reports, geotagged photographs, timestamped RFI logs, and current schedule impact analyses can quantify and defend their claims. Contractors without contemporaneous documentation cannot rebut an owner's expert witness narrative. The documentation gap routinely adds 20 to 40 percent to verdicts against contractors who had valid claims but could not prove them.
 
-### How are construction insurance premiums changing after large verdicts in 2026?
+### How are [construction insurance](/article/construction-insurance-costs-the-hidden-profit-killer/) premiums changing after large verdicts in 2026?
 
 Professional liability and contractor's protective insurance carriers are repricing 2026 renewals with hospitality construction exposure at 8 to 18 percent increases. The repricing reflects rising verdict frequency and size — construction verdict dollars are up 34 percent year over year. Contractors in the $5 million to $50 million revenue range should model this cost increase into their 2026 overhead structure and bid pricing immediately.
 
-### Should construction contractors choose arbitration or litigation for large commercial disputes?
+### Should [construction contractors](/article/the-lobito-corridor-2026-how-a-117-billion-african-rail-project-is-becoming-americas-answer-to-chinas-belt-and-road-and-why-construction-contractors-should-care/) choose arbitration or litigation for large commercial disputes?
 
 Neither is universally superior — the answer depends on arbitrator selection quality, document discovery needs, and total claim size. For disputes above $10 million, arbitrator selection effectively determines the outcome. Contractors should negotiate arbitration clauses before contract execution to specify arbitrator qualifications, selection process, and panel size. A poorly drafted arbitration clause can be worse than litigation if it places a single generalist arbitrator over a complex $50 million delay claim.
 

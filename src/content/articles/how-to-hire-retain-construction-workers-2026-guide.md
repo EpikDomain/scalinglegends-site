@@ -1,12 +1,12 @@
 ---
-title: "Construction Hiring 2026: Trends & Labor Outlook"
-description: "Explore 2026 construction hiring trends and labor market outlook. Understand future challenges and strategies for worker retention and recruitment."
+title: "Construction Hiring: The 2026 Labor Market Forecast"
+description: "Discover the 2026 construction hiring landscape. Get insights into upcoming labor market trends, challenges, and the future outlook for recruitment and retention."
 date: "2026-02-15"
 image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-2026-guide.jpg"
 readTime: "70 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-21"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

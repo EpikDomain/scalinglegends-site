@@ -114,7 +114,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 ### Why should my construction company use new software?
 
-Adopting new software is crucial for survival and growth. Only 35% of construction firms are fully digital, and those are winning more bids, finishing faster, and scaling. The 65% still relying on non-digital methods face significant competitive disadvantages. The construction software market is projected to grow at a 12.3% CAGR, signaling an industry-wide shift towards essential digital tools.
+Adopting new software is crucial for survival and growth. Only 35% of construction firms are fully digital, and those are winning more bids, finishing faster, and scaling. The 65% still relying on non-digital methods face significant competitive disadvantages. [The construction software](/article/nemetschek-buys-hcss-2026-what-the-construction-software-ma-wave-means-for-heavybid-heavyjob-and-every-heavy-civil-contractors-tech-stack/) market is projected to grow at a 12.3% CAGR, signaling an industry-wide shift towards essential digital tools.
 
 ### How much time can construction software save my business?
 
@@ -122,7 +122,7 @@ Construction software significantly boosts efficiency. AI-enhanced takeoff and e
 
 ### What is [the future outlook](/article/how-to-scale-construction-company-complete-2026-guide/) for construction software?
 
-The construction software market is set for robust growth, projected to reach $15.2 billion by 2027 with a 12.3% Compound Annual Growth Rate. This indicates digital tools are now a fundamental requirement, not a luxury. Cloud adoption has surged from 47% to 68% in two years, and integrating disconnected platforms (currently 6.3 on average) is the next critical frontier for maximizing ROI.
+[The construction software](/article/nemetschek-buys-hcss-2026-what-the-construction-software-ma-wave-means-for-heavybid-heavyjob-and-every-heavy-civil-contractors-tech-stack/) market is set for robust growth, projected to reach $15.2 billion by 2027 with a 12.3% Compound Annual Growth Rate. This indicates digital tools are now a fundamental requirement, not a luxury. Cloud adoption has surged from 47% to 68% in two years, and integrating disconnected platforms (currently 6.3 on average) is the next critical frontier for maximizing ROI.
 
 ### What are common challenges when adopting construction software?
 

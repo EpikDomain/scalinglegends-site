@@ -76,7 +76,7 @@ The final lever for future-proofing is the integration of safety data into busin
 
 Average comprehensive safety training for a construction employee costs between **$600 and $900 per year**, including initial certification, refresher courses, and equipment-specific modules. However, when calculated against the average cost of a single lost-time injury, which ranges from **$43,000 to $80,000**, the return on investment is substantial. Investing in high-quality, recurring training programs prevents the accumulation of OSHA penalties, which can start at **$14,000** for serious violations, ensuring that training costs are significantly outweighed by savings in claims and premiums.
 
-### Does compliance software integrate with existing project management tools?
+### Does compliance software integrate with existing [project management](/article/surviving-the-messy-middle-of-construction-growth/) tools?
 
 Yes, modern field service management solutions offer API integrations with most leading construction operating platforms. These integrations allow safety data to flow directly into project dashboards without manual entry. This interoperability ensures that safety metrics, such as hours worked and incident logs, update in real-time alongside budget tracking. Contractors should look for software that supports open APIs to prevent data silos, ensuring that the bid process includes accurate safety cost projections rather than outdated estimates.
 

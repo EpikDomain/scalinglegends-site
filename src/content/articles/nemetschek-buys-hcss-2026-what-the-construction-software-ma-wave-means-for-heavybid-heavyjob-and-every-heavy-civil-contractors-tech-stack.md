@@ -76,7 +76,7 @@ The data points to protect are the ones inside HeavyBid. Most heavy civil contra
 
 If your current agreement does not include written export rights and API access provisions, you are not a customer — you are a data hostage. Any contractor running a multi-million dollar bid program on HeavyBid needs those protections in writing before the next renewal cycle.
 
-For contractors building out the operations side, the parallel question is what HeavyJob integration changes mean for field production tracking and daily force account reporting. Any disruption to the HeavyJob-to-payroll workflow during a cloud migration window is not an IT problem. It is a cash flow problem, a lien deadline problem, and a prevailing wage compliance problem on public contracts.
+For contractors building out the operations side, the parallel question is what HeavyJob integration changes mean for field production tracking and daily force account reporting. Any disruption to the HeavyJob-to-payroll workflow during a cloud migration window is not an IT problem. It is a [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) problem, a lien deadline problem, and a prevailing wage compliance problem on public contracts.
 
 ## The Contech M&A Wave and [Construction Project Management](/article/surviving-the-messy-middle-of-construction-growth/) Software Consolidation
 
@@ -112,11 +112,11 @@ HCSS HeavyBid will continue to function as the primary estimating tool for heavy
 
 ### Is there a real alternative to HeavyBid for heavy civil estimating?
 
-The heavy civil estimating market has no direct like-for-like competitor to HeavyBid at scale. Other estimating tools serve commercial, residential, or specialty trades but lack the unit-price bid structure, highway division code library, and production factor database that heavy civil and highway contractors need. This is precisely why contractors with 5 to 10 years of HeavyBid data have high switching costs — and why negotiating strong data portability provisions in your renewal matters more than the pricing itself.
+The heavy civil estimating market has no direct like-for-like competitor to HeavyBid at scale. Other [estimating tools](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) serve commercial, residential, or specialty trades but lack the unit-price bid structure, highway division code library, and production factor database that heavy civil and highway contractors need. This is precisely why contractors with 5 to 10 years of HeavyBid data have high switching costs — and why negotiating strong data portability provisions in your renewal matters more than the pricing itself.
 
-### How does the contech M&A wave affect construction business growth in 2026?
+### How does the contech M&A wave affect [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) in 2026?
 
-With 28 construction technology deals projected to close in 2026, any software platform a contractor relies on is either a consolidation target or an acquirer. For [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), the implication is that technology planning horizons need to extend 3 to 5 years. Contractors who treat software selection as a one-time decision rather than an ongoing vendor relationship management exercise will face repeated pricing shocks as consolidation continues.
+With 28 [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) deals projected to close in 2026, any software platform a contractor relies on is either a consolidation target or an acquirer. For [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), the implication is that technology planning horizons need to extend 3 to 5 years. Contractors who treat software selection as a one-time decision rather than an ongoing vendor relationship management exercise will face repeated pricing shocks as consolidation continues.
 
 ### What is the 60 percent vendor concentration rule for construction software?
 
@@ -138,7 +138,7 @@ The Smart Business Automator framework limits any single software vendor parent 
 
 - **Get data export rights and API access written into the contract.** Specifically: full export of all historical bid data in a non-proprietary format, documented API endpoints with version stability commitments, and a clause specifying that data export capability cannot be downgraded or removed without 12 months written notice and a transition period.
 
-## The Bottom Line on Construction Business Growth 2026 and the HCSS Acquisition
+## The Bottom Line on [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Growth 2026 and the HCSS Acquisition
 
 The Nemetschek acquisition of HCSS is not a reason to panic and it is not a reason to wait. It is a reason to act now, in the narrow window before year 1 ends and the pricing model the new parent built starts replacing the terms the old HCSS team agreed to.
 

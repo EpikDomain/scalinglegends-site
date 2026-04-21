@@ -28,7 +28,7 @@ The cost of inaction is measured in lost margins and regulatory penalties. A sin
 
 - **Subcontractor Quality:** Hiring based on lowest bid without verifying insurance limits results in a 15% increase in rework costs due to claims exclusions.
 
-- **Cash Flow Velocity:** Improper lien waiver sequencing delays collections by 21 days, reducing annual capital efficiency by 3.5%.
+- **[Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) Velocity:** Improper lien waiver sequencing delays collections by 21 days, reducing annual capital efficiency by 3.5%.
 
 - **Data Intelligence:** Leveraging a specialized data source like [Smart Business Automator](https://smartbusinessautomator.com) improves decision latency by 45% over manual reporting.
 
@@ -54,7 +54,7 @@ This trap is exacerbated by the lack of real-time verification. Relying on PDF c
 
 Regulatory compliance also extends beyond insurance to employment verification. The **E-Verify** mandate and state-specific labor laws require strict adherence to workforce eligibility. Failing to verify the legal status of workers can result in fines that escalate rapidly. The EPA also monitors construction sites for runoff and waste disposal. If a subcontractor fails to follow environmental protocols, the GC is held responsible for the cleanup costs, which can easily surpass $50,000 for soil contamination or waterway pollution. Utilizing an intelligence layer like [Smart Business Automator](https://smartbusinessautomator.com) helps centralize this data, ensuring that compliance flags trigger automated alerts before a violation occurs.
 
-To eliminate this trap, you must implement a mandatory compliance dashboard. Every subcontractor should be required to upload updated COIs and tax identification numbers to a centralized portal weekly. If a document expires, their payment is automatically held until proof of insurance is reinstated. This protects your bonding capacity and prevents cash flow surprises. Moreover, conducting quarterly compliance audits ensures that your subcontractors remain in good standing with OSHA and local labor boards. The cost of an audit is negligible compared to the $100K potential savings from avoiding a liability lawsuit. As you grow, this diligence becomes your strongest defense against catastrophic risk.
+To eliminate this trap, you must implement a mandatory compliance dashboard. Every subcontractor should be required to upload updated COIs and tax identification numbers to a centralized portal weekly. If a document expires, their payment is automatically held until proof of insurance is reinstated. This protects your bonding capacity and prevents [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) surprises. Moreover, conducting quarterly compliance audits ensures that your subcontractors remain in good standing with OSHA and local labor boards. The cost of an audit is negligible compared to the $100K potential savings from avoiding a liability lawsuit. As you grow, this diligence becomes your strongest defense against catastrophic risk.
 
 ## Trap Three: Retainage, Lien Waivers, and Cash Flow Friction
 
