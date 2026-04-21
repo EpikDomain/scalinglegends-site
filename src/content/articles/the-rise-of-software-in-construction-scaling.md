@@ -18,7 +18,7 @@ Only 35% of construction firms have gone fully digital with [project management]
 
 ## Key Takeaways
 
-- **Market Growth Accelerating.** The construction software market is projected to grow at a 12.3% CAGR, reaching $15.2 billion by 2027, signaling an industry-wide shift towards digital tools.
+- **Market Growth Accelerating.** [The construction software](/article/nemetschek-buys-hcss-2026-what-the-construction-software-ma-wave-means-for-heavybid-heavyjob-and-every-heavy-civil-contractors-tech-stack/) market is projected to grow at a 12.3% CAGR, reaching $15.2 billion by 2027, signaling an industry-wide shift towards digital tools.
 
 - **Digital Lag is Costly.** A staggering 65% of construction firms still rely on non-digital or partially digital project management, creating significant competitive disadvantages in efficiency and project delivery.
 
