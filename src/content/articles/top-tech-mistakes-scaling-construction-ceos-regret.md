@@ -1,12 +1,13 @@
 ---
-title: "Top Tech Mistakes Scaling Construction CEOs Regret"
-description: "The most expensive technology decisions construction CEOs make between $1M-$20M. What to buy, what to skip, and the order that matters."
+title: "Construction Tech Mistakes: 2026 Trends & CEO Insights"
+description: "Discover the top tech mistakes scaling construction CEOs regret by 2026. Understand costly decisions, future trends, and what matters for $1M-$20M companies."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/top-tech-mistakes-scaling-construction-ceos-regret-1772746782.png"
+audioUrl: "https://content.rss.com/episodes/332597/2625489/scalinglegends/2026_03_13_13_44_57_d839b439-d0d6-4d38-9889-73eb2a4667ef.mp3"
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-21"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

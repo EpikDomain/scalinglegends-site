@@ -1,12 +1,12 @@
 ---
-title: "Construction Trends 2026: The Future Outlook"
+title: "Scaling Construction: Trends & Outlook for 2026"
 description: "Explore the top construction trends and industry outlook for 2026. Get insights on scaling, revenue shifts, and leadership evolution in the coming year."
 date: "2026-02-12"
 image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete-2026-guide.jpg"
 readTime: "41 min read"
 published: true
 season: 2
-updatedAt: "2026-04-17"
+updatedAt: "2026-04-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-10"
+updatedAt: "2026-04-21"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -15,7 +15,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-## Market Intelligence Report: April 8, FY2027
+## Market [Intelligence Report](/article/scaling-legends-daily-intelligence-report-in-2026/): April 8, FY2027
 
 ## Key Takeaways
 
