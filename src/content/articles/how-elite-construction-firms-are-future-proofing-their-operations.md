@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-17"
+updatedAt: "2026-04-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -95,7 +95,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 <iframe src="https://www.youtube.com/embed/S7kWq9mbvws" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-## How to Start Future-Proofing Your Construction Operations This Week
+## How to Start [Future-Proofing Your Construction](/article/5-growth-levers-future-proofing-your-construction-business-for-2026/) Operations This Week
 
 - **Establish a Weekly Operational Rhythm.** Schedule and conduct a Monday morning forward-looking planning session, a Wednesday mid-week progress check-in, and a Friday project closeout review for at least one active project.
 

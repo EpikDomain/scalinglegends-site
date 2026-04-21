@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604819/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-21"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -31,7 +31,7 @@ Thirdly, the energy transition and sustainability mandates are no longer niche c
 
 Finally, the labor market remains stubbornly tight. Despite economic cooling in some sectors, construction continues to grapple with a profound shortage of skilled tradespeople. The Associated General Contractors of America (AGC) reported in late 2025 that **82% of contractors are still struggling to fill key positions**, with an average wage increase of **5.8% across the industry in the past 12 months**. This isn't just about higher payroll; it's about project delays, quality control challenges, and the immense pressure on existing teams. Smart contractors are not just offering competitive wages; they are investing heavily in internal training programs, apprenticeships, and creating cultures that prioritize employee well-being and career development. The firms that win the war for talent today will be the ones that dominate tomorrow.
 
-This complex interplay of financial pressures, government spending, environmental mandates, and labor dynamics means that a static approach to business is a recipe for stagnation. Now, more than ever, continuous intelligence gathering, agile strategic planning, and proactive adaptation are non-negotiable for scaling your construction enterprise.
+This complex interplay of financial pressures, government spending, environmental mandates, and labor dynamics means that a static approach to business is a recipe for stagnation. Now, more than ever, continuous intelligence gathering, agile strategic planning, and proactive adaptation are non-negotiable for [scaling your construction](/article/the-10-million-blueprint-scaling-your-construction-business-for-lasting-wealth/) enterprise.
 
 ## The Data: What the Numbers Show
 

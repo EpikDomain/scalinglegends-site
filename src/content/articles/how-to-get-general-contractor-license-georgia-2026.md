@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-geor
 readTime: "28 min read"
 published: true
 season: 2
+updatedAt: "2026-04-21"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -293,7 +294,7 @@ Getting your license is just the first step. Keeping it active and in good stand
 
 - **Staying Compliant:** Ensure your business entity remains active with the Georgia Secretary of State, your insurance policies are current, and you continue to meet any financial requirements applicable to your license class.
 
-## Leveraging Georgia's Resources for Your Construction Business
+## Leveraging Georgia's Resources for [Your Construction Business](/article/the-100k-drain-5-leadership-traps-costing-your-construction-business-big-bucks/)
 
 Once you're licensed, Georgia offers a robust ecosystem of support for small businesses, especially in the construction sector.
 

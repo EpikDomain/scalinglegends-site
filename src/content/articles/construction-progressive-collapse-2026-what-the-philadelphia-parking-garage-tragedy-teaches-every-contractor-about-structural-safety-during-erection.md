@@ -131,6 +131,6 @@ While one case does not create binding law, it establishes a precedent for negli
 
 ## Take Action to Secure Your 2026 Readiness
 
-Structural safety during erection is the dividing line between a successful contractor and a legal liability. The Philadelphia tragedy proves that the cost of inaction is far higher than the cost of preparation. By adopting the protocols outlined above, you protect your company's bonding capacity, your cash flow, and, most importantly, the lives of the workers on your site.
+Structural safety during erection is the dividing line between a successful contractor and a legal liability. The Philadelphia tragedy proves that the cost of inaction is far higher than the cost of preparation. By adopting the protocols outlined above, you protect your company's bonding capacity, your [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/), and, most importantly, the lives of the workers on your site.
 
 Start by auditing your current temporary works documentation against the 2026 OSHA outlook. Ensure your team has access to the right data infrastructure to track erection loads. For further strategies on scaling your operations safely, [subscribe to Scaling Legends](/article/construction-safety-compliance/) for deep dives into the industry's most critical challenges.
