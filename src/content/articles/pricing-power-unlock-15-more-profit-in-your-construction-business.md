@@ -104,7 +104,7 @@ Yes, technology integration can reduce COGS by improving material tracking and l
 
 ### What role does retainage play in securing profit?
 
-Retainage acts as security for the client but can impact the contractor's cash flow if not managed. Understanding lien rights and ensuring that retainage is held for a reasonable period allows the contractor to claim payment without risking their relationship. Proper retainage management prevents revenue from becoming unrecoverable bad debt.
+Retainage acts as security for the client but can impact the contractor's [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) if not managed. Understanding lien rights and ensuring that retainage is held for a reasonable period allows the contractor to claim payment without risking their relationship. Proper retainage management prevents revenue from becoming unrecoverable bad debt.
 
 ## How to Execute a 15% Profit Optimization Audit This Week
 

@@ -109,7 +109,7 @@ Per Scotsman Guide's 2025-2026 trade workforce analysis, immigrant workers repre
 
 ### What is the Atlantic Construction Alliance and what are they pushing for?
 
-The Atlantic Construction Alliance launched April 20, 2026, as a construction industry lobbying coalition targeting sector-specific federal immigration reform. Their primary ask is a dedicated construction worker visa pathway with faster processing timelines and employer sponsorship tied to apprenticeship completion. They are targeting a federal pilot program by summer 2026 and are coordinating with AGC and ABC chapters across 11 Atlantic corridor states.
+The Atlantic Construction Alliance launched April 20, 2026, as a [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) lobbying coalition targeting sector-specific federal immigration reform. Their primary ask is a dedicated construction worker visa pathway with faster processing timelines and employer sponsorship tied to apprenticeship completion. They are targeting a federal pilot program by summer 2026 and are coordinating with AGC and ABC chapters across 11 Atlantic corridor states.
 
 ### How much does it cost to replace a skilled construction worker in 2026?
 

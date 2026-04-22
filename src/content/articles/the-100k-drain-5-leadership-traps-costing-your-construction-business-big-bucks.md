@@ -56,7 +56,7 @@ Regulatory compliance also extends beyond insurance to employment verification. 
 
 To eliminate this trap, you must implement a mandatory compliance dashboard. Every subcontractor should be required to upload updated COIs and tax identification numbers to a centralized portal weekly. If a document expires, their payment is automatically held until proof of insurance is reinstated. This protects your bonding capacity and prevents [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) surprises. Moreover, conducting quarterly compliance audits ensures that your subcontractors remain in good standing with OSHA and local labor boards. The cost of an audit is negligible compared to the $100K potential savings from avoiding a liability lawsuit. As you grow, this diligence becomes your strongest defense against catastrophic risk.
 
-## Trap Three: Retainage, Lien Waivers, and Cash Flow Friction
+## Trap Three: Retainage, Lien Waivers, and [Cash Flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) Friction
 
 Cash flow leakage through retainage and lien waivers is the third critical trap. When you withhold retainage from a subcontractor without a strict release protocol, you create friction that delays their ability to complete their work. Conversely, when you issue a lien waiver before receiving payment, you forfeit your right to claim non-payment later. The industry standard is 10% retainage, which effectively ties up $100,000 for every $1 million in work completed. If the accounting team delays the processing of lien waivers by 10 to 14 days, the subcontractor may stall work or file a lien, freezing your assets.
 
