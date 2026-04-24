@@ -3,6 +3,7 @@ title: "Pricing Power: Unlock 15% More Profit in Your Construction Business"
 description: "Are you leaving money on the table with outdated pricing strategies? This episode reveals how smart contractors move beyond guesswork to implement data-driven pricing systems, potentially boosting net profit by 15% or more. Learn actionable tactics to protect your margins and fuel sustainable growth."
 date: "2026-04-21"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2751593/scalinglegends/2026_04_21_02_46_42_1d1a029e-f869-43c3-91e6-d2af7a867740.mp3"
 readTime: "2 min read"
 published: true
 season: 2

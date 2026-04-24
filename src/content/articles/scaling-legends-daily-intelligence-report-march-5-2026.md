@@ -3,6 +3,7 @@ title: "Scaling Legends Daily Intelligence Report - March 5 2026"
 description: "Breaking construction market intelligence for March 5, 2026. Tariff updates, labor data, AI adoption trends, OSHA enforcement shifts, and the data points that matter for contractors this week."
 date: "2026-03-05"
 image: "/img/articles/scaling-legends-daily-intelligence-report-march-5-2026-hero.webp"
+audioUrl: "https://content.rss.com/episodes/332597/2604819/scalinglegends/2026_03_05_23_26_33_09d56a8f-cae7-4604-a579-2936ae33f8b7.mp3"
 readTime: "2 min read"
 published: true
 season: 2

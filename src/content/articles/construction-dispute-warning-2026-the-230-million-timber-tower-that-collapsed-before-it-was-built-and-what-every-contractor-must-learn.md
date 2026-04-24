@@ -3,6 +3,7 @@ title: "Construction Dispute Warning 2026: The $230 Million Timber Tower That Co
 description: "A 31-story mass timber tower in Milwaukee stalled after only the foundation was poured. The GC is suing for $11.3 million and foreclosure. 12 firms filed $14 million in liens. The developer lost a separate $700 million deal. This is a masterclass in construction dispute prevention with 5 lessons every contractor must learn."
 date: "2026-03-22"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2646876/scalinglegends/2026_03_21_08_47_30_d4f588e9-f9ae-4bb8-86fe-d1547f26239f.mp3"
 readTime: "17 min read"
 published: true
 season: 2

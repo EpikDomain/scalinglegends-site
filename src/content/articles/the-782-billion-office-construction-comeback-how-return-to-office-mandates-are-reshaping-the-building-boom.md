@@ -3,6 +3,7 @@ title: "The $782 Billion Office Construction Comeback: How Return-to-Office Mand
 description: "The global office construction pipeline just hit $782 billion with 75% in pre-execution. Return-to-office mandates from Apple, Meta, Amazon, and JPMorgan are driving a construction rebound nobody predicted. Where the money is flowing, which markets are leading, and how contractors can position."
 date: "2026-03-14"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-782-billion-office-construction-comeback-how-return-to-o-1773508452.png"
+audioUrl: "https://content.rss.com/episodes/332597/2628405/scalinglegends/2026_03_14_17_03_42_290c2c2b-46e8-4743-aa22-e5db1e9857d2.mp3"
 readTime: "5 min read"
 published: true
 season: 2

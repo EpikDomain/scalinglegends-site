@@ -3,6 +3,7 @@ title: "Construction Schedule 2026: Master On-Time Delivery"
 description: "Learn how GCs can master construction scheduling for 2026. Discover key strategies to ensure projects are delivered on time and within budget using modern techniques."
 date: "2026-02-25"
 image: "https://scalinglegends.com/og/how-to-create-construction-schedule-guide-2026.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2649210/scalinglegends/2026_03_22_14_16_26_1f1868d6-da53-45a5-babc-e040d86ad14e.mp3"
 readTime: "61 min read"
 published: true
 season: 2

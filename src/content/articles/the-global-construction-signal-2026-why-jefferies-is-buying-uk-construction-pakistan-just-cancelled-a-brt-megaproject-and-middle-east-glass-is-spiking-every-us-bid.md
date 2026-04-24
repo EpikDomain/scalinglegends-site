@@ -3,6 +3,7 @@ title: "The Global Construction Signal 2026: Why Jefferies Is Buying UK Construc
 description: "Three international construction signals in 48 hours every US contractor should track. Jefferies named top picks in the recovering UK construction sector. Pakistan's Sindh government cancelled a BRT Red Line construction contract and will re-award on emergency basis. North American float glass prices are climbing on Middle East conflict escalation. This international deep-dive unpacks the UK recovery trade, the emerging-market transit contract turbulence, the glass and material contagion path into US bids, and the Smart Business Automator global market dashboard every builder with international exposure needs open."
 date: "2026-04-22"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-global-construction-signal-2026-why-jefferies-is-buying--1776888033.png"
+audioUrl: "https://content.rss.com/episodes/332597/2758841/scalinglegends/2026_04_22_21_34_07_56e53fa2-fe52-4a0d-ae79-4938649fbf66.mp3"
 readTime: "25 min read"
 published: true
 season: 2

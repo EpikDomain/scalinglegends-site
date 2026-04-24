@@ -3,6 +3,7 @@ title: "Tutor Perini $174.6M Ruling 2026: What the Philadelphia Hotel Verdict Me
 description: "A court just awarded $174.6 million in damages against Tutor Perini in a Philadelphia hotel dispute, one of the largest construction verdicts of 2026. This deep-dive unpacks how the case got there, what the ruling signals for mega-contractors, the specific contract clauses and documentation failures that drove the number, how smaller contractors should audit their own dispute exposure, and the Smart Business Automator dispute risk framework to keep your own hotel, hospitality, and commercial projects from becoming nine-figure liabilities."
 date: "2026-04-21"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tutor-perini-1746m-ruling-2026-what-the-philadelphia-hotel-v-1776772350.png"
+audioUrl: "https://content.rss.com/episodes/332597/2752413/scalinglegends/2026_04_21_11_05_07_efa61df9-185c-4f31-abd4-93e6a384a8ce.mp3"
 readTime: "23 min read"
 published: true
 season: 2

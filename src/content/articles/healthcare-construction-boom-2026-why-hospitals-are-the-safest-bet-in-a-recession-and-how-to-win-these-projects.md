@@ -3,6 +3,7 @@ title: "Healthcare Construction Boom 2026: Why Hospitals Are the Safest Bet in a
 description: "Healthcare construction starts projected at $30.7 billion in 2026, up 11.8%. With Grady Health's $1B campus and 15 billion-dollar projects announced, hospitals are the recession-proof sector contractors should target. This guide covers how to break into healthcare construction."
 date: "2026-03-23"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2648733/scalinglegends/2026_03_22_08_45_33_91367a5c-3ccc-4344-a5d0-1a0e7504fe92.mp3"
 readTime: "25 min read"
 published: true
 season: 2

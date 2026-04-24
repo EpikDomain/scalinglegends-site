@@ -3,6 +3,7 @@ title: "Construction Humanoid Robot Site Inspections 2026: UK Just Deployed One,
 description: "A UK construction firm just put a humanoid robot in charge of site inspections, the first commercial production deployment in construction. This deep-dive unpacks what the robot actually does, how it compares to Boston Dynamics Atlas, Figure 02, Agility Robotics Digit, and Chinese competitors, the task bench contractors should expect automated over 12 to 36 months, the labor and insurance implications, and the Smart Business Automator construction robotics tracker every forward-looking GC needs to watch."
 date: "2026-04-23"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-humanoid-robot-site-inspections-2026-uk-just-de-1776956037.png"
+audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_04_23_18_57_34_81d143aa-bf67-41aa-971a-d919422c99e8.mp3"
 readTime: "25 min read"
 published: true
 season: 2

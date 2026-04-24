@@ -3,6 +3,7 @@ title: "Construction Technology Investment 2026: Where $126 Million of Smart Mon
 description: "Deep dive into the $126M contech funding surge. Six startups got funded in safety AI, estimating, rental management, and payments. These investments map directly to contractor pain points and Google Trends search spikes."
 date: "2026-03-13"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-technology-investment-2026-where-126-million-of-1773394264.png"
+audioUrl: "https://content.rss.com/episodes/332597/2625489/scalinglegends/2026_03_13_13_44_57_d839b439-d0d6-4d38-9889-73eb2a4667ef.mp3"
 readTime: "9 min read"
 published: true
 season: 2

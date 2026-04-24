@@ -3,6 +3,7 @@ title: "Construction Economy Outlook Q2 2026: Spending Up 5.2% but Starts Down 3
 description: "ConstructConnect data: total construction spending is up 5.2% but new starts are down 3.5%. Manufacturing is the standout at 13.4% growth. Power generation is booming from AI and EV demand. Residential is down 9% but recovery expected. This episode maps the sector-by-sector outlook so you know where to bet your business in Q2 2026."
 date: "2026-04-03"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-economy-outlook-q2-2026-spending-up-52-but-star-1775204663.png"
+audioUrl: "https://content.rss.com/episodes/332597/2685830/scalinglegends/2026_04_03_08_43_36_fc87fc28-a05a-4639-b2e7-45c8fc4ff045.mp3"
 readTime: "17 min read"
 published: true
 season: 2

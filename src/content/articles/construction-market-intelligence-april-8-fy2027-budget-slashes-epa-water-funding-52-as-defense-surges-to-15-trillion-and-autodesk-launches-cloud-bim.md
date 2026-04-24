@@ -3,6 +3,7 @@ title: "Construction Market Intelligence: April 8 - FY2027 Budget Slashes EPA Wa
 description: "Wednesday market intelligence covering the FY2027 budget proposal cutting EPA by 52% ($4.6 billion), defense surging to a record $1.5 trillion, Autodesk launching Forma Building Design with cloud-connected Revit, San Jose inking a 2 GW transmission deal with LS Power, National Work Zone Awareness Week live, and the April 20-24 Struck-By Stand-Down approaching."
 date: "2026-04-08"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-8---fy2027-budget-sla-1775638622.png"
+audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_04_08_09_46_10_48ad0c65-1d82-4786-94e3-17d969c1effa.mp3"
 readTime: "15 min read"
 published: true
 season: 2

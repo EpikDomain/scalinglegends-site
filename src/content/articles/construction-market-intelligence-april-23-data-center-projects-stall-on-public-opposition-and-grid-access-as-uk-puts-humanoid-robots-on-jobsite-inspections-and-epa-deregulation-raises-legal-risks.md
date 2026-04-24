@@ -3,6 +3,7 @@ title: "Construction Market Intelligence: April 23 - Data Center Projects Stall 
 description: "April 23 construction intelligence brief. Construction Dive reports data center projects stalling on public opposition and power access constraints. A UK contractor just put a humanoid robot in charge of site inspections. EPA deregulation eases permitting but raises legal risks for construction. Consigli CIO calls AI estimating the biggest construction AI impact. NABTU and Microsoft expand AI training for skilled trades. Korea JoongAng Daily: Iran war strains global construction material supply. Canada construction market forecast to $430 billion by 2034 and Indonesia $226 billion. Global Intel: UK construction sector up 170 percent over 5 years with broker saying further runway, Saint-Gobain details sustainable construction path. Market data from Smart Business Automator."
 date: "2026-04-23"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-23---data-center-proj-1776956980.png"
+audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_04_23_18_57_34_81d143aa-bf67-41aa-971a-d919422c99e8.mp3"
 readTime: "28 min read"
 published: true
 season: 2

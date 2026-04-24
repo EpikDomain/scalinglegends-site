@@ -3,6 +3,7 @@ title: "The Subcontractor Tech Stack 2026: Software Tools That Are Winning More 
 description: "Google searches for subcontractor software spiked 350%. GCs now require digital documentation for prequalification. This guide breaks down the essential tech stack for subcontractors in 2026 -- from accounting and bid management to compliance tracking and crew scheduling -- with specific ROI analysis and a scaling path from $500K to $10M+."
 date: "2026-03-16"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2630750/scalinglegends/2026_03_15_22_15_36_9297a55e-e443-410c-a942-4de0da0682d9.mp3"
 readTime: "17 min read"
 published: true
 season: 2

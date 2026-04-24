@@ -3,6 +3,7 @@ title: "Construction Market Intelligence: March 26 - Caterpillar Fires Back at D
 description: "Wednesday market intelligence covering the Caterpillar vs Doosan Bobcat patent war and espionage allegations, the Kokosing $100K reward after a fatal work zone crash with national fatalities up 50% over a decade, highway construction spending hitting a record $209 billion, CMMC cybersecurity compliance deadline approaching for defense contractors, AGC urging H-2B visa cap relief, Detroit Michigan Central Station named Best Project 2025, OSHA deregulatory agenda review, and trend data showing green building skills at +76,050% breakout."
 date: "2026-03-26"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-26---caterpillar-fire-1774515038.png"
+audioUrl: "https://content.rss.com/episodes/332597/2665637/scalinglegends/2026_03_27_08_36_22_2ee09ee9-4037-4fdd-9215-e3c38b85e598.mp3"
 readTime: "15 min read"
 published: true
 season: 2

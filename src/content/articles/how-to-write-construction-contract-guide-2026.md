@@ -3,6 +3,7 @@ title: "Top Construction Contract Trends for 2026"
 description: "Explore the top construction contract trends emerging for 2026. Get insights into legal shifts, risk management, and opportunities shaping the industry's future."
 date: "2026-02-23"
 image: "https://scalinglegends.com/og/how-to-write-construction-contract-guide-2026.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2726454/scalinglegends/2026_04_11_15_04_10_9476989c-a39c-4029-86ba-3364b4d19d32.mp3"
 readTime: "58 min read"
 published: true
 season: 2

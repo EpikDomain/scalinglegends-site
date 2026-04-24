@@ -3,6 +3,7 @@ title: "Why Business Partnerships Fail in Construction (And How to Fix Yours Bef
 description: "Half of all construction business partnerships end badly, and most of the time neither partner saw it coming. This episode dissects the seven most common partnership failures, from undefined roles and unequal effort to financial secrecy and misaligned exit timelines. Then it lays out the specific agreements, structures, and conversations that keep partnerships productive."
 date: "2026-03-16"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/why-business-partnerships-fail-in-construction-and-how-to-fi-1773670843.png"
+audioUrl: "https://content.rss.com/episodes/332597/2632304/scalinglegends/2026_03_16_14_23_27_2e327663-7998-4f1d-bd24-63a11a89d6d1.mp3"
 readTime: "18 min read"
 published: true
 season: 2

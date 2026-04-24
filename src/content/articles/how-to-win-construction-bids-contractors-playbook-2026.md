@@ -3,6 +3,7 @@ title: "Construction Bids: 2026 Market Insights"
 description: "Explore key trends impacting construction bids in 2026. Get insights on estimating accuracy, relationship selling, and bid tech to stay ahead in the market."
 date: "2026-02-28"
 image: "https://scalinglegends.com/og/how-to-win-construction-bids-contractors-playbook-2026.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2662968/scalinglegends/2026_03_26_08_38_27_3a94e454-6902-48ae-9176-22bdee5ab5f2.mp3"
 readTime: "50 min read"
 published: true
 season: 2

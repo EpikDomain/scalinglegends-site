@@ -3,6 +3,7 @@ title: "Philadelphia Construction Collapse April 2026: What the CHOP Parking Gar
 description: "Saturday market intelligence covering the Philadelphia CHOP parking garage partial collapse, Brent Spence Bridge clearing its 4.5 billion dollar path, EPA targeting microplastics, and Prefab Construction hitting the highest trend score ever."
 date: "2026-04-11"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2726456/scalinglegends/2026_04_11_15_04_19_a286a387-c223-4667-934b-c2befbc83bfb.mp3"
 readTime: "25 min read"
 published: true
 season: 2

@@ -3,6 +3,7 @@ title: "Federal Transit Construction Crisis 2026: $5 Billion Frozen as CTA Demob
 description: "The CTA just told Walsh-VINCI to demobilize their $2.9 billion design-build team by March 27. Gateway's $16 billion tunnel has 2-3 months of cash left. Over $5 billion in active transit construction is frozen by federal funding disputes. This guide covers what happened and how contractors can protect themselves."
 date: "2026-03-24"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2655716/scalinglegends/2026_03_24_08_31_16_f2bc7972-63de-4e25-8c2f-8f0202a955f8.mp3"
 readTime: "18 min read"
 published: true
 season: 2

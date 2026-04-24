@@ -3,6 +3,7 @@ title: "Data Center Projects Stalling 2026: Why Public Opposition and Grid Acces
 description: "Data center construction has been the single biggest growth sector in US construction for three years. Now Construction Dive reports 22 percent of announced projects are stuck on public opposition and grid access delays. This deep-dive unpacks the siting backlash, utility substation and transmission bottlenecks, the permitting workarounds, the public engagement playbook, and the Smart Business Automator data center pipeline tracker every GC, subcontractor, and owner-developer needs to watch before the next zoning vote."
 date: "2026-04-23"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/data-center-projects-stalling-2026-why-public-opposition-and-1776956452.png"
+audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_04_23_18_57_34_81d143aa-bf67-41aa-971a-d919422c99e8.mp3"
 readTime: "28 min read"
 published: true
 season: 2

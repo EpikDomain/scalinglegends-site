@@ -3,6 +3,7 @@ title: "The $100K Drain: 5 Leadership Traps Costing Your Construction Business B
 description: "Are hidden leadership habits quietly eroding your profit margins? This episode reveals five common leadership traps that can cost your construction business upwards of $100,000 annually in lost productivity, high turnover, and project delays. Learn actionable strategies to transform your leadership, boost team performance, and significantly improve your bottom line."
 date: "2026-04-21"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2751721/scalinglegends/2026_04_21_03_53_20_05b902af-5f98-40cf-95cb-ee9e195bd434.mp3"
 readTime: "2 min read"
 published: true
 season: 2

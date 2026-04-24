@@ -3,6 +3,7 @@ title: "When Your Client Goes Bankrupt 2026: The $17 Million Contractor Nightmar
 description: "Sundt lost $17M when a client went bankrupt mid-project. This guide covers the 7 protections every contractor needs: payment bonds, lien rights, retainage management, financial vetting, and contract clauses that save your business."
 date: "2026-04-11"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2717911/scalinglegends/2026_04_10_08_33_35_3e91761d-d7f1-499f-9c08-df47b462a39b.mp3"
 readTime: "20 min read"
 published: true
 season: 2

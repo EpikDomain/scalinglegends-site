@@ -3,6 +3,7 @@ title: "The Moneyball Contractor: How Data-Driven Decision Making Is Replacing G
 description: "Billy Beane proved that data beats intuition in baseball. The same revolution is happening in construction. This episode shows how to apply data-driven decision making to bidding, crew allocation, equipment utilization, and project selection - turning your gut feelings into measurable systems that consistently produce better results."
 date: "2026-03-15"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-moneyball-contractor-how-data-driven-decision-making-is--1773619098.png"
+audioUrl: "https://content.rss.com/episodes/332597/2630895/scalinglegends/2026_03_15_23_33_16_d7efa985-dcb0-4b46-8de8-34c3881639bf.mp3"
 readTime: "7 min read"
 published: true
 season: 2

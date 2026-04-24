@@ -3,6 +3,7 @@ title: "Performance Reviews Are Broken in Construction: How to Give Feedback Tha
 description: "Annual performance reviews in construction are a waste of everyone's time. They are awkward, vague, and nobody changes anything afterward. This episode replaces the broken review system with a practical feedback framework built for field teams - weekly check-ins, project-based debriefs, and a simple scorecard that drives real improvement without the corporate HR theater."
 date: "2026-03-15"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/performance-reviews-are-broken-in-construction-how-to-give-f-1773618759.png"
+audioUrl: "https://content.rss.com/episodes/332597/2630892/scalinglegends/2026_03_15_23_31_24_84f17cb0-ea1f-41f9-92f6-943d959667ff.mp3"
 readTime: "8 min read"
 published: true
 season: 2

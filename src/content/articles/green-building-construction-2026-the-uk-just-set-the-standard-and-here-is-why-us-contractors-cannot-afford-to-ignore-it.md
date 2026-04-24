@@ -3,6 +3,7 @@ title: "Green Building Construction 2026: The UK Just Set the Standard and Here 
 description: "The UK just launched the Net Zero Carbon Buildings Standard, the first performance-based framework for measuring net zero buildings. The AGC is hosting a carbon reporting town hall. Federal contracts are adding ESG requirements. This guide explains what green building means for US contractors in 2026 and the 5 things you need to do now."
 date: "2026-03-22"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2646875/scalinglegends/2026_03_21_08_47_15_3ef17963-5693-496c-8ef8-638f543eb9a5.mp3"
 readTime: "19 min read"
 published: true
 season: 2

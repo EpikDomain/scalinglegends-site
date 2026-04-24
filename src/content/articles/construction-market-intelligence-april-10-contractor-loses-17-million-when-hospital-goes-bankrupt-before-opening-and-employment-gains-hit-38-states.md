@@ -3,6 +3,7 @@ title: "Construction Market Intelligence: April 10 - Contractor Loses $17 Millio
 description: "Friday market intelligence: Sundt $17M claim stranded in Oroville Hospital bankruptcy, employment up in 38 states with 26K new jobs, Sixth Circuit kills NLRB Cemex ruling, steel up 11.9% on tariffs, Angola $1.17B rail advances."
 date: "2026-04-11"
 image: "/scaling-legends-cover.jpg"
+audioUrl: "https://content.rss.com/episodes/332597/2717967/scalinglegends/2026_04_10_09_03_02_a78948ff-6349-49c2-bcb5-44f14258edd9.mp3"
 readTime: "15 min read"
 published: true
 season: 2
