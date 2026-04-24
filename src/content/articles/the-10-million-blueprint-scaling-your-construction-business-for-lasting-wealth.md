@@ -3,7 +3,6 @@ title: "The $10 Million Blueprint: Scaling Your Construction Business for Lastin
 description: "Uncover the strategic roadmap to transform your construction business into a multi-million dollar enterprise. This episode dives into the financial strategies, operational efficiencies, and mindset shifts required to achieve significant wealth, growth, and true freedom as a contractor, backed by current industry trends and real-world data."
 date: "2026-04-21"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2751672/scalinglegends/2026_04_21_03_32_38_9b0b1cfb-9d1a-4cb9-884d-7777a6d3fd59.mp3"
 readTime: "2 min read"
 published: true
 season: 2

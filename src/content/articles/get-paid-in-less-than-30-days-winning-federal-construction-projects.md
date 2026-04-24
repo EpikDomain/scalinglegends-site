@@ -3,7 +3,6 @@ title: "Get Paid in Less Than 30 Days: Winning Federal Construction Projects"
 description: "Federal construction projects pay faster than private work if you know how to navigate the system. This episode breaks down Prompt Payment Act protections, GSA contract vehicles, SBA 8(a) certification advantages, and the invoice submission process."
 date: "2026-03-18"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/get-paid-in-less-than-30-days-winning-federal-construction-p-1773823161.png"
-audioUrl: "https://content.rss.com/episodes/332597/2638595/scalinglegends/2026_03_18_08_35_05_88ed9e1d-29e7-4423-8df9-ecdb1580c391.mp3"
 readTime: "18 min read"
 published: true
 season: 2

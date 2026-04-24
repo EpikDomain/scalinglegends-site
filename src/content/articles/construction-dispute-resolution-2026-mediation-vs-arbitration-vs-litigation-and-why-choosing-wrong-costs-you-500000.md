@@ -3,7 +3,6 @@ title: "Construction Dispute Resolution 2026: Mediation vs Arbitration vs Litiga
 description: "Mediation: $5K-$25K, 1-3 months. Arbitration: $15K-$75K, 6-18 months. Litigation: $100K-$500K, 2-5 years. Most contractors default to litigation because they do not know the alternatives."
 date: "2026-03-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-dispute-resolution-2026-mediation-vs-arbitratio-1774688162.png"
-audioUrl: "https://content.rss.com/episodes/332597/2669022/scalinglegends/2026_03_28_08_46_29_a956097d-401e-4681-ae9c-a23e367029c8.mp3"
 readTime: "20 min read"
 published: true
 season: 2

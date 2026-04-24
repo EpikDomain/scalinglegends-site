@@ -3,7 +3,6 @@ title: "Construction Market Intelligence: April 22 - Kiewit JV Takes $7B Texas L
 description: "April 22 construction intelligence brief. Kiewit joint venture picked for major segment of $7 billion Texas light rail program. US Army Corps awards $2 billion military energy resilience contract. ConstructConnect launches AI-powered Takeoff Boost on Google Cloud. Three megaprojects triggered rebound in March construction starts. $2 billion Hawaii LNG power plant under development on Oahu. California contractor ordered to pay $468K in wage theft. 2026 Construction Craft Salary Survey publishes fresh data. Liebherr launches new K series cranes. Global: Jefferies names UK construction top picks, Sindh government cancels BRT Red Line contract, float glass sector faces Middle East conflict cost spike. Market data from Smart Business Automator."
 date: "2026-04-22"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2758456/scalinglegends/2026_04_22_19_08_06_7a0e09ad-9ed4-449d-a15a-10174f7912ea.mp3"
 readTime: "2 min read"
 published: true
 season: 2
@@ -78,7 +77,7 @@ Read our guide on managing estimation risk [in our previous article on AI Takeof
 
 The convergence of these three market events creates a unique operating environment for the scaling contractor. Revenue is available, but the operational friction is higher. To capture this market share without jeopardizing cash flow, contractors must adjust their operational metrics immediately. The days of bidding on speculation are over; data-driven bidding is the only path to a $50M threshold.
 
-Cash flow management is paramount. With government projects paying on 30 to 60-day terms and retainage holding back funds, a liquidity buffer of at least 3 months of operating expenses is recommended. If a contractor is bidding on a mix of Kiewit subs and military contracts, their cash conversion cycle could stretch to 90 days. Securing a line of credit or a bond line that supports this variance is critical before submitting the first bid.
+[Cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) is paramount. With government projects paying on 30 to 60-day terms and retainage holding back funds, a liquidity buffer of at least 3 months of operating expenses is recommended. If a contractor is bidding on a mix of Kiewit subs and military contracts, their cash conversion cycle could stretch to 90 days. Securing a line of credit or a bond line that supports this variance is critical before submitting the first bid.
 
 Technology adoption must be strategic. Rather than replacing all legacy tools, contractors should integrate the new AI capabilities into their existing field service management stack. For example, feed the AI takeoff data directly into the job cost code system. This allows for real-time comparison of estimated vs. actual costs as work progresses. If the AI estimates 1,000 cubic yards of concrete but actual placement hits 1,200 due to spread, the variance is flagged immediately.
 
@@ -94,7 +93,7 @@ Finally, maintain a healthy balance of commercial and public work. Relying solel
 
 Prevailing wage rates, determined by the Department of Labor, set a minimum hourly wage for laborers on public works projects. You must price these rates into your estimate or your bid will be rejected. Expect labor costs to increase by approximately 6% to 10% compared to commercial projects. Failure to adhere to these rates results in OSHA citations and wage underpayment penalties, which can total up to $2,000 per violation per employee.
 
-### What is the bonding requirement for the Kiewit Texas Light Rail sub-contracts?
+### What is the bonding requirement for the [Kiewit Texas Light](/article/kiewit-texas-light-rail-2026-how-the-7-billion-program-is-reshaping-texas-transit-and-where-every-subcontractor-can-win-work/) Rail sub-contracts?
 
 Bonding requirements vary by subcontractor level but generally align with 50% of the contract value for performance and payment bonds. For a $2 million sub-contract, you need a $1 million bond line. This requires a solid financial ratio and a clean surety track record. If your working capital ratio is below 1.0, you may need a personal guarantee to secure the bond coverage.
 

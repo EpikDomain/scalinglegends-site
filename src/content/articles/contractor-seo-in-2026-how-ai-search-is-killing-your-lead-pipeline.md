@@ -3,7 +3,6 @@ title: "Contractor SEO in 2026: How AI Search Is Killing Your Lead Pipeline"
 description: "AI Overviews cut search clicks by 58% and Angi just launched inside ChatGPT. This episode breaks down how AI is changing contractor lead generation, the 5 SEO moves every contractor must make now, and real case studies of contractors growing 63%+ through digital marketing."
 date: "2026-03-07"
 image: "/img/articles/contractor-seo-in-2026-how-ai-search-is-killing-your-lead-pipeline-hero.webp"
-audioUrl: "https://content.rss.com/episodes/332597/2608724/scalinglegends/2026_03_07_18_22_00_b259ba4d-04d2-4b85-80b9-9627870d295c.mp3"
 readTime: "30 min read"
 published: true
 season: 2

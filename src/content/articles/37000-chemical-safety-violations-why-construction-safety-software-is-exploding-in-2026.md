@@ -3,7 +3,6 @@ title: "37,000 Chemical Safety Violations: Why Construction Safety Software Is E
 description: "OSHA data reveals nearly 37,000 hazard communication violations from 2021-2025, with construction as a leading sector. Google searches for construction safety management software spiked 450%. This analysis covers the compliance gap, real violation costs, and how digital safety management tools are transforming jobsite compliance for contractors who want to stay out of OSHA's crosshairs."
 date: "2026-03-16"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2630759/scalinglegends/2026_03_15_22_19_50_be53356d-e485-4041-8876-97ae336bf863.mp3"
 readTime: "14 min read"
 published: true
 season: 2

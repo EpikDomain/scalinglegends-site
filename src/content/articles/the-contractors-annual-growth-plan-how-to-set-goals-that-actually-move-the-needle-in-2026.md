@@ -3,7 +3,6 @@ title: "The Contractor's Annual Growth Plan: How to Set Goals That Actually Move
 description: "Most contractors wing it year to year. No real plan, no benchmarks, no accountability. This episode lays out a practical annual growth framework covering five pillars: sales targets, operational systems, marketing engines, hiring pipelines, and personal goals. Based on what the market intelligence shows is working for top-performing construction companies right now."
 date: "2026-03-15"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-annual-growth-plan-how-to-set-goals-that-act-1773617999.png"
-audioUrl: "https://content.rss.com/episodes/332597/2630884/scalinglegends/2026_03_15_23_28_20_c8b46731-1fd7-42c3-aba1-2addde43ebf8.mp3"
 readTime: "8 min read"
 published: true
 season: 2

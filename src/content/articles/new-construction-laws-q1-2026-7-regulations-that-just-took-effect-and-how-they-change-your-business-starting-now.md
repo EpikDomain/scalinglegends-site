@@ -3,11 +3,10 @@ title: "New Construction Laws Q1 2026: 7 Regulations That Just Took Effect and H
 description: "Seven new laws in Q1 2026: Ohio E-Verify, Tennessee E-Verify, CMMC Phase 1, OSHA initiative, EPA rollback challenge, work zone safety, and housing reform. Your compliance update with Q2 checklist."
 date: "2026-03-28"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2669013/scalinglegends/2026_03_28_08_39_34_5ba96ac1-0c63-43d6-9e80-32a08ec6c91b.mp3"
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-24"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -167,4 +166,4 @@ The sheer volume and complexity of the new Q1 2026 regulations might seem daunti
 
 ## Don't Just Comply, Lead the Way
 
-The new construction laws of Q1 2026 are more than just a regulatory hurdle; they are a catalyst for innovation and operational excellence. By proactively embracing these changes, your business can transform potential challenges into significant opportunities for growth, enhanced safety, and improved profitability. Don't wait for an audit or a costly incident to force your hand. Take decisive action now to integrate these mandates, leverage cutting-edge technology, and elevate your construction firm above the competition. Stay informed, stay ahead, and continue scaling your legends by subscribing to the Scaling Legends newsletter for ongoing insights and expert advice.
+The new construction laws of Q1 2026 are more than just a regulatory hurdle; they are a catalyst for innovation and operational excellence. By proactively embracing these changes, your business can transform potential challenges into significant opportunities for growth, enhanced safety, and improved profitability. Don't wait for an audit or a costly incident to force your hand. Take decisive action now to integrate these mandates, leverage cutting-edge technology, and [elevate your construction](/article/5-strategic-levers-to-elevate-your-construction-cash-flow-by-25/) firm above the competition. Stay informed, stay ahead, and continue scaling your legends by subscribing to the Scaling Legends newsletter for ongoing insights and expert advice.

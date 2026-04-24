@@ -3,7 +3,6 @@ title: "5 Growth Levers: Future-Proofing Your Construction Business for 2026"
 description: "The construction landscape is rapidly evolving. In this episode, the host and the co-host reveal five critical growth levers contractors must pull now to secure profitability and scale successfully in 2026. Learn how to navigate market shifts, protect your margins, and build resilient systems for sustainable growth."
 date: "2026-04-21"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2751631/scalinglegends/2026_04_21_03_11_17_7863a623-da90-4249-9d08-377ca560ceb2.mp3"
 readTime: "2 min read"
 published: true
 season: 2

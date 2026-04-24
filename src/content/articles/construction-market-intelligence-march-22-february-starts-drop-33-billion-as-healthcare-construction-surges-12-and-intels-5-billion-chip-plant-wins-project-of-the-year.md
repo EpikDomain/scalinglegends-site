@@ -3,7 +3,6 @@ title: "Construction Market Intelligence: March 22 - February Starts Drop $33 Bi
 description: "Weekend intelligence covering $33B nonresidential starts drop, healthcare construction surging 11.8%, Intel Fab 52 ENR Project of Year, Grady Health $1B campus, construction software buying cycle analysis, and Moody's recession odds at 50/50."
 date: "2026-03-23"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2648672/scalinglegends/2026_03_22_08_23_39_6b0af78c-50be-4a4e-92f3-35c8baa3f37c.mp3"
 readTime: "24 min read"
 published: true
 season: 2

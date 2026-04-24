@@ -3,7 +3,6 @@ title: "The Contractor Operating System: How to Actually Grow Your Company in 20
 description: "Most construction companies hit a ceiling between $2M and $5M and stay stuck there for years. The problem is not effort or talent. It is the lack of a repeatable operating system. This episode builds a complete contractor operating system from the ground up: weekly rhythms, accountability structures, scorecards, meeting cadences, and the specific processes that separate companies that scale from companies that stall."
 date: "2026-03-16"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractor-operating-system-how-to-actually-grow-your-co-1773670790.png"
-audioUrl: "https://content.rss.com/episodes/332597/2632301/scalinglegends/2026_03_16_14_22_51_f7637adf-5b9b-4ce0-9729-c68aeb2d4ffc.mp3"
 readTime: "16 min read"
 published: true
 season: 2

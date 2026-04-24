@@ -3,7 +3,6 @@ title: "Nemetschek Buys HCSS 2026: What the Construction Software M&A Wave Means
 description: "Nemetschek Group, the European giant behind Bluebeam, Graphisoft, Vectorworks, and Solibri, just acquired HCSS, the Sugar Land Texas company whose HeavyBid, HeavyJob, Dispatcher, and Safety software run the daily operations of thousands of US heavy civil, highway, and site contractors. This deep-dive unpacks what the deal means for current HCSS users, the pricing, feature, and integration roadmap, the broader contech M&A wave, and the Smart Business Automator vendor negotiation playbook to protect your renewal terms before price model changes hit."
 date: "2026-04-21"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/nemetschek-buys-hcss-2026-what-the-construction-software-ma--1776772551.png"
-audioUrl: "https://content.rss.com/episodes/332597/2752413/scalinglegends/2026_04_21_11_05_07_efa61df9-185c-4f31-abd4-93e6a384a8ce.mp3"
 readTime: "21 min read"
 published: true
 season: 2

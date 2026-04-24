@@ -3,7 +3,6 @@ title: "The Lobito Corridor 2026: How a $1.17 Billion African Rail Project Is Be
 description: "The US-backed Lobito Corridor is a $1.17 billion rail project in Angola with DFC $553M backing. 11 bridges, 8 stations, 2,000 jobs. Port capacity going 10x. How American contractors can access this international opportunity."
 date: "2026-04-11"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2717968/scalinglegends/2026_04_10_09_03_19_f3efccd9-20dd-4926-98dc-acf85b89d636.mp3"
 readTime: "13 min read"
 published: true
 season: 2

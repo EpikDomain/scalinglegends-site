@@ -3,7 +3,6 @@ title: "Google X Just Built an AI to Fix Construction Permitting: How Anori Coul
 description: "Alphabet's moonshot factory X just spun out Anori with $26 million in funding. The AI platform unifies developers, architects, engineers, and city officials to surface compliance conflicts in weeks instead of months. Permitting delays cost the US $100-140 billion annually. Anori targets 3-6 story multifamily first, then hospitals and data centers."
 date: "2026-03-20"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/google-x-just-built-an-ai-to-fix-construction-permitting-how-1773994841.png"
-audioUrl: "https://content.rss.com/episodes/332597/2644988/scalinglegends/2026_03_20_09_44_29_44e9bc14-5128-4a7d-8927-0229a77c43ec.mp3"
 readTime: "13 min read"
 published: true
 season: 2

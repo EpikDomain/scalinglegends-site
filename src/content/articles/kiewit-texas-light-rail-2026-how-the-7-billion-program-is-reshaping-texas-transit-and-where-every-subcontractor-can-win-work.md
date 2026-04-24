@@ -3,7 +3,6 @@ title: "Kiewit Texas Light Rail 2026: How the $7 Billion Program Is Reshaping Te
 description: "A Kiewit-led joint venture just took a major segment of the $7 billion Texas light rail program, one of the largest North American transit awards of 2026. This deep-dive walks contractors through the corridor plans, prime contractor structure, subcontracting opportunities across tunneling, stations, systems, and signaling, prequalification steps, and the Smart Business Automator transit bid board every tier-2 and tier-3 contractor chasing Texas work should have open."
 date: "2026-04-22"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2758499/scalinglegends/2026_04_22_19_29_20_8ba905ab-6e91-43cb-a9f4-ee0ef6a90869.mp3"
 readTime: "2 min read"
 published: true
 season: 2
@@ -56,7 +55,7 @@ This requirement creates a significant barrier for older firms. The project spec
 
 Furthermore, IoT (Internet of Things) integration is expected on high-risk zones. Operators will need to utilize connected equipment for emissions monitoring and safety telematics. This is not optional. The EPA's recent enforcement on diesel emissions in urban transit zones requires a **75% reduction in particulate matter** from heavy machinery. Equipment older than **20 years** will be banned from active construction sites unless retrofitted with compliant filtration systems.
 
-To navigate this, you need a system that aggregates field data into the required formats automatically. Manual data entry creates a lag that causes bid disqualification. **Field service management tools** that connect equipment sensors directly to the CDE are now a competitive advantage. Companies that can prove 100% of their field data is synced to the central repository within **5 minutes of generation** are prioritized for higher-value tasks.
+To navigate this, you need a system that aggregates field data into the required formats automatically. Manual data entry creates a lag that causes bid disqualification. **Field service management tools** that connect equipment sensors directly to the CDE are now [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/). Companies that can prove 100% of their field data is synced to the central repository within **5 minutes of generation** are prioritized for higher-value tasks.
 
 For further guidance on implementing the necessary hardware and software stack, read our detailed analysis on [construction tech adoption](/article/construct-tech-adoption/).
 
@@ -82,7 +81,7 @@ The financial impact of bonding capacity on your bottom line is substantial. Car
 
 Insurance requirements are equally rigorous. You must carry **$2M per occurrence** and **$5M aggregate** in General Liability. Workers' Compensation must have no exclusions for labor classification errors. **Auto Liability** must be **$1M** per vehicle. Failure to update an **ISO Code** on your policy to match the new classification can void coverage, leading to **project suspension**.
 
-## Financial Dynamics and Cash Flow Management
+## Financial Dynamics and [Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)
 
 Cash flow is the lifeblood of a construction firm, and on a federal transit project, the timing of cash can make or break the operation. The payment cycle typically follows a **30-day net terms** schedule from the General Contractor (Kiewit). However, the flow-down from the owner to Kiewit often takes **45-60 days**, creating a liquidity gap that can span up to **3 months**.
 
@@ -148,7 +147,7 @@ There is no hard cap, but the contract limits the total cumulative change orders
 
 ### What technology platforms are accepted for data submission?
 
-The General Contractor has a mandated **Common Data Environment (CDE)**. You must use a **cloud-based collaboration tool** that integrates with their CDE via API. Accepted platforms include open BIM standards (IFC) and standard project management interfaces. Paper-based logs are **strictly prohibited**. You must have a digital workflow in place to submit **daily work logs** with photo evidence within **2 hours** of the shift ending.
+The General Contractor has a mandated **Common Data Environment (CDE)**. You must use a **cloud-based collaboration tool** that integrates with their CDE via API. Accepted platforms include open BIM standards (IFC) and standard [project management](/article/surviving-the-messy-middle-of-construction-growth/) interfaces. Paper-based logs are **strictly prohibited**. You must have a digital workflow in place to submit **daily work logs** with photo evidence within **2 hours** of the shift ending.
 
 ### Can I use subcontractors for the specialized work?
 
@@ -182,4 +181,4 @@ The Texas Light Rail 2026 program offers a historic opportunity for construction
 
 Start by auditing your bonding capacity and digital readiness immediately. Then, integrate these requirements into your standard operating procedures for all future bids. This preparation will position you to win not only this contract but the subsequent ones that come with the increased federal funding focus.
 
-To stay updated on the latest federal infrastructure funding, regulatory changes, and scaling strategies for the construction industry, **subscribe to Scaling Legends** today. Join the network of contractors successfully navigating the transition to a high-tech, high-compliance future.
+To stay updated on the latest federal infrastructure funding, regulatory changes, and scaling strategies for the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/), **subscribe to Scaling Legends** today. Join the network of contractors successfully navigating the transition to a high-tech, high-compliance future.

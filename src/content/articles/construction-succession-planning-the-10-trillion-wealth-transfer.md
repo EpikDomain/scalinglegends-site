@@ -3,7 +3,6 @@ title: "Construction Succession Planning: The $10 Trillion Wealth Transfer"
 description: "52% of construction company owners are over 55. The $10 trillion wealth transfer is happening now. This guide covers the 5-year succession timeline, valuation methods, key-employee retention, and how to build a business that sells for 3-5x earnings."
 date: "2026-04-08"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2695081/scalinglegends/2026_04_06_22_15_03_1f30cf7f-a1fe-41c8-87fc-056d9f475e03.mp3"
 readTime: "21 min read"
 published: true
 season: 2

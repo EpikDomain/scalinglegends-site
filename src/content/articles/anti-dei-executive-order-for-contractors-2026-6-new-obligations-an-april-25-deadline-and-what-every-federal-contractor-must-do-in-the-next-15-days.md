@@ -3,7 +3,6 @@ title: "Anti-DEI Executive Order for Contractors 2026: 6 New Obligations, an Apr
 description: "The Anti-DEI Executive Order creates 6 new obligations for federal contractors with an April 25 deadline. This guide covers what changed, who is affected, the certification requirements, and step-by-step compliance actions."
 date: "2026-04-11"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2717920/scalinglegends/2026_04_10_08_36_25_bcc24d56-5d23-435f-a21b-76a51a49ba7e.mp3"
 readTime: "24 min read"
 published: true
 season: 2

@@ -3,7 +3,6 @@ title: "CONEXPO 2026 Decoded: What the Biggest Construction Show on Earth Means 
 description: "CONEXPO-CON/AGG 2026 just wrapped in Las Vegas with 2,000 exhibitors across 3 million square feet. Caterpillar debuted its first autonomous soil compactor and AI assistant. HD Hyundai unveiled Real-X autonomous excavation. Electric dozers hit the show floor. But while the big companies are buzzing about autonomous jobsites, nobody is telling the $3M-$20M contractor what this actually means for their business in the next 12-24 months. This episode cuts through the noise: which technologies are ready to deploy, which are 3-5 years out, and where the real ROI opportunities are right now."
 date: "2026-03-06"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/conexpo-2026-decoded-what-the-biggest-construction-show-on-e-1772808245.png"
-audioUrl: "https://content.rss.com/episodes/332597/2605872/scalinglegends/2026_03_06_15_05_22_47e2ab42-0cb1-4b0b-bd24-bedb21c45c91.mp3"
 readTime: "5 min read"
 published: true
 season: 2

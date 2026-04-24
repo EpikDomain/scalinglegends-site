@@ -3,7 +3,6 @@ title: "Construction Estimating Demand 2026: Why 'Estimating Service' Searches J
 description: "Estimating service searches spiked 42,950%. Construction estimating demand is exploding as recession fears drive contractors to modernize. This guide covers why the spike is happening, what contractors should do about it, and how to capitalize on the estimating gold rush."
 date: "2026-03-23"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2648735/scalinglegends/2026_03_22_08_45_44_b313ea40-a6e4-43d4-846d-c6917a8509ae.mp3"
 readTime: "29 min read"
 published: true
 season: 2

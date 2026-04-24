@@ -3,7 +3,6 @@ title: "The Wind-to-Gas Pivot 2026: TotalEnergies Just Abandoned US Offshore Win
 description: "TotalEnergies accepted a $928 million federal buyout to abandon two offshore wind leases and pledged to never return to US offshore wind. The money goes to Rio Grande LNG and Gulf oil. This is the first completed wind-to-fossil buyout and it could be a template for Orsted, Equinor, and BP."
 date: "2026-03-24"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2655712/scalinglegends/2026_03_24_08_30_21_b72bae86-3bc4-4afa-bb74-ad168f1c5ba3.mp3"
 readTime: "17 min read"
 published: true
 season: 2

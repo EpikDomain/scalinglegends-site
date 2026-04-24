@@ -3,7 +3,6 @@ title: "Construction Market Intelligence: March 21 - Iran Strikes Qatar's LNG Hu
 description: "Daily market intelligence covering the Iranian missile strike on Qatar's Ras Laffan LNG hub knocking 17% of capacity offline for 3-5 years, Fluor's $3-4B Kentucky data center campus on a former aluminum smelter, Procore partnering with NVIDIA on digital twins, the $11.3M Milwaukee timber tower lawsuit, and Moody's recession odds hitting 50/50."
 date: "2026-03-22"
 image: "/scaling-legends-cover.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2646862/scalinglegends/2026_03_21_08_26_15_faa6766d-8a9e-4ff1-a067-214d8043c631.mp3"
 readTime: "18 min read"
 published: true
 season: 2

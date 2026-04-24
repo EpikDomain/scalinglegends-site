@@ -1,12 +1,12 @@
 ---
-title: "Operational Secrets Behind $50M General Contractors"
-description: "Inside the operational DNA of $50M+ general contractors. The scheduling systems, team structures, and risk management frameworks that separate them from everyone else."
+title: "Operational Growth: Scale to $50M GCs by 2026"
+description: "Unlock the operational strategies $50M+ general contractors use to scale. Learn about advanced scheduling, team structures, and risk management to hit your 2026 targets."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/operational-secrets-behind-50m-general-contractors-1772746863.png"
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-24"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

@@ -1,12 +1,12 @@
 ---
-title: "Construction Marketing: Master 2026 Strategies Now"
-description: "Learn actionable construction marketing strategies for 2026. Optimize your Google Business Profile, local SEO, and social media to get ahead."
+title: "Construction Marketing Trends: Top Predictions for 2026"
+description: "Explore the biggest construction marketing trends shaping 2026. Get insights on Google Business Profile, local SEO, and social media evolution."
 date: "2026-02-20"
 image: "https://scalinglegends.com/og/how-to-market-construction-company-get-leads-2026.jpg"
 readTime: "83 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-24"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

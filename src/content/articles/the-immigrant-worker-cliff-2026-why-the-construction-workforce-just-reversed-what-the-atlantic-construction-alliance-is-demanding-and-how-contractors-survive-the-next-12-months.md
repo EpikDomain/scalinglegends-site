@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "23 min read"
 published: true
 season: 2
+updatedAt: "2026-04-23"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -41,7 +42,7 @@ The impact is not uniform. **Specialty trades are the first to feel it.** Roofin
 
 For contractors trying to sustain [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) momentum through 2026, the practical implication is straightforward: every project start assumption you made six months ago needs to be stress-tested against a labor scenario where your specialty sub pool is 10 to 20 percent smaller than you planned. That is not a theoretical risk. It is the current baseline.
 
-The Israel parallel is instructive. The Israeli [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) pressed its government this week for a complete overhaul of foreign worker law, with labor shortages approaching 40 percent of total demand in the residential sector. Allied economies facing the same pressures simultaneously means the global construction labor market is tightening from multiple directions — and relief, when it comes, will be rationed.
+The Israel parallel is instructive. The Israeli [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) pressed its government this week for a complete overhaul of foreign worker law, with labor shortages approaching 40 percent of total demand in the residential sector. Allied economies facing the same pressures simultaneously means [the global construction](/article/the-global-construction-growth-wave-2026-canada-430b-indonesia-226b-uks-170-five-year-surge-and-where-us-contractors-should-position-for-the-next-decade/) labor market is tightening from multiple directions — and relief, when it comes, will be rationed.
 
 ## The Atlantic Construction Alliance and What Sector-Specific Reform Actually Means for Contractor Profit Margins 2026
 
