@@ -104,7 +104,7 @@ For current market benchmarks by region and trade type, the [construction market
 
 ## Frequently Asked Questions
 
-### What is a realistic gross profit margin for a construction company in 2026?
+### What is a realistic gross profit margin for a [construction company in](/article/how-to-start-construction-company-washington-2026/) 2026?
 
 For general contractors and specialty subcontractors in the $1M-$50M revenue range, the target gross profit margin is 18-22% on self-performed work. Companies relying on outdated cost data or experience-based pricing typically land at 12-15%. The difference between 15% and 20% gross margin on $5M in annual revenue is $250,000 in additional profit per year. Construction estimating software integrated with live market pricing data is the most direct path to closing that gap in 2026.
 
