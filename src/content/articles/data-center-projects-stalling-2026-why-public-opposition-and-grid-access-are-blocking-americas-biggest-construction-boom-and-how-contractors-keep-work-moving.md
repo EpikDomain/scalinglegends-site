@@ -149,7 +149,7 @@ Two primary forces: community opposition and grid access constraints. Constructi
 
 In saturated markets — Northern Virginia, Central Ohio, metro Phoenix — interconnection queues now run 4 to 7 years. Some 500 MW projects are receiving only 200 MW allocations, forcing scope reductions before construction begins. Substation transformer lead times of 52 to 80 weeks compound the problem further. Contractors in these markets need phased mobilization contracts and explicit equipment procurement exclusions in every agreement, as grid delivery dates continue to slip past original project schedules.
 
-### Which states offer the best conditions for data center construction in 2026?
+### Which states offer the best conditions for [data center construction](/article/latin-america-data-center-construction-2026-how-googles-500m-digital-port-and-the-693-billion-2031-market-are-creating-the-next-wave-of-contractor-opportunity/) in 2026?
 
 Mississippi, Louisiana, Wyoming, Kansas, and South Dakota have the shortest interconnection queues (under 2 to 4 years), lowest community opposition profiles, and active state economic development incentives. Wyoming and South Dakota offer cold climates that reduce cooling infrastructure costs. Mississippi and Louisiana offer industrial zoning and low land costs with available brownfield sites. Contractors licensing in these states now have a 6 to 12 month first-mover window before the national contractor base catches up to where the pipeline is moving.
 

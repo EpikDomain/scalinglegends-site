@@ -14,4 +14,4 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The DOL Joint Employer Rule update just hit the construction industry. This deep-dive walks every GC and prime contractor through the expanded joint employer liability, the 43 percent audit-triggering exposure rate, the contract language that protects you, the wage and hour exposure, OSHA flow-through, benefits obligations, and the Smart Business Automator compliance audit framework every contractor needs to run before May 30.
+The DOL Joint Employer Rule update just hit the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/). This deep-dive walks every GC and prime contractor through the expanded joint employer liability, the 43 percent audit-triggering exposure rate, the contract language that protects you, the wage and hour exposure, OSHA flow-through, benefits obligations, and the Smart Business Automator compliance audit framework [every contractor needs](/article/the-osha-2026-crackdown-what-every-contractor-needs-to-know-now/) to run before May 30.

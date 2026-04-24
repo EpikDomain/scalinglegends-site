@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2605805/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-24"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -31,7 +31,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Monitor IIJA Funding & Advocate.** Stay informed on the AGC's "America's Moving Forward" campaign and the Infrastructure Investment and Jobs Act (IIJA) funding status, considering contacting local representatives to support funding before September.
 
-- **Assess Data Center Market Opportunities.** Research the booming $25.2B data center construction market over the next few days to identify potential new project leads or specialized services your firm could offer.
+- **Assess Data Center Market Opportunities.** Research the booming $25.2B [data center construction](/article/latin-america-data-center-construction-2026-how-googles-500m-digital-port-and-the-693-billion-2031-market-are-creating-the-next-wave-of-contractor-opportunity/) market over the next few days to identify potential new project leads or specialized services your firm could offer.
 
 - **Adjust to California Retention Cap.** For contractors operating in California, immediately update project contracts and [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) projections to reflect the new 5% retention cap, consulting legal counsel if necessary.
 

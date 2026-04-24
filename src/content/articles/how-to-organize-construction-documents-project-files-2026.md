@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-organize-construction-documents-pro
 readTime: "44 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-24"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -488,7 +488,7 @@ Working from an outdated drawing or specification is a recipe for disaster in co
 
 - **Clear Naming:** Incorporate revision numbers directly into file names (e.g., P123-ARCH-A101-REV03-2023-10-26.pdf).
 
-- **Revision Clouds:** Architects and engineers should use revision clouds on drawings to highlight changes.
+- **Revision Clouds:** [Architects and engineers](/article/enr-top-500-design-firms-2026-why-the-ai-boom-is-buoying-design-revenue-and-where-every-contractor-should-team-with-architects-and-engineers-now/) should use revision clouds on drawings to highlight changes.
 
 - **Revision Logs:** Maintain a separate log tracking all revisions for each drawing or specification document.
 

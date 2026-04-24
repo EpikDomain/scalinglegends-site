@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-handle-construction-change-orders-m
 readTime: "42 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-04-24"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -30,7 +30,7 @@ First, understand that change orders are inherent to construction. They're not a
 
 ### Design Deficiencies and Ambiguities
 
-No set of plans is perfect. Architects and engineers work with imperfect information, and details can be overlooked or poorly specified. Design documents might contain conflicting information, omissions, or simply be incomplete for field execution. When these issues surface during construction, a change is required to clarify scope, materials, or methods. This isn't always malicious; it's often a reality of the design-bid-build process where design is "completed" before construction begins, only to find real-world clashes later.
+No set of plans is perfect. [Architects and engineers](/article/enr-top-500-design-firms-2026-why-the-ai-boom-is-buoying-design-revenue-and-where-every-contractor-should-team-with-architects-and-engineers-now/) work with imperfect information, and details can be overlooked or poorly specified. Design documents might contain conflicting information, omissions, or simply be incomplete for field execution. When these issues surface during construction, a change is required to clarify scope, materials, or methods. This isn't always malicious; it's often a reality of the design-bid-build process where design is "completed" before construction begins, only to find real-world clashes later.
 
 ### Owner-Initiated Changes
 

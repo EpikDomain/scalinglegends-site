@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616310/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-04-03"
+updatedAt: "2026-04-24"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -97,7 +97,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Optimize Material Procurement & Inventory.** With steel 12% above January levels and asphalt up 11% YTD, contact suppliers to lock in prices for upcoming projects. Explore alternative materials or negotiate bulk discounts within the next 7 days to mitigate cost increases.
 
-- **Conduct a Workforce Skills Gap Analysis.** Assess your current team's skills against demand in growing sectors (e.g., data center construction, infrastructure). Identify potential training needs or consider strategic hires for specialized roles, while evaluating staffing levels in declining residential sectors.
+- **Conduct a Workforce Skills Gap Analysis.** Assess your current team's skills against demand in growing sectors (e.g., [data center construction](/article/latin-america-data-center-construction-2026-how-googles-500m-digital-port-and-the-693-billion-2031-market-are-creating-the-next-wave-of-contractor-opportunity/), infrastructure). Identify potential training needs or consider strategic hires for specialized roles, while evaluating staffing levels in declining residential sectors.
 
 - **Revamp Your Bidding and Estimating Process.** Given the 8% decline in bid volumes for small firms and rising costs, update your estimating software this week to accurately reflect current material and fuel prices. Focus on detailed cost breakdowns to justify bids and maintain healthy margins on new projects.
 

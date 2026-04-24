@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-tennesse
 readTime: "56 min read"
 published: true
 season: 2
+updatedAt: "2026-04-24"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -269,7 +270,7 @@ Knowing where the opportunities are is half the battle. Tennessee offers diverse
 
 - **Industry Associations:** Join organizations like the Associated General Contractors of Tennessee (AGC of TN), Associated Builders and Contractors (ABC of Greater Tennessee), and local home builders associations. These are prime networking grounds.
 
-- **Architects and Engineers:** They are often the first point of contact for clients and can refer you for projects.
+- **[Architects and Engineers](/article/enr-top-500-design-firms-2026-why-the-ai-boom-is-buoying-design-revenue-and-where-every-contractor-should-team-with-architects-and-engineers-now/):** They are often the first point of contact for clients and can refer you for projects.
 
 - **Online Bid Boards and Plan Rooms:** Platforms like Dodge Data & Analytics, ConstructConnect, and local plan rooms list upcoming projects.
 

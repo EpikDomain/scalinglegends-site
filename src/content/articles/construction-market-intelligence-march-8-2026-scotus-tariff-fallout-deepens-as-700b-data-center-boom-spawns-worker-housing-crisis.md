@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2610155/scalinglegends/2026_0
 readTime: "11 min read"
 published: true
 season: 2
-updatedAt: "2026-03-21"
+updatedAt: "2026-04-24"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -51,7 +51,7 @@ This ruling, or lack thereof in critical areas, directly impacts the cost of doi
 
 Bloomberg recently broke a bombshell report: the staggering $700 billion AI data center boom is fueling a "man-camp" housing crisis across rural America. This mirrors the boom-and-bust cycles seen in the energy sector, as massive, specialized [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) descend upon communities ill-equipped to handle the sudden influx of thousands of workers. For contractors, this presents a dual reality: immense opportunity alongside significant operational challenges.
 
-Monthly data center construction spending has hit an average of $40 billion, a figure that continues to climb as hyperscale operators race to build the infrastructure for artificial intelligence. This surge creates unprecedented demand for skilled trades, with electricians being the most acutely short. Projects require highly specialized electrical infrastructure, and the existing labor pool is simply insufficient. This shortage is not just about finding bodies; it's about finding highly trained, certified professionals.
+Monthly [data center construction](/article/latin-america-data-center-construction-2026-how-googles-500m-digital-port-and-the-693-billion-2031-market-are-creating-the-next-wave-of-contractor-opportunity/) spending has hit an average of $40 billion, a figure that continues to climb as hyperscale operators race to build the infrastructure for artificial intelligence. This surge creates unprecedented demand for skilled trades, with electricians being the most acutely short. Projects require highly specialized electrical infrastructure, and the existing labor pool is simply insufficient. This shortage is not just about finding bodies; it's about finding highly trained, certified professionals.
 
 The implications for [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) are profound. Companies capable of deploying large, skilled teams to remote locations for data center projects stand to capture significant market share. However, securing and housing these teams is a major hurdle. The "man-camp" phenomenon, characterized by temporary, often isolated housing facilities, brings its own set of logistical, social, and HR challenges. Contractors must consider not only the direct costs of housing but also the impact on worker morale, retention, and community relations.
 

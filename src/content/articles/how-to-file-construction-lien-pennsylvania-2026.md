@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-pennsylvania
 readTime: "46 min read"
 published: true
 season: 2
+updatedAt: "2026-04-24"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -371,7 +372,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 ### Who can file a mechanics lien in PA?
 
-In Pennsylvania, the Mechanics' Lien Law protects a broad range of contributors. This includes General Contractors, Subcontractors, Material Suppliers, Design Professionals (like architects and engineers if construction commences), and Laborers. Essentially, anyone who furnishes labor, materials, or services to improve real property can hold lien rights to secure payment for their work.
+In Pennsylvania, the Mechanics' Lien Law protects a broad range of contributors. This includes General Contractors, Subcontractors, Material Suppliers, Design Professionals (like [architects and engineers](/article/enr-top-500-design-firms-2026-why-the-ai-boom-is-buoying-design-revenue-and-where-every-contractor-should-team-with-architects-and-engineers-now/) if construction commences), and Laborers. Essentially, anyone who furnishes labor, materials, or services to improve real property can hold lien rights to secure payment for their work.
 
 ### What is the Pennsylvania Mechanics' Lien Law of 1963?
 

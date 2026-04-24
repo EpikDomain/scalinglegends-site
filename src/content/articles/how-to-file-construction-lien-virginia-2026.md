@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-virginia-202
 readTime: "51 min read"
 published: true
 season: 2
+updatedAt: "2026-04-24"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -360,7 +361,7 @@ Virginia Code §43-17 provides that in a suit to enforce a mechanics lien, "the 
 
 Virginia's 90-day deadline for filing a Memorandum of Mechanic's Lien runs from the "last day of the month in which the claimant last performed labor or furnished material." This is a crucial distinction. For example, if you last worked on October 5th, the 90-day clock starts on October 31st. If you last worked on October 28th, the 90-day clock still starts on October 31st. This often gives claimants a slightly longer window than simply 90 days from the physical last day of work. Always calculate from the end of the month.
 
-### Are architects and engineers entitled to mechanics liens in Virginia?
+### Are [architects and engineers](/article/enr-top-500-design-firms-2026-why-the-ai-boom-is-buoying-design-revenue-and-where-every-contractor-should-team-with-architects-and-engineers-now/) entitled to mechanics liens in Virginia?
 
 Yes, Virginia Code §43-1 explicitly includes "architects and engineers" among those who have a lien for the payment of the value of their work. However, their plans or designs must have actually been used in the improvement of the property. This right extends to their professional services, not just physical labor or materials furnished at the site.
 

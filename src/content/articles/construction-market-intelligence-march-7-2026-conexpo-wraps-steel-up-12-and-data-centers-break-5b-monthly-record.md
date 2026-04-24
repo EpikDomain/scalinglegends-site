@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2763609/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-04-09"
+updatedAt: "2026-04-24"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -71,7 +71,7 @@ Half of all states now require some form of E-Verify. Some Republican states are
 
 ## $25.2 Billion in Data Center Starts: January 2026 Broke the Record
 
-January 2026 saw **$25.2 billion in data center construction starts**, the highest monthly figure ever recorded. Twenty projects broke ground including two developments worth $10 billion each.
+January 2026 saw **$25.2 billion in [data center construction](/article/latin-america-data-center-construction-2026-how-googles-500m-digital-port-and-the-693-billion-2031-market-are-creating-the-next-wave-of-contractor-opportunity/) starts**, the highest monthly figure ever recorded. Twenty projects broke ground including two developments worth $10 billion each.
 
 Amazon, Alphabet, Microsoft, Meta, and Oracle have announced a combined **$700 billion in capex for 2026**, largely driven by AI infrastructure. Moody's projects **$3 trillion in global data center spending** over the next five years. Over 56% of near-term spending is concentrated in the South. Power infrastructure alone has 86 GW planned for 2026.
 

@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-tennessee-20
 readTime: "47 min read"
 published: true
 season: 2
+updatedAt: "2026-04-24"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -41,7 +42,7 @@ Tennessee law broadly grants lien rights to a variety of parties who furnish lab
 
 - **Laborers:** Individuals who physically perform work on the project.
 
-- **Architects and Engineers:** Design professionals who furnish professional services for the improvement of the property.
+- **[Architects and Engineers](/article/enr-top-500-design-firms-2026-why-the-ai-boom-is-buoying-design-revenue-and-where-every-contractor-should-team-with-architects-and-engineers-now/):** Design professionals who furnish professional services for the improvement of the property.
 
 - **Land Surveyors:** Those who perform land surveying services related to the improvement.
 
