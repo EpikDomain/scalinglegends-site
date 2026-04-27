@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2752413/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -64,7 +65,7 @@ The contractors who feel this least are the ones who negotiated during year 1 â€
 
 The only lever contractors have is timing. Lock terms now, before the new pricing model exists.
 
-## Contractor Profit Margins 2026: The Real Stakes of Getting This Wrong
+## [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: The Real Stakes of Getting This Wrong
 
 Heavy civil contractors operate on margins that leave no room for unplanned cost escalation. Average net margins in highway and site work run between 3 and 7 percent. On a $15M revenue contractor, that is $450,000 to $1,050,000 in net profit. A 15 percent unplanned software cost increase on a $120,000 annual HCSS spend is $18,000 pulled directly from that margin â€” equivalent to 1.7 to 4 percent of a typical net profit pool.
 

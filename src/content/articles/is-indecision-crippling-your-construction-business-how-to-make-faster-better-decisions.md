@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2636375/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-03-29"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -17,7 +17,7 @@ sponsors:
 
 How to [Scale a Construction](/article/how-to-scale-construction-company-complete-2026-guide/) Business 2026: Conquer Indecision
 
-Most contractors lose more money from delayed decisions than from bad ones. This isn't just a truism; it's a measurable drain on your bottom line. Research from [Smart Business Automator](https://smartbusinessautomator.com) indicates that indecision costs the average construction firm scaling from $5M to $20M an estimated 3-5% of annual revenue through missed opportunities, extended project timelines, and increased material costs. The urgency is palpable: every hour spent dithering on a critical choice, from subcontractor selection to material procurement, directly impacts your profit margins and your ability to grow.
+Most contractors lose more money from delayed decisions than from bad ones. This isn't just a truism; it's a measurable drain on your bottom line. Research from [Smart Business Automator](https://smartbusinessautomator.com) indicates that indecision costs the average construction firm scaling from $5M to $20M an estimated 3-5% of annual revenue through missed opportunities, extended project timelines, and increased material costs. The urgency is palpable: every hour spent dithering on a critical choice, from subcontractor selection to material procurement, directly impacts your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) and your ability to grow.
 
 ## Key Takeaways
 

@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -90,7 +90,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 ### How much do steel tariffs add to the cost of a new home?
 
-The current 50% tariffs on imported steel and aluminum are significantly increasing [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/). Data from the National Association of Home Builders (NAHB) indicates these tariffs add an average of $10,900 to the cost of every new home built in America. This tangible burden is either passed to consumers or absorbed by contractors, directly eroding profit margins.
+The current 50% tariffs on imported steel and aluminum are significantly increasing [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/). Data from the National Association of Home Builders (NAHB) indicates these tariffs add an average of $10,900 to the cost of every new home built in America. This tangible burden is either passed to consumers or absorbed by contractors, directly eroding [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 ### What percentage of contractors are affected by steel tariffs?
 

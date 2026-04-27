@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2644988/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -37,7 +37,7 @@ Google spent two years inside its moonshot factory building an AI to fix constru
 
 ## The Permitting Black Hole: A Brake on Construction Business Growth 2026
 
-The agonizing pace of construction permitting isn't just a nuisance; it's a systemic drain on your bottom line and a major impediment to `construction business growth 2026`. Across the United States, direct spending on permitting alone ranges from **$5 billion to $14 billion annually**. This figure pales in comparison to the staggering **$100-140 billion in unrealized returns** lost each year due to projects stalled in bureaucratic limbo. For many contractors scaling from $1M to $50M, these delays translate directly into increased carrying costs, missed market opportunities, and eroded profit margins.
+The agonizing pace of construction permitting isn't just a nuisance; it's a systemic drain on your bottom line and a major impediment to `construction business growth 2026`. Across the United States, direct spending on permitting alone ranges from **$5 billion to $14 billion annually**. This figure pales in comparison to the staggering **$100-140 billion in unrealized returns** lost each year due to projects stalled in bureaucratic limbo. For many contractors scaling from $1M to $50M, these delays translate directly into increased carrying costs, missed market opportunities, and eroded [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 Consider the timelines: A typical construction project can face 4-5 year permitting timelines. For manufacturing facilities, it's 2-3 years, and for complex infrastructure or mining projects, an astonishing 8-9 years. Each day a project is delayed, costs accrue. McKinsey reports that [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/) increase by **24-30% over project timelines** primarily due to these delays. This isn't just inflation; it's the cost of capital, extended labor, escalating material prices, and the opportunity cost of resources tied up in unproductive waiting periods.
 

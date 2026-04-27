@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616397/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-03-13"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -49,7 +49,7 @@ A thousand sites get hit every month. Two billion dollars a year. Here's the pla
 
 - **Copper Theft Crisis.** The soaring price of metals has made copper a prime target, representing a significant portion of material losses. Secure all accessible wiring and piping.
 
-- **Insurance Premiums are Rising.** Frequent theft claims directly translate to higher insurance premiums and potential coverage limitations, eroding your profit margins.
+- **Insurance Premiums are Rising.** Frequent theft claims directly translate to higher insurance premiums and potential coverage limitations, eroding your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Comprehensive Prevention is Key.** A multi-layered security strategy—combining physical barriers, advanced technology, strict site protocols, and employee vigilance—is essential to protect your assets and maintain project schedules.
 

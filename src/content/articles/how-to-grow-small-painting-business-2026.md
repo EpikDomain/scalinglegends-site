@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-grow-small-painting-business-2026.j
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-04-05"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -254,7 +254,7 @@ Before you do anything else, decide what "real company" means to you. Do you wan
 
 ### Step 2: Master Your Numbers
 
-You cannot scale what you do not measure. Get intimately familiar with your costs: labor per square foot, material waste, overhead allocation. Implement robust accounting software (QuickBooks is a standard for a reason). Understand your break-even point and your desired profit margins. Every estimate needs to be rooted in these numbers, not gut feeling.
+You cannot scale what you do not measure. Get intimately familiar with your costs: labor per square foot, material waste, overhead allocation. Implement robust accounting software (QuickBooks is a standard for a reason). Understand your break-even point and your desired [profit margins](/article/contractor-profit-margins-drop-18-in-2026/). Every estimate needs to be rooted in these numbers, not gut feeling.
 
 ### Step 3: Build a Reproducible System for Everything
 

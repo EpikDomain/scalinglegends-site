@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2660387/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-03-26"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -29,7 +29,7 @@ New York City Housing Authority (NYCHA) has unveiled a staggering $6.3 billion c
 
 - **Leverage Advanced Estimating.** Competitive bids demand precision. Investing in cutting-edge [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) and `[construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026` provides a critical edge.
 
-- **Optimize Profit Margins.** Beyond winning bids, strategic cost control, value engineering, and meticulous change order management are essential to maintain strong `contractor profit margins 2026`.
+- **Optimize Profit Margins.** Beyond winning bids, strategic cost control, value engineering, and meticulous change order management are essential to maintain strong `[contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026`.
 
 - **Embrace Technology for [Project Management](/article/surviving-the-messy-middle-of-construction-growth/).** Modern [construction project management](/article/construction-project-management-surviving-the-messy-middle/) software is crucial for efficiently handling multiple projects and ensuring compliance.
 

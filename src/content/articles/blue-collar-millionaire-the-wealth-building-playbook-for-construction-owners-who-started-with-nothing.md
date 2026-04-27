@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2630893/scalinglegends/2026_0
 readTime: "7 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -77,7 +78,7 @@ Callout: Only 15% of [construction companies](/article/construction-market-intel
 
 - **Boost Team Culture with a Small Win.** Implement one small, positive culture initiative this week, such as a team lunch, a quick employee recognition shout-out, or a brief feedback session, to reduce turnover and boost morale.
 
-- **Analyze Your Profit Margins.** Pull your last three project reports and identify your actual profit margins. Target improving them towards 15% by identifying one cost-saving or efficiency gain you can implement immediately.
+- **Analyze Your [Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/).** Pull your last three project reports and identify your actual profit margins. Target improving them towards 15% by identifying one cost-saving or efficiency gain you can implement immediately.
 
 - **Explore Smart Automation Tools.** Spend 1-2 hours researching and test-driving a free trial of a modern estimating or project management software (e.g., Procore, Buildertrend, AccuBuild) to optimize bids and cash flow.
 

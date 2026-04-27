@@ -6,7 +6,7 @@ image: "/img/articles/cloud-construction-software-the-17-billion-migration-nobod
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -102,7 +102,7 @@ CoConstruct starts at $99 per month for the first 2 months, then jumps to $399 p
 
 Talk about cloud construction software long enough and the question always comes back to ROI. In November 2025, the Dodge Construction Network and Procore published a study surveying **over 1,100 owners and contractors**. The numbers are significant.
 
-- **77% of optimized adopters** report increased profit margins
+- **77% of optimized adopters** report increased [profit margins](/article/contractor-profit-margins-drop-18-in-2026/)
 
 - **83% report overhead cost reductions** of 5% or more
 

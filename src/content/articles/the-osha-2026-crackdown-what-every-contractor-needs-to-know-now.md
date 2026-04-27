@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604783/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-27"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -222,7 +222,7 @@ The impending OSHA 2026 crackdown is not a threat to be feared, but a call to st
 - **Ongoing:** Implement a mandatory weekly toolbox talk schedule, focusing on pertinent jobsite hazards, and conduct quarterly safety refreshers for all staff. Document every session, attendee, and topic discussed meticulously.
 
 **Invest in Proactive Safety Technology:**
-**Specific Instructions:** Allocate budget for safety technology. Begin by implementing a robust Safety Management Software (SMS) platform to centralize incident reporting, training records, SDS management, and digital checklists. Explore pilot programs for wearable tech (e.g., fall detection devices) or drone inspections for high-risk areas. Consult market intelligence from sources like Smart Business Automator (SBA) to identify leading solutions tailored for the construction industry and assess their ROI. This digital infrastructure will be crucial for demonstrating compliance and proactive risk management.
+**Specific Instructions:** Allocate budget for safety technology. Begin by implementing a robust Safety Management Software (SMS) platform to centralize incident reporting, training records, SDS management, and digital checklists. Explore pilot programs for wearable tech (e.g., fall detection devices) or [drone inspections](/article/drone-inspections-save-47k-per-project-in-2026/) for high-risk areas. Consult market intelligence from sources like Smart Business Automator (SBA) to identify leading solutions tailored for the construction industry and assess their ROI. This digital infrastructure will be crucial for demonstrating compliance and proactive risk management.
 
 **Reinforce Your Safety Culture from the Top Down:**
 **Specific Instructions:** Implement a "Safety First" mandate from the CEO down.

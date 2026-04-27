@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2646876/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-04-05"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -39,7 +39,7 @@ The vision for The Edison was ambitious: a 31-story, $230 million mass timber hy
 
 The general contractor, C.D. Smith Construction, a reputable firm, had invested significant resources and expertise into the project. When work ceased, they were left holding the bag for services rendered and materials procured. On March 6, 2026, C.D. Smith filed a lawsuit seeking $11.3 million and foreclosure against the developer, Neutral LLC, and its affiliates. This action followed an initial lien filed in November 2025 for $10.1 million, demonstrating a clear, proactive strategy to secure their interests. The legal filings paint a grim picture: a project stalled, payments missed, and a major general contractor forced to pursue legal remedies to recover substantial losses.
 
-This situation isn't isolated. Beyond C.D. Smith, 12 other firms have filed mechanics' liens totaling over $14 million, indicating a widespread financial fallout affecting subcontractors, suppliers, and specialized trades across the region. Each of these firms, likely operating with tight **contractor profit margins 2026**, now faces the arduous task of recovering funds and navigating the legal complexities of a stalled project. The ripple effect extends beyond financial losses; it damages business relationships, strains resources, and can impact a firm's ability to secure future work. The Edison project, once a symbol of innovation, has become a cautionary tale about the critical importance of due diligence and robust contractual protections in large-scale construction ventures. For firms looking to scale, understanding these vulnerabilities is paramount to avoiding similar pitfalls.
+This situation isn't isolated. Beyond C.D. Smith, 12 other firms have filed mechanics' liens totaling over $14 million, indicating a widespread financial fallout affecting subcontractors, suppliers, and specialized trades across the region. Each of these firms, likely operating with tight **[contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026**, now faces the arduous task of recovering funds and navigating the legal complexities of a stalled project. The ripple effect extends beyond financial losses; it damages business relationships, strains resources, and can impact a firm's ability to secure future work. The Edison project, once a symbol of innovation, has become a cautionary tale about the critical importance of due diligence and robust contractual protections in large-scale construction ventures. For firms looking to scale, understanding these vulnerabilities is paramount to avoiding similar pitfalls.
 
 ## Financial Fault Lines: Why the Funds Dried Up
 

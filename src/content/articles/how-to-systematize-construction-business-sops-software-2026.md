@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2751721/scalinglegends/2026_0
 readTime: "44 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -91,7 +91,7 @@ Your estimates are the lifeblood of your business. Inaccurate or inconsistent es
 
 - **Takeoff Procedures:** Standardized methods for quantity takeoffs, including software usage, measurement units, and review processes.
 
-- **Costing and Pricing:** Clear guidelines for applying labor rates, material costs, equipment costs, overhead, and profit margins.
+- **Costing and Pricing:** Clear guidelines for applying labor rates, material costs, equipment costs, overhead, and [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Bid Review and Approval:** Who reviews the estimate? What criteria must be met before submission? How are contingencies handled?
 
@@ -257,7 +257,7 @@ These are powerful "integration platforms as a service" (iPaaS) that allow you t
 
 #### Built-in Software Automations
 
-Many of your core construction software platforms (Procore, QuickBooks, Buildertrend, etc.) come with their own automation features. Don't overlook these; they are often the simplest to implement for tasks within a single system.
+Many of your core [construction software](/article/the-rise-of-software-in-construction-scaling/) platforms (Procore, QuickBooks, Buildertrend, etc.) come with their own automation features. Don't overlook these; they are often the simplest to implement for tasks within a single system.
 
 **Examples:**
 

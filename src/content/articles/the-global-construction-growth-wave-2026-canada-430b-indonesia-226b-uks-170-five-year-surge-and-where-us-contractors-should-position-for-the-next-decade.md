@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "26 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -27,7 +28,7 @@ Three global construction market signals in 72 hours. Canada: $430 billion by 20
 
 - **Trade structure selection determines margin outcome.** A subsidiary gives full market access but carries full compliance burden. A JV with an established local firm shares risk and unlocks bonding capacity. A specialty subcontractor role requires no permanent establishment and generates immediate revenue with minimal exposure.
 
-- **Contractor profit margins 2026 favor markets with structural demand.** Markets building from scarcity, such as Indonesia's housing deficit and Canada's data center shortage, price work at higher margins than saturated domestic markets where bid spreads compress to 2 to 4 percent.
+- **[Contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 favor markets with structural demand.** Markets building from scarcity, such as Indonesia's housing deficit and Canada's data center shortage, price work at higher margins than saturated domestic markets where bid spreads compress to 2 to 4 percent.
 
 - **The 2026 action plan is three moves: one market, one registration, one relationship this quarter.** Allocating 3 to 5 percent of business development time to international positioning now generates compounding advantage before competitors wake up to the same data.
 

@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -18,7 +18,7 @@ Top-quartile contractors earn 15-20% higher margins than the industry average. I
 
 ## Key Takeaways
 
-- **Operational Discipline Drives Profit.** Top-quartile construction firms achieve 15-20% higher profit margins by meticulously refining their operational processes, not just by chasing high-value projects.
+- **Operational Discipline Drives Profit.** Top-quartile construction firms achieve 15-20% higher [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) by meticulously refining their operational processes, not just by chasing high-value projects.
 
 - **Advanced Scheduling Boosts Efficiency.** Adopting methodologies like Pull Planning and the Last Planner System correlates directly with a 25% improvement in project schedule adherence and predictability.
 

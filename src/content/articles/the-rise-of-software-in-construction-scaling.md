@@ -1,12 +1,12 @@
 ---
-title: "The Rise of Software in Construction Scaling"
-description: "How construction software is reshaping which companies scale and which get left behind. The platforms, trends, and adoption curve that matter in 2026."
+title: "Construction Software: Scale Your Business by 2026"
+description: "Learn how to leverage the latest construction software trends to scale your construction business and stay competitive in the evolving market by 2026."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-rise-of-software-in-construction-scaling-1772746905.png"
 readTime: "11 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

@@ -1,12 +1,12 @@
 ---
-title: "Operational Growth: Scale to $50M GCs by 2026"
-description: "Unlock the operational strategies $50M+ general contractors use to scale. Learn about advanced scheduling, team structures, and risk management to hit your 2026 targets."
+title: "Operational Blueprint: $50M GCs by 2026 Secrets"
+description: "Discover the operational blueprint and secrets of $50M+ general contractors. Explore their unique systems, structures, and frameworks to understand their success by 2026."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/operational-secrets-behind-50m-general-contractors-1772746863.png"
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -62,7 +62,7 @@ This matrix typically assesses factors such as:
 
 - **Project Type & Complexity:** Does it align with our core competencies? Are there unusual risks (e.g., environmental, political)?
 
-- **Geographic Location:** Familiarity with local regulations, labor availability, and material supply chains.
+- **Geographic Location:** Familiarity with local regulations, labor availability, and [material supply](/article/iran-war-2026-52b-material-supply-shock/) chains.
 
 - **Contract Terms:** Are the terms onerous? What are the dispute resolution mechanisms?
 

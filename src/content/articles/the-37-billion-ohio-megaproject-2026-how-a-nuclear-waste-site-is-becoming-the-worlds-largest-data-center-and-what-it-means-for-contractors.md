@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2655714/scalinglegends/2026_0
 readTime: "20 min read"
 published: true
 season: 2
-updatedAt: "2026-03-26"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -51,7 +51,7 @@ Imagine the challenge of coordinating thousands of simultaneous tasks: heavy civ
 
 **For subcontractors eyeing opportunities, understanding the technological capabilities of the EPC leads is paramount.** Bechtel and Kiewit are at the forefront of adopting advanced construction techniques and digital tools. Subcontractors who can demonstrate proficiency with integrated project platforms, BIM (Building Information Modeling), and data analytics will be at a significant advantage. This project will set new benchmarks for how large-scale construction is executed, driven by a fusion of human expertise and cutting-edge AI [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) 2026, ensuring that every phase, from design to commissioning, is meticulously managed and optimized for performance.
 
-## From Nuclear Waste to Data Hub: The Brownfield Opportunity and Contractor Profit Margins 2026
+## From Nuclear Waste to Data Hub: The Brownfield Opportunity and [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 
 The selection of the former DOE uranium enrichment site in Piketon, Ohio, for this megaproject is a testament to a burgeoning trend: the strategic redevelopment of industrial brownfields. This site, operational since 1954, offers a unique set of advantages and challenges. Its history as a federal facility means it likely possesses robust existing power infrastructure and large, contiguous land parcels. Furthermore, the remediation efforts undertaken by the federal government provide a foundation for new development, albeit with the need for ongoing environmental vigilance and specialized construction practices.
 

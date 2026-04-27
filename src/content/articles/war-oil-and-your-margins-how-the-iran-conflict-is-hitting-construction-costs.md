@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619681/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-18"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -169,7 +169,7 @@ The current geopolitical landscape presents significant challenges for the const
 
 The Iran conflict, particularly the closure of the Strait of Hormuz, will primarily impact your budget through increased fuel costs (diesel, gasoline for vehicles), higher asphalt prices, and surging transportation expenses for all materials. Global shipping delays and increased freight surcharges will also drive up the cost of imported materials and equipment, potentially leading to project delays and unforeseen cost overruns.
 
-### What is a fuel escalation clause, and how can I implement one?
+### What is a [fuel escalation clause](/article/fuel-escalation-clause-2026-47b-impact-on-contractors/), and how can I implement one?
 
 A fuel escalation clause is a contractual provision that allows for the adjustment of project costs based on changes in fuel prices. You can implement one by linking your contract's fuel component to a publicly available index (e.g., EIA's weekly diesel retail price). This ensures that if fuel prices rise significantly, the client shares the burden, protecting your margins. It's crucial to negotiate this clause upfront in all new contracts and clearly communicate its mechanism to clients.
 

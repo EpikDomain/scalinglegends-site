@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "25 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -45,7 +46,7 @@ For construction business growth 2026 planning, this translates directly into pr
 
 The exposure list is specific. Water and wetland projects, coastal construction, industrial emitters, pipeline and transmission work, contaminated site fill operations, and any project in proximity to tribal nation lands carry the highest litigation risk profiles under the current deregulatory environment.
 
-## The Citizen Suit Paradox: Deregulation That Cuts Contractor Profit Margins
+## The Citizen Suit Paradox: Deregulation That Cuts [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/)
 
 Environmental NGOs have spent decades building litigation capacity. The Sierra Club, Natural Resources Defense Council, Waterkeeper Alliance, and dozens of state and regional environmental law organizations maintain standing litigation programs with experienced federal court practitioners. These organizations do not need the administrative process to file a claim. When public comment periods shorten and federal jurisdiction narrows, their next move is the courthouse.
 

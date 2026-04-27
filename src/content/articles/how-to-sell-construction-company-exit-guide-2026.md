@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-sell-construction-company-exit-guid
 readTime: "42 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -95,7 +96,7 @@ A strong, deep management team is your most valuable asset after your backlog. B
 
 Consider incentive plans (e.g., retention bonuses, phantom equity) for key personnel to ensure they are invested in the company's success and committed to staying after you exit. This mitigates a massive risk for buyers: key talent walking out the door after the deal closes.
 
-### Documenting Systems and Processes: Your Operational Blueprint
+### Documenting Systems and Processes: Your [Operational Blueprint](/article/operational-secrets-behind-50m-general-contractors/)
 
 Buyers are looking for a repeatable, scalable business model. This means documenting everything. Create Standard Operating Procedures (SOPs) for every critical function: estimating, project bidding, contract management, safety protocols, HR, equipment maintenance, and financial reporting. Implement a robust project management system. Ensure your CRM is up-to-date. Document your client acquisition and retention strategies.
 

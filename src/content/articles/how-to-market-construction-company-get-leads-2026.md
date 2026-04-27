@@ -1,12 +1,12 @@
 ---
-title: "Construction Marketing Trends: Top Predictions for 2026"
+title: "Construction Marketing Trends: What's Next in 2026?"
 description: "Explore the biggest construction marketing trends shaping 2026. Get insights on Google Business Profile, local SEO, and social media evolution."
 date: "2026-02-20"
 image: "https://scalinglegends.com/og/how-to-market-construction-company-get-leads-2026.jpg"
 readTime: "83 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -746,7 +746,7 @@ As you scale from $1M to $50M+, your marketing needs will evolve.
 
 - **Advanced Growth (e.g., $30M-$50M+):** You'll likely have a dedicated marketing team or agency, investing in brand building, thought leadership, and potentially national or regional expansion.
 
-Consider your profit margins, competitive landscape, and specific growth objectives when setting your budget. Don't view marketing as an expense, but as an investment with a measurable return.
+Consider your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/), competitive landscape, and specific growth objectives when setting your budget. Don't view marketing as an expense, but as an investment with a measurable return.
 
 ### Where to Allocate Your Budget
 

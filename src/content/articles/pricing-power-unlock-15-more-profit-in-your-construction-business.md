@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2751593/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -26,7 +27,7 @@ The average construction contractor in the current economic landscape is leaving
 
 - **Compliance Is a Margin Saver.** A single OSHA citation can cost between $15,625 and $156,259 per violation, effectively eroding the profit margin of a single residential unit; proactive compliance protects this bottom line.
 
-- **Bonding Power Reduces Costs.** Stronger surety bonds lower insurance premiums and allow access to larger government contracts under IIJA regulations, which typically offer higher profit margins than private sector work.
+- **Bonding Power Reduces Costs.** Stronger surety bonds lower insurance premiums and allow access to larger government contracts under IIJA regulations, which typically offer higher [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) than private sector work.
 
 - **Subcontractor Management Drives Profit.** Centralized labor cost tracking reduces variance in material and labor expenses by approximately 7%, stabilizing the cost of goods sold (COGS) against market volatility.
 

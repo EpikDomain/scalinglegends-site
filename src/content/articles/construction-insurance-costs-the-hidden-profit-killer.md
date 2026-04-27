@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -40,7 +40,7 @@ Workers' compensation costs remain the largest line item for most contractors, r
 
 The real problem isn't the premium itself—it's the cascading effect on [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). Premiums are typically paid monthly or annually, but claims hit unexpectedly, deductibles have ballooned to $10,000-$25,000, and coverage gaps from expired policies or inadequate limits can result in out-of-pocket exposures that bankrupt small contractors. Your insurance program is a [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) tool, not just a compliance requirement.
 
-## Types of Insurance Destroying Contractor Profit Margins
+## Types of Insurance Destroying [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/)
 
 General liability insurance remains the foundation of any contractor's risk management program, but it's also where costs have escalated most aggressively. Premiums now average $7,500-$15,000 annually for general contractors with moderate risk profiles, while specialty trades like roofing and concrete face $12,000-$25,000 yearly. The driving factors include increased litigation, wildfire and weather-related claims, and carriers exiting the [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) entirely—reducing competition and driving rates upward.
 

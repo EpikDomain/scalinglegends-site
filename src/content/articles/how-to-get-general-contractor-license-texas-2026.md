@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-texa
 readTime: "81 min read"
 published: true
 season: 2
-updatedAt: "2026-04-10"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -510,7 +510,7 @@ Even without state-mandated CE, a smart general contractor in Texas understands 
 
 - **Project Management & Business Skills:** Continuous improvement in estimating, scheduling, financial management, and client relations is key to growth.
 
-- **New Technologies & Materials:** The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) evolves rapidly. Learning about new building techniques, sustainable materials, and construction software can give you a competitive edge.
+- **New Technologies & Materials:** The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) evolves rapidly. Learning about new building techniques, sustainable materials, and [construction software](/article/the-rise-of-software-in-construction-scaling/) can give you a competitive edge.
 
 #### Resources for Continuing Education (Voluntary but Recommended):
 

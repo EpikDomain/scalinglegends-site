@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-californ
 readTime: "58 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -363,7 +364,7 @@ California is a land of opportunity, but it's not without its unique obstacles. 
 
 #### Cost of Doing Business
 
-- **Challenge:** High real estate, insurance, and tax burdens erode profit margins.
+- **Challenge:** High real estate, insurance, and tax burdens erode [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Solution:** Operate lean. Optimize your supply chain for material costs. Implement rigorous cost controls and financial management. Seek out tax credits or incentives where available.
 

@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2695081/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -24,7 +25,7 @@ A robust safety program is often overlooked during succession planning, yet it d
 
 - **Valuation Impact of Safety Records.** A safety incident or outstanding OSHA citation can reduce the final sale price of a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) by **10% to 20%**, significantly impacting the retiree's net proceeds and the buyer's leverage during negotiations.
 
-- **Insurance Premiums and EMR Ratings.** Your Experience Modification Rate (EMR) is a primary driver of operational overhead; lowering an EMR from **1.2 to 0.9** can save an average $2 million contractor over **$100,000 annually** in insurance costs, immediately boosting net profit margins.
+- **Insurance Premiums and EMR Ratings.** Your Experience Modification Rate (EMR) is a primary driver of operational overhead; lowering an EMR from **1.2 to 0.9** can save an average $2 million contractor over **$100,000 annually** in insurance costs, immediately boosting net [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Regulatory Due Diligence Requirements.** Buyers will request detailed compliance audits including EPA waste management logs, OSHA 300A logs, and prevailing wage documentation; gaps in these records during the transfer process can trigger deal rejections or escrow holds lasting up to **90 days**.
 

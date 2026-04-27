@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-use-ai-in-construction-practical-gu
 readTime: "107 min read"
 published: true
 season: 2
-updatedAt: "2026-04-09"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -108,7 +108,7 @@ Beyond raw quantities, AI takes estimating a step further with predictive cost a
 
 AI isn't just about calculating costs; it's about optimizing your bid strategy. By simulating various scenarios, AI can help contractors understand the probability of winning a bid at different price points and assess the associated risks.
 
-- **How it works:** AI can analyze factors like competitor bidding patterns, market conditions, project complexity, and your company's historical performance on similar projects. It can then provide insights into the optimal bid price that maximizes your chances of winning while maintaining desired profit margins. Furthermore, it can quantify risks associated with specific project elements, such as weather delays, material price volatility, or subcontractor reliability, allowing you to factor these into your contingency planning.
+- **How it works:** AI can analyze factors like competitor bidding patterns, market conditions, project complexity, and your company's historical performance on similar projects. It can then provide insights into the optimal bid price that maximizes your chances of winning while maintaining desired [profit margins](/article/contractor-profit-margins-drop-18-in-2026/). Furthermore, it can quantify risks associated with specific project elements, such as weather delays, material price volatility, or subcontractor reliability, allowing you to factor these into your contingency planning.
 
 **Benefits:**
 

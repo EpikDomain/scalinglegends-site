@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2636370/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -16,7 +17,7 @@ sponsors:
 
 [Construction Site Theft](/article/construction-site-theft-the-2-billion-problem-nobodys-solving/) Prevention 2026: Uncover Hidden Threats
 
-The biggest problems on your job site are the ones nobody is talking about. This episode reveals five specific questions that bypass surface-level responses and expose the real issues before they become costly problems. The silence on your job site isn't peace; it's a ticking time bomb, costing the industry over $1 billion annually in direct losses and countless more in hidden inefficiencies. For contractors scaling from $1M to $50M, these unspoken issues don't just erode profit margins; they threaten the very foundation of your growth.
+The biggest problems on your job site are the ones nobody is talking about. This episode reveals five specific questions that bypass surface-level responses and expose the real issues before they become costly problems. The silence on your job site isn't peace; it's a ticking time bomb, costing the industry over $1 billion annually in direct losses and countless more in hidden inefficiencies. For contractors scaling from $1M to $50M, these unspoken issues don't just erode [profit margins](/article/contractor-profit-margins-drop-18-in-2026/); they threaten the very foundation of your growth.
 
 ## Key Takeaways
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-florida-
 readTime: "63 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -445,7 +445,7 @@ They can be very high. Florida construction WC rates are among the highest in th
 
 ### What are the biggest challenges for new [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) Florida?
 
-Key challenges include navigating Florida's rigorous licensing process, high insurance costs (especially WC and property insurance), persistent labor shortages, material supply chain issues, variable local permitting processes, and intense competition. Building a strong network, focusing on safety and quality, and effective [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) are crucial for overcoming these hurdles.
+Key challenges include navigating Florida's rigorous licensing process, high insurance costs (especially WC and property insurance), persistent labor shortages, [material supply](/article/iran-war-2026-52b-material-supply-shock/) chain issues, variable local permitting processes, and intense competition. Building a strong network, focusing on safety and quality, and effective [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) are crucial for overcoming these hurdles.
 
 ### Do I pay sales tax on labor for construction services in Florida?
 

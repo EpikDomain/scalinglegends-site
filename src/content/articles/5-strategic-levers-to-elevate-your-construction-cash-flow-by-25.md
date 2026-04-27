@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -34,7 +35,7 @@ Over 40% of construction businesses generating between $1M and $10M in annual re
 
 - **Automate administrative workflows to reduce overhead labor costs by 10-15%.** Field scheduling, invoice generation, and job costing reports should not require manual entry in 2026.
 
-- **Price using live market data to target 18-22% gross profit margins.** Contractors pricing from memory or historical data consistently underestimate material escalation and subcontractor markups in inflationary cycles.
+- **Price using live market data to target 18-22% gross [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).** Contractors pricing from memory or historical data consistently underestimate material escalation and subcontractor markups in inflationary cycles.
 
 ## Lever 1: Compress Your Invoice Cycle for Sharper [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)
 

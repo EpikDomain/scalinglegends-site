@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-organize-construction-documents-pro
 readTime: "44 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -571,7 +571,7 @@ For critical project data in a DDMS, backups are typically handled by the softwa
 
 ### Can I use free tools like Google Drive for construction document management?
 
-While Google Drive (or similar services like Dropbox or OneDrive) can provide basic cloud storage and sharing, they lack the industry-specific features essential for robust [construction document management](https://scalinglegends.com). You'll miss out on purpose-built RFI/submittal workflows, advanced version control for drawings, specific field reporting tools, and deep integrations with other construction software. They can work for very small, simple projects, but quickly become inadequate for complex construction.
+While Google Drive (or similar services like Dropbox or OneDrive) can provide basic cloud storage and sharing, they lack the industry-specific features essential for robust [construction document management](https://scalinglegends.com). You'll miss out on purpose-built RFI/submittal workflows, advanced version control for drawings, specific field reporting tools, and deep integrations with other [construction software](/article/the-rise-of-software-in-construction-scaling/). They can work for very small, simple projects, but quickly become inadequate for complex construction.
 
 ### What's the difference between a DDMS and a standard cloud storage service?
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671116/scalinglegends/2026_0
 readTime: "59 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -592,7 +592,7 @@ First, review your contract for late payment clauses and penalties. Second, init
 
 ### Is factoring accounts receivable a good idea for construction cash flow management?
 
-Factoring (selling your invoices to a third party at a discount for immediate cash) can be a useful tool in specific, short-term situations to bridge a critical cash flow gap. However, it's generally an expensive form of financing. The fees can eat into your profit margins, and it can signal financial distress to clients and lenders. It should be considered a last resort or a temporary solution, not a long-term strategy for how to manage construction cash flow. Focus on optimizing your internal processes first.
+Factoring (selling your invoices to a third party at a discount for immediate cash) can be a useful tool in specific, short-term situations to bridge a critical cash flow gap. However, it's generally an expensive form of financing. The fees can eat into your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/), and it can signal financial distress to clients and lenders. It should be considered a last resort or a temporary solution, not a long-term strategy for how to manage construction cash flow. Focus on optimizing your internal processes first.
 
 ### What's the difference between profit and cash flow?
 

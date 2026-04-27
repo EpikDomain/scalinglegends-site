@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2763626/scalinglegends/2026_0
 readTime: "53 min read"
 published: true
 season: 2
-updatedAt: "2026-04-17"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -69,7 +69,7 @@ Learning how to estimate a construction job requires a systematic approach. This
 
 - **Estimate Labor Costs.** This is often the most challenging component to estimate accurately due to varying productivity rates. For each task identified in your takeoff (e.g., installing a square foot of drywall, pouring a cubic yard of concrete), you need to estimate the labor hours required. Multiply these hours by your crew's average hourly rate, including all burden costs such as payroll taxes, workers' compensation, health insurance, and benefits. Understanding how to estimate construction labor cost is critical for profitability.
 
-- **Determine Equipment Costs.** Identify all equipment necessary for the project, from large machinery like excavators and cranes to smaller tools like power saws and drills. Calculate the cost based on rental rates (daily, weekly, monthly) or your owned equipment's operating costs (fuel, maintenance, depreciation). Factor in mobilization and demobilization costs for large equipment. Neglecting equipment costs can significantly erode your profit margins.
+- **Determine Equipment Costs.** Identify all equipment necessary for the project, from large machinery like excavators and cranes to smaller tools like power saws and drills. Calculate the cost based on rental rates (daily, weekly, monthly) or your owned equipment's operating costs (fuel, maintenance, depreciation). Factor in mobilization and demobilization costs for large equipment. Neglecting equipment costs can significantly erode your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Solicit Subcontractor and Supplier Quotes.** For specialized trades (e.g., electrical, plumbing, HVAC, roofing), it's standard practice to solicit bids from qualified subcontractors. Provide them with the same set of plans and specifications you are working from to ensure an apples-to-apples comparison. Also, get firm quotes from major suppliers for bulk materials. Always aim for at least three competitive quotes for each major scope of work to ensure you're getting the best value and to understand current market pricing.
 

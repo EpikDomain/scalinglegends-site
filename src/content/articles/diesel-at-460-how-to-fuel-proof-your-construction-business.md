@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616405/scalinglegends/2026_0
 readTime: "11 min read"
 published: true
 season: 2
-updatedAt: "2026-03-23"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -23,7 +23,7 @@ sponsors:
 
 As of March 2026, diesel prices have hit $4.60 per gallon nationally, up from $3.85 in January 2026. Construction companies typically spend 5-8% of total project costs on fuel. For a mid-size contractor running 10 pieces of heavy equipment, that translates to $15,000-$25,000 per month in fuel costs alone. Oil breaking $103 per barrel is the primary driver, with geopolitical tensions keeping prices elevated.
 
-### What is a fuel escalation clause in [a construction contract](/article/how-to-write-construction-contract-guide-2026/)?
+### What is a [fuel escalation clause](/article/fuel-escalation-clause-2026-47b-impact-on-contractors/) in [a construction contract](/article/how-to-write-construction-contract-guide-2026/)?
 
 A fuel escalation clause is a contract provision that allows the contractor to adjust their bid price if fuel costs rise above a specified threshold during the project. Typically triggered when diesel prices increase 10-15% above the price at bid time. The clause should reference the DOE weekly diesel price index and specify automatic price adjustments per gallon above the baseline. In 2026, this clause is critical for any project lasting more than 90 days.
 
@@ -55,7 +55,7 @@ Diesel just hit $4.60 and it's not stopping. Here's how to stop the bleeding. Oi
 
 ## Protecting Your Margins: How to [Scale a Construction](/article/how-to-scale-construction-company-complete-2026-guide/) Business Amidst Fuel Spikes
 
-The volatility of fuel prices poses a direct threat to the profitability of any construction business, especially those aiming to [scale a construction business](/article/how-to-scale-a-construction-business-without-losing-control/) effectively. With diesel hitting $4.60 a gallon and oil breaking $103 a barrel, the impact on equipment operating costs—already up 5.6% year-over-year—is immediate and substantial. For a contractor running a fleet of heavy machinery, a 50-cent increase per gallon can translate into thousands of dollars in unbudgeted expenses on a single large project, directly eroding your profit margins. This isn't just an inconvenience; it's an existential threat to your growth trajectory if not managed proactively.
+The volatility of fuel prices poses a direct threat to the profitability of any construction business, especially those aiming to [scale a construction business](/article/how-to-scale-a-construction-business-without-losing-control/) effectively. With diesel hitting $4.60 a gallon and oil breaking $103 a barrel, the impact on equipment operating costs—already up 5.6% year-over-year—is immediate and substantial. For a contractor running a fleet of heavy machinery, a 50-cent increase per gallon can translate into thousands of dollars in unbudgeted expenses on a single large project, directly eroding your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/). This isn't just an inconvenience; it's an existential threat to your growth trajectory if not managed proactively.
 
 The most critical first line of defense is the implementation of robust fuel escalation clauses in all your contracts. Many contractors, especially those in the $1M-$50M revenue bracket, often overlook this crucial detail, assuming fixed-price contracts are sufficient. However, for projects extending beyond 30-60 days, a sudden spike in fuel prices can turn a profitable venture into a loss. **A well-drafted fuel escalation clause allows you to adjust the contract price based on a pre-defined index or benchmark for fuel costs, protecting your bid against unforeseen market shifts.** For example, you might stipulate that if the average regional diesel price (as reported by the EIA or a similar reliable source) increases by more than 10% from the bid date, a corresponding adjustment will be made to the project cost. This transparency protects both you and your client from unexpected swings.
 

@@ -1,13 +1,13 @@
 ---
-title: "Construction Schedule 2026: Master On-Time Delivery"
-description: "Learn how GCs can master construction scheduling for 2026. Discover key strategies to ensure projects are delivered on time and within budget using modern techniques."
+title: "Construction 2026: Future of Project Schedules"
+description: "Explore the evolving landscape of construction scheduling for 2026. Understand critical shifts in CPM and pull planning affecting GCs and project delivery."
 date: "2026-02-25"
 image: "https://scalinglegends.com/og/how-to-create-construction-schedule-guide-2026.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2649210/scalinglegends/2026_03_22_14_16_26_1f1868d6-da53-45a5-babc-e040d86ad14e.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2758841/scalinglegends/2026_04_22_21_34_07_56e53fa2-fe52-4a0d-ae79-4938649fbf66.mp3"
 readTime: "61 min read"
 published: true
 season: 2
-updatedAt: "2026-04-23"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -139,7 +139,7 @@ Think of your project schedule like a map. You need a high-level view to underst
 
 #### Detailed Schedule:
 
-**Purpose:** The operational blueprint for your project team. It breaks down each milestone into specific activities, tasks, and subtasks required for execution.
+**Purpose:** The [operational blueprint](/article/operational-secrets-behind-50m-general-contractors/) for your project team. It breaks down each milestone into specific activities, tasks, and subtasks required for execution.
 
 **Content:** Includes every significant activity, its estimated duration, assigned resources, dependencies, and float. This is where CPM logic is fully applied.
 

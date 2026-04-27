@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -69,7 +69,7 @@ Scaling your business into this sector requires more than just bidding skills; i
 
 ## Insurance Costs, Safety Compliance, and the Road Ahead
 
-The financial reality of the current market is being compounded by rising insurance costs. Loss ratios are already hitting 112 percent, meaning insurers are paying out more than they are collecting in premiums. General Liability (GL) rates are up 15-20 percent, and Workers' Compensation (WC) premiums are surging by 18 percent. This trend is not slowing down in the first half of 2026. For contractors, this represents a direct hit to net profit margins. A project that was previously 5 percent net profitable could suddenly become 5 percent net loss just due to the insurance premium hike.
+The financial reality of the current market is being compounded by rising insurance costs. Loss ratios are already hitting 112 percent, meaning insurers are paying out more than they are collecting in premiums. General Liability (GL) rates are up 15-20 percent, and Workers' Compensation (WC) premiums are surging by 18 percent. This trend is not slowing down in the first half of 2026. For contractors, this represents a direct hit to net [profit margins](/article/contractor-profit-margins-drop-18-in-2026/). A project that was previously 5 percent net profitable could suddenly become 5 percent net loss just due to the insurance premium hike.
 
 This financial pressure makes safety compliance not just a legal requirement, but a financial survival tactic. Work Zone Awareness Week is currently live, and the National Work Zone Safety Awareness Week is a critical reminder of the physical risks on site. The OSHA Alliance Roundtable is scheduled for April 6, which will focus heavily on Safe Digging Month tips. This is a proactive step that contractors should take to mitigate risk.
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-grow-plumbing-business-500k-to-5m-2
 readTime: "33 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -68,7 +68,7 @@ Your people are your greatest asset and often your biggest bottleneck. The talen
 
 Transparency and profitability are key. Most successful scaling plumbing businesses transition to a flat-rate pricing model for residential service and repair work.
 
-- **Flat Rate:** Customers know the total cost upfront, eliminating surprises and building trust. It allows technicians to focus on the repair, not the clock. It also ensures consistent profitability per job, regardless of technician speed. This requires a robust price book that accounts for labor, parts, overhead, and desired profit margins.
+- **Flat Rate:** Customers know the total cost upfront, eliminating surprises and building trust. It allows technicians to focus on the repair, not the clock. It also ensures consistent profitability per job, regardless of technician speed. This requires a robust price book that accounts for labor, parts, overhead, and desired [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Time & Materials (T&M):** Often used for larger, more unpredictable commercial projects or new construction where the scope isn't fully defined. Here, you charge for actual hours worked plus the cost of materials. While transparent, it can lead to customer anxiety over escalating costs if not managed carefully with clear estimates and regular updates.
 

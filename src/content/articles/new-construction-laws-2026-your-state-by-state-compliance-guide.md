@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616357/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-27"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -51,7 +51,7 @@ New laws just changed the rules. Some are already active. The fines are real. Ca
 
 - **OSHA's Targeted Approach.** A nationwide shift to data-driven, targeted inspections will focus on high-hazard sites and specific violation trends, projected to increase serious violation citations by 25% and average penalties by 18% in 2026.
 
-- **Proactive Compliance is Non-Negotiable.** Implementing a robust digital compliance framework, including updated estimating and project management software, is essential to protect *contractor profit margins 2026* and ensure sustainable *[construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026*.
+- **Proactive Compliance is Non-Negotiable.** Implementing a robust digital compliance framework, including updated estimating and project management software, is essential to protect *[contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026* and ensure sustainable *[construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026*.
 
 - **Leverage Technology for Foresight.** Utilize tools like [Smart Business Automator](https://smartbusinessautomator.com) to stay ahead of legislative changes, integrate compliance costs into bids, and optimize *[construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)* against regulatory burdens.
 

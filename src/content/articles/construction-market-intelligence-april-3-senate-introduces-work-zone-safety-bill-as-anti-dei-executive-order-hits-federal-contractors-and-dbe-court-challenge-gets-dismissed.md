@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2685827/scalinglegends/2026_0
 readTime: "23 min read"
 published: true
 season: 2
-updatedAt: "2026-04-10"
+updatedAt: "2026-04-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -39,7 +39,7 @@ For contractors, this means a likely increase in OSHA scrutiny and the potential
 
 Furthermore, the bill's emphasis on data collection means that contractors will need to be meticulous in their record-keeping regarding safety incidents, training, and mitigation efforts. This data can be a double-edged sword: it provides valuable insights for improving safety, but it also creates a clear audit trail for regulatory bodies. The ability to demonstrate a consistent, data-backed commitment to safety will become a key differentiator in securing bids, especially for public works projects funded by the IIJA. Firms that can showcase superior safety performance, backed by verifiable data, may see reduced bonding requirements and more favorable insurance rates, directly impacting their overall [contractor profit margins 2026](/article/contractor-profit-margins-2026/).
 
-## Navigating New Anti-DEI Obligations for Federal Contractors and Contractor Profit Margins 2026
+## Navigating New Anti-DEI Obligations for Federal Contractors and [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 
 A recent executive order, signed on March 26, is poised to reshape the compliance landscape for [every federal contractor](/article/anti-dei-executive-order-for-contractors-2026-6-new-obligations-an-april-25-deadline-and-what-every-federal-contractor-must-do-in-the-next-15-days/) and subcontractor, regardless of tier. This order mandates six new obligations specifically targeting Diversity, Equity, and Inclusion (DEI) initiatives based on race and ethnicity. The clock is ticking, with a critical deadline of April 25 for initial compliance – just 30 days from its signing. The implications for non-compliance are severe, ranging from debarment from federal contracts to potential False Claims Act violations, which carry substantial financial penalties and reputational damage. It is crucial to understand that this order applies broadly; if you hold any federal contract or are a sub at any level, these new rules apply to your operations.
 

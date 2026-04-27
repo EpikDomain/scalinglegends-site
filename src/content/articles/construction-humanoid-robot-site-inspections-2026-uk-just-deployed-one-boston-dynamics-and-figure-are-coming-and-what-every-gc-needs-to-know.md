@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -72,7 +73,7 @@ Seven platforms are now competing for the construction robotics market. Understa
 
 Other platforms in the competitive field include UBTech Walker X, Apptronik Apollo (which counts NASA among its development partners), and Sanctuary AI, which is focused on general-purpose manipulation tasks that apply directly to assembly work. The competitive picture is not one winner. It is a fragmented market with different cost structures, capability profiles, and deployment timelines. GCs should evaluate based on the specific tasks they want to automate first, not on brand recognition.
 
-## Contractor Profit Margins 2026: The ROI Math Behind Humanoid Robots and [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)
+## [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: The ROI Math Behind Humanoid Robots and [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)
 
 The business case for humanoid robots in construction is not theoretical. The numbers from the UK deployment are already public, and they close at current hardware and labor costs.
 

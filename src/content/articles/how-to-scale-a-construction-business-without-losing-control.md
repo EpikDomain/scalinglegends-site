@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-business-witho
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -34,7 +34,7 @@ Every contractor wants to grow. Most don't realize that the thing killing their 
 
 ## The Systems Imperative for Scaling a Construction Business
 
-The journey from $1 million to $10 million or even $50 million in annual revenue is less about finding more work and more about building the infrastructure to handle it. Many contractors experience what we call "chaotic growth" – more revenue, but also more problems, more stress, and often, lower profit margins. This phenomenon is precisely what happens when revenue growth outpaces systems growth. Without robust systems, a larger company simply magnifies existing inefficiencies and makes them unmanageable.
+The journey from $1 million to $10 million or even $50 million in annual revenue is less about finding more work and more about building the infrastructure to handle it. Many contractors experience what we call "chaotic growth" – more revenue, but also more problems, more stress, and often, lower [profit margins](/article/contractor-profit-margins-drop-18-in-2026/). This phenomenon is precisely what happens when revenue growth outpaces systems growth. Without robust systems, a larger company simply magnifies existing inefficiencies and makes them unmanageable.
 
 Consider a construction business operating at $2 million annually. The owner can often personally oversee most projects, manage finances, and directly supervise a small team. Relationships are direct, and communication is informal. However, push that same operational model to $5 million or $10 million, and it collapses under its own weight. Project delays become rampant, [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) becomes unpredictable, and quality control suffers. Smart Business Automator data indicates that up to 70% of construction businesses attempting to scale past $5 million either stall or fail due to a fundamental lack of operational maturity and scalable systems.
 

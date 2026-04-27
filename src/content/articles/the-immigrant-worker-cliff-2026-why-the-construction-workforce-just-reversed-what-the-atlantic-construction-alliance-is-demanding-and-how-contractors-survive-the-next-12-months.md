@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "23 min read"
 published: true
 season: 2
-updatedAt: "2026-04-23"
+updatedAt: "2026-04-27"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -44,7 +44,7 @@ For contractors trying to sustain [scaling construction business](/article/how-t
 
 The Israel parallel is instructive. The Israeli [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) pressed its government this week for a complete overhaul of foreign worker law, with labor shortages approaching 40 percent of total demand in the residential sector. Allied economies facing the same pressures simultaneously means [the global construction](/article/the-global-construction-growth-wave-2026-canada-430b-indonesia-226b-uks-170-five-year-surge-and-where-us-contractors-should-position-for-the-next-decade/) labor market is tightening from multiple directions — and relief, when it comes, will be rationed.
 
-## The Atlantic Construction Alliance and What Sector-Specific Reform Actually Means for Contractor Profit Margins 2026
+## The Atlantic Construction Alliance and What Sector-Specific Reform Actually Means for [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 
 The Atlantic Construction Alliance announced its formation on April 20, 2026, with an explicit mandate: lobby for sector-specific immigration reform targeting the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/). This is meaningfully different from broad immigration advocacy. The Alliance is pushing for a federal pilot program that would create a dedicated construction worker visa pathway with faster processing, employer sponsorship pathways tied to apprenticeship completion, and prevailing wage compliance as a condition of participation.
 

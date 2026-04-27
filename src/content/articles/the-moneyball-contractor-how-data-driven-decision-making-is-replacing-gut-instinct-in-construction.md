@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2630895/scalinglegends/2026_0
 readTime: "7 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -47,7 +47,7 @@ The insights gleaned from data can also provide invaluable [construction market 
 
 Effective `construction cash flow management` is the lifeblood of any growing contracting business, and data is the key to mastering it. Many contractors focus solely on top-line revenue, but true success lies in understanding and optimizing profitability at every level. One of the most overlooked yet powerful metrics is **revenue per employee hour**. This isn't just about how much an employee earns for the company; it's about their efficiency and the value they generate in a given timeframe. Tracking this metric across your team reveals who consistently produces high value versus who might be costing more than they contribute, allowing for targeted training or strategic redeployment.
 
-Another critical metric is **revenue per field employee per day**. This provides an immediate, tangible measure of productivity on the job site. If one crew consistently generates $1,200 per field employee per day while another averages $800 on similar projects, you have an actionable insight. This gap isn't necessarily about effort; it could be about leadership, tooling, or workflow inefficiencies that data helps expose. Addressing these discrepancies directly improves your [construction project management](/article/construction-project-management-surviving-the-messy-middle/) and significantly impacts your `contractor profit margins 2026`.
+Another critical metric is **revenue per field employee per day**. This provides an immediate, tangible measure of productivity on the job site. If one crew consistently generates $1,200 per field employee per day while another averages $800 on similar projects, you have an actionable insight. This gap isn't necessarily about effort; it could be about leadership, tooling, or workflow inefficiencies that data helps expose. Addressing these discrepancies directly improves your [construction project management](/article/construction-project-management-surviving-the-messy-middle/) and significantly impacts your `[contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026`.
 
 Consider the often-cited Pareto Principle: 20% of project types generate 80% of your profit. Without data, most contractors struggle to identify which 20% these are. They might pursue every opportunity that comes their way, inadvertently taking on low-margin projects that drain resources and time, ultimately hindering their growth. By tracking profitability by project type, size, and client, you can strategically focus your efforts on the most lucrative segments. This targeted approach not only boosts your bottom line but also allows you to build specialized expertise, further enhancing your competitive advantage.
 

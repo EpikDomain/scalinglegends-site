@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2604819/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -65,7 +65,7 @@ To navigate the complexities of March 2026, a clear, data-driven perspective is 
 
 - **Prefabrication/Modular Construction:** Gaining traction, with **35% of contractors incorporating offsite construction methods** into at least 10% of their projects, driven by labor efficiency and quality control.
 
-- **Profit Margins:** While revenue is up, maintaining healthy profit margins is a constant battle. Average net profit margins for general contractors hovered around **4.5-5.5% in 2025**, slightly down from 2024 (5.0-6.0%) due to rising labor and material costs. Subcontractors faced similar pressures, with margins averaging **6.0-7.5%**. Efficient cost management, accurate bidding, and proactive risk mitigation are crucial.
+- **[Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/):** While revenue is up, maintaining healthy profit margins is a constant battle. Average net profit margins for general contractors hovered around **4.5-5.5% in 2025**, slightly down from 2024 (5.0-6.0%) due to rising labor and material costs. Subcontractors faced similar pressures, with margins averaging **6.0-7.5%**. Efficient cost management, accurate bidding, and proactive risk mitigation are crucial.
 
 This data paints a picture of an industry in flux – strong demand counterbalanced by persistent operational challenges. The firms that proactively analyze these trends and integrate them into their strategic planning are the ones poised for sustained profitability and market leadership. Ignoring these numbers is akin to building without a blueprint.
 

@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "7 min read"
 published: true
 season: 2
-updatedAt: "2026-04-23"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -24,7 +24,7 @@ sponsors:
 
 - **Estimating is Revolutionized.** AI-powered estimating reduces bid prep time by 60-75% for mid-size contractors, directly impacting win rates and operational efficiency.
 
-- **Site Automation Delivers.** Autonomous drone site inspections save 200+ field hours annually for GCs over $10M, while computer vision detects real-time PPE violations, enhancing safety.
+- **Site Automation Delivers.** Autonomous drone site [inspections save](/article/drone-inspections-save-47k-per-project-in-2026/) 200+ field hours annually for GCs over $10M, while computer vision detects real-time PPE violations, enhancing safety.
 
 - **Predictive Power Prevents Delays.** AI-driven scheduling reduces project delays by an average of 15-20%, improving on-time delivery and client satisfaction.
 

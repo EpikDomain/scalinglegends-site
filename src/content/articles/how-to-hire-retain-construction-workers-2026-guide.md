@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-20
 readTime: "70 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -42,7 +42,7 @@ The Associated General Contractors of America (AGC) has consistently highlighted
 
 This isn't just a challenge for your HR department; it's a direct threat to your bottom line and your ability to scale. The [construction labor shortage solutions](#) you implement (or fail to implement) will directly impact:
 
-- **Project Delays and Cost Overruns:** Insufficient staffing leads to stretched schedules, increased overtime, and missed deadlines, all of which erode profit margins and damage client relationships.
+- **Project Delays and Cost Overruns:** Insufficient staffing leads to stretched schedules, increased overtime, and missed deadlines, all of which erode [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) and damage client relationships.
 
 - **Decreased Quality and Safety:** When teams are understaffed and overworked, quality can suffer, and the risk of accidents increases. A poor safety record not only incurs direct costs (insurance, lost time) but also makes it harder to attract and [retain construction employees](#).
 

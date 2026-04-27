@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete
 readTime: "41 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -48,7 +48,7 @@ Crossing the $3 million mark often means the owner can no longer be involved in 
 
 ### $5 Million to $10 Million: Professionalizing Operations
 
-Reaching $5 million signifies a transition to a more professionalized business. Here, the focus shifts to robust systems, formalized departmental structures, and strategic planning. You'll likely need dedicated roles for estimating, marketing, and HR. Investment in advanced software for project management and enterprise resource planning (ERP) becomes critical. Expanding your bonding capacity and managing larger, more complex projects are hallmarks of this stage. Companies at this size often see net profit margins stabilize between 5-8% if they manage overhead effectively.
+Reaching $5 million signifies a transition to a more professionalized business. Here, the focus shifts to robust systems, formalized departmental structures, and strategic planning. You'll likely need dedicated roles for estimating, marketing, and HR. Investment in advanced software for project management and enterprise resource planning (ERP) becomes critical. Expanding your bonding capacity and managing larger, more complex projects are hallmarks of this stage. Companies at this size often see net [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) stabilize between 5-8% if they manage overhead effectively.
 
 ### $10 Million to $50 Million: Enterprise Expansion
 

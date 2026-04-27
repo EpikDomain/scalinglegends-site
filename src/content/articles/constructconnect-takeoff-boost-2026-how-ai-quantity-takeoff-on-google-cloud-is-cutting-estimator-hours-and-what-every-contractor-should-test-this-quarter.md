@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "25 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -93,7 +94,7 @@ The race is accelerating. [Smart Business Automator](https://smartbusinessautoma
 
 For [women in construction](/article/women-in-construction-breaking-barriers-2026/) building estimating careers and for a [woman owned construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/) competing on commercial bids, AI takeoff tools also flatten a historically steep skill curve. The mechanical counting component that once required years of plan-reading experience to perform quickly is now handled by software -- which means new estimators can onboard faster and experienced estimators can operate at higher strategic value from day one.
 
-## The ROI Math: Contractor Profit Margins 2026 and the Payback Period on AI Estimating Seats
+## The ROI Math: [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 and the Payback Period on AI Estimating Seats
 
 The business case for AI estimating software does not depend on optimistic assumptions. It depends on one set of numbers every contractor already has: estimator fully-loaded cost, hours spent on takeoff, and current bid volume.
 
@@ -125,7 +126,7 @@ Faster takeoff also compresses the bid cycle. Firms using AI tools can respond t
 
 ## Data Security, Google Cloud Compliance, and Federal Work Restrictions
 
-Data security is the most common objection to cloud-based construction software -- and on federal, publicly-funded, and high-security commercial projects, that objection is not theoretical. Plan sets for government facilities, critical infrastructure, and confidential tenant improvements represent intellectual property and sometimes operational security information that contractors are contractually obligated to protect.
+Data security is the most common objection to cloud-based [construction software](/article/the-rise-of-software-in-construction-scaling/) -- and on federal, publicly-funded, and high-security commercial projects, that objection is not theoretical. Plan sets for government facilities, critical infrastructure, and confidential tenant improvements represent intellectual property and sometimes operational security information that contractors are contractually obligated to protect.
 
 ConstructConnect addresses this through the Google Cloud infrastructure. Google Cloud Vertex AI holds both SOC 2 Type II certification and ISO 27001 certification. SOC 2 Type II provides ongoing third-party verification that security, availability, and confidentiality controls are operating as designed -- not just designed to operate as claimed. ISO 27001 is the internationally recognized information security management standard required by some multinational owners and public-sector clients. Together, these certifications satisfy the data handling requirements of most private commercial GC contracts and subcontract templates.
 

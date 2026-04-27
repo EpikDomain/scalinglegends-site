@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2605930/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -119,7 +119,7 @@ The ROI for AI estimating is overwhelming. For an estimator earning $85K annuall
 
 ### How do construction companies integrate AI estimating software?
 
-Integrating AI estimating software is designed to be seamless with existing workflows. Most leading AI tools connect via API with popular construction software such as ProEst, STACK, PlanSwift, Bluebeam, and various ERP systems. This minimizes disruption, allowing contractors to leverage AI's power without overhauling their current tech stack, making adoption practical and efficient.
+Integrating AI estimating software is designed to be seamless with existing workflows. Most leading AI tools connect via API with popular [construction software](/article/the-rise-of-software-in-construction-scaling/) such as ProEst, STACK, PlanSwift, Bluebeam, and various ERP systems. This minimizes disruption, allowing contractors to leverage AI's power without overhauling their current tech stack, making adoption practical and efficient.
 
 ### What are the first steps to implement AI estimating in a construction business?
 

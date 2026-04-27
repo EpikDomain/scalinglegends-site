@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2660888/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -64,7 +65,7 @@ Modern estimating solutions integrate with BIM models, allowing for automated qu
 
 - **Real-time Pricing Updates:** Integrate with supplier databases to ensure material costs are current, mitigating the risk of under-bidding due to volatile market prices.
 
-- **What-If Scenarios:** Quickly model the impact of different material choices, labor rates, or subcontractor bids on the overall project cost and profit margins.
+- **What-If Scenarios:** Quickly model the impact of different material choices, labor rates, or subcontractor bids on the overall project cost and [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Historical Data Integration:** Learn from past projects, refining future estimates with actual cost data, thereby improving bid accuracy by as much as 15-20%.
 

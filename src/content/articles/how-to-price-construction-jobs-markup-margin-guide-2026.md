@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-price-construction-jobs-markup-marg
 readTime: "66 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -415,7 +415,7 @@ The allure of winning more work, especially from a repeat client, can lead contr
 
 ### The Dangers of Cutting Too Deep:
 
-- **Erosion of Profit Margins:** Every percentage point off your margin directly impacts your bottom line. A 2% discount might seem small, but if your net profit margin is 8%, that's a 25% reduction in your profit!
+- **Erosion of [Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/):** Every percentage point off your margin directly impacts your bottom line. A 2% discount might seem small, but if your net profit margin is 8%, that's a 25% reduction in your profit!
 
 - **Setting a Bad Precedent:** Once you've established a lower price point, it's incredibly difficult to raise it for future work with that client. They'll always expect the "deal."
 

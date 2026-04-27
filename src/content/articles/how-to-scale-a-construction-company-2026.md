@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-a-construction-company-2026.j
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-04-04"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -108,7 +108,7 @@ The SBA (Small Business Administration) also offers various loan programs design
 
 Technology is no longer a luxury but a necessity for competitive advantage and efficient scaling in the construction industry.
 
-### Adopting Advanced Construction Software (BIM, ERP, PM)
+### Adopting Advanced [Construction Software](/article/the-rise-of-software-in-construction-scaling/) (BIM, ERP, PM)
 
 The digital transformation of construction is accelerating. Building Information Modeling (BIM) is becoming standard for complex projects, enabling better collaboration, clash detection, and lifecycle management. An integrated Enterprise Resource Planning (ERP) system can unify your accounting, project management, human resources, and supply chain functions into a single platform, providing a holistic view of your operations. Project Management (PM) software, as mentioned earlier, is vital for execution.
 

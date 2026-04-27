@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2655716/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-04-10"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -49,7 +49,7 @@ Beyond contract language, maintaining substantial operating cash reserves is par
 
 Furthermore, understanding your rights under a Termination for Convenience (T4C) clause is non-negotiable. Government contracts frequently include T4C, allowing the government to terminate a contract without cause. While this clause grants the government flexibility, it also provides contractors with specific recovery rights. These rights typically include reimbursement for work performed, demobilization costs, and reasonable profit on work completed. Knowing precisely what costs are recoverable—from subcontractor termination fees to material procurement and extended general conditions—is vital for mitigating losses. Contractors must meticulously track all expenses from day one, ensuring they have the documentation to support a comprehensive T4C claim. This proactive approach to financial and contractual literacy is essential for any firm seeking sustainable [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) in a politically charged environment.
 
-## Diversification and Documentation: Essential Strategies for Contractor Profit Margins 2026
+## Diversification and Documentation: Essential Strategies for [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 
 The recent federal funding freezes underscore a critical lesson for contractors: **diversification is not merely an option, but a necessity for long-term viability and robust contractor profit margins 2026.** If government contracts constitute 60% or more of your revenue, your business is inherently exposed to political whims and budgetary stalemates. The sudden demobilization of the Walsh-VINCI team and the Gateway Tunnel's cash crunch are stark warnings. Prudent contractors should actively seek to balance their portfolio with private sector work, state and local projects, or even different federal agencies, reducing dependency on a single funding source. This strategic shift can buffer your business against the volatility of large-scale federal infrastructure spending.
 

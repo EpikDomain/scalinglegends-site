@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2758456/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -68,7 +69,7 @@ On the estimating side, federal work requires certified cost or pricing data on 
 
 NAICS alignment matters more than most contractors realize. If your primary NAICS code does not match the task order requirement, the prime cannot count your scope in their small business utilization plan. Get your NAICS codes right before you start reaching out to primes. The codes most relevant to this IDIQ include 236220, 238210 (electrical contractors), 238220 (plumbing, heating, and air conditioning), and 541330 (engineering services for controls and SCADA work).
 
-## Security Clearances, Set-Asides, and Teaming Strategy for Contractor Profit Margins 2026
+## Security Clearances, Set-Asides, and Teaming Strategy for [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 
 Security clearances are the longest lead item in federal market entry, longer than equipment procurement, longer than prequalification, and longer than teaming negotiations. Facility clearances, which cover your company and physical location, run 6 to 12 months to obtain. Individual personnel clearances for key project staff run 4 to 8 months each. Work on military installations with sensitive infrastructure components will require at minimum a facility clearance and clearances for supervisors, project managers, and foremen who will have unsupervised access to certain site areas.
 

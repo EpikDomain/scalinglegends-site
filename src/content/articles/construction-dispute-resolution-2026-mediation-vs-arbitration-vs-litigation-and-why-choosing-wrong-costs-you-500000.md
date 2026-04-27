@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2669022/scalinglegends/2026_0
 readTime: "20 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -44,7 +45,7 @@ Mediation stands out as the most efficient and cost-effective method for resolvi
 
 One of mediation's greatest strengths is its ability to preserve business relationships. Unlike adversarial litigation, mediation encourages cooperation and compromise, allowing parties to continue working together if desired. This is particularly crucial in construction, where long-term relationships with subcontractors, suppliers, and clients are vital for sustained success. The process is confidential, meaning sensitive project details, proprietary information, and dispute specifics are not made public, protecting both reputation and competitive advantage. The flexibility of mediation allows for creative, tailored solutions that a court might not be able to order, addressing the underlying commercial interests of both parties.
 
-The industry recognizes mediation's value; the American Institute of Architects (AIA) A201 General Conditions of the Contract for Construction explicitly states that mediation is the standard first step for dispute resolution. This contractual precedence provides a clear framework, guiding parties toward a collaborative solution before resorting to more contentious methods. For contractors managing multiple projects, the ability to quickly resolve issues through mediation frees up project managers, superintendents, and executive time, allowing them to focus on active work rather than legal battles. **Implementing a contractual requirement for mediation can reduce your average dispute resolution costs by 80-90% and accelerate resolution timelines by over 75%.** This strategic choice directly contributes to healthier contractor profit margins in 2026 by minimizing unproductive overhead and preserving operational focus.
+The industry recognizes mediation's value; the American Institute of Architects (AIA) A201 General Conditions of the Contract for Construction explicitly states that mediation is the standard first step for dispute resolution. This contractual precedence provides a clear framework, guiding parties toward a collaborative solution before resorting to more contentious methods. For contractors managing multiple projects, the ability to quickly resolve issues through mediation frees up project managers, superintendents, and executive time, allowing them to focus on active work rather than legal battles. **Implementing a contractual requirement for mediation can reduce your average dispute resolution costs by 80-90% and accelerate resolution timelines by over 75%.** This strategic choice directly contributes to healthier [contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) in 2026 by minimizing unproductive overhead and preserving operational focus.
 
 ## Arbitration: A Structured Alternative for [Scaling Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/)
 

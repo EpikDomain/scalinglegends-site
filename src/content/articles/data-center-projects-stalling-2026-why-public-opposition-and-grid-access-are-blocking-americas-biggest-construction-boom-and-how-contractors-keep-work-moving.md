@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_0
 readTime: "28 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -35,7 +36,7 @@ The pipeline looked unstoppable: $200 billion in announced data center capital e
 
 - **Mississippi, Louisiana, Wyoming, Kansas, and South Dakota are the fastest-moving data center markets in 2026.** Shorter interconnection queues, lower land costs, and reduced community opposition create first-mover advantages for contractors already licensed in those states.
 
-- **Every data center bid without explicit community and permit contingency clauses is underpriced.** The market risk profile changed in 2024. Most standard bid templates have not caught up, and that gap is compressing contractor profit margins 2026 across the board.
+- **Every data center bid without explicit community and permit contingency clauses is underpriced.** The market risk profile changed in 2024. Most standard bid templates have not caught up, and that gap is compressing [contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 across the board.
 
 ## [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: How the Data Center Boom Turned Into a Bottleneck
 

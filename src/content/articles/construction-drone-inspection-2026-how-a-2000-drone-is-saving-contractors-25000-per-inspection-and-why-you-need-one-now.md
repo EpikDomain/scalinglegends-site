@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2650906/scalinglegends/2026_0
 readTime: "20 min read"
 published: true
 season: 2
-updatedAt: "2026-04-23"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -65,7 +65,7 @@ Key use cases for drones in construction include:
 
 Integrating drone-acquired data into existing [construction market intelligence](/article/construction-market-intelligence/) platforms or [project management](/article/surviving-the-messy-middle-of-construction-growth/) software allows for a holistic view of project health. This data-driven approach empowers project managers to make informed decisions, anticipate challenges, and maintain tight control over schedules and budgets, ultimately leading to more successful project outcomes and a stronger competitive edge.
 
-## Boosting Contractor Profit Margins 2026: The ROI Equation
+## Boosting [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: The ROI Equation
 
 For contractors looking to boost their contractor profit margins 2026, the investment in drone technology offers one of the most compelling returns in the current market. The initial outlay is surprisingly modest, especially when compared to the substantial savings and revenue opportunities it unlocks. A full-fledged drone program, capable of delivering professional-grade results, can be established for an all-in cost ranging from $2,000 to $7,000. This includes the drone itself, necessary software subscriptions, and the cost of FAA certification.
 

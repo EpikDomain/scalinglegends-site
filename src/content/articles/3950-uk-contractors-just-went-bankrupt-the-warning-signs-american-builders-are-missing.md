@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2613375/scalinglegends/2026_0
 readTime: "11 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -23,7 +23,7 @@ Three thousand nine hundred and fifty. That's how many [construction companies](
 
 - **UK Crisis is a Harbinger.** The UK saw 3,950 contractor insolvencies in 12 months, with specialist trades like plumbing, HVAC, and electrical hit hardest. These are not isolated incidents but a systemic issue driven by economic headwinds that are now mirroring in the US.
 
-- **Volume Over Margin Kills.** The root cause of many UK failures was a relentless pursuit of project volume at the expense of healthy profit margins, exacerbated by rapidly rising costs and delayed payments. This [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) death spiral is a critical lesson for US contractors.
+- **Volume Over Margin Kills.** The root cause of many UK failures was a relentless pursuit of project volume at the expense of healthy [profit margins](/article/contractor-profit-margins-drop-18-in-2026/), exacerbated by rapidly rising costs and delayed payments. This [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) death spiral is a critical lesson for US contractors.
 
 - **US Market Faces Identical Pressures.** American builders are grappling with significant material cost increases (steel +20%, aluminum +33%) and high fuel prices (diesel at $4.60), creating the same margin compression that devastated UK firms.
 

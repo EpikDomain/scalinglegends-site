@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2752455/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-23"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -65,7 +65,7 @@ The UK Future Homes Standard targets a 75% reduction in carbon emissions compare
 
 **Impact on Bidding and Retainage:**
 
-When you bid a project today based on standard HVAC specifications, you may find that by the time the job begins, local code enforcement has updated requirements to match the UK's carbon targets. This is a primary driver for the rise in **Change Order frequency**. In a sample of 500 mid-sized projects, 22% had change orders related to unexpected energy code upgrades during the build phase. This eats into your estimated profit margins. To mitigate this, you must include a **5% contingency line item** specifically for sustainability upgrades in all new [construction bids](/article/how-to-win-construction-bids-contractors-playbook-2026/).
+When you bid a project today based on standard HVAC specifications, you may find that by the time the job begins, local code enforcement has updated requirements to match the UK's carbon targets. This is a primary driver for the rise in **Change Order frequency**. In a sample of 500 mid-sized projects, 22% had change orders related to unexpected energy code upgrades during the build phase. This eats into your estimated [profit margins](/article/contractor-profit-margins-drop-18-in-2026/). To mitigate this, you must include a **5% contingency line item** specifically for sustainability upgrades in all new [construction bids](/article/how-to-win-construction-bids-contractors-playbook-2026/).
 
 **Material Sourcing and Green Bonds:**
 

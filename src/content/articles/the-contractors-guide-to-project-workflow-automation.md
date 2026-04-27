@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -14,7 +14,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-[Your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) spend 3+ hours a day on tasks that should take minutes. Document tracking, daily reports, RFI follow-ups, change order paperwork. That's 780 hours a year per PM spent on work a system could do. This administrative burden isn't just inefficient; it's a direct drag on your profit margins and growth potential. Here's how to get those hours back and redirect your team's expertise to actual project success.
+[Your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) spend 3+ hours a day on tasks that should take minutes. Document tracking, daily reports, RFI follow-ups, change order paperwork. That's 780 hours a year per PM spent on work a system could do. This administrative burden isn't just inefficient; it's a direct drag on your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) and growth potential. Here's how to get those hours back and redirect your team's expertise to actual project success.
 
 ## Key Takeaways
 
@@ -90,7 +90,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 - **Map One "Well-Done" Workflow.** Choose one of the identified high-impact tasks (e.g., document management) that your team currently executes efficiently manually, and diagram its steps to highlight automation opportunities.
 
-- **Research Integrated Construction Software.** Dedicate 2-3 hours this week to research modern construction productivity tools that offer AI capabilities and seamless integration for your chosen workflow, focusing on robust data flow.
+- **Research Integrated [Construction Software](/article/the-rise-of-software-in-construction-scaling/).** Dedicate 2-3 hours this week to research modern construction productivity tools that offer AI capabilities and seamless integration for your chosen workflow, focusing on robust data flow.
 
 - **Schedule a Demo for a Key Solution.** Contact a vendor for a purpose-built construction workflow automation tool (like those offering AI-powered photo documentation) and schedule a demo for your team to see it in action this week.
 

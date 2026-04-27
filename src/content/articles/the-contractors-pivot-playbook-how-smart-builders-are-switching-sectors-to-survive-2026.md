@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2635778/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -105,7 +105,7 @@ A commercial contractor can pivot to affordable housing by first acting as a sub
 
 AI construction technology 2026 plays a crucial role by enhancing estimating accuracy, automating compliance reporting, optimizing project scheduling, and improving risk assessment. AI helps contractors make data-driven decisions, especially when entering new and complex sectors, driving efficiency and profitability.
 
-### How do LIHTC projects impact contractor profit margins?
+### How do LIHTC projects impact [contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/)?
 
 LIHTC projects can offer stable, long-term pipelines but often come with complex compliance, prevailing wage requirements, and detailed reporting that can impact margins if not managed efficiently. Mastery of these nuances, supported by robust project management and estimating software, is key to maintaining healthy [contractor profit margins 2026](/article/contractor-profit-margins-2026/).
 

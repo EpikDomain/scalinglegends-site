@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2758841/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -44,7 +45,7 @@ For US contractors tracking construction business growth 2026, the Jefferies cal
 
 The bottom line on the Jefferies signal: the UK market is recovering, the data supports institutional confidence, and the window for early positioning is open right now. It will not stay open once the recovery is fully in the price.
 
-## The Pakistan BRT Red Line Cancellation: What Emerging Market Contract Risk Means for Contractor Profit Margins 2026
+## The Pakistan BRT Red Line Cancellation: What Emerging Market Contract Risk Means for [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 
 Pakistan's Sindh provincial government cancelled the BRT Red Line construction contract. The re-award is being processed on an emergency basis per reporting from DAWN and Profit. For contractors with no Pakistan exposure, this sounds like regional news. It is not. It is a case study in the exact failure mode that destroys contractor profit margins 2026 when international contract risk is not properly structured from day one.
 

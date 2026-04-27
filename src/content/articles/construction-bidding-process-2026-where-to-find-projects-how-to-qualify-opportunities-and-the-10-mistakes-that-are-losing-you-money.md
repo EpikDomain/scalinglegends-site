@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2673536/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-04-01"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -27,7 +27,7 @@ For every 10 public bids, you win one. Most contractors waste thousands on bids 
 
 - **Combat Stale Pricing with Weekly Updates.** The market moves rapidly, with an annualized change of 12.6%. Failing to update pricing weekly means you are volunteering to lose money on materials and labor.
 
-- **Mandate Escalation Clauses.** For any project extending beyond six months, an escalation clause is essential to protect your [Smart Business Automator](https://smartbusinessautomator.com)-informed contractor profit margins from unforeseen material and labor cost increases.
+- **Mandate Escalation Clauses.** For any project extending beyond six months, an escalation clause is essential to protect your [Smart Business Automator](https://smartbusinessautomator.com)-informed [contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) from unforeseen material and labor cost increases.
 
 - **Track Your Hit Ratio by Project Type.** Without detailed analytics on which types of projects you win (and lose), you cannot identify strengths, weaknesses, and areas for improvement in your bidding strategy.
 

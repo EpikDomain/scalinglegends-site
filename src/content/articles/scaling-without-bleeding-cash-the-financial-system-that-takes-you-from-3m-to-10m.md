@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-04-17"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -64,7 +64,7 @@ Beyond cash flow, specific construction-centric Key Performance Indicators (KPIs
 
 - **Backlog Ratio:** Your current backlog divided by your annual revenue. A healthy ratio (e.g., 0.75-1.5x) indicates a strong pipeline of work, but too high can signal overextension, while too low means future revenue instability.
 
-- **Overhead Rate:** Total overhead expenses divided by total revenue. As you scale, overhead tends to increase, but monitoring this percentage ensures it doesn't erode your profit margins. A typical target is 10-15% for general contractors.
+- **Overhead Rate:** Total overhead expenses divided by total revenue. As you scale, overhead tends to increase, but monitoring this percentage ensures it doesn't erode your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/). A typical target is 10-15% for general contractors.
 
 - **Bid-to-Win Ratio:** The number of bids submitted versus the number of projects won. This KPI helps assess the effectiveness of your estimating, pricing, and sales strategies. A ratio below 1:5 might indicate issues with competitiveness or targeting.
 

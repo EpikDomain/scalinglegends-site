@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2636367/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-01"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -85,7 +85,7 @@ Overcoming price objections requires active listening, probing to understand the
 
 ### What is the average profit margin in [construction projects](/article/surviving-the-messy-middle-of-construction-growth/)?
 
-Average profit margins in construction vary significantly by sector and project type. General contractors typically aim for 5-10% net profit, while specialized trades might achieve 10-20%. However, these numbers can fluctuate based on market conditions, project complexity, and operational efficiency.
+Average [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) in construction vary significantly by sector and project type. General contractors typically aim for 5-10% net profit, while specialized trades might achieve 10-20%. However, these numbers can fluctuate based on market conditions, project complexity, and operational efficiency.
 
 ### When should you discuss pricing in a construction project?
 

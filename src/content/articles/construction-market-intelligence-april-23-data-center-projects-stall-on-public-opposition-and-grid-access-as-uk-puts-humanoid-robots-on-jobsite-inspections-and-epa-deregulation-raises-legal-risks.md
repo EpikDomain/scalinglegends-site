@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_0
 readTime: "28 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -108,7 +109,7 @@ The lesson for mid-market contractors is not to adopt AI estimating at the expen
 
 ## Global Construction Markets: Canada, Indonesia, UK, and Australia Signal Decade-Long Growth
 
-[The global construction](/article/the-global-construction-growth-wave-2026-canada-430b-indonesia-226b-uks-170-five-year-surge-and-where-us-contractors-should-position-for-the-next-decade/) market in April 2026 is a story of sustained long-term demand with pockets of significant constraint in specific regions. For US contractors, the global picture has two direct implications: sustained upward pressure on shared material supply chains, and real opportunities in markets where US construction expertise and technology have value.
+[The global construction](/article/the-global-construction-growth-wave-2026-canada-430b-indonesia-226b-uks-170-five-year-surge-and-where-us-contractors-should-position-for-the-next-decade/) market in April 2026 is a story of sustained long-term demand with pockets of significant constraint in specific regions. For US contractors, the global picture has two direct implications: sustained upward pressure on shared [material supply](/article/iran-war-2026-52b-material-supply-shock/) chains, and real opportunities in markets where US construction expertise and technology have value.
 
 Canada's construction market is projected to reach $430.98 billion by 2034, per openPR.com. The drivers are infrastructure investment, housing demand, and energy transition capital expenditure. For US contractors with capacity in steel, electrical, and civil work, the Canadian market represents a legitimate diversification opportunity over a three to five year horizon. Cross-border subcontracting relationships with Canadian prime contractors can be built now during the planning and pre-construction phases of major programs launching in 2026 and 2027.
 

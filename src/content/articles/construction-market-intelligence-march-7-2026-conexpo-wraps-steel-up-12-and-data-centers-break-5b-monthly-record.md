@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2763609/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -117,7 +117,7 @@ The electronic recordkeeping change is the sleeper. Your injury data is now goin
 
 Gartner listed physical AI as a top 2026 technology trend, and construction is ground zero. Autonomous and semi-autonomous excavators, bulldozers, and loaders are now equipped with sensors, GPS, and AI for earthmoving, grading, and hauling. AI-powered site monitoring, layout marking, and material transport are entering real job sites.
 
-The [AI in construction](/article/how-to-use-ai-in-construction-practical-guide-2026/) market is projected to grow from **$4.96 billion (2025) to $14.72 billion by 2030** at 24.3% CAGR. Construction software overall is projected to grow from $4 billion (2024) to $7 billion (2029). Subscription and SaaS pricing is lowering barriers for mid-size firms.
+The [AI in construction](/article/how-to-use-ai-in-construction-practical-guide-2026/) market is projected to grow from **$4.96 billion (2025) to $14.72 billion by 2030** at 24.3% CAGR. [Construction software](/article/the-rise-of-software-in-construction-scaling/) overall is projected to grow from $4 billion (2024) to $7 billion (2029). Subscription and SaaS pricing is lowering barriers for mid-size firms.
 
 CONEXPO's new "Smart Tech, Small Budget" programming was specifically designed for mid-size contractors looking to adopt technology without enterprise-scale budgets.
 

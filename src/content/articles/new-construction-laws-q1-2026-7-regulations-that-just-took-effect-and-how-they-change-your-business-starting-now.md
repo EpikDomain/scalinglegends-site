@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2669013/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -81,7 +81,7 @@ To navigate this, contractors must:
 
 - **Educate Subcontractors:** Clearly communicate the new E-Verify requirements to all subcontractors and ensure their compliance is baked into your contract language.
 
-- **Understand Prevailing Wage Data:** Regularly consult the Department of Labor's wage determinations to ensure accurate pay rates for all crafts on public projects. Miscalculating bid spreads due to incorrect wage assumptions can cost you the project or erode your profit margins by several percentage points.
+- **Understand Prevailing Wage Data:** Regularly consult the Department of Labor's wage determinations to ensure accurate pay rates for all crafts on public projects. Miscalculating bid spreads due to incorrect wage assumptions can cost you the project or erode your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) by several percentage points.
 
 - **Regular Internal Audits:** Conduct quarterly internal audits of your payroll and I-9 documentation to identify and rectify issues before they become compliance violations.
 
@@ -97,7 +97,7 @@ The impact on project timelines during initial rollout is estimated at **5-10% f
 
 **Regulation 6: Mandatory Drone Site Inspection for Large Projects.** For all [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) exceeding 50,000 square feet, weekly digital site safety inspections are now mandatory, with a significant portion to be conducted via AI-powered drone analysis. These drones are programmed to identify common fall hazards (unprotected edges, open shafts), verify proper personal protective equipment (PPE) usage, and monitor site cleanliness, automatically flagging potential violations. The collected data, including high-resolution imagery and GPS coordinates, must be uploaded to a secure cloud platform for regulatory review and corrective action tracking.
 
-The initial investment for a commercial-grade drone and AI analysis software can range from **$10,000 to $50,000**, depending on the complexity of the system. However, the ROI is compelling. Companies implementing drone inspections have reported a **25% reduction in incident rates** attributed to identifying hazards earlier and more consistently. For a medium-sized firm, this translates to an average annual saving of **$50,000 to $150,000 in direct incident costs** (e.g., medical expenses, lost work time, increased insurance premiums) and avoided OSHA fines. Furthermore, drones improve inspection efficiency by **up to 70%**, allowing safety officers to cover more ground in less time and focus on higher-level safety management rather than manual hazard spotting. This technology is a game-changer for risk mitigation and proactive safety management.
+The initial investment for a commercial-grade drone and AI analysis software can range from **$10,000 to $50,000**, depending on the complexity of the system. However, the ROI is compelling. Companies implementing [drone inspections](/article/drone-inspections-save-47k-per-project-in-2026/) have reported a **25% reduction in incident rates** attributed to identifying hazards earlier and more consistently. For a medium-sized firm, this translates to an average annual saving of **$50,000 to $150,000 in direct incident costs** (e.g., medical expenses, lost work time, increased insurance premiums) and avoided OSHA fines. Furthermore, drones improve inspection efficiency by **up to 70%**, allowing safety officers to cover more ground in less time and focus on higher-level safety management rather than manual hazard spotting. This technology is a game-changer for risk mitigation and proactive safety management.
 
 ## Advancing Safety Training with Immersive Technologies
 

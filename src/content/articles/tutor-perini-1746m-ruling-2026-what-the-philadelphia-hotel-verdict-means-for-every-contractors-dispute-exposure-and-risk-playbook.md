@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2752413/scalinglegends/2026_0
 readTime: "23 min read"
 published: true
 season: 2
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -46,7 +47,7 @@ Effective [construction project management](/article/construction-project-manage
 
 The three questions every contractor should answer for every active project over $1 million: Does my contract include a mutual consequential damages waiver? Is my notice of claim timeline current and documented? Do my daily reports support the schedule impact analysis I would need in court today if the owner stopped paying tomorrow? If the answer to any of those is no or I'm not sure, that project is a dispute risk.
 
-## How Hotel and Hospitality Projects Concentrate Contractor Profit Margins 2026 Risk
+## How Hotel and Hospitality Projects Concentrate [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 Risk
 
 Hotel construction is a different animal from office, industrial, or residential work. The contract structure, the owner expectations, and the downstream damage exposure all operate on a different scale. Understanding why requires looking at what happens when a hotel opens late — and who absorbs the cost.
 

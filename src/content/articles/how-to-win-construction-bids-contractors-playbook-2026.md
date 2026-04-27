@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2763626/scalinglegends/2026_0
 readTime: "50 min read"
 published: true
 season: 2
-updatedAt: "2026-03-29"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -89,7 +89,7 @@ Here's a framework to guide your decision:
 
 **Profit Potential (Weight: High):**
 
-- Based on preliminary estimates, can we achieve our target profit margins?
+- Based on preliminary estimates, can we achieve our target [profit margins](/article/contractor-profit-margins-drop-18-in-2026/)?
 
 - Are there hidden costs or scope gaps that could erode profit?
 

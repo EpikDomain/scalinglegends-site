@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-27"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -14,7 +14,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The average mid-size contractor wastes $45,000 a year on software they barely use. 67% of tech rollouts fail. And the #1 mistake? Buying [project management](/article/surviving-the-messy-middle-of-construction-growth/) software before you've standardized a single process. These aren't just statistics; they're direct hits to your profit margins and growth potential, especially when you're scaling from $1M to $50M.
+The average mid-size contractor wastes $45,000 a year on software they barely use. 67% of tech rollouts fail. And the #1 mistake? Buying [project management](/article/surviving-the-messy-middle-of-construction-growth/) software before you've standardized a single process. These aren't just statistics; they're direct hits to your [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) and growth potential, especially when you're scaling from $1M to $50M.
 
 ## Key Takeaways
 

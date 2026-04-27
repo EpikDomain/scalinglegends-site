@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671117/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-04-02"
+updatedAt: "2026-04-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -137,7 +137,7 @@ The permanent restoration of 100% bonus depreciation allows [your construction b
 
 ### What are the primary benefits of adopting modular construction methods for contractors?
 
-Modular construction offers several key benefits for contractors, including faster project completion times (up to 50% quicker), enhanced quality control due to factory-based production, and greater cost predictability. It also reduces on-site labor requirements and minimizes weather-related delays, leading to more efficient project delivery and potentially higher profit margins in a market projected to reach $413 billion by 2031.
+Modular construction offers several key benefits for contractors, including faster project completion times (up to 50% quicker), enhanced quality control due to factory-based production, and greater cost predictability. It also reduces on-site labor requirements and minimizes weather-related delays, leading to more efficient project delivery and potentially higher [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) in a market projected to reach $413 billion by 2031.
 
 ### How can my [construction company](/article/surviving-the-messy-middle-of-construction-growth/) access grants for [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/)?
 

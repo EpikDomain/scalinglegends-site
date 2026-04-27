@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-grow-hvac-business-startup-to-scale
 readTime: "60 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -172,7 +172,7 @@ Early on, you might take any job that comes your way. But to scale, you need to 
 
 **Pros:**
 
-- **Larger Contracts:** Individual jobs are typically much bigger, with higher profit margins.
+- **Larger Contracts:** Individual jobs are typically much bigger, with higher [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).
 
 - **Regular Business Hours:** Fewer emergency calls outside of standard business hours.
 

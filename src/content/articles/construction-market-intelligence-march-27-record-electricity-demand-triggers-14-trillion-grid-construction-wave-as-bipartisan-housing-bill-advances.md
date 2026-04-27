@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2667155/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-27"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -71,7 +71,7 @@ The normalization of management software adoption, settling at a sustained 312% 
 
 The integration of [AI construction technology 2026](/article/how-to-scale-a-construction-business-without-losing-control/) is becoming a game-changer. In the context of the $1.4 trillion grid build-out, AI can optimize transmission line routing, predict equipment failures, and manage complex energy flows. For housing, AI can accelerate design processes, analyze site conditions, and even manage robotic construction processes. This necessitates a close look at [construction estimating software 2026](/article/how-to-scale-a-construction-business-without-losing-control/) solutions that incorporate AI for more accurate bids, risk assessment, and resource allocation, especially for the complex and high-stakes projects on the horizon.
 
-Beyond project-specific tools, broader industry trends like CMMC compliance are becoming critical, particularly for contractors working on federal projects or with suppliers who do. Cybersecurity is no longer just an IT concern but a project risk. The ongoing legal battles, such as the Gateway April 16 court date, and the implications of large-scale project demobilizations like the CTA, offer cautionary tales about risk management and contract disputes. Even global events, like the Qatar LNG 3-5 year repair timeline, can impact material supply chains and pricing, underscoring the need for robust supply chain management tools and global market intelligence.
+Beyond project-specific tools, broader industry trends like CMMC compliance are becoming critical, particularly for contractors working on federal projects or with suppliers who do. Cybersecurity is no longer just an IT concern but a project risk. The ongoing legal battles, such as the Gateway April 16 court date, and the implications of large-scale project demobilizations like the CTA, offer cautionary tales about risk management and contract disputes. Even global events, like the Qatar LNG 3-5 year repair timeline, can impact [material supply](/article/iran-war-2026-52b-material-supply-shock/) chains and pricing, underscoring the need for robust supply chain management tools and global market intelligence.
 
 ## Strategic Shifts: Adapting to a Public-Works Driven Market
 

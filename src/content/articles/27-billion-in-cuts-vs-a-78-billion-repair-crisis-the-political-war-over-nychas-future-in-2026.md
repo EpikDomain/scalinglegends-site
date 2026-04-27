@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2660382/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-03-26"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -45,7 +45,7 @@ The types of projects that will materialize, should funding be secured, span a w
 
 For firms looking at `[scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/)`, the NYCHA crisis offers a unique opportunity to engage in high-impact, visible work. However, careful due diligence on contract terms, payment structures, and political risk mitigation will be essential. The sheer scale of the problem means that even partial funding will unleash billions in construction work, but contractors must be prepared for potential delays and scope changes.
 
-## Navigating Volatility: Contractor Profit Margins 2026 Amidst Political Uncertainty
+## Navigating Volatility: [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 Amidst Political Uncertainty
 
 The political tug-of-war over NYCHA's budget directly impacts `contractor profit margins 2026`. When funding is uncertain, projects can be delayed, scaled back, or even cancelled, leaving contractors with sunk costs in bidding, planning, and resource allocation. Material costs, already subject to inflation and supply chain disruptions, become even more unpredictable when project timelines are fluid. Labor shortages, particularly for skilled trades in urban environments, further compound cost pressures.
 

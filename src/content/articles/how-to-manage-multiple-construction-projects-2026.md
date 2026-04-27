@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2673536/scalinglegends/2026_0
 readTime: "64 min read"
 published: true
 season: 2
-updatedAt: "2026-04-10"
+updatedAt: "2026-04-27"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -29,7 +29,7 @@ The transition from owner-operator to a multi-project enterprise is less about a
 
 *   **Communication Breakdown:** Information gets lost between sites, between the field and the office, leading to costly reworks and delays. A recent study by PlanGrid (now Autodesk Construction Cloud) found that poor communication and data silos cost the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) over $177 billion annually.
 *   **Resource Contention:** Crews are stretched thin, equipment is double-booked, and critical materials arrive late because they were routed to the wrong job.
-*   **Budget Bleed:** Without granular, real-time tracking, small overruns on multiple projects quickly accumulate into significant losses for the company as a whole. Many contractors find their profit margins eroding from 15-20% down to single digits or even negative when they scale without proper controls.
+*   **Budget Bleed:** Without granular, real-time tracking, small overruns on multiple projects quickly accumulate into significant losses for the company as a whole. Many contractors find their [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) eroding from 15-20% down to single digits or even negative when they scale without proper controls.
 *   **Owner Overwhelm:** You become the single point of failure, constantly bombarded with questions, unable to delegate effectively, and losing sight of strategic growth opportunities because you're buried in daily operational minutiae.
 *   **Quality Compromises:** With less direct oversight, quality control suffers, leading to warranty calls, reputational damage, and client dissatisfaction.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619680/scalinglegends/2026_0
 readTime: "4 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -15,7 +15,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Contractor Profit Margins 2026: Navigating $41B Federal Cuts
+[Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: Navigating $41B Federal Cuts
 
 The news hit like a wrecking ball: DOGE just gutted $41.5 billion in federal contracts, wiping out significant portions of your projected revenue for 2026 and beyond. Across 24 agencies, the Department of Defense alone slashed $18.3 billion, and 750 GSA leases covering 10 million square feet have been terminated. For many government contractors, this isn't just a budget cut; it's 20% of their pipeline evaporating overnight, demanding immediate, decisive action to secure their future. The implications of these sudden **DOGE federal contracts** cancellations are profound, forcing a rapid re-evaluation of business models and strategic priorities.
 

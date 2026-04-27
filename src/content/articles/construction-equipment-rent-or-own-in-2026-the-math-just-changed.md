@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2610340/scalinglegends/2026_0
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-27"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -39,7 +39,7 @@ The US equipment rental market is about to cross $50 billion. Tariffs just made 
 
 The landscape for acquiring construction equipment has undergone a fundamental transformation, making the traditional "buy" default a financially precarious position for many scaling contractors. In 2026, the US equipment rental market is poised to reach an astounding $50 billion, part of a global market valued at $159.39 billion. This surge isn't merely a trend; it's a direct response to escalating ownership costs and evolving operational demands.
 
-One of the most immediate and impactful changes stems from government policy. The imposition of 50% steel and aluminum tariffs directly translates to higher new equipment prices. For a standard $300,000 excavator, these tariffs add approximately $24,000 to the sticker price, an 8% increase that eats directly into profit margins before the machine even breaks ground. This isn't just a one-time hit; it affects the total cost of ownership over the equipment's lifecycle, from depreciation calculations to financing.
+One of the most immediate and impactful changes stems from government policy. The imposition of 50% steel and aluminum tariffs directly translates to higher new equipment prices. For a standard $300,000 excavator, these tariffs add approximately $24,000 to the sticker price, an 8% increase that eats directly into [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) before the machine even breaks ground. This isn't just a one-time hit; it affects the total cost of ownership over the equipment's lifecycle, from depreciation calculations to financing.
 
 Compounding this, interest rates have steadily climbed, making equipment loans significantly more expensive than they were just a few years ago in 2021. A higher interest rate on a substantial equipment loan can add tens of thousands of dollars to the total cost over the loan's term, diverting critical capital that could otherwise be invested in project expansion or talent acquisition. This financing squeeze forces contractors to re-evaluate how they allocate capital, pushing many towards the flexibility of [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) strategies that prioritize liquidity.
 
