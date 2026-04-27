@@ -3,6 +3,7 @@ title: "The 3X Project Pipeline: Automating Lead Qualification for Construction 
 description: "Are unqualified leads draining your team's time and your company's profit? This episode reveals how to implement a predictable, automated system for lead generation and qualification, leveraging landing pages and vetting forms to dramatically increase your conversion rates. Learn to build a robust sales pipeline that filters out time-wasters and delivers a consistent flow of high-value projects, with insights showing up to a 30% reduction in sales cycle time for early adopters."
 date: "2026-04-27"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-3x-project-pipeline-automating-lead-qualification-for-co-1777285443.png"
+audioUrl: "https://content.rss.com/episodes/332597/2772341/scalinglegends/2026_04_27_20_30_16_e24c9d02-d574-4e1d-88bd-d6ae73110318.mp3"
 readTime: "28 min read"
 published: true
 season: 2
