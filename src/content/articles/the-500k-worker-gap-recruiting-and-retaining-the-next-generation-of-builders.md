@@ -1,13 +1,12 @@
 ---
-title: "The 500K Worker Gap: Recruiting and Retaining the Next Generation of Builders"
-description: "Construction needs 501,000 new workers in 2026 alone. Here is how contractors are solving the labor crisis with apprenticeships, technology, and modern recruiting."
+title: "Construction Labor Gap: 2026 & Beyond"
+description: "The construction industry faces a 500K worker gap by 2026. Understand the labor crisis, its causes, and key trends shaping the future of the construction workforce."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-500k-worker-gap-recruiting-and-retaining-the-next-genera-1772747128.png"
-audioUrl: "https://content.rss.com/episodes/332597/2604270/scalinglegends/2026_03_05_18_57_35_78342106-4ba5-459f-92fd-e2faf9201b59.mp3"
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-28"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

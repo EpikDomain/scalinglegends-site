@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "23 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -14,7 +14,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The construction labor story just flipped. Earlier this month the narrative was record-high immigrant share propping up jobsite rosters across every major metro. This week, IndexBox and Construction Owners Club both published analyses confirming the opposite: the immigrant construction workforce is now contracting. A brand-new Atlantic Construction Alliance launched April 20 specifically to lobby for sector-specific immigration reform, and the federal window for a pilot program closes before summer. If you are pricing work for the next 12 months without a workforce contingency plan, you are bidding on a lie.
+The [construction labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) story just flipped. Earlier this month the narrative was record-high immigrant share propping up jobsite rosters across every major metro. This week, IndexBox and Construction Owners Club both published analyses confirming the opposite: the immigrant construction workforce is now contracting. A brand-new Atlantic Construction Alliance launched April 20 specifically to lobby for sector-specific immigration reform, and the federal window for a pilot program closes before summer. If you are pricing work for the next 12 months without a workforce contingency plan, you are bidding on a lie.
 
 ## Key Takeaways
 

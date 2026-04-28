@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2717967/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -64,7 +65,7 @@ For contractors, the lesson is clear: **a completed building does not guarantee 
 
 ## Employment Surge: 38 States Adding Construction Jobs
 
-The March 2026 employment data paints a broadly positive picture for construction labor demand. Employment increased in 38 states, with a total of 26,000 jobs added across the sector. This is the broadest state-level expansion in over a year.
+The March 2026 employment data paints a broadly positive picture for [construction labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) demand. Employment increased in 38 states, with a total of 26,000 jobs added across the sector. This is the broadest state-level expansion in over a year.
 
 The gains were split across residential and nonresidential sectors. [Data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) continues to drive nonresidential hiring, particularly in Virginia, Texas, Ohio, and Georgia. [Healthcare construction](/article/healthcare-construction-boom-2026-why-hospitals-are-the-safest-bet-in-a-recession-and-how-to-win-these-projects/), projected at $30.7 billion in 2026, is adding jobs in states with major hospital expansions. Highway and bridge construction is steady, supported by the IIJA pipeline.
 

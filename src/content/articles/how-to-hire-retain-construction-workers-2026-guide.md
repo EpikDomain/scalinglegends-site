@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-hire-retain-construction-workers-20
 readTime: "70 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -24,7 +24,7 @@ This isn't a problem for HR to solve in a vacuum; it's a strategic imperative th
 
 We're going to dive deep into where the workers actually are, what they demand, and how you can build a company culture so compelling that your best people won't even consider leaving. This isn't about quick fixes; it's about fundamentally reshaping your approach to people, transforming your workforce from a liability into your greatest asset.
 
-## The Unvarnished Truth: 2026's Construction Labor Landscape
+## The Unvarnished Truth: 2026's [Construction Labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) Landscape
 
 Let's not sugarcoat it. The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is staring down a demographic cliff, exacerbated by a generational skills gap and a shifting perception of what a "good job" entails. Understanding these forces isn't just academic; it's the foundation for any effective [construction workforce recruitment](#) strategy.
 

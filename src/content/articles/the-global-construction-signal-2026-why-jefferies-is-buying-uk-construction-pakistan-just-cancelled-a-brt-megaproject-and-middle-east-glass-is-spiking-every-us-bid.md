@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2758841/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -27,7 +27,7 @@ Three global construction signals hit in 48 hours. Jefferies named top picks in 
 
 - **The UK Future Homes Standard targets 75 to 80 percent carbon reduction**, creating a genuine export window for US manufacturers of heat pumps, high-performance insulation, and energy management systems. This is a concrete [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026 opportunity that requires action this quarter, not next year.
 
-- **Israel's construction labor shortage is approaching 40 percent**, and the government's foreign worker law push continues per the Jerusalem Post. Regional labor displacement has cascading effects on materials flows, subcontractor availability, and specialty trade pricing across the broader Middle East market.
+- **Israel's [construction labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) shortage is approaching 40 percent**, and the government's foreign worker law push continues per the Jerusalem Post. Regional labor displacement has cascading effects on materials flows, subcontractor availability, and specialty trade pricing across the broader Middle East market.
 
 - **[Smart Business Automator](https://smartbusinessautomator.com) tracks 14 commodity indexes, 23 active international opportunities, and 9 market currency benchmarks** on its global construction dashboard. This is the data layer contractors need to move from reactive to proactive bid management in a volatile international environment.
 

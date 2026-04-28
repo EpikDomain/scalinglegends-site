@@ -1,12 +1,12 @@
 ---
-title: "Women in Construction: Breaking Through the Barriers That Still Exist in 2026"
-description: "The real numbers on women in construction, the structural barriers that persist, and the companies and leaders breaking through them."
+title: "Women in Construction: Strategies for 2026 Success"
+description: "Learn actionable strategies to empower women in construction. Overcome barriers and build a stronger, more inclusive industry for 2026 and beyond."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/women-in-construction-breaking-through-the-barriers-that-sti-1772747233.png"
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

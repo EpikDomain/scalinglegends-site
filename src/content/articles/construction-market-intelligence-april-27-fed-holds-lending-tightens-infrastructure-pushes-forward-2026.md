@@ -3,7 +3,7 @@ title: "Construction Market Intelligence April 27: Fed Holds, Lending Tightens, 
 description: "Daily construction market intelligence covering Fed rate hold, commercial lending tightening, Q1 construction spending data, tariff impacts on materials, labor shortage updates, and global infrastructure developments affecting contractors."
 date: "2026-04-27"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-27-fed-holds-lending--1777297850.png"
-audioUrl: "https://content.rss.com/episodes/332597/2763609/scalinglegends/2026_04_24_08_33_56_7093a335-8027-4865-a1dd-ec2d303266cb.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2772700/scalinglegends/2026_04_27_21_59_37_3c83487a-d691-443f-af09-1b9524af2997.mp3"
 readTime: "23 min read"
 published: true
 season: 2
@@ -106,7 +106,7 @@ E-Verify compliance is another pressure point that often gets overlooked until i
 
 These Western European declines are consequential for U.S. equipment manufacturers and materials exporters. As European construction demand drops, global supply capacity that had been allocated to Germany and the UK is getting redirected. For U.S. contractors, this creates potential buying opportunities in used equipment markets as European fleets are liquidated, and potential downward pressure on certain imported fabricated components as European suppliers seek new customers.
 
-**The Asia story is the opposite.** India's infrastructure program is the largest construction market expansion in the world right now, with highway, rail, port, and energy projects running simultaneously at a scale that's absorbing regional construction labor and equipment supply. Vietnam is experiencing a similar infrastructure surge as foreign direct investment in manufacturing facilities drives rapid construction activity.
+**The Asia story is the opposite.** India's infrastructure program is the largest construction market expansion in the world right now, with highway, rail, port, and energy projects running simultaneously at a scale that's absorbing regional [construction labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) and equipment supply. Vietnam is experiencing a similar infrastructure surge as foreign direct investment in manufacturing facilities drives rapid construction activity.
 
 U.S. equipment manufacturers are actively repositioning toward these markets. Caterpillar, Komatsu, and other major OEMs are prioritizing Asia-Pacific dealer inventory replenishment — which means lead times for new equipment in the U.S. market may extend as production capacity gets allocated toward higher-growth regions. If you're planning a major equipment purchase in Q3 or Q4 2026, order now.
 

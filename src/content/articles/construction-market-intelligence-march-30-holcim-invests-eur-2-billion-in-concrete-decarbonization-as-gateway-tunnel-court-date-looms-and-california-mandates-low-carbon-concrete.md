@@ -3,7 +3,7 @@ title: "Construction Market Intelligence: March 30 - Holcim Invests EUR 2 Billio
 description: "Monday market intelligence covering Holcim's EUR 2 billion carbon capture investment across 4 European facilities, California's new low-carbon concrete mandate for buildings over 50,000 sq ft, Gateway tunnel April 16 court date approaching with 2-3 months cash runway, upcoming DOE SPARK $1.9B applications (May 20), and new week trend data showing construction safety at +141% and modular at +107%."
 date: "2026-03-30"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-30---holcim-invests-e-1774879364.png"
-audioUrl: "https://content.rss.com/episodes/332597/2763609/scalinglegends/2026_04_24_08_33_56_7093a335-8027-4865-a1dd-ec2d303266cb.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2772700/scalinglegends/2026_04_27_21_59_37_3c83487a-d691-443f-af09-1b9524af2997.mp3"
 readTime: "17 min read"
 published: true
 season: 2

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2608580/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-04-11"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -19,7 +19,7 @@ sponsors:
 
 ## 60% of Gen Z Plans to Go Into Trades in 2026. Construction Is Their Number One Pick.
 
-A January 2026 survey of 1,250 Gen Zers by ResumeTemplates.com dropped a number that should reframe every conversation about the construction labor shortage: **60% of Gen Z plans to pursue skilled trades jobs in 2026**. Construction is the number one choice at 21%, followed by electrical (10%) and manufacturing (9%).
+A January 2026 survey of 1,250 Gen Zers by ResumeTemplates.com dropped a number that should reframe every conversation about the [construction labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) shortage: **60% of Gen Z plans to pursue skilled trades jobs in 2026**. Construction is the number one choice at 21%, followed by electrical (10%) and manufacturing (9%).
 
 That's not a marginal shift. The Credit Karma/Harris Poll from 2025 had the number at 38%. In twelve months, it jumped to 60%.
 

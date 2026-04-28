@@ -3,11 +3,11 @@ title: "Construction Market Intelligence: March 7 Evening - CONEXPO Closes, SCOT
 description: "CONEXPO closes with autonomous equipment breakthrough, SCOTUS tariff ruling leaves Section 232 intact with steel up 20.7%, Ohio E-Verify deadline in 12 days, data centers hit 25.2B monthly record, and 43% of small contractors lack emergency capital."
 date: "2026-03-07"
 image: "/img/articles/construction-market-intelligence-march-7-evening-conexpo-closes-scotus-tariff-fallout-and-the-25b-data-center-record-hero.webp"
-audioUrl: "https://content.rss.com/episodes/332597/2763609/scalinglegends/2026_04_24_08_33_56_7093a335-8027-4865-a1dd-ec2d303266cb.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2772700/scalinglegends/2026_04_27_21_59_37_3c83487a-d691-443f-af09-1b9524af2997.mp3"
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -196,7 +196,7 @@ Live Google Trends data pulled today reveals what's on contractors' minds:
 | free construction estimating software excel | +9,050% | Small contractors need affordable tools |
 | free residential construction estimating software | +2,450% | Residential segment is price-sensitive |
 | construction estimating institute | +600% | Training demand surging |
-| construction labor shortage | BREAKOUT | Search interest exploding nationally |
+| [construction labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) shortage | BREAKOUT | Search interest exploding nationally |
 | construction bidding | +80% | Bidding activity is rising |
 
 The +51,350% explosion in "construction estimating services near me" is the most telling data point. Contractors are overwhelmed by the complexity of pricing in this market. When steel can move 20% in a year and tariff policy changes overnight, the old spreadsheet approach breaks down.
