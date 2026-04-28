@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-nort
 readTime: "46 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -338,7 +338,7 @@ North Carolina has three classifications based on financial capacity. For a Limi
 
 ### Do I need a bond to get my NC General Contractor license?
 
-No, the North Carolina Licensing Board for General Contractors generally does not require a statewide surety bond for the issuance of your General Contractor license itself. However, you will almost certainly need project-specific bid, performance, and payment bonds for many larger public and private construction projects.
+No, the North Carolina Licensing Board for General Contractors generally does not require a statewide surety bond for the issuance of your General Contractor license itself. However, you will almost certainly need project-specific bid, performance, and payment bonds for many larger public and private [construction projects](/article/how-to-manage-multiple-construction-projects-2026/).
 
 ### Is the North Carolina General Contractor exam open book?
 

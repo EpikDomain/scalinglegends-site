@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2605805/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-24"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -49,7 +49,7 @@ At CONEXPO 2026, Caterpillar showcased its groundbreaking first autonomous compa
 
 The Infrastructure Investment and Jobs Act (IIJA) funding is set to expire in September. To prevent this, the Associated General Contractors (AGC) has launched its "America's Moving Forward" campaign, investing $2 million. This initiative aims to advocate for the continuation of critical infrastructure funding, ensuring ongoing support for [construction projects](/article/surviving-the-messy-middle-of-construction-growth/) across the nation and maintaining industry momentum.
 
-### How much time can AI estimating tools save on construction projects?
+### How much time can AI estimating tools save on [construction projects](/article/how-to-manage-multiple-construction-projects-2026/)?
 
 AI estimating tools are significantly boosting efficiency in construction, capable of cutting takeoff time by an impressive 60%. This substantial reduction allows contractors to complete bids faster and allocate resources more effectively. Platforms like Smart Business Automator leverage AI to automate estimating, scheduling, and other operations, helping businesses scale by streamlining previously time-consuming tasks.
 

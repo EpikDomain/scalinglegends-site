@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2726456/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -87,7 +87,7 @@ Monitoring cost escalation and tracking procurement opportunities on mega-projec
 
 We first covered the Brent Spence Bridge developments in our [infrastructure mega-projects roundup](/article/construction-market-intelligence-infrastructure-mega-projects-2026/) earlier this year.
 
-## EPA Targets Microplastics: What Contractors Need to Know
+## EPA Targets Microplastics: [What Contractors Need to Know](/article/steel-prices-2026-2026-what-contractors-need-to-know/)
 
 On April 2, 2026, the Environmental Protection Agency published its draft Contaminant Candidate List 6 (CCL 6), and for the first time in the program's history, microplastics are included. The draft list contains 75 chemical contaminants and 9 microbial contaminants, also including PFAS compounds, pharmaceuticals, and disinfection byproducts.
 

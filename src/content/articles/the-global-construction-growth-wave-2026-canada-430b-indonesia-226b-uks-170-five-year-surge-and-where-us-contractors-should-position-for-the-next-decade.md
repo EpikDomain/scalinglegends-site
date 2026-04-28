@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "26 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -155,7 +155,7 @@ At 6.77 percent CAGR, Indonesia's construction market doubles in real terms roug
 
 ### What is the UK Construction Industry Scheme and why does it matter for a US contractor entering the UK market?
 
-The CIS (Construction Industry Scheme) requires UK [construction contractors](/article/the-lobito-corridor-2026-how-a-117-billion-african-rail-project-is-becoming-americas-answer-to-chinas-belt-and-road-and-why-construction-contractors-should-care/) and subcontractors to register with HMRC before receiving payment on construction contracts. Without CIS registration, a main contractor is legally required to withhold 30 percent of payment to an unregistered subcontractor. A US firm entering the UK as a specialist sub must obtain CIS registration, typically a 4 to 6 week process, before mobilizing to any UK project to avoid this withholding mechanism.
+The CIS (Construction Industry Scheme) requires UK [construction contractors](/article/the-lobito-corridor-2026-how-a-117-billion-african-rail-project-is-becoming-americas-answer-to-chinas-belt-and-road-and-why-construction-contractors-should-care/) and subcontractors to register with HMRC before receiving payment on [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/). Without CIS registration, a main contractor is legally required to withhold 30 percent of payment to an unregistered subcontractor. A US firm entering the UK as a specialist sub must obtain CIS registration, typically a 4 to 6 week process, before mobilizing to any UK project to avoid this withholding mechanism.
 
 ### How should a US contractor evaluate whether their construction estimating software handles multi-currency international projects?
 
@@ -167,7 +167,7 @@ A realistic market entry budget for Canada at the specialty subcontractor struct
 
 ## How to Position Your [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) for International Growth in 2026
 
-- **Pick one market this quarter.** Canada if you are [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) with bonding lines above $5M. Indonesia if you have specialty LNG, advanced industrial, or data center construction capability. UK if you build data centers, do high-specification fit-out, or have energy-efficient retrofit capability. Do not pursue all three simultaneously in year one.
+- **Pick one market this quarter.** Canada if you are [a general contractor](/article/how-to-get-general-contractor-license-florida-2026/) with bonding lines above $5M. Indonesia if you have specialty LNG, advanced industrial, or [data center construction](/article/data-center-construction-boom-2026-what-contractors-need/) capability. UK if you build data centers, do high-specification fit-out, or have energy-efficient retrofit capability. Do not pursue all three simultaneously in year one.
 
 - **Map your regulatory registration requirements before the first bid opportunity appears.** Canada: identify which provinces match your project type and start registration now, allowing 60 to 90 days minimum. UK: initiate CIS registration and UK entity formation immediately if you are targeting 2026 projects. Indonesia: contact a DFC-approved project developer for financing structure consultation in the next 30 days.
 

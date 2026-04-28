@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-georgia-2026
 readTime: "30 min read"
 published: true
 season: 2
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -375,7 +376,7 @@ A4: Generally, no. Georgia's mechanics lien statute is strictly construed, and i
 
 ### What's the difference between a Georgia mechanics lien and a bond claim?
 
-A5: A Georgia mechanics lien (O.C.G.A. §44-14-360 et seq.) is a claim against the *real property* itself, providing a security interest in the property's value. It is used on private [construction projects](/article/surviving-the-messy-middle-of-construction-growth/). A bond claim (under Georgia's Little Miller Act, O.C.G.A. §36-82-101 et seq.) is a claim against a *payment bond* provided by the general contractor on public construction projects. Because public property cannot be liened, the bond acts as a substitute security, guaranteeing payment to subcontractors and suppliers. The procedures, deadlines, and enforcement mechanisms for each are distinct.
+A5: A Georgia mechanics lien (O.C.G.A. §44-14-360 et seq.) is a claim against the *real property* itself, providing a security interest in the property's value. It is used on private [construction projects](/article/surviving-the-messy-middle-of-construction-growth/). A bond claim (under Georgia's Little Miller Act, O.C.G.A. §36-82-101 et seq.) is a claim against a *payment bond* provided by the general contractor on public [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). Because public property cannot be liened, the bond acts as a substitute security, guaranteeing payment to subcontractors and suppliers. The procedures, deadlines, and enforcement mechanisms for each are distinct.
 
 ### What if I supply materials to another supplier, not directly to the project or a subcontractor?
 

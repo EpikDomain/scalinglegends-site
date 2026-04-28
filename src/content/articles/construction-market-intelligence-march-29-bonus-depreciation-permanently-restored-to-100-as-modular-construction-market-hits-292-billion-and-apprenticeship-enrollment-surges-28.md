@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671117/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -93,7 +93,7 @@ Effective [cash flow management](/article/5-cash-flow-mistakes-that-kill-constru
 
 On a more positive note, critical funding avenues are opening up, offering significant capital injections for infrastructure and energy projects. CTA funding has been restored, with the highly anticipated Gateway applications set to open on April 16. The Department of Energy (DOE) SPARK program will follow on May 20, providing opportunities for projects focused on energy efficiency and renewable technologies. Furthermore, the Infrastructure Investment and Jobs Act (IIJA) continues to provide substantial funding, with opportunities available until September 30. **These funding windows represent hundreds of billions in potential project revenue, making strategic bidding and proposal development paramount.**
 
-Contractors need to monitor these funding announcements closely and prepare their bids with precision, understanding the specific requirements for prevailing wage, bonding, and compliance. Accessing this capital can be transformative for a firm's growth trajectory, but it demands meticulous planning and execution. For a deeper dive into market trends and funding opportunities, regular [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) is essential.
+[Contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) monitor these funding announcements closely and prepare their bids with precision, understanding the specific requirements for prevailing wage, bonding, and compliance. Accessing this capital can be transformative for a firm's growth trajectory, but it demands meticulous planning and execution. For a deeper dive into market trends and funding opportunities, regular [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) is essential.
 
 To mitigate [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) risks and maximize funding opportunities:
 

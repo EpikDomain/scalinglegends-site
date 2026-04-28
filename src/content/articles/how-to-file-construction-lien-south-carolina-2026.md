@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-south-caroli
 readTime: "34 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -291,7 +291,7 @@ South Carolina law does not provide specific statutory forms for lien waivers, m
 
 ### "Pay-If-Paid" and "Pay-When-Paid" Clauses:
 
-These clauses are common in construction contracts and attempt to shift the risk of owner non-payment down the contractual chain. In South Carolina:
+These clauses are common in [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) and attempt to shift the risk of owner non-payment down the contractual chain. In South Carolina:
 
 - **"Pay-If-Paid" Clauses:** These clauses make payment to a subcontractor or supplier conditional upon the general contractor first receiving payment from the owner. South Carolina courts have generally upheld "pay-if-paid" clauses as valid, provided they are clear, unambiguous, and explicitly state that payment to the subcontractor is a condition precedent to payment from the owner.
 

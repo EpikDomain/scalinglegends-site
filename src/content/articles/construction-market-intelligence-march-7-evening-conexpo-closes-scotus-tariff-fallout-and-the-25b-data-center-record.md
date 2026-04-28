@@ -233,7 +233,7 @@ No. The Supreme Court struck down IEEPA tariffs on February 20, 2026, but Sectio
 
 Ohio's E-Verify Workforce Integrity Act takes effect on March 19, 2026. It applies to all nonresidential [construction contractors](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/), subcontractors, and labor brokers with no small business exemption. Penalties range from $250 for the first failure to create an E-Verify case up to $25,000 for continuing to employ a worker after final nonconfirmation. Records must be retained for 3 years from hire or 1 year after termination.
 
-### How big is the data center construction boom in 2026?
+### How big is the [data center construction](/article/data-center-construction-boom-2026-what-contractors-need/) boom in 2026?
 
 Data center construction starts hit an all-time record of $25.2 billion in January 2026 alone. The trailing 12-month total reached $103.7 billion, with 76 additional projects valued at $88 billion set to start in the next six months. Power infrastructure spending for data centers is forecast at $27.8 billion in 2026, a 68% increase over 2025.
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-market-construction-company-get-lea
 readTime: "83 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -918,7 +918,7 @@ Plan your content for the year. This includes blog posts, social media updates, 
 Set up Google Analytics, Google Search Console, call tracking, and integrate your CRM. Ensure every lead source and marketing activity is trackable. This is non-negotiable for understanding what works and optimizing your spend. Without data, you're back to "spray and pray."
 
 **Review, Adapt, and Scale:**
-Marketing is dynamic. Schedule regular (monthly or quarterly) reviews of your marketing performance against your SMART goals. Analyze the data, identify underperforming campaigns, and double down on what's working. Be agile enough to adapt your strategy based on market changes, competitive landscape, and client feedback. This continuous improvement loop is how you scale your construction leads and business effectively.
+Marketing is dynamic. Schedule regular (monthly or quarterly) reviews of your marketing performance against your SMART goals. Analyze the data, identify underperforming campaigns, and double down on what's working. Be agile enough to adapt your strategy based on market changes, competitive landscape, and client feedback. This continuous improvement loop is how you [scale your construction](/article/the-5-million-wall-7-strategies-to-scale-your-construction-business-without-breaking-it/) leads and business effectively.
 
 ## Frequently Asked Questions About Construction Marketing
 

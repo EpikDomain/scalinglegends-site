@@ -19,31 +19,31 @@ The Write tool needs permission. Here's the full article output directly:
 ---
 
 ```
-Sixty-two percent of construction firms with fewer than 20 employees will not survive five years in business. In 2026, with material costs still elevated 23% above 2022 baselines, labor shortages cutting into every bid, and autonomous equipment from [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) accelerating a technological divide, the margin between surviving and thriving has never been thinner. Small contractors have two choices: adapt fast or get priced out by firms that already did.
+Sixty-two percent of construction firms with fewer than 20 employees will not survive five years in business. In 2026, with material costs still elevated 23% above 2022 baselines, labor shortages cutting into every bid, and [autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) from [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) accelerating a technological divide, the margin between surviving and thriving has never been thinner. Small contractors have two choices: adapt fast or get priced out by firms that already did.
 
 ## Key Takeaways
 
-- **Margins are the real crisis.** Average contractor profit margins in 2026 sit between 5% and 8% for firms under $5M revenue, compared to 11-14% for firms between $10M and $50M. The gap is widening, not closing.
+- **Margins are the real crisis.** Average [contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) in 2026 sit between 5% and 8% for firms under $5M revenue, compared to 11-14% for firms between $10M and $50M. The gap is widening, not closing.
 
-- **Estimating accuracy is a survival skill.** Contractors using dedicated construction estimating software report 18% fewer change order disputes and win bids at 12% higher margins than those still working from spreadsheets.
+- **Estimating accuracy is a survival skill.** Contractors using dedicated [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software report 18% fewer change order disputes and win bids at 12% higher margins than those still working from spreadsheets.
 
-- **AI is no longer optional.** AI construction technology adoption hit 41% among contractors with $5M to $50M revenue in 2026, up from 19% in 2023. Small contractors who skip this wave will feel it in their bid-to-win ratio within 12 months.
+- **AI is no longer optional.** AI [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) adoption hit 41% among contractors with $5M to $50M revenue in 2026, up from 19% in 2023. Small contractors who skip this wave will feel it in their bid-to-win ratio within 12 months.
 
-- **Cash flow kills before bad projects do.** 82% of construction business failures are cash flow failures, not quality failures. Retainage averaging 8-10% of contract value compounds every slow-pay client problem.
+- **[Cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) kills before bad projects do.** 82% of [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) failures are cash flow failures, not quality failures. Retainage averaging 8-10% of contract value compounds every slow-pay client problem.
 
 - **Workforce costs are not stabilizing.** Craft labor rates increased 9.3% year-over-year across most U.S. markets. Subcontractor markups are compressing general contractor margins on every multi-trade project.
 
-- **CONEXPO 2026 autonomous equipment is already on job sites.** Tier 1 contractors are deploying semi-autonomous grading and paving equipment that reduces crew size by 30-40% per machine. Small contractors using older fleets are bidding against this cost structure.
+- **[CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) autonomous equipment is already on job sites.** Tier 1 contractors are deploying semi-autonomous grading and paving equipment that reduces crew size by 30-40% per machine. Small contractors using older fleets are bidding against this cost structure.
 
 - **Market intelligence separates winners from losers.** Firms tracking competitor bids, permit activity, and subcontractor capacity through tools like [Smart Business Automator](https://smartbusinessautomator.com) are identifying bid opportunities 3-4 weeks before they hit the open market.
 
-## Construction Business Growth 2026: The Hard Numbers Behind the Headlines
+## [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: The Hard Numbers Behind the Headlines
 
-The construction industry added $2.1 trillion in total put-in-place spending in 2025. That headline sounds like a gold rush. For small contractors, it is closer to a tax on complexity. More work does not automatically mean more profit when your estimating is off by 6%, your retainage is locked for 90 days, and your crew costs jumped $4 per hour since January.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) added $2.1 trillion in total put-in-place spending in 2025. That headline sounds like a gold rush. For small contractors, it is closer to a tax on complexity. More work does not automatically mean more profit when your estimating is off by 6%, your retainage is locked for 90 days, and your crew costs jumped $4 per hour since January.
 
 **Construction business growth in 2026 requires understanding where the actual money is moving.** Infrastructure spending under the Infrastructure Investment and Jobs Act (IIJA) remains the strongest tailwind, with $55 billion still unobligated across highway, bridge, and broadband categories. Davis-Bacon prevailing wage requirements apply to nearly all of these projects, which eliminates low-road competitors who rely on wage suppression but adds payroll compliance overhead that small firms must account for in their overhead rates.
 
-Commercial and industrial sectors are mixed. Data center construction is the standout category, with $38 billion in announced projects for 2026. Retail and office lag. Residential single-family started recovering in late 2025 but remains 18% below 2021 peak starts nationally, with sharp regional variation.
+Commercial and industrial sectors are mixed. [Data center construction](/article/data-center-construction-boom-2026-what-contractors-need/) is the standout category, with $38 billion in announced projects for 2026. Retail and office lag. Residential single-family started recovering in late 2025 but remains 18% below 2021 peak starts nationally, with sharp regional variation.
 
 The firms capturing construction business growth in 2026 share three traits: they track the right data, they bid selectively, and they have moved beyond gut-feel estimating. According to market intelligence from [Smart Business Automator](https://smartbusinessautomator.com), contractors who track permit pull rates by zip code and owner type are identifying pipeline 60-90 days earlier than competitors working from GC solicitations alone.
 
@@ -122,7 +122,7 @@ Women-owned firms navigating this same growth curve are capturing an additional 
 
 ## Frequently Asked Questions
 
-### What is a realistic profit margin for a small construction company in 2026?
+### What is a realistic profit margin for a small [construction company](/article/surviving-the-messy-middle-of-construction-growth/) in 2026?
 
 Small contractors under $5M revenue average 5-8% net profit margins in 2026. Top-quartile firms in the same revenue band achieve 11-14% through tighter change order management, lower rework rates (under 3% of project value), and overhead rates calibrated quarterly rather than annually. Any margin below 5% creates cash flow instability that makes bonding renewal difficult and working capital growth impossible.
 
@@ -134,7 +134,7 @@ At $2M revenue, a 3% estimating error costs $60,000 per year in missed margin. M
 
 Autonomous and semi-autonomous equipment deployed after CONEXPO 2026 is already reducing crew requirements by 30-40% per machine on highway and site work projects operated by Tier 1 contractors. Small contractors bidding earthwork against these operators face a structural cost disadvantage of $18 to $35 per hour per piece of equipment. The near-term response is specializing in complex scopes where automation has not penetrated: confined sites, utility crossings, and structural renovation.
 
-### What are the biggest cash flow risks for growing construction companies in 2026?
+### What are the biggest cash flow risks for growing [construction companies in](/article/mexico-tehuantepec-corridor-how-it-impacts-us-construction-companies-in-2026/) 2026?
 
 The top three cash flow risks in 2026 are: retainage lockup averaging 8-10% of contract value for 60-120 days, slow billing cycles on time-and-material work (monthly billing floats an average of $47,000 per $1M in T&M backlog), and overbidding work without confirming bonding capacity, which forces project deferrals when a large contract is awarded without the surety line to support it.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619680/scalinglegends/2026_0
 readTime: "4 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -17,7 +17,7 @@ sponsors:
 
 [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: Navigating $41B Federal Cuts
 
-The news hit like a wrecking ball: DOGE just gutted $41.5 billion in federal contracts, wiping out significant portions of your projected revenue for 2026 and beyond. Across 24 agencies, the Department of Defense alone slashed $18.3 billion, and 750 GSA leases covering 10 million square feet have been terminated. For many government contractors, this isn't just a budget cut; it's 20% of their pipeline evaporating overnight, demanding immediate, decisive action to secure their future. The implications of these sudden **DOGE federal contracts** cancellations are profound, forcing a rapid re-evaluation of business models and strategic priorities.
+The news hit like a wrecking ball: DOGE just gutted $41.5 billion in federal contracts, wiping out significant portions of your projected revenue for 2026 and beyond. Across 24 agencies, the Department of Defense alone slashed $18.3 billion, and 750 GSA leases covering 10 million square feet have been terminated. For many government contractors, this isn't just a budget cut; it's 20% of their pipeline evaporating overnight, demanding immediate, decisive action to secure their future. The implications of these sudden **[DOGE federal contracts](/article/doge-federal-contracts-2026-what-contractors-need-to-know/)** cancellations are profound, forcing a rapid re-evaluation of business models and strategic priorities.
 
 <iframe src="https://www.youtube.com/embed/x6bVCE-i5RI" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -47,7 +47,7 @@ The ripple effect extends deep into the supply chain. Subcontractors, material s
 
 The rationale behind DOGE's aggressive cuts stems from a mandate to enhance government efficiency and reduce wasteful spending. While the long-term goal is to streamline operations and optimize taxpayer dollars, the immediate consequence for the construction sector is a significant contraction of opportunities. This shift forces contractors to not only seek new avenues for revenue but also to become inherently more efficient in their own operations, mirroring the government's new directive. The impact is not uniform; agencies with significant infrastructure and maintenance budgets, such as the Department of Energy and the Department of Veterans Affairs, have also seen substantial reductions, albeit less than DoD. This widespread impact underscores the need for a comprehensive strategy rather than a piecemeal approach.
 
-## Strategic Diversification: Beyond Federal Construction Contracts Cancelled
+## Strategic Diversification: Beyond Federal [Construction Contracts Cancelled](/article/federal-construction-contracts-cancelled-2026-what-contr/)
 
 The evaporation of $41.5 billion in federal contracts makes it abundantly clear: relying heavily on a single client, even one as large as the U.S. government, is a precarious strategy. For many contractors, the immediate priority must be aggressive diversification. This means actively pursuing opportunities in state, local, and private sectors, each with its own unique procurement processes, client expectations, and project types.
 
@@ -127,7 +127,7 @@ For contracts that have been directly impacted or are at risk, a thorough legal 
 
 - **Termination for Convenience:** This clause allows the government to terminate a contract without cause. However, it typically includes provisions for the contractor to recover costs incurred up to the point of termination, plus a reasonable profit on work performed. Contractors must meticulously document all expenses and work completed.
 
-- **Change Orders and Scope Reductions:** If a contract is not fully terminated but significantly reduced in scope, contractors need to understand their rights regarding equitable adjustments to pricing and schedules.
+- **Change Orders and Scope Reductions:** If a contract is not fully terminated but significantly reduced in scope, [contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) understand their rights regarding equitable adjustments to pricing and schedules.
 
 - **Legal Counsel:** Engaging experienced legal counsel specializing in federal contracting is advisable to navigate complex termination clauses and negotiate the best possible outcome.
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-colorado
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-04-06"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -226,7 +226,7 @@ Public sector work can provide stable revenue streams, though it often involves 
 
 - **Local Municipalities:** Cities and counties across Colorado publish RFPs (Requests for Proposals) and ITBs (Invitations to Bid) for various public works projects – everything from park facilities to municipal buildings and utility upgrades. Check individual city/county websites for their procurement pages.
 
-- **Federal Agencies:** Military bases (Buckley Space Force Base, Fort Carson, Air Force Academy), National Park Service, and other federal entities operating in Colorado frequently have construction contracts. Look for opportunities on SAM.gov.
+- **Federal Agencies:** Military bases (Buckley Space Force Base, Fort Carson, Air Force Academy), National Park Service, and other federal entities operating in Colorado frequently have [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/). Look for opportunities on SAM.gov.
 
 - **School Districts & Universities:** Colorado has numerous school districts and public universities (CU, CSU, UNC, etc.) that issue bids for new construction, renovations, and maintenance.
 

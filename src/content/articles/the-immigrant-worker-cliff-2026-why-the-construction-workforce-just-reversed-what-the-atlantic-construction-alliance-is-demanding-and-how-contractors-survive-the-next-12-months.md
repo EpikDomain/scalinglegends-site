@@ -94,7 +94,7 @@ Women represent a significantly underutilized domestic labor pipeline. [Women in
 
 ## Prefab, Automation, and the [Construction Market Intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) Case for Capital Investment Now
 
-The 18-month breakeven on prefab and automation in hot labor markets is the number contractors need to internalize. At 11 to 13 percent annual wage growth in the highest-demand regions, and with craft labor availability declining, the ROI on capital investment in labor-reducing technology is compressing faster than the models from two years ago suggested.
+The 18-month breakeven on prefab and automation in hot labor markets is the number [contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) internalize. At 11 to 13 percent annual wage growth in the highest-demand regions, and with craft labor availability declining, the ROI on capital investment in labor-reducing technology is compressing faster than the models from two years ago suggested.
 
 What does this look like practically? Structural insulated panels (SIPs) for wall assemblies can cut framing crew requirements 30 to 40 percent on residential and light commercial. Prefab MEP coordination — plumbing rack systems, prefabricated electrical assemblies — reduces field labor hours on mechanical and electrical rough-in 20 to 35 percent. Concrete formwork systems with higher reuse ratios reduce the labor intensity of the pour cycle. None of these eliminate the labor problem. All of them reduce the number of bodies you need for a given unit of output.
 

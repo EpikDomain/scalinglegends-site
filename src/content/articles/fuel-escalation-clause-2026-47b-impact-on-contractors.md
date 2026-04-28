@@ -154,7 +154,7 @@ Industry tracking data shows fuel price volatility can swing total bid cost by 8
 
 ### Which fuel price index should I reference in an escalation clause?
 
-The U.S. Department of Energy's Weekly Retail On-Highway Diesel Price is the standard reference for construction contracts because it is publicly available, updated every Monday, and regionally broken down by PADD regions 1 through 5. The EIA weekly petroleum survey is an acceptable alternative. Avoid using proprietary pump prices or regional fuel card averages as the reference index: they are not independently verifiable and create the exact disputes the clause is designed to prevent. Federal contracts under FAR 16.203 default to EIA data.
+The U.S. Department of Energy's Weekly Retail On-Highway Diesel Price is the standard reference for [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) because it is publicly available, updated every Monday, and regionally broken down by PADD regions 1 through 5. The EIA weekly petroleum survey is an acceptable alternative. Avoid using proprietary pump prices or regional fuel card averages as the reference index: they are not independently verifiable and create the exact disputes the clause is designed to prevent. Federal contracts under FAR 16.203 default to EIA data.
 
 ### Can a fuel escalation clause be added to an existing contract?
 

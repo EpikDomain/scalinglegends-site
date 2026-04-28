@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628650/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-03-30"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -131,7 +131,7 @@ The skills gap in the energy sector is significant. Contractors serious about th
 
 Energy projects often have different financial structures and risk profiles than traditional construction:
 
-- **Understanding Project Finance:** Many renewable energy projects rely on complex tax equity financing, power purchase agreements (PPAs), and government incentives. Contractors need to understand these mechanisms to manage cash flow and navigate payment terms.
+- **Understanding Project Finance:** Many renewable energy projects rely on complex tax equity financing, power purchase agreements (PPAs), and government incentives. [Contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) understand these mechanisms to manage cash flow and navigate payment terms.
 
 - **Securing Bonding & Insurance:** Ensure your bonding capacity and insurance coverage are adequate for the scale and specific risks of energy projects, which can include environmental liabilities, performance guarantees, and specialized equipment insurance.
 

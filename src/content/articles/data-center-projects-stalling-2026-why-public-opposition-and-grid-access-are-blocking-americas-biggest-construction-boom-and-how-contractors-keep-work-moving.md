@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_0
 readTime: "28 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -80,7 +80,7 @@ The contractors winning in this environment are not waiting for the utility queu
 
 Community opposition to data center development has a measurable cost: **12 to 18 months of delay** on projects that skip proactive public engagement. That delay translates to extended general conditions (typically 8 to 12 percent of total contract value per year), financing carrying costs for the developer, and equipment storage and restocking fees for the GC. On a $500 million campus, 18 months of delay adds $40 to $80 million in total project cost. That is not an estimate. It is the documented average from contested projects in Loudoun County and Prince William County over the past 24 months.
 
-Developers moving projects through community processes successfully in 2026 are following a specific playbook, and contractors need to understand it. It affects your preconstruction schedule, your bid structure, the community liaison line items in your proposal, and whether a project that looks clean today is about to become an 18-month nightmare.
+Developers moving projects through community processes successfully in 2026 are following a specific playbook, and [contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) understand it. It affects your preconstruction schedule, your bid structure, the community liaison line items in your proposal, and whether a project that looks clean today is about to become an 18-month nightmare.
 
 **The community engagement playbook, in sequence:**
 
@@ -158,7 +158,7 @@ Mississippi, Louisiana, Wyoming, Kansas, and South Dakota have the shortest inte
 
 Add 3 to 7 percent of total contract value as a named community and permit contingency. Explicitly exclude transformer and switchgear lead time delays from GC liability. Price phased mobilization with clear scope triggers between civil and electrical phases. Include optional pricing for on-site generation scope additions. In water-stressed markets, add $8 to $15 million per 100 MW IT load as a conditional scope item tied to cooling permit outcome. Contracts without these protections expose GCs to liquidated damages for conditions entirely outside their control.
 
-### What is a host community agreement in data center construction?
+### What is a host community agreement in [data center construction](/article/data-center-construction-boom-2026-what-contractors-need/)?
 
 A host community agreement (HCA) is a negotiated contract between a data center developer and the local municipality or county. HCAs typically include upfront or milestone-based payments of $5 million to $50 million per campus, plus commitments on local hire percentages (30 to 40 percent), STEM program funding, traffic mitigation, and environmental monitoring. Developers who execute HCAs before the first public permit hearing clear community opposition 60 to 80 percent faster than those who negotiate under pressure during a contested zoning proceeding.
 

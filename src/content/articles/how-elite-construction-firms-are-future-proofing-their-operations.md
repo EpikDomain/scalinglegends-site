@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -123,6 +123,6 @@ Top firms adopt advanced scheduling like Pull Planning and the Last Planner Syst
 
 Elite contractors leverage data-driven equipment management to track utilization, aiming for over 80% efficiency. This significantly outperforms the industry average of 55-65%, reducing capital expenditure waste. By optimizing equipment use, firms avoid unnecessary purchases and improve the return on existing assets and profitability.
 
-### What is the operational rhythm of a high-performing construction company?
+### What is the operational rhythm of a high-performing [construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/)?
 
 Elite firms follow a defined weekly rhythm: Monday Planning Sessions for proactive strategy and resource allocation, Wednesday Check-ins for immediate issue resolution, and Friday Closeouts to review achievements. This structured approach ensures constant progress, timely adjustments, and prevents small problems from escalating, driving consistent project success.

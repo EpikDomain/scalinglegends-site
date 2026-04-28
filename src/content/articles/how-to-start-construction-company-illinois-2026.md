@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-illinois
 readTime: "27 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -258,7 +258,7 @@ Public sector work can provide stable, large-scale projects, but comes with spec
 
 - **Illinois Department of Transportation (IDOT):** IDOT is a massive source of road, bridge, and infrastructure work. You'll need to be pre-qualified with IDOT to bid on prime contracts, but many opportunities exist as a subcontractor.
 
-- **Illinois Capital Development Board (CDB):** The CDB manages construction projects for state facilities, schools, and universities.
+- **Illinois Capital Development Board (CDB):** The CDB manages [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) for state facilities, schools, and universities.
 
 - **City of Chicago Department of Procurement Services:** If you're licensed in Chicago, this department handles all city contracts, including construction.
 

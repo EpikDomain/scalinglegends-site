@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-ohio-202
 readTime: "57 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -315,7 +315,7 @@ Knowing where to look is half the battle. Ohio has distinct growth corridors and
 
 - **Ohio Department of Transportation (ODOT):** Handles all state road and bridge projects. They have a robust bidding process.
 
-- **Local Government:** Cities, counties, townships, and school districts regularly put out bids for various construction projects (public buildings, parks, infrastructure, school renovations). Check their official websites or procurement portals.
+- **Local Government:** Cities, counties, townships, and school districts regularly put out bids for various [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) (public buildings, parks, infrastructure, school renovations). Check their official websites or procurement portals.
 
 ### Private Sector Work
 

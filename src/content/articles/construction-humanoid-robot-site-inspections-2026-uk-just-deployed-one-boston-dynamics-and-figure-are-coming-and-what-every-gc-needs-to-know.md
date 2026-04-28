@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -123,7 +123,7 @@ The regulatory picture is incomplete but moving faster than most GCs expect. Thr
 
 For GCs focused on [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) operations while managing regulatory complexity, the robotics compliance stack is best built now, while enforcement is light, rather than retrofitted after an incident or citation.
 
-## The Chinese Supply Chain and the $16,000 Humanoid: What US Contractors Need to Know
+## The Chinese Supply Chain and the $16,000 Humanoid: What US [Contractors Need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) Know
 
 Unitree Robotics H1 is listed at $16,000. For context, Boston Dynamics Spot quadruped starts at $75,000 and does not walk on two legs. The price differential is not a quality story, at least not entirely. It is a manufacturing economics story, and it reshapes the accessibility of construction robotics for every GC below the $50M revenue tier.
 

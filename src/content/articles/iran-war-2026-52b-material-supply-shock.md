@@ -104,7 +104,7 @@ At [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-sh
 
 ## Force Majeure, Supply Chain Insurance, and Protecting Active Projects
 
-The legal and financial protection layer is where most contractors are leaving money on the table right now. Force majeure clauses in construction contracts exist precisely for disruptions like this—but they require timely, documented notice to be enforceable.
+The legal and financial protection layer is where most contractors are leaving money on the table right now. Force majeure clauses in [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) exist precisely for disruptions like this—but they require timely, documented notice to be enforceable.
 
 If you have active contracts with fixed-price material assumptions that were bid before the Iran escalation, here's the documentation protocol that matters:
 

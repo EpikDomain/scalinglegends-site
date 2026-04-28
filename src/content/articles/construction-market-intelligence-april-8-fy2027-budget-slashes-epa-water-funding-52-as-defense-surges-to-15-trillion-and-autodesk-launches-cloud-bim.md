@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2707448/scalinglegends/2026_0
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -104,7 +104,7 @@ Yes. Autodesk officially launched Forma Building Design on April 7, and it is av
 
 ### Why are insurance costs rising so sharply for construction firms?
 
-Insurers are facing loss ratios of 112 percent, meaning they are paying out more in claims than they are collecting. General Liability (GL) costs are up 15-20%, and Workers' Compensation (WC) premiums are up 18%. Contractors need to focus on safety compliance to mitigate this impact and protect their profit margins.
+Insurers are facing loss ratios of 112 percent, meaning they are paying out more in claims than they are collecting. General Liability (GL) costs are up 15-20%, and Workers' Compensation (WC) premiums are up 18%. [Contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) focus on safety compliance to mitigate this impact and protect their profit margins.
 
 ## Bottom Line
 

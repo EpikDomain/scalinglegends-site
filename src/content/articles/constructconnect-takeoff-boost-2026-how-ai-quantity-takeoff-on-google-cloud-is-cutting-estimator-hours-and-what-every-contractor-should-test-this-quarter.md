@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "25 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -162,7 +162,7 @@ Takeoff Boost is an AI-powered quantity takeoff product built on Google Cloud Ve
 
 On standard commercial plan types -- hotels, multifamily, warehouse, retail -- AI classification accuracy is high enough to use as a working baseline, but human review remains essential for complex MEP systems, scope exclusions, deduction notes, and non-standard annotations. Best practice is AI-first classification followed by targeted estimator review, not full replacement of human judgment. Accuracy improves on plan types the model has been extensively trained on and degrades on hand-drawn or heavily customized drawings.
 
-### Is ConstructConnect Takeoff Boost compliant for federal and government-funded construction projects?
+### Is ConstructConnect Takeoff Boost compliant for federal and government-funded [construction projects](/article/how-to-manage-multiple-construction-projects-2026/)?
 
 Google Cloud Vertex AI holds SOC 2 Type II and ISO 27001 certification, satisfying most private commercial security requirements. Federal projects requiring FedRAMP authorization and contracts with data residency restrictions require additional review before deployment. Projects with owner-furnished information NDAs or government security classification levels should involve legal and compliance review before cloud-based plan processing begins. Davis-Bacon and prevailing wage documentation requirements are a separate concern from data security compliance.
 

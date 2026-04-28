@@ -29,7 +29,7 @@ Three global construction signals hit in 48 hours. Jefferies named top picks in 
 
 - **Israel's [construction labor](/article/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders/) shortage is approaching 40 percent**, and the government's foreign worker law push continues per the Jerusalem Post. Regional labor displacement has cascading effects on materials flows, subcontractor availability, and specialty trade pricing across the broader Middle East market.
 
-- **[Smart Business Automator](https://smartbusinessautomator.com) tracks 14 commodity indexes, 23 active international opportunities, and 9 market currency benchmarks** on its global construction dashboard. This is the data layer contractors need to move from reactive to proactive bid management in a volatile international environment.
+- **[Smart Business Automator](https://smartbusinessautomator.com) tracks 14 commodity indexes, 23 active international opportunities, and 9 market currency benchmarks** on its global construction dashboard. This is the data layer [contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) move from reactive to proactive bid management in a volatile international environment.
 
 - **Inconsistent construction work remains the single biggest threat to UK self-employed contractors** per Planning Building Construction Today. That inconsistency pattern, driven by planning delays and project financing gaps, is a structural risk that US firms evaluating UK partnerships must price into their exposure models.
 

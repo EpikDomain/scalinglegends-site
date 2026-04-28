@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-pennsylv
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -492,7 +492,7 @@ A: The statewide sales tax rate is 6% (8% in Philadelphia, 7% in Allegheny Count
 
 A: Yes, absolutely. If your construction company employs one or more individuals, you are legally required to carry Workers' Compensation insurance in Pennsylvania. There are very limited exceptions for sole proprietors, partners, and certain corporate officers who can elect to exempt themselves, but if you have employees, it's non-negotiable. The PA Bureau of Workers' Compensation and the PA Compensation Rating Bureau (PCRB) oversee this system.
 
-### Q: How do I find government construction contracts in Pennsylvania?
+### Q: How do I find government [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) in Pennsylvania?
 
 A: For state-level opportunities, register your business on the PA eMarketplace through the Department of General Services (DGS). For local municipal contracts, check individual city, borough, and township websites for RFPs and bid postings. For federally funded projects, monitor SAM.gov and the Unified Certification Program (UCP) for DBE opportunities, especially with PennDOT.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2648733/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -133,7 +133,7 @@ While the market is lucrative, it's not without its complexities. Contractors mu
 
 ## How to Win These High-Value Healthcare [Construction Projects](/article/surviving-the-messy-middle-of-construction-growth/)
 
-Securing healthcare construction contracts requires more than just bidding competitively. It demands a strategic, multi-faceted approach centered on expertise, reliability, and value. Here’s a detailed roadmap:
+Securing healthcare [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) requires more than just bidding competitively. It demands a strategic, multi-faceted approach centered on expertise, reliability, and value. Here’s a detailed roadmap:
 
 **Specialize and Deepen Your Expertise.**
 **Detail:** General contractors often struggle in this niche. Healthcare clients seek partners with proven experience in medical environments. Invest in training [your project managers](/article/10-ways-you-are-making-your-project-managers-life-miserable-and-killing-your-profits/) and superintendents in specific healthcare regulations (e.g., ICRA - Infection Control Risk Assessment, NFPA 101 Life Safety Code, FGI Guidelines for Design and Construction of Hospitals). Highlight past projects that demonstrate your understanding of active hospital environments, sterile protocols, and critical infrastructure (medical gases, redundant power systems). Aim for certifications or accreditations that signal this specialization.

@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2630894/scalinglegends/2026_0
 readTime: "8 min read"
 published: true
 season: 2
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -98,6 +99,6 @@ Context switching severely hinders construction productivity by forcing team mem
 
 Reducing employee turnover in construction requires intentional leadership. Budgeting just 2% of revenue for employee development is a direct investment in retention and competence. Additionally, recognizing good work and ensuring fairness are free yet powerful retention tools. Strong, consistent leadership that avoids micromanagement and provides clear communication is paramount for keeping top talent engaged long-term.
 
-### What impact do unclear instructions have on construction projects?
+### What impact do unclear instructions have on [construction projects](/article/how-to-manage-multiple-construction-projects-2026/)?
 
 Unclear instructions are a major hidden cost in construction. Ambiguous directives cause more rework, material waste, and significant schedule delays than actual skill incompetence. This erodes team trust and efficiency. Taking just an extra minute to formulate clear, concise instructions upfront can save hours of corrective work, improving project timelines and respecting your team's effort.

@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -74,7 +74,7 @@ These KPIs, when tracked consistently, provide actionable insights into the heal
 
 ## Structuring Your Finance Team for Scaling [Construction Company](/article/surviving-the-messy-middle-of-construction-growth/) Success
 
-As your revenue grows, so does the complexity of your financial operations. The finance team structure that served you at $3M will likely be inadequate at $10M. Understanding when to graduate from a bookkeeper to a controller, and eventually a CFO, is crucial for sustainable scaling construction company growth.
+As your revenue grows, so does the complexity of your financial operations. The finance team structure that served you at $3M will likely be inadequate at $10M. Understanding when to graduate from a bookkeeper to a controller, and eventually a CFO, is crucial for sustainable [scaling construction company](/article/scaling-construction-company-2026-what-contractors-need/) growth.
 
 *   **Bookkeeper (typically up to $3M-$5M):** Handles day-to-day transaction recording, accounts payable/receivable, and payroll. They are essential for accurate data entry but generally lack strategic financial analysis capabilities.
 *   **Controller (typically $5M-$15M):** Oversees the accounting functions, manages financial reporting, ensures compliance, and often supervises book
@@ -111,6 +111,6 @@ Implementing a "Profit First" approach to segment cash, mastering weekly Work-in
 
 As you scale from $3M to $10M, your financial oversight needs evolve significantly. It's time to transition from a bookkeeper to a controller, and eventually a CFO, when job complexity increases. This investment ensures your financial management matches your scaling ambitions, providing the expertise to navigate cash flow challenges and drive strategic growth effectively.
 
-### How does clean financial data impact a construction company's ability to grow?
+### How does clean financial data impact a [construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/)'s ability to grow?
 
 Clean, accurate financial statements directly impact your bonding capacity, which is essential for bidding on larger, more profitable projects. Without precise job costing, which can drop 40% without dedicated systems, and clear real-time data, lenders and insurers see increased risk. High-quality financial data is foundational for sustained growth and securing future work.

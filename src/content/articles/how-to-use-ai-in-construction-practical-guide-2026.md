@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-use-ai-in-construction-practical-gu
 readTime: "107 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -248,7 +248,7 @@ The construction industry is infamous for its document-heavy processes. Contract
 
 Legal and contractual documents are complex and crucial. Missing a critical clause or failing to adhere to specific terms can have severe financial repercussions. AI can act as a vigilant legal assistant.
 
-**How it works:** AI models are trained on thousands of construction contracts, identifying common clauses, legal terminology, and risk factors. When you upload a new contract (e.g., from a client or subcontractor), the AI can quickly analyze it to:
+**How it works:** AI models are trained on thousands of [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/), identifying common clauses, legal terminology, and risk factors. When you upload a new contract (e.g., from a client or subcontractor), the AI can quickly analyze it to:
 
 - **Extract Key Information:** Automatically pull out dates, parties, scope of work, payment terms, insurance requirements, and liquidated damages clauses.
 

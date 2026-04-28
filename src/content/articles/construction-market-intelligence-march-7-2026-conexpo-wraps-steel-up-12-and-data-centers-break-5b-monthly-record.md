@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2772700/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -135,7 +135,7 @@ Governor Newsom is pushing major modular construction legislation for 2026. ReMo
 
 - **RE:Construction Podcast**: Ep 197, payment reform discussion.
 
-- **Texas Association of Builders**: Ep 131, residential construction contracts.
+- **Texas Association of Builders**: Ep 131, residential [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/).
 
 **Content gaps wide open for Scaling Legends:** Nobody is doing a proper CONEXPO wrap-up for small/mid-size contractors. Tariff impact on actual job pricing is underserved. E-Verify compliance walkthroughs barely exist in podcast format. Data center opportunity for small contractors is untouched.
 
@@ -167,7 +167,7 @@ Steel tariffs at 50% have pushed steel bars and structural shapes up 12.1% year-
 
 Caterpillar launched "Cat Compact" for small contractors and showed AI/autonomous-ready equipment. Komatsu debuted next-gen dozers with IMC 3.0 machine control and their first articulated truck. Hitachi announced a rebrand to LANDCROS. Electric equipment dominated the floor with LiuGong showing 13 zero-emission machines claiming 40%+ lower operating costs. Over 130,000 attended.
 
-### How much data center construction started in January 2026?
+### How much [data center construction](/article/data-center-construction-boom-2026-what-contractors-need/) started in January 2026?
 
 $25.2 billion in data center construction starts in January 2026, the highest monthly figure ever. Twenty projects broke ground including two $10 billion developments. Tech companies have announced $700 billion in combined 2026 capex. Moody's projects $3 trillion in global data center spending over five years. Over 56% of near-term spending is in the South.
 

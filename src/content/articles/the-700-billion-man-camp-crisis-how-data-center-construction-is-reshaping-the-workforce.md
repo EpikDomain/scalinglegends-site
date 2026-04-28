@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2610245/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-04-28"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -35,7 +35,7 @@ Bloomberg just dropped a bombshell. The $700 billion AI data center boom is crea
 
 - **Strategic Threat & Opportunity.** Mid-size contractors must assess if they are losing workers to data centers, gaining subcontract work, or positioned to build the essential housing and infrastructure. This demands sophisticated [construction project management](/article/construction-project-management-surviving-the-messy-middle/).
 
-## The Unprecedented Data Center Construction Boom 2026
+## The Unprecedented [Data Center Construction Boom 2026](/article/data-center-construction-boom-2026-what-contractors-need/)
 
 The landscape of American construction is undergoing its most significant transformation since the shale oil boom, driven by the insatiable demands of artificial intelligence. As Bloomberg reported on March 6, the $700 billion AI data center boom is not just a projection; it's a present reality reshaping market dynamics and creating new challenges and opportunities for every contractor. The sheer scale of this growth is staggering: January 2026 alone saw an unprecedented $25.2 billion in data center construction starts, marking the highest single month on record. Over the trailing 12 months, total data center spending has reached $103.7 billion, averaging $8.6 billion per month. This isn't a slow burn; it's an explosion.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2758456/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -109,7 +109,7 @@ Yes, but not through a direct prime relationship in the first cycle. The realist
 
 ### What are the bonding requirements for federal subcontract work under this IDIQ?
 
-Federal construction contracts over $150,000 require performance and payment bonds under the Miller Act, equivalent to the state-level bonding requirements most contractors already carry. Task orders in the $15M to $50M range will require 100% performance and 100% payment bonds. Contractors who currently bond up to $5M commercially need to work with their surety to increase single-project and aggregate bonding capacity before pursuing mid-range federal task orders. Plan for 90 to 120 days to complete surety underwriting at a new capacity level.
+[Federal construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) over $150,000 require performance and payment bonds under the Miller Act, equivalent to the state-level bonding requirements most contractors already carry. Task orders in the $15M to $50M range will require 100% performance and 100% payment bonds. Contractors who currently bond up to $5M commercially need to work with their surety to increase single-project and aggregate bonding capacity before pursuing mid-range federal task orders. Plan for 90 to 120 days to complete surety underwriting at a new capacity level.
 
 ### How does Davis-Bacon prevailing wage affect labor costs on military energy projects?
 

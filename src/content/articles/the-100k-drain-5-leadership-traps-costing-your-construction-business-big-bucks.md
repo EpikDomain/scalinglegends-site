@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2751721/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -96,7 +97,7 @@ To calculate the true cost, you must sum the direct penalties, the lost revenue 
 
 ### What is the average revenue loss from unapproved change orders?
 
-The average revenue loss from unapproved change orders is approximately 6.2% of the total contract value. For a typical mid-sized $1M project, this amounts to a $62,000 drain in unbillable labor and material costs. This figure is derived from industry benchmarking data on fixed-price construction contracts.
+The average revenue loss from unapproved change orders is approximately 6.2% of the total contract value. For a typical mid-sized $1M project, this amounts to a $62,000 drain in unbillable labor and material costs. This figure is derived from industry benchmarking data on fixed-price [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/).
 
 ### Can I reduce retention costs without violating contract terms?
 

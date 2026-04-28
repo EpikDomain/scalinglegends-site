@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2632301/scalinglegends/2026_0
 readTime: "16 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -111,4 +111,4 @@ Building an operating system doesn't happen overnight, but you can start making 
 
 ## The Bottom Line
 
-Your construction company's future growth hinges not on working harder, but on working smarter through a robust operating system. Start by implementing the weekly rhythms this week. A 15-minute Monday huddle and a 10-minute Friday debrief will immediately improve communication and accountability, setting the stage for sustainable construction business growth 2026. This small step is the first domino in building a company that scales without consuming your life.
+Your [construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/)'s future growth hinges not on working harder, but on working smarter through a robust operating system. Start by implementing the weekly rhythms this week. A 15-minute Monday huddle and a 10-minute Friday debrief will immediately improve communication and accountability, setting the stage for sustainable construction business growth 2026. This small step is the first domino in building a company that scales without consuming your life.

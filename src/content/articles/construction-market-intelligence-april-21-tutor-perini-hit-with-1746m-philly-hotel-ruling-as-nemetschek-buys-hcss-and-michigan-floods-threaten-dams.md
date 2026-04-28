@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2752413/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -37,7 +37,7 @@ sponsors:
 
 The recent ruling against Tutor Perini Construction regarding a hotel project in Philadelphia is more than a headline; it is a warning signal for the entire General Contractor ecosystem. The court's decision to uphold damages totaling $174.6 million stems from a dispute over delay damages and change order management that spiraled beyond initial contractual expectations. For mid-sized contractors, the implication is clear: standard indemnity clauses are no longer a shield, and they are becoming a liability trap.
 
-Historically, construction contracts in the Northeast region relied on broad-form indemnity language. This required the contractor to indemnify the owner for any loss or damage, regardless of fault. However, recent judicial interpretations are pushing back against this asymmetry. The ruling suggests that General Contractors will be held strictly liable for subcontractor performance failures that are beyond the GC's reasonable control. This directly impacts your bonding capacity. Surety underwriters scrutinize these legal exposures closely. If a contractor carries a portfolio with loose indemnity language, their risk score rises, potentially increasing their bond premium by 15-20%. 
+Historically, [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) in the Northeast region relied on broad-form indemnity language. This required the contractor to indemnify the owner for any loss or damage, regardless of fault. However, recent judicial interpretations are pushing back against this asymmetry. The ruling suggests that General Contractors will be held strictly liable for subcontractor performance failures that are beyond the GC's reasonable control. This directly impacts your bonding capacity. Surety underwriters scrutinize these legal exposures closely. If a contractor carries a portfolio with loose indemnity language, their risk score rises, potentially increasing their bond premium by 15-20%. 
 
 For businesses scaling to $50M, you are likely operating with 30-50 concurrent jobs. One bad contract with unlimited liability exposure can wipe out five years of net profit. The financial impact is calculated as follows: if your average job size is $5 million, and you have a 2% probability of a dispute like this occurring annually, your expected loss is $100,000. Over a decade, that is $1 million at risk solely from contract terms. You must conduct a contract audit within the next 30 days. 
 

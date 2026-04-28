@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-write-construction-contract-guide-2
 readTime: "58 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -102,7 +102,7 @@ Changes are inevitable in construction. How you manage them determines whether t
 
 - **Disputed Changes:** Outline a process for handling changes where the parties cannot agree on price or time, without halting the main project.
 
-This clause is vital for how to negotiate construction contracts effectively when project parameters shift.
+This clause is vital for how to negotiate [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) effectively when project parameters shift.
 
 ### Delay and Force Majeure Clauses
 

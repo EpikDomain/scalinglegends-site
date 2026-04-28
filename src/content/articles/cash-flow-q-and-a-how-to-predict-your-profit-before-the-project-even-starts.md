@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2632307/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -42,7 +42,7 @@ Consider a scenario where you've successfully completed a large commercial build
 
 ## Strategic [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: Volume vs. Value
 
-The temptation to chase volume, especially in competitive markets, often leads contractors to compromise on profit margins. However, this strategy is a direct path to financial instability. The data is clear: if the gap between your bid and your true project costs is less than 15%, you are effectively working for free once overhead, unexpected issues, and administrative costs are factored in. This narrow margin leaves no room for error, and construction projects are inherently unpredictable.
+The temptation to chase volume, especially in competitive markets, often leads contractors to compromise on profit margins. However, this strategy is a direct path to financial instability. The data is clear: if the gap between your bid and your true project costs is less than 15%, you are effectively working for free once overhead, unexpected issues, and administrative costs are factored in. This narrow margin leaves no room for error, and [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) are inherently unpredictable.
 **Contractors consistently chasing volume with gross margins below 12% fail at three times the rate of those who hold firm at 18% or higher.** This isn't just an arbitrary number; it reflects the necessary buffer to absorb unforeseen delays, material cost increases, labor issues, and client changes without dipping into negative cash flow. For 2026, market intelligence suggests continued volatility in material costs and labor availability, making robust profit margins more critical than ever.
 
 The focus should always be on value, not just volume. A smaller number of highly profitable projects are far more sustainable than a large pipeline of low-margin work that drains your resources and exposes you to higher risks. When evaluating new opportunities, rigorously assess not just the top-line revenue but the bottom-line profitability. Use detailed estimates and historical data to project accurate costs and build in adequate contingency. This includes accounting for potential delays, rework, and administrative overhead. Investing in solid [construction project management](/article/construction-project-management-surviving-the-messy-middle/) practices helps control these costs, allowing you to maintain healthier margins. Prioritize clients who value quality and are willing to pay for it, rather than those who consistently demand the lowest price. This strategic shift is fundamental for sustainable growth in the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/).

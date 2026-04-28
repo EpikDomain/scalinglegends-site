@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-arizona-2026
 readTime: "28 min read"
 published: true
 season: 2
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -243,7 +244,7 @@ Always exercise caution when signing lien waivers. Ensure you understand what ri
 
 ## Bond Claims on Arizona Public Projects (Little Miller Act Equivalent)
 
-Mechanics liens generally apply only to private construction projects. Public projects (those owned by state, county, or municipal governments) are typically not subject to mechanics liens because public property cannot be encumbered. Instead, Arizona has its own "Little Miller Act," which requires general contractors on most public projects to furnish a payment bond.
+Mechanics liens generally apply only to private [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). Public projects (those owned by state, county, or municipal governments) are typically not subject to mechanics liens because public property cannot be encumbered. Instead, Arizona has its own "Little Miller Act," which requires general contractors on most public projects to furnish a payment bond.
 
 A.R.S. §34-221 through 34-227 governs these payment bonds. If you are a subcontractor, supplier, or laborer on an Arizona public project and are not paid, your remedy is to make a claim against this payment bond.
 

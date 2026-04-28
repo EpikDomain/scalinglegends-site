@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-georgia-
 readTime: "52 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -288,7 +288,7 @@ Public projects are a steady source of work, but they come with specific require
 
 - **School Boards:** Local school districts regularly bid out projects for new schools, additions, and renovations.
 
-**Georgia Prevailing Wage Requirements:** This is a critical point. Unlike many states, Georgia DOES NOT have a state-level prevailing wage law for state-funded construction projects. This means you are not legally required to pay union wages or specific "prevailing" rates on projects funded solely by the State of Georgia or its subdivisions. HOWEVER, if a project receives ANY federal funding, then federal prevailing wage laws (specifically the Davis-Bacon Act) WILL apply, requiring you to pay federal prevailing wages and benefits. Always check project specifications for federal funding.
+**Georgia Prevailing Wage Requirements:** This is a critical point. Unlike many states, Georgia DOES NOT have a state-level prevailing wage law for state-funded [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). This means you are not legally required to pay union wages or specific "prevailing" rates on projects funded solely by the State of Georgia or its subdivisions. HOWEVER, if a project receives ANY federal funding, then federal prevailing wage laws (specifically the Davis-Bacon Act) WILL apply, requiring you to pay federal prevailing wages and benefits. Always check project specifications for federal funding.
 
 ### Private Sector Work
 

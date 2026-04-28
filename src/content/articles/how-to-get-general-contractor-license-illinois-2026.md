@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-illi
 readTime: "96 min read"
 published: true
 season: 2
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -195,7 +196,7 @@ Insurance protects your business from financial losses due to accidents, injurie
 *   **Umbrella Liability Insurance:**
 *   Often recommended for contractors, an umbrella policy provides additional liability coverage above the limits of your primary CGL and auto policies. Given the high stakes in construction, this extra layer of protection can be invaluable.
 *   **Builder's Risk Insurance:**
-*   While not typically a licensing requirement, Builder's Risk insurance is crucial for most construction projects. It protects the structure and materials during construction from perils like fire, theft, and vandalism. Project owners or lenders often require it.
+*   While not typically a licensing requirement, Builder's Risk insurance is crucial for most [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). It protects the structure and materials during construction from perils like fire, theft, and vandalism. Project owners or lenders often require it.
 *   **Professional Liability (E&O) Insurance:**
 *   If your company provides design-build services or offers significant input on design, professional liability insurance (Errors & Omissions) is wise. It covers claims arising from professional negligence or errors in design or advice.
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-californ
 readTime: "58 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -476,7 +476,7 @@ All LLCs registered or doing business in California are required to pay an annua
 
 ### Are materials subject to sales tax in California [construction projects](/article/surviving-the-messy-middle-of-construction-growth/)?
 
-Generally, for lump-sum construction contracts, contractors are considered the "consumer" of the materials they furnish and install. This means you pay sales tax to your suppliers when you purchase the materials and do not charge sales tax to your client on the materials portion of the project. However, if you are selling materials without installation or have certain types of time-and-materials contracts, different rules may apply, and you might need a seller's permit from the CDTFA.
+Generally, for lump-sum [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/), contractors are considered the "consumer" of the materials they furnish and install. This means you pay sales tax to your suppliers when you purchase the materials and do not charge sales tax to your client on the materials portion of the project. However, if you are selling materials without installation or have certain types of time-and-materials contracts, different rules may apply, and you might need a seller's permit from the CDTFA.
 
 ### Do I need Workers' Compensation insurance if I only have one employee in California?
 

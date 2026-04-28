@@ -17,25 +17,25 @@ sponsors:
 Here's the article:
 
 ```html
-Steel prices jumped 18% between January and April 2026. If you bid a $2 million commercial job in Q4 2025 using last year's material assumptions, you are already looking at a $36,000 shortfall before a single worker sets foot on site. That is not a rounding error. That is a busted job. The contractors pulling ahead on **construction business growth 2026** are the ones who built material volatility into their systems — not their gut feelings.
+Steel prices jumped 18% between January and April 2026. If you bid a $2 million commercial job in Q4 2025 using last year's material assumptions, you are already looking at a $36,000 shortfall before a single worker sets foot on site. That is not a rounding error. That is a busted job. The contractors pulling ahead on **[construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026** are the ones who built material volatility into their systems — not their gut feelings.
 
 ## Key Takeaways
 
 - **Steel prices rose approximately 18% YTD through Q2 2026.** Structural steel, rebar, and metal decking are the highest-impact line items for contractors in the $1M–$50M revenue band.
 
-- **Contractor profit margins 2026 are under serious compression.** With net margins averaging 3–7%, a 5% materials cost overrun on steel-heavy jobs can erase half the profit on a single contract.
+- **[Contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 are under serious compression.** With net margins averaging 3–7%, a 5% materials cost overrun on steel-heavy jobs can erase half the profit on a single contract.
 
 - **Only 23% of contractors use material escalation clauses consistently.** The other 77% are absorbing price increases that should legally flow to project owners.
 
-- **Construction estimating software 2026 with live commodity data integration can save $40,000+ per year** on a $10M revenue business by eliminating reactive re-estimating cycles.
+- **[Construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026 with live commodity data integration can save $40,000+ per year** on a $10M revenue business by eliminating reactive re-estimating cycles.
 
-- **AI construction technology 2026 tools are cutting material repricing time from 6 hours to under 45 minutes** on complex commercial bids, according to market data tracked by [Smart Business Automator](https://smartbusinessautomator.com).
+- **AI [construction technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) 2026 tools are cutting material repricing time from 6 hours to under 45 minutes** on complex commercial bids, according to market data tracked by [Smart Business Automator](https://smartbusinessautomator.com).
 
-- **CONEXPO 2026 autonomous equipment announcements signal a structural shift in labor-to-material cost ratios** that will change how contractors build contingency budgets within 24 months.
+- **[CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) autonomous equipment announcements signal a structural shift in labor-to-material cost ratios** that will change how contractors build contingency budgets within 24 months.
 
 - **Contractors with systematic market intelligence processes grow revenue 2.4x faster** than competitors operating on reactive, gut-feel estimating.
 
-## Why Steel Prices in 2026 Are Threatening Construction Business Growth
+## Why Steel Prices in 2026 Are Threatening [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Growth
 
 The steel price spike in 2026 is not a single-cause problem. It is a convergence of four pressure points hitting simultaneously: reimposed 25% tariffs on imported steel under Section 232, reduced domestic mill production capacity following a wave of Q3 2025 facility maintenance shutdowns, increased federal infrastructure demand from IIJA disbursements hitting their peak deployment year, and a weaker dollar making imported raw inputs more expensive even before tariffs apply.
 
@@ -57,7 +57,7 @@ The mechanism is straightforward. Steel gets purchased after contract execution.
 
 The data on escalation clause adoption is alarming. Only 23% of contractors surveyed in a 2026 AGC industry pulse report said they consistently include material escalation provisions in their subcontracts and prime contracts. The majority are still operating on fixed-price bids that transfer all commodity risk to the contractor.
 
-**This is a cash flow crisis waiting to happen.** Retainage compounds the problem — with 5–10% of contract value held back until project completion, contractors are financing material cost overruns out of working capital while waiting on retainage release. On a $3 million project with 10% retainage, that is $300,000 sitting with the owner while the contractor absorbs $50,000 in unexpected steel costs. The working capital math gets ugly fast.
+**This is a [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) crisis waiting to happen.** Retainage compounds the problem — with 5–10% of contract value held back until project completion, contractors are financing material cost overruns out of working capital while waiting on retainage release. On a $3 million project with 10% retainage, that is $300,000 sitting with the owner while the contractor absorbs $50,000 in unexpected steel costs. The working capital math gets ugly fast.
 
 Proper [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) in 2026 requires treating steel exposure as a cash flow risk, not just a cost risk. That means mapping steel purchase timing against project cash inflows and draw schedules, and structuring payment milestones that align material delivery with cash receipt.
 
@@ -85,13 +85,13 @@ What to look for in an estimating platform for 2026:
 
 - Historical price tracking so you can show owners documented cost basis during change order negotiations
 
-- Integration with project management workflows so field change orders flow back to the estimate for cost code accuracy
+- Integration with [project management](/article/surviving-the-messy-middle-of-construction-growth/) workflows so field change orders flow back to the estimate for cost code accuracy
 
 The firms that have made this transition are submitting bids faster, with higher confidence, and recovering more through change orders because their documentation starts at the estimate stage. For [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) operations past $10M in revenue, this infrastructure is not optional — it is table stakes.
 
 ## AI Construction Technology 2026 Is Giving Contractors a Real Hedge
 
-The conversation about **AI construction technology 2026** often focuses on autonomous equipment and site monitoring. But the highest-ROI AI application for contractors dealing with steel price volatility is something more unglamorous: automated material forecasting and bid repricing.
+The conversation about **AI construction technology 2026** often focuses on [autonomous equipment and](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) site monitoring. But the highest-ROI AI application for contractors dealing with steel price volatility is something more unglamorous: automated material forecasting and bid repricing.
 
 AI-powered estimating tools trained on commodity price history, project type, and regional supplier data can now predict steel cost movement with 70–80% directional accuracy 30–45 days out. That is not perfect, but it is significantly better than a project manager checking the AMM website once a month. For a contractor deciding whether to lock in steel pricing at current rates or wait, that directional signal has direct dollar value.
 
@@ -135,7 +135,7 @@ Prioritize platforms with live commodity price feed integration, automatic bid v
 
 AI tools are being used for three high-value applications: directional commodity price forecasting (70–80% accuracy at 30–45 days), automated bid repricing across all assemblies when commodity inputs change, and change order pattern recognition that flags claims with the highest recovery probability. Contractors using AI-assisted material forecasting reduced unexpected steel cost overruns by 34% in Q1 2026 compared to manual-process competitors, translating to $40,000–$80,000 in recovered margin on a $15M revenue operation.
 
-### What did CONEXPO 2026 reveal about construction costs going forward?
+### What did CONEXPO 2026 reveal about [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/) going forward?
 
 CONEXPO 2026 showcased autonomous and semi-autonomous equipment systems capable of reducing labor requirements on steel-intensive work by 20–40%. While adoption is 24–36 months from mainstream deployment, the cost structure implication is significant: labor cost reductions of 20–30% on structural work create margin buffer that can absorb greater material volatility. Contractors beginning autonomous equipment evaluation now are positioning for a competitive cost advantage that will compound as deployment scales through 2027–2028.
 

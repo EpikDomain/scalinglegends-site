@@ -1,13 +1,13 @@
 ---
-title: "Surviving the Messy Middle of Construction Growth"
-description: "The $3M-$7M revenue zone where most construction companies stall or fail. What happens in the messy middle and how to push through it."
+title: "Construction Growth Challenges for 2026"
+description: "Explore why many construction companies stall between $3M-$7M. Understand the critical growth challenges facing the industry in 2026 and how to prepare your business."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/surviving-the-messy-middle-of-construction-growth-1772747275.png"
-audioUrl: "https://content.rss.com/episodes/332597/2598785/scalinglegends/2026_03_04_00_32_22_742cd069-905c-4f7f-ae0e-5e8ee5368867.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2751631/scalinglegends/2026_04_21_03_11_17_7863a623-da90-4249-9d08-377ca560ceb2.mp3"
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

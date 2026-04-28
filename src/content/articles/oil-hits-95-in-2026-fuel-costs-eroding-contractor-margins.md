@@ -24,7 +24,7 @@ Oil just hit $95 a barrel, and if you're running a [construction company](/artic
 
 - **A $50K project that ran 18% margins in 2025 is now running 14-15%.** Fuel costs on that same job jumped from $2,800 to $4,200, a 50% increase in one line item that most contractors never repriced.
 
-- **Fuel surcharge clauses tied to oil price benchmarks are the smartest contract protection available right now.** A 2% surcharge for every $10/barrel above $80 is transparent, defensible, and increasingly standard in commercial construction contracts.
+- **Fuel surcharge clauses tied to oil price benchmarks are the smartest contract protection available right now.** A 2% surcharge for every $10/barrel above $80 is transparent, defensible, and increasingly standard in commercial [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/).
 
 - **Operational automation delivers 8-12% fuel efficiency gains without changing equipment fleets.** Data from [Smart Business Automator](https://smartbusinessautomator.com) shows idle time, poor routing, and equipment oversizing account for the majority of recoverable fuel waste on active job sites.
 

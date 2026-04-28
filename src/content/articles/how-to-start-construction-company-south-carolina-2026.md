@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-south-ca
 readTime: "30 min read"
 published: true
 season: 2
-updatedAt: "2026-03-26"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -360,7 +360,7 @@ A2: Yes, it's possible. The SC CLB requires a CPA-prepared financial statement d
 
 ### What's the difference between an SC General Contractor's license and a Residential Builder's license?
 
-A3: An SC General Contractor's license (from the SC CLB) is typically for commercial, industrial, and heavy construction projects over $5,000. It has various classifications (e.g., Building, Highway, Public Utilities). A Residential Builder's license (from the SC Residential Builders Commission) is specifically for constructing, renovating, or repairing residential structures. Depending on the scope and value of your work, you may need one or both. For new home construction, you will almost certainly need the Residential Builder's license.
+A3: An SC General Contractor's license (from the SC CLB) is typically for commercial, industrial, and heavy [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) over $5,000. It has various classifications (e.g., Building, Highway, Public Utilities). A Residential Builder's license (from the SC Residential Builders Commission) is specifically for constructing, renovating, or repairing residential structures. Depending on the scope and value of your work, you may need one or both. For new home construction, you will almost certainly need the Residential Builder's license.
 
 ### Are there specific environmental regulations I need to be aware of for construction in South Carolina?
 

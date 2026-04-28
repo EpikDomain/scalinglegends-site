@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2644965/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-03-28"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -105,7 +105,7 @@ Implementing the right software can significantly improve project delivery, redu
 
 The outlook for construction business growth in 2026 is mixed, characterized by a 49% US recession probability from Moody's Analytics, coupled with significant input price inflation (up 12.6% annualized). However, massive infrastructure investments, such as Japan's $73 billion pledge and accelerating defense spending, offer targeted growth opportunities, especially in energy and specialized infrastructure.
 
-### How are rising material costs impacting construction projects?
+### How are rising material costs impacting [construction projects](/article/how-to-manage-multiple-construction-projects-2026/)?
 
 Rising material costs are severely impacting construction project profitability, with overall input prices up 12.6% annualized and 45.3% since Feb 2020. Specific spikes include natural gas (+30%), copper (+27.1%), steel (+20.9%), and diesel (+13.9%) in February. This necessitates dynamic pricing, escalation clauses, and advanced estimating software to protect margins.
 

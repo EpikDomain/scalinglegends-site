@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-north-caroli
 readTime: "50 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -90,7 +90,7 @@ Filing a Claim of Lien on Real Property is a precise legal process that must adh
 
 Before you begin, confirm that you meet the criteria for filing a lien in North Carolina:
 
-- **Private Projects Only:** Mechanics liens in NC apply exclusively to private construction projects. Public projects require bond claims (discussed later).
+- **Private Projects Only:** Mechanics liens in NC apply exclusively to private [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). Public projects require bond claims (discussed later).
 
 - **Qualified Claimant:** Ensure you fall into one of the categories of parties with lien rights (GC, sub, supplier, laborer, design professional).
 

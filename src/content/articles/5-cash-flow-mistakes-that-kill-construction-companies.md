@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2671116/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -97,7 +97,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 <iframe src="https://www.youtube.com/embed/4I5LfbHMHTM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
-## How to Protect Your Construction Company's Cash Flow
+## How to Protect Your [Construction Company](/article/building-roads-and-breaking-barriers-ebony-jennings/)'s Cash Flow
 
 - **Front-Load Your Schedule of Values.** For all active projects, review your Schedule of Values (SOV) and immediately adjust the weighting to aggressively bill for materials and mobilization in the early stages to improve immediate cash flow.
 

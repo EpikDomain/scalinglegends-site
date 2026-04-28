@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628405/scalinglegends/2026_0
 readTime: "5 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -69,7 +69,7 @@ The current surge in office construction, totaling an unprecedented $782 billion
 
 The global office construction pipeline has surged to an unprecedented $782 billion. A significant 75% of these projects are already in pre-execution phases, indicating a concrete and immediate market opportunity rather than just speculative demand. This substantial commitment reflects the direct impact of corporate return-to-office policies on the commercial real estate sector.
 
-### What types of office construction projects are in demand now?
+### What types of office [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) are in demand now?
 
 The demand spans various project types, including new office tower constructions, extensive renovations, retrofits, and reconfigurations of existing spaces. Companies seek offices that foster collaboration, integrate advanced technology, and offer enhanced amenities to justify employee commutes. This includes smart building integration and sustainable design elements to meet evolving corporate needs and attract talent.
 

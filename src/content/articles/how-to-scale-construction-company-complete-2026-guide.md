@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-scale-construction-company-complete
 readTime: "41 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -92,7 +92,7 @@ For owners, the biggest hurdle in scaling construction business is often letting
 
 ## Mastering Cash Flow in a Growing Business
 
-Growth consumes cash. This is one of the most critical lessons in how to grow a construction business. While increasing revenue is exciting, aggressive expansion without robust cash flow management can lead to insolvency. Construction projects inherently have long cash conversion cycles, making proactive financial planning indispensable. Many companies fail not due to lack of projects, but due to poor cash flow management, making it essential to avoid [5 Cash Flow Mistakes That Kill Construction Companies](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
+Growth consumes cash. This is one of the most critical lessons in how to grow a construction business. While increasing revenue is exciting, aggressive expansion without robust cash flow management can lead to insolvency. [Construction projects](/article/how-to-manage-multiple-construction-projects-2026/) inherently have long cash conversion cycles, making proactive financial planning indispensable. Many companies fail not due to lack of projects, but due to poor cash flow management, making it essential to avoid [5 Cash Flow Mistakes That Kill Construction Companies](/article/5-cash-flow-mistakes-that-kill-construction-companies/).
 
 ### Accurate Cash Flow Projections
 

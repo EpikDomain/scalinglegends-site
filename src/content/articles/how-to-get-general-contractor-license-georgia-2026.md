@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-geor
 readTime: "28 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -378,6 +378,6 @@ For a Residential-Basic Contractor license in Georgia, the total value of any si
 
 Operating without the proper general contractor license in Georgia, especially for projects exceeding specific value thresholds, carries serious consequences. You risk significant fines, mandatory project shutdowns, and a severely damaged professional reputation. The Georgia DPL strictly enforces these statewide requirements.
 
-### Is a contractor license required for all construction projects in Georgia?
+### Is a contractor license required for all [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) in Georgia?
 
 A state contractor license is required in Georgia for anyone undertaking projects above specific value thresholds set by the Georgia Division of Professional Licensing (DPL). For instance, even the Residential-Basic license covers projects up to $100,000, indicating that most substantial work requires proper licensing to avoid legal issues.

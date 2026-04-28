@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2644988/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -77,7 +77,7 @@ AI, exemplified by platforms like Anori, will significantly impact construction 
 
 Anori is an AI platform spun out of Alphabet's X that aims to fix construction permitting. It works by generating and evaluating site plans, optimizing for compliance, financials, and design simultaneously. It creates a shared workspace for all stakeholders (developers, architects, engineers, city officials) to proactively identify and resolve compliance conflicts in weeks, rather than months or years.
 
-### How much do permitting delays cost construction projects annually?
+### How much do permitting delays cost [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) annually?
 
 Permitting delays cost the U.S. economy an estimated $100-140 billion annually in unrealized returns. This includes increased carrying costs, labor extensions, material price escalations, and missed market opportunities. Direct spending on permitting processes alone accounts for an additional $5-14 billion each year.
 

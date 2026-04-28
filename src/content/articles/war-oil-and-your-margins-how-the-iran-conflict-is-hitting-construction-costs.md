@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2619681/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -17,7 +17,7 @@ sponsors:
 
 How to Scale a [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) 2026: Iran Conflict & Your Margins
 
-The global energy market just snapped. Oil prices surged from $73 to $120 a barrel in less than 10 days, a 64% increase that's reverberating across every sector. With the Strait of Hormuz now effectively closed and 20% of global Liquefied Natural Gas (LNG) supply offline, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) faces an immediate and severe cost shock. Wells Fargo economists are clear: if crude oil holds at $130, a recession is inevitable. This isn't a distant geopolitical issue; it's a direct threat to your project profitability and your ability to scale [your construction business](/article/diesel-at-460-how-to-fuel-proof-your-construction-business/). Understanding the full **oil prices construction impact** is crucial for survival and growth.
+The global energy market just snapped. Oil prices surged from $73 to $120 a barrel in less than 10 days, a 64% increase that's reverberating across every sector. With the Strait of Hormuz now effectively closed and 20% of global Liquefied Natural Gas (LNG) supply offline, the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) faces an immediate and severe cost shock. Wells Fargo economists are clear: if crude oil holds at $130, a recession is inevitable. This isn't a distant geopolitical issue; it's a direct threat to your project profitability and your ability to scale [your construction business](/article/diesel-at-460-how-to-fuel-proof-your-construction-business/). Understanding the full **oil [prices construction impact](/article/oil-prices-construction-impact-2026-what-contractors-nee/)** is crucial for survival and growth.
 
 <iframe src="https://www.youtube.com/embed/SQ9FefBVrAk" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 
@@ -55,7 +55,7 @@ Beyond these direct material costs, transportation expenses will also skyrocket.
 
 **Key Stat: Over 70% of construction materials are transported by truck at some point in their journey. A 25% increase in diesel costs translates to a minimum 5-8% increase in overall material delivery expenses.**
 
-This dynamic makes accurate forecasting and proactive hedging indispensable. Contractors need to evaluate existing contracts for fuel and material escalation clauses. For new bids, incorporating robust contingencies or dynamic pricing mechanisms is no longer optional. Firms that fail to adapt their pricing and procurement strategies quickly risk seeing their hard-earned [contractor profit margins 2026](/article/how-to-scale-a-construction-business-without-losing-control/) evaporate under the weight of these rising costs. This is not merely an inconvenience; it's a fundamental shift in the cost landscape that demands immediate and strategic action for any business aspiring to sustainable growth.
+This dynamic makes accurate forecasting and proactive hedging indispensable. [Contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) evaluate existing contracts for fuel and material escalation clauses. For new bids, incorporating robust contingencies or dynamic pricing mechanisms is no longer optional. Firms that fail to adapt their pricing and procurement strategies quickly risk seeing their hard-earned [contractor profit margins 2026](/article/how-to-scale-a-construction-business-without-losing-control/) evaporate under the weight of these rising costs. This is not merely an inconvenience; it's a fundamental shift in the cost landscape that demands immediate and strategic action for any business aspiring to sustainable growth.
 
 ## Navigating the Financial Headwinds: Advanced [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/)
 

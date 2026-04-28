@@ -19,17 +19,17 @@ Over $3.2 billion in federal construction contracts were cancelled, paused, or d
 
 - **Federal contract cancellations have wiped out an estimated $3.2B+ in planned construction spend in Q1 2026.** Projects tied to GSA, DoD facility upgrades, and EPA environmental remediation represent the highest concentration of cancelled work.
 
-- **Contractor profit margins 2026 are under compounded pressure.** Material cost inflation (still running 6-9% YoY on structural steel and concrete), combined with abrupt backlog evaporation, is pushing net margins below 3% for firms that had 60%+ federal revenue dependency.
+- **[Contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 are under compounded pressure.** Material cost inflation (still running 6-9% YoY on structural steel and concrete), combined with abrupt backlog evaporation, is pushing net margins below 3% for firms that had 60%+ federal revenue dependency.
 
 - **Davis-Bacon prevailing wage requirements remain in force even on cancelled projects** for any work completed before a stop-work order — meaning contractors may be owed significant retroactive payments that require active pursuit through contracting officers.
 
 - **Cash flow management is now the single highest-risk failure point.** Firms with less than 60 days of operating cash who were relying on upcoming federal draws are in immediate liquidity danger.
 
-- **Construction business growth 2026 requires a rapid pivot to state, municipal, and private sector pipelines.** State DOTs are accelerating their own infrastructure spend, partially backfilling the federal void, but bid competition is increasing fast.
+- **[Construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026 requires a rapid pivot to state, municipal, and private sector pipelines.** State DOTs are accelerating their own infrastructure spend, partially backfilling the federal void, but bid competition is increasing fast.
 
 - **Bonding capacity is being reassessed by sureties.** If your backlog has dropped 30%+ due to federal cancellations, expect your bonding company to request updated financials and potentially reduce your single and aggregate limits.
 
-- **Construction estimating software 2026 decisions matter more than ever.** Firms that can generate accurate, fast bids for new pipeline segments will capture work that slower competitors miss in a compressed window.
+- **[Construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software 2026 decisions matter more than ever.** Firms that can generate accurate, fast bids for new pipeline segments will capture work that slower competitors miss in a compressed window.
 
 ## What Actually Got Cancelled: The Federal Contract Landscape in 2026
 
@@ -49,9 +49,9 @@ The hardest-hit contract categories include:
 
 For contractors tracking this in real time, [Smart Business Automator](https://smartbusinessautomator.com) has been monitoring SAM.gov contract modification data and providing weekly intelligence on which contract vehicles are experiencing the highest cancellation activity — giving firms early warning to adjust their bid pipelines before the formal stop-work notices arrive.
 
-The critical legal detail most contractors are missing: a stop-work order does not automatically extinguish your right to payment for work completed. Under the Federal Acquisition Regulation (FAR 52.242-15), you have 30 days from receipt of a stop-work order to submit a cost impact statement. **Missing this window can permanently forfeit your right to compensation for completed work and mobilization costs.** Talk to a federal contracts attorney immediately if you've received a stop-work order and haven't filed this notice.
+The critical legal detail most [contractors are missing](/article/construction-tax-strategy-2026-bonus-depreciation-is-back-to-100-and-here-are-7-deductions-most-contractors-are-missing/): a stop-work order does not automatically extinguish your right to payment for work completed. Under the Federal Acquisition Regulation (FAR 52.242-15), you have 30 days from receipt of a stop-work order to submit a cost impact statement. **Missing this window can permanently forfeit your right to compensation for completed work and mobilization costs.** Talk to a federal contracts attorney immediately if you've received a stop-work order and haven't filed this notice.
 
-## Construction Cash Flow Management When Federal Revenue Disappears
+## [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) When Federal Revenue Disappears
 
 A contractor running 60% federal work who loses three simultaneous task orders doesn't lose 60% of revenue immediately — they lose 60% of projected draws over the next 6-18 months. That distinction sounds better than it is. Project-based cash flow, unlike subscription revenue, doesn't turn off cleanly. Mobilization costs are already spent. Subcontractors need to be paid. Equipment financing doesn't pause because your contract did.
 
@@ -69,7 +69,7 @@ Effective [construction cash flow management](/article/5-cash-flow-mistakes-that
 
 Specific actions: Accelerate billing on any active private or state work. Submit all pending change orders immediately — don't hold them for a batch. Contact your banker now, before you show distress. A revolving line of credit extended from a position of strength is available at 7-8% interest; one extended from a position of obvious distress costs more and often doesn't come at all.
 
-## Construction Business Growth 2026: Where the Real Pipeline Is
+## [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Growth 2026: Where the Real Pipeline Is
 
 Federal work contracting is not the only pipeline, and in 2026, it may not even be the best one. The fundamental infrastructure spending machine hasn't stopped — it's shifted channels. **State DOTs are sitting on IIJA formula funds that flow regardless of executive-branch discretionary spending decisions.** These are apportioned funds, not subject to the same cancellation risk as discretionary federal contracts.
 
@@ -77,17 +77,17 @@ The rebalanced opportunity map for construction business growth 2026 looks like 
 
 - **State highway and bridge work** — Most state DOTs have 2-3 year letting schedules posted publicly. Texas, Florida, North Carolina, and Arizona are advertising the highest volume of new transportation work in 2026
 
-- **Data center construction** — Private sector hyperscale data center buildout is running at $40B+ annually in the US, with significant spill-over into electrical, mechanical, and general construction trades
+- **[Data center construction](/article/data-center-construction-boom-2026-what-contractors-need/)** — Private sector hyperscale data center buildout is running at $40B+ annually in the US, with significant spill-over into electrical, mechanical, and general construction trades
 
 - **Industrial and manufacturing reshoring** — Semiconductor fabs, EV battery plants, and pharmaceutical manufacturing facilities under construction represent multi-year project pipeline with sophisticated owners who pay on time
 
-- **Healthcare construction** — Hospital system capital spending is at its highest level since pre-COVID, driven by deferred maintenance and new capacity demand in high-growth metro areas
+- **[Healthcare construction](/article/healthcare-construction-boom-2026-why-hospitals-are-the-safest-bet-in-a-recession-and-how-to-win-these-projects/)** — Hospital system capital spending is at its highest level since pre-COVID, driven by deferred maintenance and new capacity demand in high-growth metro areas
 
 - **Municipal water and wastewater** — Water system upgrades under state revolving fund programs are largely insulated from federal cancellation risk and represent a steady pipeline for civil contractors
 
 For firms actively [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) operations in this environment, the shift from federal-dependent to diversified revenue isn't just defensive — it's a genuine growth opportunity. Federal work competitors who struggle to pivot will create openings in state and private markets that disciplined, well-financed firms can capture.
 
-The data from [Smart Business Automator](https://smartbusinessautomator.com)'s market intelligence platform shows state-level transportation bid volumes up 18% year-over-year through March 2026, while federal direct-award activity has dropped 22% in the same period. The work hasn't disappeared — it's moved.
+The data from [Smart Business Automator](https://smartbusinessautomator.com)'s [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) platform shows state-level transportation bid volumes up 18% year-over-year through March 2026, while federal direct-award activity has dropped 22% in the same period. The work hasn't disappeared — it's moved.
 
 ## Contractor Profit Margins 2026: Rebuilding After the Revenue Shock
 
@@ -123,7 +123,7 @@ Key capabilities to prioritize in 2026 estimating tooling:
 
 Effective [construction project management](/article/construction-project-management-surviving-the-messy-middle/) and estimating need to be integrated, not siloed. When project actuals feed back into your estimating database in real time, your next bid reflects what jobs actually cost — not what you hoped they'd cost 18 months ago.
 
-Current [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) from the AGC's March 2026 industry data shows that firms using integrated estimating and project management platforms are winning bids at a 12% higher rate than peers using disconnected tools — and doing it on lower margins that still pencil because their cost estimates are more accurate.
+Current [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) from the AGC's March 2026 industry data shows that firms using integrated estimating and [project management](/article/surviving-the-messy-middle-of-construction-growth/) platforms are winning bids at a 12% higher rate than peers using disconnected tools — and doing it on lower margins that still pencil because their cost estimates are more accurate.
 
 ## Frequently Asked Questions
 

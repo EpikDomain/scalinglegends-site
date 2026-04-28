@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Your competitors are saving $47,000 per project with one technology most contractors still haven't adopted. Drone construction inspection has moved from novelty to economic necessity, and the math is no longer ambiguous. Every week you run traditional survey crews, you're leaving five figures on the table across labor, safety liability, rework, and project closeout delays.
+Your competitors are saving $47,000 per project with one technology most contractors still haven't adopted. [Drone construction inspection](/article/drone-construction-inspection-2026-what-contractors-need/) has moved from novelty to economic necessity, and the math is no longer ambiguous. Every week you run traditional survey crews, you're leaving five figures on the table across labor, safety liability, rework, and project closeout delays.
 
 This isn't about being early to technology. In 2026, this is a [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) decision with a documented payback window and measurable profit impact. Here's exactly what the numbers look like.
 
@@ -163,7 +163,7 @@ Most enterprise drone platforms (DroneDeploy, Pix4D, Skydio) offer native integr
 
 Commercial roofing, large-scale earthwork and grading, structural steel erection, solar installation, and infrastructure projects (road, bridge, utility corridor) generate the highest per-project ROI. These project types involve large horizontal areas impractical to inspect from the ground, high safety exposure for traditional survey crews, and frequent owner reporting requirements that drone documentation satisfies efficiently. Residential construction sees smaller per-project returns but meaningful savings at scale for high-volume builders.
 
-## How to Launch a Drone Inspection Program at Your Construction Company
+## How to Launch a Drone Inspection Program at Your [Construction Company](/article/building-roads-and-breaking-barriers-ebony-jennings/)
 
 - **Audit your current inspection costs this week.** Pull your last 12 months of survey invoices and crew time logs. Calculate total inspection spend per project and identify the 5 highest-cost projects. This is your baseline for ROI measurement and makes the capital justification concrete.
 

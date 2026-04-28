@@ -1,12 +1,12 @@
 ---
-title: "The Contractor's Guide to Project Workflow Automation"
-description: "How to automate the repetitive project management tasks that drain your team's time. The workflows, tools, and implementation order that work for contractors."
+title: "Contractor Workflow: Automate Projects by 2026"
+description: "Learn how to streamline your construction projects with workflow automation strategies for contractors. Master tools & implementation to boost efficiency by 2026."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

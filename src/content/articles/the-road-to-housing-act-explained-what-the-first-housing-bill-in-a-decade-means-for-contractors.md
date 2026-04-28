@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2613563/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -71,7 +71,7 @@ Platforms like [Smart Business Automator](https://smartbusinessautomator.com) he
 
 ## How to Position Your Business for Growth with the ROAD to Housing Act
 
-- **Contact Local Housing Authorities.** This week, reach out to your city or county's housing department to inquire about their plans for the updated HOME Investment Partnerships Program and the availability of Community Development Block Grant (CDBG) funds for *new* construction projects. Aim for an introductory call or email within 2 business days.
+- **Contact Local Housing Authorities.** This week, reach out to your city or county's housing department to inquire about their plans for the updated HOME Investment Partnerships Program and the availability of Community Development Block Grant (CDBG) funds for *new* [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). Aim for an introductory call or email within 2 business days.
 
 - **Initiate Federal Prequalification Research.** Dedicate 3-5 hours this week to researching the specific federal prequalification requirements (e.g., SAM.gov registration, DUNS number) needed to bid on projects funded by the ROAD to Housing Act. Create a checklist of necessary steps and documents.
 

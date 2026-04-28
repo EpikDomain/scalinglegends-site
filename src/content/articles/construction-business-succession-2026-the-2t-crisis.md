@@ -238,7 +238,7 @@ A family handoff or ESOP typically requires 24-36 months from initial planning t
 
 The five highest-priority documents are: (1) a current business valuation by a certified business appraiser, (2) three years of reviewed or audited financial statements with normalized EBITDA, (3) a buy-sell agreement between all equity holders, (4) documented standard operating procedures for estimating, project management, and client onboarding, and (5) key-person life and disability insurance policies. Missing any of these will slow or kill a transaction during due diligence — buyers interpret missing documentation as hidden risk, not administrative oversight.
 
-## How to Start Your Construction Business Succession Plan This Week
+## How to Start [Your Construction Business](/article/the-5-million-wall-7-strategies-to-scale-your-construction-business-without-breaking-it/) Succession Plan This Week
 
 - **Calculate your normalized EBITDA today.** Pull three years of financials. Add back owner compensation above a reasonable market salary ($120,000-180,000 for most markets), one-time expenses, and personal costs run through the business. Multiply your normalized EBITDA by 4x and 6x. That range is your likely business valuation. The number should motivate you to act.
 

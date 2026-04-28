@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-north-ca
 readTime: "47 min read"
 published: true
 season: 2
-updatedAt: "2026-04-08"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -430,7 +430,7 @@ For contractors performing real property contracts (meaning materials are incorp
 
 ### Where can I find prevailing wage rates for public projects in North Carolina?
 
-The North Carolina Department of Labor (NCDOL) publishes the prevailing wage rates for various crafts and counties on their official website. You must consult these rates for any state-funded public construction projects.
+The North Carolina Department of Labor (NCDOL) publishes the prevailing wage rates for various crafts and counties on their official website. You must consult these rates for any state-funded public [construction projects](/article/how-to-manage-multiple-construction-projects-2026/).
 
 ### Is the North Carolina construction market really as strong as people say?
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628404/scalinglegends/2026_0
 readTime: "7 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -35,7 +35,7 @@ The ground beneath our feet, the roads we drive on, the bridges that connect us 
 
 ## The Anatomy of a $30 Million Deception: How Fake Quality Tests Undermine Infrastructure
 
-The recent $30 million settlement involving Kokosing Construction Company Inc. and Shelly & Sands Inc. is a stark reminder of the profound risks lurking within the construction supply chain. For over a decade, these two prominent Ohio asphalt companies allegedly engaged in a widespread scheme to fabricate quality control test results for federally-funded highway projects. This wasn't a one-off mistake; it was a systemic failure that allowed substandard materials to be used on public infrastructure, compromising safety, durability, and taxpayer investment. The fraud involved falsifying critical tests designed to ensure asphalt mix consistency, strength, and longevity – essential parameters for roads expected to last for decades.
+The recent $30 million settlement involving Kokosing [Construction Company](/article/building-roads-and-breaking-barriers-ebony-jennings/) Inc. and Shelly & Sands Inc. is a stark reminder of the profound risks lurking within the construction supply chain. For over a decade, these two prominent Ohio asphalt companies allegedly engaged in a widespread scheme to fabricate quality control test results for federally-funded highway projects. This wasn't a one-off mistake; it was a systemic failure that allowed substandard materials to be used on public infrastructure, compromising safety, durability, and taxpayer investment. The fraud involved falsifying critical tests designed to ensure asphalt mix consistency, strength, and longevity – essential parameters for roads expected to last for decades.
 
 The modus operandi, as detailed in the Department of Justice’s allegations, included manipulating samples, creating fake lab reports, and bypassing established testing protocols. This meant that the asphalt laid on highways across Ohio, funded by federal dollars, likely did not meet the required specifications. The implications are far-reaching: premature road deterioration, increased maintenance costs for state and federal agencies, and a potential risk to public safety. Imagine a bridge or highway section failing prematurely due to inadequate materials, all because a quality control report was falsified. This scenario highlights why robust oversight and verifiable data are not just bureaucratic hurdles but foundational elements of responsible construction.
 

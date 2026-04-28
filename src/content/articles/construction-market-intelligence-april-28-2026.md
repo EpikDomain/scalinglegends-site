@@ -24,7 +24,7 @@ sponsors:
 
 - **IIJA infrastructure funding is accelerating.** An estimated $94 billion in federally backed infrastructure contracts will be obligated in fiscal year 2026, with highway and bridge work accounting for 61% of that volume.
 
-- **AI-powered construction estimating software adoption jumped 38% year-over-year.** Contractors using AI estimating tools report bid accuracy improvements of 11-18% and a 23% reduction in time-to-bid on repeat project types.
+- **AI-powered [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software adoption jumped 38% year-over-year.** Contractors using AI estimating tools report bid accuracy improvements of 11-18% and a 23% reduction in time-to-bid on repeat project types.
 
 - **Average GC net profit margins sit at 5.1% nationally.** That's down from 5.8% in Q4 2025, squeezed by subcontractor markup increases and extended retainage terms on public projects.
 
@@ -32,11 +32,11 @@ sponsors:
 
 - **Women-owned construction firms grew 21% year-over-year.** The segment is outperforming the broader market in bonding capacity growth and federal contract wins, particularly in IIJA-adjacent work.
 
-## Construction Business Growth 2026: Where the Money Is Actually Moving
+## [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: Where the Money Is Actually Moving
 
-The construction industry is not in a slow patch. Total U.S. construction spending crossed $2.18 trillion in 2025, and 2026 projections put it at $2.26 trillion — an 3.7% gain that beats inflation in most categories. But growth is not uniform, and contractors who are not positioned in the right verticals are watching their pipelines shrink while the headline number rises.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is not in a slow patch. Total U.S. construction spending crossed $2.18 trillion in 2025, and 2026 projections put it at $2.26 trillion — an 3.7% gain that beats inflation in most categories. But growth is not uniform, and contractors who are not positioned in the right verticals are watching their pipelines shrink while the headline number rises.
 
-Data tracked by [Smart Business Automator](https://smartbusinessautomator.com) shows the sharpest construction business growth in 2026 concentrated in three sectors: federal infrastructure (highways, bridges, water systems), industrial manufacturing facilities tied to reshoring, and energy transition work (solar farms, grid upgrades, battery storage). Commercial office remains soft. Single-family residential has recovered in Sun Belt markets but is still down 8% nationally from the 2023 peak.
+Data tracked by [Smart Business Automator](https://smartbusinessautomator.com) shows the sharpest [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) growth in 2026 concentrated in three sectors: federal infrastructure (highways, bridges, water systems), industrial manufacturing facilities tied to reshoring, and energy transition work (solar farms, grid upgrades, battery storage). Commercial office remains soft. Single-family residential has recovered in Sun Belt markets but is still down 8% nationally from the 2023 peak.
 
 For contractors [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) revenue past $5M, the IIJA pipeline represents a genuine multi-year opportunity — but accessing it requires SAM.gov registration, adequate bonding capacity (typically 10-15% of contract value), and compliance with Davis-Bacon prevailing wage requirements. Contractors who have not done federal work before often underestimate setup time. Plan for 90 days of administrative work before your first bid goes out the door.
 
@@ -54,7 +54,7 @@ The reshoring industrial segment is worth specific attention. Semiconductor fabs
 
 - Single-family residential: down 8% nationally, up 6% in Sun Belt
 
-## Construction Cash Flow Management: The 51-Day Problem Draining Contractors Right Now
+## [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/): The 51-Day Problem Draining Contractors Right Now
 
 Cash flow is not a bookkeeping problem. It is an operational threat. In April 2026, the average contractor is waiting 51 days between paying subcontractors and suppliers and receiving payment from their GC or owner. On a $3M annual revenue base with 65% cost-of-goods, that timing gap means carrying roughly $270,000 in working capital at any given moment just to stay operational. For businesses running lean operating lines, that math is violent.
 
@@ -76,7 +76,7 @@ Factoring and construction-specific lines of credit remain underutilized by cont
 
 ## Construction Estimating Software 2026: AI Is Closing the Bid Gap — For Contractors Who Adopt It
 
-Estimating has always been where construction companies win or lose. Bid too high and you lose work. Bid too low and you lose money. In 2026, AI-powered construction estimating software is changing the error rate on that equation in ways that are material enough to affect competitive position within 18 months.
+Estimating has always been where [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) win or lose. Bid too high and you lose work. Bid too low and you lose money. In 2026, AI-powered construction estimating software is changing the error rate on that equation in ways that are material enough to affect competitive position within 18 months.
 
 The data is not subtle. Contractors using AI estimating tools in 2026 are reporting bid accuracy improvements of 11-18% on repeat project types — meaning fewer jobs bid at negative margin, fewer change orders triggered by missed scope, and tighter contingency sizing. On a 200-bid-per-year operation, closing the accuracy gap by 12% translates to recovering one to two jobs per month that previously bled margin.
 
@@ -96,7 +96,7 @@ Integration with [construction project management](/article/construction-project
 
 - Adoption barrier: 64% of non-adopters cite integration complexity as primary objection
 
-## Contractor Profit Margins 2026: The Real Numbers and Why They Are Compressing
+## [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: The Real Numbers and Why They Are Compressing
 
 5.1%. That is the average net profit margin for U.S. general contractors as of Q1 2026, according to aggregated financial benchmarking data. It sounds thin — because it is. The Construction Financial Management Association (CFMA) has tracked GC margins in the 4-8% range for decades, but the 2026 compression is coming from a specific combination of factors that contractors in the $1M-$20M range are feeling acutely.
 
@@ -115,7 +115,7 @@ Contractors who are defending margins in 2026 share three practices. First, they
 | $15M - $50M | 5.4% | 4.9% | -0.5% |
 | $50M+ | 4.8% | 4.6% | -0.2% |
 
-## Construction Project Management Software: What Actually Moves the Needle in 2026
+## [Construction Project Management](/article/surviving-the-messy-middle-of-construction-growth/) Software: What Actually Moves the Needle in 2026
 
 The construction project management software market hit $2.4 billion in 2025 and is on track for $2.9 billion in 2026. Adoption among contractors above $5M revenue is now near-universal — the question is no longer whether to use a platform, but which workflows are actually driving ROI and which are generating compliance theater.
 
@@ -155,7 +155,7 @@ The right choice depends on project type and size. AI-powered tools excel on rep
 
 Approximately $94 billion in IIJA-backed infrastructure contracts will be obligated in fiscal year 2026, with highway, bridge, and water system work representing 61% of volume. To access this market, contractors need SAM.gov registration, bonding capacity at 10-15% of bid value, Davis-Bacon prevailing wage compliance systems, and in many states, E-Verify enrollment for all employees on federally funded projects. Setup takes 60-90 days minimum.
 
-### How are tariffs impacting construction costs in 2026?
+### How are tariffs impacting [construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/) in 2026?
 
 Steel mill products are up 6.1% YTD in 2026 as tariff volatility on imported steel and aluminum persists. Contractors bidding on projects with significant structural steel, rebar, or aluminum components should price escalation clauses into contracts with durations beyond 6 months. A material escalation clause triggering at 5% increase above bid-date pricing has become standard language on larger commercial and industrial projects in 2026.
 

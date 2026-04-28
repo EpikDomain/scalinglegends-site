@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2660387/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -105,7 +105,7 @@ Key strategies for optimizing profit margins include:
 
 By implementing these strategies, contractors can move beyond simply winning bids to consistently delivering profitable projects. This disciplined approach to financial management and operational excellence is what differentiates successful scaling firms from those that struggle to grow. Strong `[construction project management](/article/surviving-the-messy-middle-of-construction-growth/)` practices, supported by robust financial controls, are the bedrock of sustained profitability in the public sector.
 
-**Effective change order management can boost project profitability by 3-5% on public sector jobs, directly impacting your bottom line.**
+**Effective change order management can [boost project profitability](/article/the-5-step-blueprint-qualify-clients-boost-project-profitability-by-20/) by 3-5% on public sector jobs, directly impacting your bottom line.**
 
 ## Strategic [Project Management](/article/surviving-the-messy-middle-of-construction-growth/) & Diverse Opportunities
 

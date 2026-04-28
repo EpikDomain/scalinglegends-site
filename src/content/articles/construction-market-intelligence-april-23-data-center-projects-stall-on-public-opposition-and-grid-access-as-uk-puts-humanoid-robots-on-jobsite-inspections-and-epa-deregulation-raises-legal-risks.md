@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_0
 readTime: "28 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -145,7 +145,7 @@ Twenty-two percent of announced US data center projects face active zoning oppos
 
 Consigli's CIO, citing current production data from firms using AI-assisted estimating in 2025 and 2026, projects 30 to 40 percent estimator productivity improvements within 12 months of adoption. At $10M revenue, a 35 percent gain means your estimating team can pursue 35 percent more bids with the same headcount, or redirect hours from quantity takeoff to scope and risk review. Current-generation tools are available at mid-market price points. The competitive gap between adopters and non-adopters is compounding each quarter.
 
-### Does EPA deregulation in 2026 reduce legal risk for construction projects?
+### Does EPA deregulation in 2026 reduce legal risk for [construction projects](/article/how-to-manage-multiple-construction-projects-2026/)?
 
 No. EPA deregulation shortens agency permitting timelines but does not reduce third-party litigation risk. The Construction Owners Club recommends carrying 8 to 12 percent higher legal reserves on water, air, and wetland projects in 2026. Environmental organizations and neighboring property owners retain legal standing to challenge projects after agency approval. Contracts on environmentally sensitive projects should include regulatory delay compensation language covering post-permit injunction scenarios specifically, not only pre-permit agency review delays.
 

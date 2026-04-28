@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-colo
 readTime: "58 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -432,7 +432,7 @@ The Denver Metro Area, Colorado Springs, Boulder, and Fort Collins continue to e
 
 Building in Colorado isn't just about flatland construction. The state's diverse geography presents unique considerations:
 
-- **Altitude Effects:** Lower atmospheric pressure affects concrete curing, welding, engine performance, and even worker health. Contractors need to understand and mitigate these impacts.
+- **Altitude Effects:** Lower atmospheric pressure affects concrete curing, welding, engine performance, and even worker health. [Contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) understand and mitigate these impacts.
 
 - **Extreme Weather:** From heavy snows and freezing temperatures in winter to intense hail and thunderstorms in summer, projects must be designed and built to withstand Colorado's volatile climate. Wildfire mitigation construction is also a growing sector in mountain and Front Range communities.
 

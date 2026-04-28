@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-file-construction-lien-texas-2026.j
 readTime: "48 min read"
 published: true
 season: 2
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -173,7 +174,7 @@ This deadline is a statute of limitations. Missing it will permanently bar your 
 
 ### Lien Waivers Under Texas Law
 
-Lien waivers are common documents exchanged during the payment process on construction projects. They are used to relinquish lien rights in exchange for payment. Texas law provides specific guidance and statutory forms for these waivers to protect claimants from inadvertently waiving more rights than intended.
+Lien waivers are common documents exchanged during the payment process on [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). They are used to relinquish lien rights in exchange for payment. Texas law provides specific guidance and statutory forms for these waivers to protect claimants from inadvertently waiving more rights than intended.
 
 **Conditional vs. Unconditional Waivers:**
 

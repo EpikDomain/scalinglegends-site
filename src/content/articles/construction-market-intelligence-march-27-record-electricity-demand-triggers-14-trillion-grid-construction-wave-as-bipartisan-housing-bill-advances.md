@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2667155/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -79,7 +79,7 @@ The market signals are clear: while private construction has seen a four-month d
 
 The weekly recap reinforces this shift: a $37.5 billion project in Ohio, sustained highway funding at $209 billion, and the ongoing implications of EPA lawsuits all point to a landscape increasingly dominated by government and utility-backed initiatives. This means contractors must enhance their capabilities in areas such as bonding capacity, compliance with regulations like Davis-Bacon Act prevailing wages, and navigating complex bid processes. Public projects often involve more stringent reporting requirements, longer payment cycles, and a higher degree of public scrutiny, which necessitates robust internal controls and transparent project documentation.
 
-Risk management also takes on new dimensions. While incidents like the Cat/Bobcat espionage highlight the importance of intellectual property and supply chain security, work zone safety remains a paramount concern, especially with the influx of new infrastructure projects. Contractors need to invest in advanced safety protocols, training, and technology to protect their workforce and mitigate liability. The transition from private to public sector work also means diversifying client portfolios and building relationships with government agencies, utilities, and large prime contractors who often manage these mega-projects.
+Risk management also takes on new dimensions. While incidents like the Cat/Bobcat espionage highlight the importance of intellectual property and supply chain security, work zone safety remains a paramount concern, especially with the influx of new infrastructure projects. [Contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) invest in advanced safety protocols, training, and technology to protect their workforce and mitigate liability. The transition from private to public sector work also means diversifying client portfolios and building relationships with government agencies, utilities, and large prime contractors who often manage these mega-projects.
 
 For contractors accustomed to the pace and terms of private development, this shift represents both a challenge and an immense opportunity. It requires a proactive approach to understanding the specific requirements of federal, state, and local government contracts, as well as the unique demands of utility-scale energy projects. Those who can successfully adapt their operations, financial models, and workforce development strategies to this public-works-driven market will be best positioned for sustained growth and profitability in the coming decade.
 

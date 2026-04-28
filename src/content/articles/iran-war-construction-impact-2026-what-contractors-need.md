@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Steel prices jumped 18% in the six weeks following the escalation of hostilities in the Strait of Hormuz in early 2026. Diesel surcharges that contractors had finally beaten back to manageable levels are surging again. If you are running a construction business between $1M and $50M in revenue and you have not repriced your backlog exposure in the last 60 days, you are almost certainly working for less margin than you think.
+Steel prices jumped 18% in the six weeks following the escalation of hostilities in the Strait of Hormuz in early 2026. Diesel surcharges that contractors had finally beaten back to manageable levels are surging again. If you are running a [construction business](/article/how-to-scale-a-construction-business-without-losing-control/) between $1M and $50M in revenue and you have not repriced your backlog exposure in the last 60 days, you are almost certainly working for less margin than you think.
 
 The Iran conflict is not a remote geopolitical event. It is a direct hit to your cost structure, your bonding capacity, and your ability to forecast. Here is what the data says, and what you need to do about it this week.
 
@@ -29,13 +29,13 @@ The Iran conflict is not a remote geopolitical event. It is a direct hit to your
 
 - **IIJA-funded public projects have mandatory Davis-Bacon wage floors that do not adjust downward when your margins compress.** You cannot cut labor costs on federal work to offset material spikes. The only lever is negotiating escalation clauses, change orders, or walking away from bids.
 
-- **Contractors with construction estimating software that flags material volatility in real time are repricing 3x faster than those working off spreadsheets.** Speed of response is now a survival skill, not a competitive advantage.
+- **Contractors with [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software that flags material volatility in real time are repricing 3x faster than those working off spreadsheets.** Speed of response is now a survival skill, not [a competitive advantage](/article/construction-weather-risk-management-2026-how-smart-contractors-turn-a-500-billion-problem-into-a-competitive-advantage/).
 
-- **The contractors who will grow through this are the ones who treat construction cash flow management as a daily discipline, not a monthly accounting exercise.** Twelve-week cash flow forecasting and weekly actuals reviews are no longer optional for $5M+ operations.
+- **The contractors who will grow through this are the ones who treat [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) as a daily discipline, not a monthly accounting exercise.** Twelve-week cash flow forecasting and weekly actuals reviews are no longer optional for $5M+ operations.
 
-## Construction Business Growth 2026: How the Iran Conflict Rewired Material Markets
+## [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026: How the Iran Conflict Rewired Material Markets
 
-The construction industry's exposure to Middle East instability runs deeper than most contractors realize until prices are already moving. Iran is not just an oil producer — it is a significant steel, copper, and petrochemical feedstock supplier. When the Strait of Hormuz becomes contested, the ripple effects hit American job sites within 30-90 days through three channels: energy prices, metal commodity markets, and global shipping rates.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/)'s exposure to Middle East instability runs deeper than most contractors realize until prices are already moving. Iran is not just an oil producer — it is a significant steel, copper, and petrochemical feedstock supplier. When the Strait of Hormuz becomes contested, the ripple effects hit American job sites within 30-90 days through three channels: energy prices, metal commodity markets, and global shipping rates.
 
 Energy prices are the fastest mover. Diesel, which powers the excavators, cranes, dump trucks, and generators on every commercial and civil site in America, tracked Brent crude up sharply through Q1 2026. The average contractor running a $3M annual revenue operation spends approximately $85,000-$140,000 per year on fuel. A sustained 25% price increase wipes out $21,000-$35,000 in margin that was never in the budget.
 
@@ -47,7 +47,7 @@ The third channel is less visible: global shipping rate volatility is hitting sp
 
 For [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) owners in the $5M-$20M range, the data from [Smart Business Automator](https://smartbusinessautomator.com) is clear: construction business growth in 2026 will be driven by information speed, not bidding volume. The firms winning are the ones who can reprice faster, negotiate harder, and walk away from bad bids earlier.
 
-## Contractor Profit Margins 2026: The Real Numbers Behind the Headlines
+## [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: The Real Numbers Behind the Headlines
 
 Average net margins for commercial general contractors ran 2.8-4.2% in 2024 and 2025. That is already a razor-thin band. The Iran conflict has introduced a material cost volatility layer that, left unmanaged, could compress those margins to negative territory on projects with heavy structural steel or fuel-intensive site work.
 
@@ -113,7 +113,7 @@ Construction estimating software pricing for platforms with live material feeds 
 
 For contractors interested in the broader technology landscape, the [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) floor featured an entire estimating software pavilion with over 40 platforms — the largest dedicated estimating technology showcase in the show's history, reflecting exactly how urgently the industry is looking for better cost management tools.
 
-## Construction Project Management Software and Geopolitical Risk Tracking
+## [Construction Project Management](/article/surviving-the-messy-middle-of-construction-growth/) Software and Geopolitical Risk Tracking
 
 Construction project management software has traditionally focused on schedule, budget, RFIs, submittals, and punch lists. That scope is no longer sufficient. The Iran conflict has demonstrated that project managers need a layer of external risk monitoring baked into their project management stack — specifically, material lead time tracking, supplier financial health monitoring, and commodity price alerts.
 
@@ -133,7 +133,7 @@ Current data shows steel and rebar up 15-22%, diesel fuel up 18-25%, and copper 
 
 ### Can contractors use force majeure clauses to void fixed-price contracts due to the Iran conflict?
 
-Force majeure clauses in construction contracts rarely cover commodity price increases — they typically apply to complete work stoppage, not cost escalation. AIA A201 and ConsensusDocs standard contracts both treat material price volatility as a contractor risk unless a specific escalation clause is included. Consult your construction attorney before invoking force majeure; most claims fail, and they create adversarial owner relationships that damage bonding references. The better path is negotiated change orders with documented cost evidence.
+Force majeure clauses in [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) rarely cover commodity price increases — they typically apply to complete work stoppage, not cost escalation. AIA A201 and ConsensusDocs standard contracts both treat material price volatility as a contractor risk unless a specific escalation clause is included. Consult your construction attorney before invoking force majeure; most claims fail, and they create adversarial owner relationships that damage bonding references. The better path is negotiated change orders with documented cost evidence.
 
 ### Should contractors walk away from low-margin bids in the current environment?
 
@@ -161,7 +161,7 @@ The primary options are revolving credit lines (typically prime + 1-2.5% for con
 
 - **Extend your material procurement horizon to 120 days minimum.** For any project starting in the next 90 days, identify every long-lead material item and place purchase orders or locked quotes immediately. Electrical gear, specialty HVAC equipment, and structural steel are all running 8-16 week lead times with current supply chain pressure.
 
-- **Use market intelligence tools to track commodity price movements weekly.** [Smart Business Automator](https://smartbusinessautomator.com) tracks construction material indices, lead times, and geopolitical risk factors in real time — the kind of data that needs to be in your estimating process, not discovered after a project goes sideways.
+- **Use [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) tools to track commodity price movements weekly.** [Smart Business Automator](https://smartbusinessautomator.com) tracks construction material indices, lead times, and geopolitical risk factors in real time — the kind of data that needs to be in your estimating process, not discovered after a project goes sideways.
 
 ## The Bottom Line: Construction Business Growth in 2026 Belongs to the Informed
 

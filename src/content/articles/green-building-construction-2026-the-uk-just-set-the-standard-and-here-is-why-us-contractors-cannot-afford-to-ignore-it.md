@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2646875/scalinglegends/2026_0
 readTime: "19 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -93,7 +93,7 @@ Navigating the green building transition successfully requires not only technica
 
 Key considerations for [cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) in green construction include:
 
-- **Upfront Investment vs. Long-Term Returns:** Sustainable materials like mass timber or advanced low-carbon concrete might have a higher initial cost than conventional alternatives. Contractors need to factor these into their project financing, understanding that these investments often lead to faster project approvals, higher project values, and access to specific green project funding. The financial benefits from IRA tax credits, for instance, might be realized later in the fiscal year, requiring careful planning to bridge any interim gaps.
+- **Upfront Investment vs. Long-Term Returns:** Sustainable materials like mass timber or advanced low-carbon concrete might have a higher initial cost than conventional alternatives. [Contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) factor these into their project financing, understanding that these investments often lead to faster project approvals, higher project values, and access to specific green project funding. The financial benefits from IRA tax credits, for instance, might be realized later in the fiscal year, requiring careful planning to bridge any interim gaps.
 
 - **Optimizing Inventory and Supply Chains:** Sourcing green materials can sometimes involve new suppliers or longer lead times if not planned effectively. Efficient inventory management, forecasting demand for sustainable products, and establishing strong relationships with eco-certified suppliers are critical to avoid project delays and associated [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) disruptions. Leveraging [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) can streamline procurement processes, ensuring materials arrive on time and within budget.
 

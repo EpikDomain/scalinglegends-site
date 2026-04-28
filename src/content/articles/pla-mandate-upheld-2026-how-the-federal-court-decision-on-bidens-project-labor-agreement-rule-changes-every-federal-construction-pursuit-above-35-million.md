@@ -19,11 +19,11 @@ Here is the complete article:
 
 A federal court just upheld the Biden-era Project Labor Agreement mandate on [federal construction projects](/article/get-paid-in-less-than-30-days-winning-federal-construction-projects/) over $35 million. If you bid federal work, your labor strategy changed overnight. PLAs are now required on all covered contracts, and contractors who have never executed one have until their next federal bid to learn fast or lose those opportunities to better-prepared competitors. **Today is your survival map.**
 
-The ruling, reported by Construction Dive, eliminates the legal uncertainty that many merit-shop contractors were counting on. [Smart Business Automator](https://smartbusinessautomator.com) currently tracks 280 active federal construction projects above the $35 million PLA threshold. That pipeline is live. Bid windows are opening now, and contractors without a PLA playbook are already behind.
+The ruling, reported by Construction Dive, eliminates the legal uncertainty that many merit-shop contractors were counting on. [Smart Business Automator](https://smartbusinessautomator.com) currently tracks 280 active federal [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) above the $35 million PLA threshold. That pipeline is live. Bid windows are opening now, and contractors without a PLA playbook are already behind.
 
 ## Key Takeaways
 
-- **Federal court upheld the PLA mandate with no carve-outs.** The Biden-era Executive Order requiring Project Labor Agreements on federal construction contracts at or above $35 million has survived legal challenge and is now enforceable on all covered federal work. There is no appeal runway that changes your bid obligations in the near term.
+- **Federal court upheld the PLA mandate with no carve-outs.** The Biden-era Executive Order requiring Project Labor Agreements on [federal construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) at or above $35 million has survived legal challenge and is now enforceable on all covered federal work. There is no appeal runway that changes your bid obligations in the near term.
 
 - **Labor costs will rise 8-18% on PLA-covered federal projects.** PLA wages typically run 5-15% above the Davis-Bacon prevailing wage already required on federal construction. Benefit fund contributions add another 30-40% of wages on top of that, compressing margins on any bid that does not price the premium explicitly.
 
@@ -137,7 +137,7 @@ For [construction business](/article/how-to-scale-a-construction-business-withou
 
 ## State PLA Mandates and Expanding [Construction Market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) Exposure
 
-The federal court ruling is not the only PLA development contractors need to monitor. Five states have enacted their own PLA mandates that operate independently of the federal threshold and apply to state-funded construction projects with their own dollar triggers and compliance frameworks. If you pursue state work in California, New York, Illinois, New Jersey, or Washington, your PLA exposure exists on both federal and state tracks simultaneously.
+The federal court ruling is not the only PLA development [contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) monitor. Five states have enacted their own PLA mandates that operate independently of the federal threshold and apply to state-funded construction projects with their own dollar triggers and compliance frameworks. If you pursue state work in California, New York, Illinois, New Jersey, or Washington, your PLA exposure exists on both federal and state tracks simultaneously.
 
 California's PLA requirements apply to public works projects above thresholds that vary by agency and project type, and some California agencies require PLAs on projects as low as $1 million. New York has used PLAs on major infrastructure projects for decades and has expanded requirements under recent legislation tied to accelerated transit and utility infrastructure spending. Illinois, New Jersey, and Washington have followed with their own mandates, driven in part by Infrastructure Investment and Jobs Act funding flowing through state agencies with attached labor conditions.
 

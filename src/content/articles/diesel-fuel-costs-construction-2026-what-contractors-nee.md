@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2682988/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -15,7 +15,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Diesel fuel costs are poised to remain a critical variable for construction businesses in 2026, with [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) from [Smart Business Automator](https://smartbusinessautomator.com) indicating potential price volatility impacting project profitability by an average of 7-10% for heavy equipment-reliant contractors. The confluence of geopolitical factors, evolving environmental regulations, and fluctuating demand cycles means that merely absorbing these costs is no longer a viable strategy. Contractors must proactively adapt their financial planning, operational workflows, and bidding processes to safeguard their margins and ensure sustained growth in a challenging economic climate.
+Diesel fuel costs are poised to remain a critical variable for construction businesses in 2026, with [market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) from [Smart Business Automator](https://smartbusinessautomator.com) indicating potential price volatility impacting [project profitability by](/article/the-5-step-blueprint-qualify-clients-boost-project-profitability-by-20/) an average of 7-10% for heavy equipment-reliant contractors. The confluence of geopolitical factors, evolving environmental regulations, and fluctuating demand cycles means that merely absorbing these costs is no longer a viable strategy. Contractors must proactively adapt their financial planning, operational workflows, and bidding processes to safeguard their margins and ensure sustained growth in a challenging economic climate.
 
 ## Key Takeaways
 
@@ -101,7 +101,7 @@ Diesel costs are projected to remain volatile in 2026, potentially impacting bid
 
 Advanced telematics systems for fleet tracking, GPS-enabled dispatching software, and integrated [construction estimating software 2026](/article/construction-estimating-software-2026/) are crucial. These tools monitor fuel consumption, optimize routes, reduce idle times, and provide accurate cost projections, potentially cutting fuel expenses by 10-15%.
 
-### Are fuel surcharges standard practice in construction contracts?
+### Are fuel surcharges standard practice in [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/)?
 
 While not universally standard, fuel surcharge clauses are becoming increasingly common, especially for long-term projects or those with significant fuel components. They protect contractors from unexpected price spikes by linking adjustments to a public index, safeguarding [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) and project profitability.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2648735/scalinglegends/2026_0
 readTime: "29 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-04-28"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -111,7 +111,7 @@ Several sectors are poised for significant growth, demanding precise estimation 
 
 - **Green and Sustainable Building:** The drive towards Net Zero emissions and sustainable practices is transforming construction. Projects incorporating renewable energy, LEED certification, and environmentally friendly materials demand specialized estimating skills to calculate long-term operational costs and government incentives, which can add 5-10% to initial project costs but offer significant long-term savings.
 
-The sheer volume and diversity of these projects mean that contractors need to be more strategic than ever in selecting bids and ensuring their pricing is competitive yet profitable. Errors in estimation, even minor ones, can quickly erode [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) that typically range from 2-8% in a competitive market.
+The sheer volume and diversity of these projects mean that [contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) be more strategic than ever in selecting bids and ensuring their pricing is competitive yet profitable. Errors in estimation, even minor ones, can quickly erode [profit margins](/article/contractor-profit-margins-drop-18-in-2026/) that typically range from 2-8% in a competitive market.
 
 ## Why Contractors Need Specialized Estimating Services Now
 

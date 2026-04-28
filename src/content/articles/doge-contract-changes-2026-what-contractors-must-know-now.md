@@ -47,7 +47,7 @@ Procurement vehicles are also consolidating. Agencies that previously maintained
 
 For firms in the $1M to $20M revenue range, the most immediate impact lands on bid prep capacity. A 30-day bid window no longer accommodates the 60-day compliance documentation process many contractors have been running. If your estimating workflow, compliance documentation, and sub-tier certification tracking is not automated, you are already behind the contractors who are winning federal awards right now.
 
-**The IIJA pipeline is still active, carrying approximately $1.2 trillion toward federally-funded construction projects through 2026 and beyond.** DOGE is changing the process, not the volume. The opportunity is real, but accessing it requires a different operational posture than federal contracting demanded two years ago.
+**The IIJA pipeline is still active, carrying approximately $1.2 trillion toward federally-funded [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) through 2026 and beyond.** DOGE is changing the process, not the volume. The opportunity is real, but accessing it requires a different operational posture than federal contracting demanded two years ago.
 
 Effective [construction project management](/article/construction-project-management-surviving-the-messy-middle/) was already a differentiator before these changes. Under the new rules, it is a baseline requirement for staying in federal bid pools at all.
 
