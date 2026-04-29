@@ -21,7 +21,7 @@ Are you a construction owner regularly logging 60-hour weeks, feeling like you c
 
 - **Undocumented processes increase project delays by 25%.** According to [Smart Business Automator](https://smartbusinessautomator.com) data, contractors without written workflows consistently experience preventable delays that erode margins and damage client relationships.
 
-- **A rigorous pre-construction process boosts bid-to-win rates by 15-20% and adds 5% to project profit margins.** Tighter scoping means fewer change order disputes, fewer rework cycles, and cleaner handoffs to the field.
+- **A rigorous pre-construction process boosts bid-to-win rates by 15-20% and adds 5% to project [profit margins](/article/contractor-profit-margins-drop-18-in-2026/).** Tighter scoping means fewer change order disputes, fewer rework cycles, and cleaner handoffs to the field.
 
 - **Clear handoff protocols reduce communication errors by 30%** and keep projects on schedule, protecting retainage and repeat business.
 
@@ -113,11 +113,11 @@ Beyond visibility, the financial system must enforce discipline on billing, coll
 
 ## AI [Construction Technology](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) 2026: Automating for Scale
 
-The 2026 construction market is not waiting for late adopters. AI construction technology is accelerating, and the contractors who understand its practical applications are gaining measurable competitive advantages. This does not mean replacing your workforce. It means using automation to eliminate the administrative overhead that currently consumes owner and PM bandwidth.
+The [2026 construction](/article/how-to-handle-construction-change-orders-margins-2026/) market is not waiting for late adopters. AI construction technology is accelerating, and the contractors who understand its practical applications are gaining measurable competitive advantages. This does not mean replacing your workforce. It means using automation to eliminate the administrative overhead that currently consumes owner and PM bandwidth.
 
 Current AI applications delivering documented ROI in construction include automated bid analysis, which compares your bid structure against historical win-loss data to improve pricing accuracy. AI-assisted scheduling flags resource conflicts before they hit the field. Predictive job cost analytics identify projects trending over budget three to four weeks before the overrun shows in your accounting system, when there is still time to recover.
 
-The technology landscape is shifting faster than most owners track. The equipment and software unveiled at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) illustrated just how rapidly the industry is moving. Autonomous equipment, real-time [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-command/) platforms, and AI-powered estimating tools are available now and being deployed by contractors who intend to own the next decade of market share.
+The technology landscape is shifting faster than most owners track. The equipment and software unveiled at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) illustrated just how rapidly the industry is moving. [Autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/), real-time [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-command/) platforms, and AI-powered estimating tools are available now and being deployed by contractors who intend to own the next decade of market share.
 
 The practical entry point for most contractors is a single integration: connect your project management platform to your accounting software. That one step eliminates duplicate data entry, reduces billing lag by 5-8 days, and provides the real-time job cost data your financial system requires. From that foundation, layer automation based on where your team spends the most unproductive time. Prioritize estimating, scheduling, and collections in that order.
 
