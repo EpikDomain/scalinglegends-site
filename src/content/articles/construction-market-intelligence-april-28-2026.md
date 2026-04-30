@@ -3,7 +3,7 @@ title: "Construction Market Intelligence April 28 2026"
 description: "Daily construction market intelligence for April 28, 2026."
 date: "2026-04-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-28-2026-1777366443.png"
-audioUrl: "https://content.rss.com/episodes/332597/2772700/scalinglegends/2026_04_27_21_59_37_3c83487a-d691-443f-af09-1b9524af2997.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "22 min read"
 published: true
 season: 2

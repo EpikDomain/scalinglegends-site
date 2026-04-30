@@ -3,6 +3,7 @@ title: "Kiewit Dropped From Key Bridge 2026: What the Baltimore Off-Ramping Mean
 description: "Kiewit just got off-ramped from the Francis Scott Key Bridge rebuild in Baltimore. This deep-dive walks contractors through what likely drove the dismissal, the procurement reset, the new prime contractor candidates, the design-build vs alternative delivery implications, sub repositioning, and the Smart Business Automator mega-project tracker every contractor with bridge or marine experience needs open before the next RFP."
 date: "2026-04-29"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/kiewit-dropped-from-key-bridge-2026-what-the-baltimore-off-r-1777466426.png"
+audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "26 min read"
 published: true
 season: 2
@@ -134,7 +135,7 @@ Any subcontractor that had built a pursuit relationship with Kiewit's team needs
 
 ### How does Davis-Bacon prevailing wage apply to the Francis Scott Key Bridge rebuild?
 
-Davis-Bacon applies to all construction contracts exceeding $2,000 funded through federal programs, including IIJA emergency highway funding. All contractors and subcontractors on the Key Bridge rebuild must pay Baltimore metro prevailing wage rates by trade classification, submit weekly certified payroll reports, and maintain employment records for three years post-project completion. DOL enforcement on IIJA-funded infrastructure has increased materially in 2025 and 2026. Violations carry back pay liability, potential debarment, and contract termination risk.
+Davis-Bacon applies to all [construction contracts](/article/federal-construction-contracts-cancelled-2026-what-contr/) exceeding $2,000 funded through federal programs, including IIJA emergency highway funding. All contractors and subcontractors on the Key Bridge rebuild must pay Baltimore metro prevailing wage rates by trade classification, submit weekly certified payroll reports, and maintain employment records for three years post-project completion. DOL enforcement on IIJA-funded infrastructure has increased materially in 2025 and 2026. Violations carry back pay liability, potential debarment, and contract termination risk.
 
 ### What delivery model will MDTA use for the Key Bridge rebuild procurement?
 

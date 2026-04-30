@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2608724/scalinglegends/2026_0
 readTime: "26 min read"
 published: true
 season: 2
+updatedAt: "2026-04-29"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -189,7 +190,7 @@ Compliance prep costs vary by 30% across federal contractors in 2026. Firms usin
 
 Davis-Bacon Act prevailing wage requirements remain in force on all federally funded construction projects over $2,000 in contract value. What is changing is the submission format: certified payroll records are moving to structured digital formats through agency portals. The WH-347 paper form is being deprecated across most federal agencies by mid-2026. Contractors must have digital certified payroll systems that generate the required structured data output, not simply a scanned PDF of the paper form, which does not satisfy the new digital standard.
 
-### How are DOGE changes affecting payment timelines for construction contractors?
+### How are DOGE changes affecting payment timelines [for construction contractors](/article/the-5-million-leap-3-operational-shifts-for-construction-contractors/)?
 
 Federal payment timelines are bifurcating sharply in 2026. Contractors meeting digital documentation standards are seeing payment cycle compression to 14 to 21 days on net-30 federal contracts, an improvement from the 45-to-60-day real-world timelines many experienced previously. Contractors not meeting digital filing standards are being routed to manual review queues with payment delays of 60 to 90 days. That gap in payment timing creates a meaningful cash flow advantage for compliant contractors and compounds over multiple active projects.
 
