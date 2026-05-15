@@ -1,13 +1,12 @@
 ---
-title: "5 Cash Flow Mistakes That Kill Construction Companies"
-description: "Most construction companies that fail aren't bad at building. They're bad at managing money. Here are the five cash flow mistakes that take down contractors at every revenue level."
+title: "Cash Flow Fixes for Construction: Master 2026"
+description: "Avoid common cash flow pitfalls in construction. Learn actionable strategies to manage your money better and ensure your company thrives through 2026 and beyond."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-cash-flow-mistakes-that-kill-construction-companies-1772747404.png"
-audioUrl: "https://content.rss.com/episodes/332597/2671116/scalinglegends/2026_03_29_08_41_53_531680de-3f58-4d8c-afb2-0aeaf6d41658.mp3"
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-15"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

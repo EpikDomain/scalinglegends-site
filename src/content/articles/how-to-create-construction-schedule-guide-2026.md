@@ -3,7 +3,7 @@ title: "Construction Schedule 2026: What GCs Need to Know"
 description: "Explore the evolving landscape of construction scheduling for 2026. Understand critical shifts in CPM and pull planning affecting GCs and project delivery."
 date: "2026-02-25"
 image: "https://scalinglegends.com/og/how-to-create-construction-schedule-guide-2026.jpg"
-audioUrl: "https://content.rss.com/episodes/332597/2763647/scalinglegends/2026_04_24_09_19_14_d048bda9-de0e-4c0e-82d6-ba086b5e46d6.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2830011/scalinglegends/2026_05_15_21_06_43_3c7b8f02-2b1a-4cd8-a780-423fc09a8b55.mp3"
 readTime: "61 min read"
 published: true
 season: 2

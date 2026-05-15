@@ -1,12 +1,12 @@
 ---
-title: "Construction Safety: Future Trends & Tech 2026"
+title: "Construction Safety: Trends & Tech for 2026 OSHA"
 description: "Explore the cutting-edge of construction safety. Discover essential trends and emerging technology shaping OSHA compliance and practices for 2026."
 date: "2026-02-26"
 image: "https://scalinglegends.com/og/how-to-create-construction-safety-program-osha-2026.jpg"
 readTime: "32 min read"
 published: true
 season: 2
-updatedAt: "2026-04-29"
+updatedAt: "2026-05-15"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"

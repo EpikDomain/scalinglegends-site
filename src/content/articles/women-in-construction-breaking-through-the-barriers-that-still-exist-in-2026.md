@@ -1,12 +1,12 @@
 ---
-title: "Women in Construction: Strategies for 2026 Success"
-description: "Learn actionable strategies to empower women in construction. Overcome barriers and build a stronger, more inclusive industry for 2026 and beyond."
+title: "Women in Construction: 2026 Industry Trends & Impact"
+description: "Explore the latest trends and impact of women in construction. Understand the evolving landscape and future outlook for the industry in 2026."
 date: "2026-03-05"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/women-in-construction-breaking-through-the-barriers-that-sti-1772747233.png"
 readTime: "8 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-15"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
