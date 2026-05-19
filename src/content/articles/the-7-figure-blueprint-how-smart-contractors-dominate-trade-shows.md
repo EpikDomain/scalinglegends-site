@@ -3,6 +3,7 @@ title: "The 7-Figure Blueprint: How Smart Contractors Dominate Trade Shows"
 description: "Many contractors view trade shows as a necessary expense, but for scaling legends, they are strategic growth platforms. This episode reveals how to transform your trade show investment into a 7-figure revenue engine, leveraging data-driven planning and automated follow-up to capture opportunities most competitors miss."
 date: "2026-04-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-blueprint-how-smart-contractors-dominate-trade--1777392595.png"
+audioUrl: "https://content.rss.com/episodes/332597/2837432/scalinglegends/2026_05_19_00_36_23_6f0eeb9a-cad9-4f79-8610-058177f9bc1c.mp3"
 readTime: "24 min read"
 published: true
 season: 2
