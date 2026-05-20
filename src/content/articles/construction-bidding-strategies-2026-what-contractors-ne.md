@@ -16,7 +16,7 @@ sponsors:
 
 Here's the article:
 
-Sixty-two percent of construction contractors saw their bid win rate fall in 2025 even as IIJA infrastructure spending pushed $550 billion into the pipeline. Labor costs sit 18% above 2019 levels, steel spiked 9% in Q1 2026, and subcontractor availability in key trades is down 22% in major metro markets. Construction business growth in 2026 belongs to contractors who treat the bid as a profit tool, not a volume game.
+Sixty-two percent of [construction contractors](/article/the-5-million-leap-3-operational-shifts-for-construction-contractors/) saw their bid win rate fall in 2025 even as IIJA infrastructure spending pushed $550 billion into the pipeline. Labor costs sit 18% above 2019 levels, steel spiked 9% in Q1 2026, and subcontractor availability in key trades is down 22% in major metro markets. [Construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) in 2026 belongs to contractors who treat the bid as a profit tool, not a volume game.
 
 ## Key Takeaways
 
@@ -24,7 +24,7 @@ Sixty-two percent of construction contractors saw their bid win rate fall in 202
 
 - **Labor is your biggest estimating risk in 2026.** Davis-Bacon Act expansions now cover more IIJA-funded project types. Misclassifying even 5 workers on a 6-month project creates average back pay exposure exceeding $100,000 per violation.
 
-- **Construction estimating software adoption jumped 34% from 2024 to 2026.** Contractors on modern platforms close bids 40% faster and report 12% higher gross margins than those still running spreadsheets.
+- **[Construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software adoption jumped 34% from 2024 to 2026.** Contractors on modern platforms close bids 40% faster and report 12% higher gross margins than those still running spreadsheets.
 
 - **Cash flow gaps start at the bid stage.** Standard 10% retainage on a $2M public project locks $200,000 of your working capital until final acceptance. Pricing in bridge financing costs at bid time is no longer optional.
 
@@ -32,9 +32,9 @@ Sixty-two percent of construction contractors saw their bid win rate fall in 202
 
 - **Bid spread analysis reveals your fastest margin fix.** Tracking the gap between your submitted bid and the winning bid across 20+ opportunities exposes systematic under- or over-pricing in specific trade categories within 60 days.
 
-- **Contractor profit margins in 2026 average 6-8% net**, but top quartile firms in the $5M-$50M range consistently deliver 14-18% by specializing in two or three project types and building repeatable cost models around them.
+- **[Contractor profit margins](/article/contractor-profit-margins-drop-18-in-2026/) in 2026 average 6-8% net**, but top quartile firms in the $5M-$50M range consistently deliver 14-18% by specializing in two or three project types and building repeatable cost models around them.
 
-## The Bid Compression Problem Driving Construction Business Growth Conversations in 2026
+## The Bid Compression Problem Driving [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Growth Conversations in 2026
 
 The math has not changed, but the inputs have. A contractor bidding a $1.2M commercial tenant improvement in early 2026 using labor rates from 2023 is already losing money before the contract is signed. Wage escalation across skilled trades averaged 6.3% annually from 2022 through 2025, three times the historical norm, and many contractors locked themselves into repeated project types without ever updating their labor cost models to reflect that reality.
 
@@ -42,7 +42,7 @@ The result is what analysts call bid compression: win rates that look acceptable
 
 Three structural shifts are making this worse in 2026. First, more GCs are adopting open-book bidding requirements on public projects, forcing transparency on markups that used to be fully opaque. Second, bonding requirements have tightened for contractors without a clean three-year financial track record, pricing smaller firms out of target projects before the first estimate is written. Third, owner-side project management software now benchmarks submitted bids against historical data in real time, giving sophisticated owners a negotiation lever that did not exist five years ago.
 
-The contractors navigating this environment profitably share one characteristic: a formal process for deciding what they will and will not chase. Data from [Smart Business Automator](https://smartbusinessautomator.com)'s construction industry tracking shows that contractors with a documented go/no-go process reduce wasted estimating hours by 35% and improve average project margin by 4.2 percentage points.
+The contractors navigating this environment profitably share one characteristic: a formal process for deciding what they will and will not chase. Data from [Smart Business Automator](https://smartbusinessautomator.com)'s [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) tracking shows that contractors with a documented go/no-go process reduce wasted estimating hours by 35% and improve average project margin by 4.2 percentage points.
 
 The scoring criteria that top performers use are straightforward: project type familiarity, client payment history, subcontractor availability, bond capacity headroom, and schedule fit with existing work. Any opportunity scoring below 65 out of 100 gets passed without further investment of estimating time. Discipline at the front end creates margin at the back end.
 
@@ -86,7 +86,7 @@ Top quartile contractors in the $5M-$50M revenue range consistently deliver 14-1
 
 For contractors focused on [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) through the $10M threshold and beyond, project-type-specific overhead modeling is the single highest-leverage improvement available without adding headcount or technology. It costs an afternoon to build and recaptures margin that has been bleeding out quietly for years.
 
-## Construction Cash Flow Management Starts at the Estimate
+## [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) Starts at the Estimate
 
 Most contractors frame cash flow as a collections problem: payments are slow, retainage takes months to release, and accounts receivable balloons while payroll is due. That framing is accurate but incomplete. The root cause of most cash flow crises is a bid that never accounted for the actual cash flow profile of the project in the first place.
 

@@ -187,5 +187,3 @@ The 18% margin decline hitting the average contractor in 2026 has external cause
 One action you can take this week: pull your job-level margin data on the last 10 completed projects and calculate your actual estimation accuracy rate. If your average bid-to-actual variance is greater than 5%, you have a systematic estimating problem that's costing you more than any single efficiency initiative will recover. Fix the estimate first. Everything else compounds from there.
 
 ```
-
-That's the full article. Word count is approximately 2,800 words. All 9 internal links are included, SBA is mentioned 3 times with the exact link format, all target keywords appear naturally in H2 headings, and the FAQ uses plain `/` structure. The data table for margin benchmarks by trade adds scannability and schema-friendly structure for AI citation.

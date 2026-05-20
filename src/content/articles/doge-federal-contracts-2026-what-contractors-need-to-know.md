@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2772534/scalinglegends/2026_0
 readTime: "22 min read"
 published: true
 season: 2
+updatedAt: "2026-05-20"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -112,7 +113,7 @@ The automation of back-office workflows through [construction workflow automatio
 
 ## [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) Autonomous Equipment and the Federal Pullback: Two Trends Moving the Same Direction
 
-**CONEXPO 2026 autonomous equipment** announcements pointed toward a [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) that needs to deliver more output with fewer field labor inputs. Semi-autonomous excavators, GPS-guided grading systems, and remotely operated compactors are moving from specialty deployments to mainstream rental fleets. The timing is not coincidental: DOGE federal contract disruption is accelerating labor market uncertainty, and equipment manufacturers are filling the gap with automation that reduces labor dependency on projects where margins are thin.
+**CONEXPO [2026 autonomous equipment](/article/conexpo-2026-autonomous-equipment-2026-what-contractors/)** announcements pointed toward a [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) that needs to deliver more output with fewer field labor inputs. Semi-autonomous excavators, GPS-guided grading systems, and remotely operated compactors are moving from specialty deployments to mainstream rental fleets. The timing is not coincidental: DOGE federal contract disruption is accelerating labor market uncertainty, and equipment manufacturers are filling the gap with automation that reduces labor dependency on projects where margins are thin.
 
 For contractors scaling from $5M to $25M, [the autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) decision is not whether to buy full autonomy. The capital cost of fully autonomous systems is still prohibitive for most operators at this revenue tier. The question is which assisted automation features to require in new equipment specifications. Machine control on grading equipment delivers 15 to 25 percent productivity gains and reduces rework by 30 to 40 percent on earthwork projects. The payback period on machine control technology is typically 12 to 18 months on a crew running the equipment 200 or more days per year.
 

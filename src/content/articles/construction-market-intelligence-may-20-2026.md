@@ -16,7 +16,7 @@ sponsors:
 
 Here's the article:
 
-Sixty-three percent of construction contractors report their Q2 2026 backlog is larger than this time last year, yet AGC's latest survey shows average net margins have fallen to 3.1%, a six-year low. More work, less profit. That's the paradox defining **construction business growth 2026**, and if you're running a $1M to $20M operation without tight controls on cash flow and estimating accuracy, you're growing yourself into a hole. Three specific intelligence signals from this week demand your attention now.
+Sixty-three percent of [construction contractors](/article/the-5-million-leap-3-operational-shifts-for-construction-contractors/) report their Q2 2026 backlog is larger than this time last year, yet AGC's latest survey shows average net margins have fallen to 3.1%, a six-year low. More work, less profit. That's the paradox defining **[construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026**, and if you're running a $1M to $20M operation without tight controls on cash flow and estimating accuracy, you're growing yourself into a hole. Three specific intelligence signals from this week demand your attention now.
 
 ## Key Takeaways
 
@@ -28,13 +28,13 @@ Sixty-three percent of construction contractors report their Q2 2026 backlog is 
 
 - **Estimating software adoption is bifurcating the market.** Contractors using integrated digital estimating close bids 23% faster and win at a rate 17% higher than manual estimators, according to May 2026 data tracked by [Smart Business Automator](https://smartbusinessautomator.com).
 
-- **Labor market conditions are not improving.** The construction industry is still short approximately 439,000 workers as of May 2026. Wages for skilled trades are up 9.2% year-over-year. Apprenticeship completions haven't kept pace with retirements.
+- **Labor market conditions are not improving.** The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) is still short approximately 439,000 workers as of May 2026. Wages for skilled trades are up 9.2% year-over-year. Apprenticeship completions haven't kept pace with retirements.
 
-- **Women-owned construction firms are outpacing industry growth.** Revenue growth for women-owned construction companies is tracking 2.3x the industry average in 2026, driven by DBE contract set-asides in IIJA-funded projects.
+- **Women-owned construction firms are outpacing industry growth.** Revenue growth for women-owned [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) is tracking 2.3x the industry average in 2026, driven by DBE contract set-asides in IIJA-funded projects.
 
 - **Technology ROI windows are compressing.** Contractors who adopted project management platforms in 2024 are reporting full ROI recovery in 9 months on average, down from 14 months in 2022.
 
-## Construction Business Growth 2026: Where the Money Is Moving
+## [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Growth 2026: Where the Money Is Moving
 
 The construction industry crossed $2.1 trillion in annual spending in early 2026, but distribution is deeply uneven. Contractors positioned to capture IIJA-funded infrastructure work, including highways, bridges, water systems, and broadband, are seeing backlogs grow 40% year-over-year. Those still heavily weighted toward private commercial construction face a tighter environment. Office vacancy rates remain elevated in most major metros, and new commercial starts dropped 12% in Q1 2026 compared to Q1 2025.
 
@@ -54,7 +54,7 @@ Regional hot spots for construction business growth in 2026 include the Sun Belt
 
 - Federal prevailing wage compliance checks increased 44% in Q1 2026, with non-compliance penalties averaging $127,000 per incident
 
-## Construction Cash Flow Management: 74 Days Is Killing Contractors
+## [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/): 74 Days Is Killing Contractors
 
 The average payment cycle in commercial construction hit 74 days in May 2026. That number is not an abstraction. It's the delta between when your crews clock out and when money hits your account. On a $2M project with $400,000 in monthly labor and material spend, a 74-day cycle means you're carrying $980,000 in float at any given moment. For a company with $2M in annual revenue, that's essentially your entire annual income tied up in receivables.
 
@@ -76,7 +76,7 @@ Lien rights are being exercised at higher rates. Preliminary notice filings are 
 
 - Preliminary notice filings up 29% in top three states year-over-year
 
-## Contractor Profit Margins 2026: The Data Behind the Squeeze
+## [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026: The Data Behind the Squeeze
 
 Net margins for general contractors averaged 3.1% nationally in Q1 2026, the lowest reading in six years. Specialty contractors fared better at 6.8% average net, but both numbers represent compression from 2024 peaks of 4.8% and 8.3% respectively. The margin squeeze has three primary drivers: labor cost inflation outpacing bid price increases, change order disputes taking longer to resolve, and estimating errors that have compounded as project complexity increased.
 
@@ -100,7 +100,7 @@ OSHA compliance costs are adding to margin pressure. The average OSHA citation f
 
 - Total indirect cost multiplier on OSHA citations: 4-6x direct penalty
 
-## Construction Estimating Software 2026: The Accuracy Gap Is Widening
+## [Construction Estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) Software 2026: The Accuracy Gap Is Widening
 
 Estimating accuracy is the upstream variable that determines everything downstream. Get the estimate wrong and no amount of project management, cash flow discipline, or change order protocol can rescue the margin. In 2026, construction estimating software has become the primary differentiator between contractors who grow profitably and those who grow themselves broke.
 

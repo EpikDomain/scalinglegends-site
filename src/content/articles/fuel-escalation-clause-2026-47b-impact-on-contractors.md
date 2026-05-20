@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "26 min read"
 published: true
 season: 2
+updatedAt: "2026-05-20"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -126,7 +127,7 @@ Key automation capabilities to evaluate in any [construction workflow automation
 
 - Audit trail documentation for every threshold event, notice sent, and owner response received
 
-For contractors tracking [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), the CONEXPO 2026 autonomous equipment push signals that fuel consumption data will become dramatically more granular over the next 18 to 24 months. Contractors who build automation infrastructure now will have a data advantage when that equipment becomes standard fleet across commercial and civil operations.
+For contractors tracking [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), the CONEXPO [2026 autonomous equipment](/article/conexpo-2026-autonomous-equipment-2026-what-contractors/) push signals that fuel consumption data will become dramatically more granular over the next 18 to 24 months. Contractors who build automation infrastructure now will have a data advantage when that equipment becomes standard fleet across commercial and civil operations.
 
 ## Case Study: How a 150-Crew Commercial Contractor Recovered $2.3M in 2025
 

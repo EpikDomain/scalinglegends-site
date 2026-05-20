@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628648/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
+updatedAt: "2026-05-20"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -103,7 +104,7 @@ AI is also accelerating [construction workflow automation](/article/the-contract
 
 **The contractors ignoring AI tools in 2026 are not just leaving efficiency on the table. They are competing against firms that can bid faster, price more accurately, and recover more margin through automated documentation.** That competitive gap compounds over time.
 
-## CONEXPO 2026 Autonomous Equipment and the Steel Cost Equation
+## CONEXPO [2026 Autonomous Equipment](/article/conexpo-2026-autonomous-equipment-2026-what-contractors/) and the Steel Cost Equation
 
 The announcements coming out of [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) included a wave of autonomous and semi-autonomous equipment that will reshape the labor-to-material cost ratio within 24–36 months. While that timeline does not solve a Q2 2026 steel pricing problem, it has direct implications for how contractors should be building their cost models today.
 

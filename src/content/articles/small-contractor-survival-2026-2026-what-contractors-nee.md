@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616355/scalinglegends/2026_0
 readTime: "22 min read"
 published: true
 season: 2
+updatedAt: "2026-05-20"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -100,7 +101,7 @@ Computer vision quality control is the second proven category. AI systems mounte
 
 Predictive cost analytics is the third category. Projects that hit 20% of scheduled completion with labor costs running 12% over forecast will almost certainly finish over budget. AI systems detect this at the 20% mark, not the 80% mark, when there is still time to adjust crew mix, accelerate scope, or have a hard conversation with the client about a documented cost event.
 
-The [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) coming out of early 2026 makes clear that CONEXPO 2026 autonomous equipment is not theoretical. Semi-autonomous motor graders from two major OEMs are currently deployed on active highway projects, with operators monitoring multiple machines simultaneously rather than running one-to-one ratios. This shifts the labor-to-equipment cost ratio in ways that rewrite the cost model for earthwork and paving scopes entirely.
+The [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) coming out of early 2026 makes clear that CONEXPO [2026 autonomous equipment](/article/conexpo-2026-autonomous-equipment-2026-what-contractors/) is not theoretical. Semi-autonomous motor graders from two major OEMs are currently deployed on active highway projects, with operators monitoring multiple machines simultaneously rather than running one-to-one ratios. This shifts the labor-to-equipment cost ratio in ways that rewrite the cost model for earthwork and paving scopes entirely.
 
 For small contractors, the practical question is not whether to buy autonomous equipment. It is whether to specialize in scopes where that equipment cannot operate efficiently: confined urban sites, complex utility crossings, tight residential infill, and structural renovation where human judgment remains faster than machine learning. That specialization is a defensible competitive position for the next 5-7 years while the technology matures and lease markets develop.
 

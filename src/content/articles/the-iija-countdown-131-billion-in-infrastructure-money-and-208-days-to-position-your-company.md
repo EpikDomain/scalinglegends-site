@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2605822/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-20"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -71,7 +71,7 @@ Beyond DBE, other crucial set-aside programs include:
 
 The advantage of these programs is clear: they create a protected market where competition is **dramatically reduced**, making it easier for qualified firms to win federal infrastructure projects. For example, a certified [woman owned construction company](/article/woman-owned-construction-company/) can access opportunities unavailable to general market competitors. The process of certification can be rigorous, but the long-term benefits in terms of contract access and reduced competition are substantial. Now is the time to investigate eligibility, prepare documentation, and pursue certification if you qualify. Platforms like [Smart Business Automator](https://smartbusinessautomator.com) can provide geographic opportunity mapping, showing which regions have the most active infrastructure pipeline and where set-aside goals are creating specific needs. Understanding and leveraging these programs is a cornerstone of a successful government construction bidding strategy. For more on the growing presence of underrepresented groups in construction, read our article on [women in construction](/article/women-in-construction-breaking-barriers-2026/).
 
-## Becoming an Infrastructure Contractor: Financial Strength and Diversification
+## Becoming an [Infrastructure Contractor](/article/federal-gas-tax-pause-2026-if-trump-suspends-the-gas-tax-here-is-how-much-highway-trust-fund-money-contractors-could-lose-and-what-every-infrastructure-contractor-must-do-right-now/): Financial Strength and Diversification
 
 To truly become a successful infrastructure contractor, your financial health must be impeccable. Bonding capacity, which dictates the size and number of projects you can undertake, is directly tied to your company's financial stability. Underwriters scrutinize your balance sheet, income statement, and Work-in-Progress (WIP) reports with precision. To expand your bonding capacity and unlock access to larger IIJA projects, immediate action is required:
 

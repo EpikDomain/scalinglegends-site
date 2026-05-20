@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2682988/scalinglegends/2026_0
 readTime: "26 min read"
 published: true
 season: 2
+updatedAt: "2026-05-20"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -142,7 +143,7 @@ For companies building out [family construction business growth](/article/how-to
 
 [Smart Business Automator](https://smartbusinessautomator.com) integrates fuel cost modeling into estimating workflows for contractors in the $5M to $20M revenue range, producing bids that reflect current cost structures rather than trailing averages. Contractors winning bids while protecting margins in 2026 are the ones who got precise about cost inputs. Rough estimates based on 2024 actuals are not just inaccurate in this environment. They are liabilities.
 
-## CONEXPO 2026 Autonomous Equipment and the Long-Term Fuel Strategy
+## CONEXPO [2026 Autonomous Equipment](/article/conexpo-2026-autonomous-equipment-2026-what-contractors/) and the Long-Term Fuel Strategy
 
 [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) made clear that equipment manufacturers are treating electrification and autonomy as their primary growth investments. The show floor featured electric wheel loaders, autonomous compaction systems, and hybrid excavators from every major manufacturer. The sustained fuel cost environment is accelerating that investment timeline significantly.
 
