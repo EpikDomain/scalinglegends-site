@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-ohio-202
 readTime: "57 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -125,7 +125,7 @@ While the state doesn't license GCs, major cities and many counties have their o
 
 While general contractors are licensed locally, several key trades require statewide licensing, administered by the Ohio Construction Industry Licensing Board (OCILB) under the Ohio Department of Commerce, Division of Industrial Compliance:
 
-- **Electrical Contractors:** Required for all electrical work.
+- **[Electrical Contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/):** Required for all electrical work.
 
 - **HVAC Contractors:** Required for heating, ventilating, and air conditioning work.
 

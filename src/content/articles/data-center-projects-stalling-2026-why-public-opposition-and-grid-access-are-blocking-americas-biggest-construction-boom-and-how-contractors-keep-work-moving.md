@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2761936/scalinglegends/2026_0
 readTime: "28 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -64,7 +64,7 @@ Substation long-lead equipment is a separate crisis compounding the interconnect
 
 Hyperscalers are responding aggressively with on-site generation strategies that simultaneously bypass grid constraints and open new scope for qualified contractors:
 
-- **Gas peaker plants:** 50 to 200 MW combustion turbine units sited adjacent to the campus. These require industrial electrical contractors, gas piping specialists, and turbine foundation crews with ATEX-rated experience.
+- **Gas peaker plants:** 50 to 200 MW combustion turbine units sited adjacent to the campus. These require industrial [electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/), gas piping specialists, and turbine foundation crews with ATEX-rated experience.
 
 - **Battery storage at substation scale:** 100 to 500 MWh battery energy storage systems (BESS) that allow facilities to charge during off-peak windows and discharge during demand peaks. Requires electrical crews with utility-scale battery commissioning experience and coordination with the local utility under FERC interconnection agreements.
 

@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2763626/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -36,7 +37,7 @@ Hyperscale cloud providers committed over $320 billion in data center constructi
 
 The scale of this build-out is genuinely difficult to process. Microsoft alone announced $80 billion in data center investment for fiscal 2025, followed by Meta's $65 billion commitment and Google's $75 billion capital expenditure plan. Amazon Web Services added another $100 billion on top. These are not projections — these are announced, funded, and actively permitted projects.
 
-What does that mean at the subcontractor level? The average hyperscale data center runs 1.5 million to 2.5 million square feet and costs between $600 million and $3 billion to construct. Electrical infrastructure alone — the high-voltage switchgear, emergency generators, UPS systems, and redundant distribution panels that a data center requires — routinely represents 35-45% of total project cost. On a $1 billion facility, that's $350-450 million flowing through electrical contractors.
+What does that mean at the subcontractor level? The average hyperscale data center runs 1.5 million to 2.5 million square feet and costs between $600 million and $3 billion to construct. Electrical infrastructure alone — the high-voltage switchgear, emergency generators, UPS systems, and redundant distribution panels that a data center requires — routinely represents 35-45% of total project cost. On a $1 billion facility, that's $350-450 million flowing through [electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/).
 
 **Northern Virginia alone has 35+ data center campuses under construction right now, with an additional 60+ in permitting.** The Midwest corridor from Chicago to Columbus is developing as the second major cluster, driven by lower land costs and proximity to fiber routes. Phoenix, Dallas-Fort Worth, and Atlanta round out the top five markets.
 

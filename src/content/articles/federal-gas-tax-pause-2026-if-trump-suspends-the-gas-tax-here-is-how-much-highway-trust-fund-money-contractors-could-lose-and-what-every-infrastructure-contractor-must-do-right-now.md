@@ -23,7 +23,7 @@ The federal gas tax has not changed since 1993. At 18.4 cents per gallon on gaso
 
 - **Contractors on indefinite delivery and cost-type contracts are most exposed.** Fixed-price contracts with already-appropriated funds generally continue; annual renewals and next-year option years that have not yet been authorized carry the real risk.
 
-- **BUILD America 250 depends on the same revenue mechanism now at risk.** The House surface transportation reauthorization bill introduced to succeed the expiring IIJA funds its contractor pipeline through HTF formula allocations — a gas tax pause undercuts the bill's revenue foundation before it is even signed.
+- **BUILD America 250 depends on the same revenue mechanism now at risk.** The House surface [transportation reauthorization](/article/the-580-billion-transportation-reauthorization-2026-what-contractors-need-to-know-before-the-iija-window-closes-and-the-next-5-years-of-highway-money-is-decided/) bill introduced to succeed the expiring IIJA funds its contractor pipeline through HTF formula allocations — a gas tax pause undercuts the bill's revenue foundation before it is even signed.
 
 - **Revenue concentration above 60 percent DOT-funded work is a red flag.** Contractors at or above that threshold need a diversification plan now — defense transportation infrastructure, funded through defense appropriations rather than the HTF, is one of the most insulated alternatives available.
 

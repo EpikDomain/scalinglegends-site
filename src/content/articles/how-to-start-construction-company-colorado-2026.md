@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-colorado
 readTime: "45 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -100,7 +100,7 @@ Let's look at some key municipalities:
 
 While general contracting is localized, specific trades like electrical and plumbing *do* require statewide licensing from the Colorado Department of Regulatory Agencies (DORA).
 
-- **Electrical Contractors:** Licensed by the Colorado Electrical Board (part of DORA). This requires a Master Electrician license holder to be designated as the responsible person for the company, along with proof of insurance and bonding.
+- **[Electrical Contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/):** Licensed by the Colorado Electrical Board (part of DORA). This requires a Master Electrician license holder to be designated as the responsible person for the company, along with proof of insurance and bonding.
 
 - **Plumbing Contractors:** Licensed by the Colorado Plumbing Board (part of DORA). Similar to electrical, a Master Plumber must be designated, and the company needs to meet insurance and bonding requirements.
 

@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-new-york
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -294,7 +294,7 @@ As a new company, you'll likely start as a subcontractor. Your success hinges on
 *   **Associated General Contractors of New York State (AGC NYS):** A powerful voice for the [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) statewide.
 *   **New York Building Congress (NYBC):** Focuses heavily on NYC.
 *   **Local Chambers of Commerce:** Great for connecting with smaller developers and businesses.
-*   **Trade-Specific Associations:** Join associations related to your specialty (e.g., electrical contractors, concrete contractors).
+*   **Trade-Specific Associations:** Join associations related to your specialty (e.g., [electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/), concrete contractors).
 *   **Business Improvement Districts (BIDs):** In specific neighborhoods, BIDs can connect you to local property owners and developers.
 *   **Subcontractor Pre-Qualification:** Many GCs and developers have rigorous pre-qualification processes. Have your financials, insurance certificates, safety plan, and references in order.
 *   **Reputation and Reliability:** In New York, your word is your bond. Deliver on time, within budget, and to high quality. Communicate proactively. A bad reputation spreads fast.

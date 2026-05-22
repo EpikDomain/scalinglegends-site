@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2610245/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-21"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -60,7 +60,7 @@ This phenomenon is not isolated to electricians, though they are the most acutel
 
 For contractors scaling from $1M to $50M, the data center boom presents a complex strategic challenge. The question isn't whether your business will be impacted, but how. Are you losing your best workers to the allure of higher wages and travel opportunities offered by data center giants? Or are you strategically positioning your business to capture a piece of this unprecedented spending? Effective [construction workforce deployment](/article/construction-workforce-deployment/) is no longer just about scheduling; it’s about anticipating market shifts and adapting proactively.
 
-One immediate impact is the wage pressure. Even if you're not directly competing for data center contracts, you'll feel the need to increase wages to retain your current staff, impacting your overall project profitability and requiring careful [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). Conversely, this boom creates significant subcontracting opportunities. General contractors building data centers need reliable partners for site work, concrete, interior finishes, and specialized installations. Identifying these opportunities requires proactive engagement and strong networking. Furthermore, the demand for power infrastructure is skyrocketing, projected to reach $27.8 billion in 2026, up from $16.5 billion in 2025. This includes everything from new substations to transmission lines, presenting a massive market for civil and electrical contractors.
+One immediate impact is the wage pressure. Even if you're not directly competing for data center contracts, you'll feel the need to increase wages to retain your current staff, impacting your overall project profitability and requiring careful [construction cash flow management](/article/5-cash-flow-mistakes-that-kill-construction-companies/). Conversely, this boom creates significant subcontracting opportunities. General contractors building data centers need reliable partners for site work, concrete, interior finishes, and specialized installations. Identifying these opportunities requires proactive engagement and strong networking. Furthermore, the demand for power infrastructure is skyrocketing, projected to reach $27.8 billion in 2026, up from $16.5 billion in 2025. This includes everything from new substations to transmission lines, presenting a massive market for civil and [electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/).
 **Mid-size contractors must analyze their current capabilities and market position.** Can you retool to specialize in specific data center components? Can you provide the housing solutions for the man camps? The shift of these projects into rural areas also creates new opportunities for local contractors who understand the regional landscape and can leverage local labor pools. Staying informed through resources like [Smart Business Automator](https://smartbusinessautomator.com
 
 Platforms like <a href=) help contractors systematize their operations so they can scale without the chaos.

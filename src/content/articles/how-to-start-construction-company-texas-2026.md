@@ -6,6 +6,7 @@ image: "https://scalinglegends.com/og/how-to-start-construction-company-texas-20
 readTime: "57 min read"
 published: true
 season: 2
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -102,7 +103,7 @@ While the state doesn't license GCs, many cities and counties *do* have their ow
 
 While no state GC license exists, certain specialized trades are heavily regulated and require statewide licensing through the **Texas Department of Licensing and Regulation (TDLR)** or other specific boards. If your business will perform any of these services directly, you *must* be licensed.
 
-*   **Electrical Contractors:** Electricians and electrical contractors are licensed by the TDLR. This requires extensive experience, examinations, and adherence to codes.
+*   **[Electrical Contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/):** Electricians and electrical contractors are licensed by the TDLR. This requires extensive experience, examinations, and adherence to codes.
 *   **Plumbing Contractors:** Plumbers and plumbing contractors are licensed by the Texas State Board of Plumbing Examiners (TSBPE). Similar to electrical, this is a rigorous process.
 *   **HVAC Contractors:** Air Conditioning and Refrigeration Contractors are licensed by the TDLR.
 *   **Well Drillers and Pump Installers:** Licensed by the TDLR.

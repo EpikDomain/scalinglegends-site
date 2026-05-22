@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628650/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -63,7 +63,7 @@ The $300 billion figure isn't just a headline; it's a conservative estimate of t
 
 - **Utility-Scale Battery Storage:** Large battery farms (e.g., lithium-ion, flow batteries) are becoming commonplace, requiring civil site prep, foundation work, electrical connections, and complex HVAC and fire suppression systems.
 
-- **Residential & Commercial Storage:** Integration of batteries with solar PV systems at homes and businesses offers a massive distributed market for electrical contractors.
+- **Residential & Commercial Storage:** Integration of batteries with solar PV systems at homes and businesses offers a massive distributed market [for electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/).
 
 **EV Charging Infrastructure:** A rapidly emerging segment, currently around 10% of the spend, but poised for explosive growth.
 

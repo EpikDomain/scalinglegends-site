@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "22 min read"
 published: true
 season: 2
+updatedAt: "2026-05-21"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -117,7 +118,7 @@ For contractors interested in the broader technology landscape, the [CONEXPO 202
 
 Construction project management software has traditionally focused on schedule, budget, RFIs, submittals, and punch lists. That scope is no longer sufficient. The Iran conflict has demonstrated that project managers need a layer of external risk monitoring baked into their project management stack — specifically, material lead time tracking, supplier financial health monitoring, and commodity price alerts.
 
-Projects that went sideways in Q1 2026 typically failed in one of three ways. First, mechanical and electrical contractors who had committed to installed pricing without material escalation protection found themselves absorbing $40,000-$120,000 in cost overruns per project as copper, conduit, and HVAC component prices spiked. Second, GCs who had issued subcontracts on a fixed-price basis without pass-through escalation language found themselves unable to recover those costs from the owner — and unable to force the sub to absorb them without triggering contract disputes that delayed completion. Third, project managers who failed to identify long-lead material risk 90-120 days in advance were managing project delays on the back end that created liquidated damages exposure.
+Projects that went sideways in Q1 2026 typically failed in one of three ways. First, mechanical and [electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/) who had committed to installed pricing without material escalation protection found themselves absorbing $40,000-$120,000 in cost overruns per project as copper, conduit, and HVAC component prices spiked. Second, GCs who had issued subcontracts on a fixed-price basis without pass-through escalation language found themselves unable to recover those costs from the owner — and unable to force the sub to absorb them without triggering contract disputes that delayed completion. Third, project managers who failed to identify long-lead material risk 90-120 days in advance were managing project delays on the back end that created liquidated damages exposure.
 
 **The response is to treat material procurement as a risk management function, not a purchasing function.** Lead time and price volatility should appear as tracked risk items in your project management system with assigned owners, mitigation plans, and escalation thresholds.
 

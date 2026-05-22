@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2758456/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-21"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -67,7 +67,7 @@ SAM.gov registration is free but requires annual renewal. If your registration h
 
 On the estimating side, federal work requires certified cost or pricing data on task orders above $2 million, which means your estimating process needs to produce documentation that can survive a government audit. Purpose-built [construction workflow automation](/article/the-contractors-guide-to-project-workflow-automation/) tools that maintain documented labor, material, and equipment cost records are not optional at this level. Informal spreadsheet estimating that cannot produce a traceable cost build-up will fail a federal audit and can result in task order termination and exclusion from future awards.
 
-NAICS alignment matters more than most contractors realize. If your primary NAICS code does not match the task order requirement, the prime cannot count your scope in their small business utilization plan. Get your NAICS codes right before you start reaching out to primes. The codes most relevant to this IDIQ include 236220, 238210 (electrical contractors), 238220 (plumbing, heating, and air conditioning), and 541330 (engineering services for controls and SCADA work).
+NAICS alignment matters more than most contractors realize. If your primary NAICS code does not match the task order requirement, the prime cannot count your scope in their small business utilization plan. Get your NAICS codes right before you start reaching out to primes. The codes most relevant to this IDIQ include 236220, 238210 ([electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/)/), 238220 (plumbing, heating, and air conditioning), and 541330 (engineering services for controls and SCADA work).
 
 ## Security Clearances, Set-Asides, and Teaming Strategy for [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 

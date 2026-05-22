@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2651378/scalinglegends/2026_0
 readTime: "17 min read"
 published: true
 season: 2
-updatedAt: "2026-03-25"
+updatedAt: "2026-05-21"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -79,7 +79,7 @@ The weekly intelligence recap also flagged other significant developments, such 
 
 ### How is US offshore wind impacting [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/)?
 
-US offshore wind is creating significant [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/) with over $23 billion in active projects, including the 704MW Revolution Wind and the 2.6 GW Coastal Virginia project. Recent federal court victories have secured this pipeline, ensuring a steady demand for specialized heavy civil, marine, and electrical contractors.
+US offshore wind is creating significant [construction opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/) with over $23 billion in active projects, including the 704MW Revolution Wind and the 2.6 GW Coastal Virginia project. Recent federal court victories have secured this pipeline, ensuring a steady demand for specialized heavy civil, marine, and [electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/).
 
 ### What are the key trends in [construction estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) software for 2026?
 
