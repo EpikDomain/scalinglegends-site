@@ -14,9 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
----
-
-```html
 Thirty-seven percent of [construction companies](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) running autonomous equipment on active job sites report labor cost reductions exceeding $180,000 annually per deployed unit. That number, pulled from [Smart Business Automator](https://smartbusinessautomator.com)'s 2026 contractor market intelligence tracking, is reshaping how owners think about equipment investment, bonding capacity, and long-term competitive positioning. The companies that understand what autonomous equipment actually costs — and what it actually returns — are already pulling away from those still waiting to see how it plays out.
 
 ## Key Takeaways
