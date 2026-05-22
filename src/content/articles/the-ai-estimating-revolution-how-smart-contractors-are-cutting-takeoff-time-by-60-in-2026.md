@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2605930/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-22"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -63,7 +63,7 @@ Here are a few prominent players gaining traction, as tracked by [Smart Business
 
 - **Beam AI:** A cloud-based solution known for its comprehensive capabilities. Beam AI excels at reading diverse plans, extracting material and scope data, and then providing these outputs with human-reviewed QA for an added layer of confidence. It's designed to be versatile across various construction disciplines.
 
-- **Drawer AI:** Specializing in electrical work, Drawer AI is a game-changer for electrical contractors. It automates quantity takeoffs, accurately detects devices, routes circuits, and generates precise material lists tailored to electrical components. This specialization allows for unparalleled accuracy and speed in a complex trade.
+- **Drawer AI:** Specializing in electrical work, Drawer AI is a game-changer [for electrical contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/). It automates quantity takeoffs, accurately detects devices, routes circuits, and generates precise material lists tailored to electrical components. This specialization allows for unparalleled accuracy and speed in a complex trade.
 
 - **Boon:** Boon takes a broader approach, embedding AI agents into various preconstruction workflows. From initial estimating to comprehensive construction bid management, Boon automates a wide array of repetitive tasks, streamlining the entire bidding process and allowing teams to manage more [projects efficiently](/article/surviving-the-messy-middle-of-construction-growth/).
 

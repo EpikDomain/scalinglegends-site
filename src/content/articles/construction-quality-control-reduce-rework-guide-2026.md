@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/construction-quality-control-reduce-rework
 readTime: "32 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-22"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -110,7 +110,7 @@ You can't achieve quality if you haven't defined what it looks like. This founda
 
 - **Establish Internal Benchmarks:** Beyond contractual obligations, what are your company's internal standards for excellence? These might exceed contract minimums and contribute to your brand reputation.
 
-- **Consult Industry Best Practices:** Leverage resources from organizations like the American Concrete Institute (ACI), National Electrical Contractors Association (NECA), or local building codes. These provide a baseline for acceptable quality.
+- **Consult Industry Best Practices:** Leverage resources from organizations like the American Concrete Institute (ACI), National [Electrical Contractors](/article/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors/) Association (NECA), or local building codes. These provide a baseline for acceptable quality.
 
 - **Engage Stakeholders:** Involve project managers, superintendents, and key trade foremen in defining these standards. Their practical input is invaluable.
 
