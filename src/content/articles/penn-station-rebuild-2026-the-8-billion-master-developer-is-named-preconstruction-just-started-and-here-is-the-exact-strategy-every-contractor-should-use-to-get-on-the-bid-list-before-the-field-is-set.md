@@ -13,7 +13,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Amtrak just named the master developer team for the $8 billion Penn Station rebuild. The announcement dropped 24 hours ago. Halmar and Skanska are the joint venture. Preconstruction starts now. The first major trade packages come in 2027. And the contractor bid list for those packages is forming right now, over the next 12 to 18 months. If you are not on that list before it closes, you are out. This is one of the largest transit infrastructure redevelopments in US history, and the window to position your company is open exactly once.
+Amtrak just named the master developer team for the $8 billion Penn Station rebuild. The announcement dropped 24 hours ago. Halmar and Skanska are the joint venture. Preconstruction starts now. The first major trade packages come in 2027. And the contractor bid list for those packages is forming right now, over the next 12 to 18 months. If you are not on that list before it closes, you are out. This is one of the largest transit infrastructure redevelopments in US history, and the window to [position your company](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/) is open exactly once.
 
 ## Key Takeaways
 
@@ -35,7 +35,7 @@ Amtrak just named the master developer team for the $8 billion Penn Station rebu
 
 The selection of Halmar-Skanska as master developer is not just a procurement announcement — it is a signal about how this project will be executed and who will realistically win subcontracting work. Understanding the JV structure tells you exactly what kind of firm has a path to the bid list.
 
-Halmar International is a New York heavy civil contractor with deep experience in transit infrastructure, tunneling, and complex urban environments. They have a track record on major MTA and Port Authority projects, which means their procurement relationships are built on prequalified, known quantities. Skanska USA is the American arm of a global top-5 construction company operating in over 30 countries with annual revenue exceeding $18 billion. Skanska brings institutional procurement systems, sophisticated financial prequalification requirements, and established subcontractor evaluation criteria developed across hundreds of major public projects.
+Halmar International is a New York heavy civil contractor with deep experience in transit infrastructure, tunneling, and complex urban environments. They have a track record on major MTA and Port Authority projects, which means their procurement relationships are built on prequalified, known quantities. Skanska USA is the American arm of a global top-5 [construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/) operating in over 30 countries with annual revenue exceeding $18 billion. Skanska brings institutional procurement systems, sophisticated financial prequalification requirements, and established subcontractor evaluation criteria developed across hundreds of major public projects.
 
 The 50/50 development split and 55/45 construction split matter because they determine which entity controls procurement decisions on which scope elements. Halmar's 55 percent construction majority means their procurement team has primary authority over most civil, underground, and structural packages — the high-dollar, long-duration work. Skanska's 45 percent share concentrates on building systems, finishes, and technology packages where their global supply chain and specialty trade relationships have the most leverage.
 
@@ -45,7 +45,7 @@ For contractors focused on [scaling construction business](/article/how-to-scale
 
 The Trump DOT Secretary Sean Duffy's involvement in the announcement adds a layer of federal prioritization that accelerates timelines. Federal infrastructure projects with White House-level visibility typically move faster through permitting and funding approvals than projects that depend on routine agency processing. Budget for a project that moves on schedule, because this one likely will.
 
-## Breaking Down the $8 Billion Scope: Contractor Profit Margins 2026 and Which Packages Pay
+## Breaking Down the $8 Billion Scope: [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026 and Which Packages Pay
 
 The $8 billion price tag is the headline number, but the actual subcontracting opportunity is distributed across distinct scope categories, each with different risk profiles, margin structures, and prequalification requirements. Knowing which packages align with your trade and capacity is the first step in a focused positioning strategy.
 
@@ -75,7 +75,7 @@ E-Verify enrollment is required for federal contractors. If your company is not 
 
 ## [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/): Financing Three to Four Years of Mega-Project Revenue
 
-The financial profile of a major federal infrastructure subcontract looks nothing like a commercial construction contract. Understanding the cash flow structure before you commit to this work prevents the scenario where a contractor wins a $30 million package and runs out of operating capital by month six.
+The financial profile of a major federal infrastructure subcontract looks nothing like a commercial [construction contract](/article/how-to-write-construction-contract-guide-2026/). Understanding the cash flow structure before you commit to this work prevents the scenario where a contractor wins a $30 million package and runs out of operating capital by month six.
 
 Federal transit subcontracts typically carry 10 percent retainage through substantial completion. On a $30 million package, that is $3 million in earned revenue held back until the end of the job. Combined with standard 30 to 45 day payment terms on approved pay applications, a contractor carrying $3 million in monthly costs could have $6 to $9 million in receivables outstanding at any given time during peak production. Your credit facility must be sized to bridge that gap.
 
