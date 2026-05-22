@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2717920/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-05-22"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -120,7 +121,7 @@ The Executive Order explicitly applies to federal and federally funded projects.
 
 ### How do we report on safety roles specifically?
 
-You must tag specific job roles in your workforce management software with "Safety Responsibilities" (e.g., Safety Officer, First Aider). The system will then aggregate how many individuals in these specific roles belong to which demographic groups.
+You must tag specific job roles in your [workforce management software](/article/construction-workforce-management-software-2026-the-350-percent-search-spike-a-17-billion-market-and-the-exact-tools-cutting-contractor-labor-costs-before-summer-hiring-season-hits/) with "Safety Responsibilities" (e.g., Safety Officer, First Aider). The system will then aggregate how many individuals in these specific roles belong to which demographic groups.
 
 ### Can we use a third-party service to handle the reporting?
 
