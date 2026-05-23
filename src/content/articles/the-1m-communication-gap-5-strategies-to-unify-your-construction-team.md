@@ -15,7 +15,6 @@ sponsors:
 
 Here's the article:
 
-```html
 Imagine losing 10% to 15% on every project simply because your sales team promised something operations couldn't deliver, or leadership's vision never fully reached the field. That's not just a hypothetical for construction companies between $1M and $10M in revenue: it's a harsh reality that silently erodes profits and stifles growth. For a $5M contractor, that gap translates to $500,000 to $750,000 disappearing annually, not from poor craftsmanship or bad bids, but from the invisible friction between the people running the business. In 2026, with material costs elevated and labor tight, that's a gap you can no longer absorb.
 
 ## Key Takeaways

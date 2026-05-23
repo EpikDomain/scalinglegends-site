@@ -16,7 +16,6 @@ sponsors:
 
 Here is the full HTML article:
 
-```html
 Kiewit just got off-ramped from the Francis Scott Key Bridge rebuild in Baltimore. Not a subcontractor reshuffle. Not a scope reduction. Off-ramped. Kiewit ranks in the top three US heavy civil contractors by revenue, bonding capacity, and mega-project execution history. If they lose a $1.7 billion federal rebuild, no contractor should assume their current pursuit strategy is bulletproof. This breakdown covers what likely drove the dismissal, what the procurement reset means for the market, who is poised to step in as prime, where subs need to move right now, and the risk lessons that apply directly to your [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) in 2026.
 
 ## Key Takeaways

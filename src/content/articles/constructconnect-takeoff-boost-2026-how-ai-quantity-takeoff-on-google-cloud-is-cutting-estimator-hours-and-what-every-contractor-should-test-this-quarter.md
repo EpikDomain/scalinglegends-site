@@ -14,9 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here is the complete article:
-
-```html
 ConstructConnect just launched Takeoff Boost. Built on Google Cloud Vertex AI. Powered by machine learning trained on millions of construction plan sheets. The claim: 3 to 5x faster quantity takeoff on your plans than a manual estimator working through the same sheets. For contractors where estimating staff spend 40 percent of their hours on mechanical counting -- clicking through PDFs, tracing wall runs, tallying door and window counts -- that speed multiple is not a rounding error. It is a capacity multiplier that reshapes how many bids you can chase, how fast you can respond to RFPs, and how aggressively you can pursue [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026 targets without adding headcount. If your estimators are drowning in plan sheets right now, this is the breakdown they need.
 
 ## Key Takeaways

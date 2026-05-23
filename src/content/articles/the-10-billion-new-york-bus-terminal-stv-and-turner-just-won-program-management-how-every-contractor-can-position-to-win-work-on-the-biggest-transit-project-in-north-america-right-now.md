@@ -14,10 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here is the complete article:
-
----
-
 Somebody just won the program management contract for a $10 billion bus terminal in New York City. STV and Turner Construction, in a joint venture, were selected by the Port Authority of New York and New Jersey to manage the full reconstruction of the Port Authority Bus Terminal at 8th Avenue and 42nd Street in Manhattan. This is the world's busiest bus terminal: 8,000 buses per day, 230,000 daily passengers, and a construction program that will generate dozens of separately bid prime packages over the next several years. The contractors who are registering in the PANYNJ vendor portal, assembling their prequalification files, and building relationships with certified MWBE partners right now will have a structural advantage over every firm that waits for the public bid notice to appear.
 
 ## Key Takeaways

@@ -14,9 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here's the full article:
-
-```html
 Over the next decade, more than $2 trillion in [construction company](/article/surviving-the-messy-middle-of-construction-growth/) wealth will transfer hands. But here's the kicker: 70% of family-owned construction businesses have absolutely no succession plan in place. Are you one of them?
 
 The average construction company owner is 54 years old. The IIJA-driven infrastructure boom pushing contractor revenues to record highs in 2026 is also pushing valuations higher than they have ever been. If you have no plan, you are leaving generational wealth on the table — or worse, handing your kids a liability instead of a legacy.

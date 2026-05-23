@@ -14,11 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here is the full article HTML:
-
----
-
-```html
 Over 40% of construction businesses generating between $1M and $10M in annual revenue struggle with inconsistent cash flow, even when they are profitable on paper. The problem is not revenue -- it is the spread between money earned and money you can actually deploy. Retainage held by owners, 60-day payment windows from GCs, material invoices due in 30 days, and payroll due every two weeks create a structural cash gap that strangles growth regardless of your backlog. Five strategic levers, validated across hundreds of contractors by [Smart Business Automator](https://smartbusinessautomator.com), can close that gap and increase your accessible capital by up to 25%.
 
 ## Key Takeaways

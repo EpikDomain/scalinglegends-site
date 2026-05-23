@@ -14,10 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here is the complete article:
-
----
-
 A federal court just upheld the Biden-era Project Labor Agreement mandate on [federal construction projects](/article/get-paid-in-less-than-30-days-winning-federal-construction-projects/) over $35 million. If you bid federal work, your labor strategy changed overnight. PLAs are now required on all covered contracts, and contractors who have never executed one have until their next federal bid to learn fast or lose those opportunities to better-prepared competitors. **Today is your survival map.**
 
 The ruling, reported by Construction Dive, eliminates the legal uncertainty that many merit-shop contractors were counting on. [Smart Business Automator](https://smartbusinessautomator.com) currently tracks 280 active federal [construction projects](/article/how-to-manage-multiple-construction-projects-2026/) above the $35 million PLA threshold. That pipeline is live. Bid windows are opening now, and contractors without a PLA playbook are already behind.

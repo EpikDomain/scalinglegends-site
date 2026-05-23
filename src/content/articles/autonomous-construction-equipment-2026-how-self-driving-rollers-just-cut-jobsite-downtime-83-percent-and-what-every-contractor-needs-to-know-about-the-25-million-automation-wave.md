@@ -16,7 +16,6 @@ sponsors:
 
 Here is the article:
 
-```html
 A startup just cut a real construction project's equipment downtime by 83 percent using an autonomous roller that installs in one hour and costs nothing to buy. Two hundred contractors already joined the waitlist after [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/). Before you finish this article, a competitor in your market may already be on that list.
 
 ## Key Takeaways

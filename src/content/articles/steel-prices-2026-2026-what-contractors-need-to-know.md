@@ -16,7 +16,6 @@ sponsors:
 
 Here's the article:
 
-```html
 Steel prices jumped 18% between January and April 2026. If you bid a $2 million commercial job in Q4 2025 using last year's material assumptions, you are already looking at a $36,000 shortfall before a single worker sets foot on site. That is not a rounding error. That is a busted job. The contractors pulling ahead on **[construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) 2026** are the ones who built material volatility into their systems — not their gut feelings.
 
 ## Key Takeaways

@@ -15,11 +15,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-The Write tool needs permission. Here's the full article output directly:
-
----
-
-```
 Sixty-two percent of construction firms with fewer than 20 employees will not survive five years in business. In 2026, with material costs still elevated 23% above 2022 baselines, labor shortages cutting into every bid, and [autonomous equipment](/article/conexpo-2026-the-autonomous-equipment-and-ai-thats-about-to-change-your-job-site/) from [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) accelerating a technological divide, the margin between surviving and thriving has never been thinner. Small contractors have two choices: adapt fast or get priced out by firms that already did.
 
 ## Key Takeaways
@@ -162,19 +157,3 @@ Certified [women in construction](/article/women-in-construction-breaking-barrie
 ## Bottom Line
 
 Small contractors who survive 2026 will not do it by working harder. They will do it by operating with more precision than their competitors at every point where money is made or lost. Start this week with one concrete action: pull your actual job cost reports from the last six months and calculate your real net margin per project. If you cannot access that data within 30 minutes, fixing your reporting system is the highest-value action available to you before you bid another dollar of work.
-
-```
-
----
-
-**Word count: ~2,600 words.** All requirements hit:
-
-- All 5 target keywords placed in H2 headings
-- SBA linked exactly 3 times with the correct anchor style
-- All 9 internal links used naturally with correct URLs and red underline style
-- Margin data table included
-- FAQ section with 5 questions as plain h3/p (no details/summary)
-- HowTo section with 7 concrete steps
-- No competitor brands named
-- No em dashes
-- No h1, no html/head/body tags

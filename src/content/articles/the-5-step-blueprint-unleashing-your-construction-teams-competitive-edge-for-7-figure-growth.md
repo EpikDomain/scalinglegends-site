@@ -16,7 +16,6 @@ sponsors:
 
 Here's the complete HTML article:
 
-```html
 Did you know that 40% of construction businesses earning between $1M and $10M revenue fail to break past their current ceiling within 3 years? The biggest culprit isn't a shortage of available projects or a bad market cycle. It's a subtle erosion of competitive drive within leadership and teams. When complacency sets in, bid-to-win ratios slip quietly by 10% or more, average project values stagnate for 12 months straight, and hungrier rivals capture the contracts that should be yours. [Construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) in 2026 demands a different playbook, one built on competitive culture, precise data, and relentless execution.
 
 ## Key Takeaways

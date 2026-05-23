@@ -15,9 +15,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here is the full article HTML:
-
-```html
 For three years [data center construction](/article/the-700-billion-man-camp-crisis-how-data-center-construction-is-reshaping-the-workforce/) was a one-way street. Announced, permitted, built, filled with GPUs. Not anymore. Construction Dive reported April 22 that **22 percent of announced US data center projects are stalled on public opposition and power access**. If data center work is your growth story, today is your survival read.
 
 The pipeline looked unstoppable: $200 billion in announced data center capital expenditure in 2024 alone, with hyperscalers like Amazon, Microsoft, Google, and Meta signing multi-year GC contracts before permits were filed. That era is over. A pincer movement of community resistance and physical grid constraints has turned the world's hottest construction sector into a slow-motion permit battle. The contractors who adapt in the next 90 days will capture the rerouted work. Everyone else waits.

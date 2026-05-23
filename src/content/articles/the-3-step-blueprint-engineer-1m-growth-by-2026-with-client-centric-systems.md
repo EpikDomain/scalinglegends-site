@@ -15,7 +15,6 @@ sponsors:
 
 Here's the full HTML article:
 
-```html
 Did you know 70% of construction project failures are attributed to poor communication, not poor craftsmanship? That single statistic should stop you cold. It means the gap between a $3M business and a $10M business isn't found in your crews' skills or your equipment — it's found in the systems you build around the client relationship. The contractors engineering $1M+ in [construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) in 2026 aren't just building better structures. They're building a better experience around every project, and that distinction is worth real money.
 
 ## Key Takeaways

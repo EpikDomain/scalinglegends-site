@@ -183,5 +183,3 @@ Margin recovery in 2027 is likely for contractors who survive 2026 with capital 
 The 18% margin decline hitting the average contractor in 2026 has external causes—labor inflation, material costs, competitive bid dynamics. But the contractors holding 12%+ margins in the same environment are proof that margin defense is primarily an execution problem. The data is available. The tools exist. The margin recovery is there for firms willing to build the operational discipline to capture it.
 
 One action you can take this week: pull your job-level margin data on the last 10 completed projects and calculate your actual estimation accuracy rate. If your average bid-to-actual variance is greater than 5%, you have a systematic estimating problem that's costing you more than any single efficiency initiative will recover. Fix the estimate first. Everything else compounds from there.
-
-```

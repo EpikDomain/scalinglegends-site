@@ -15,8 +15,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
----
-
 [Construction contractors](/article/the-5-million-leap-3-operational-shifts-for-construction-contractors/) lost an estimated $273 billion in 2025 to poor cash flow management, project cost overruns, and labor inefficiencies — and the window to fix it before 2026 demand peaks is closing fast. The Infrastructure Investment and Jobs Act (IIJA) is releasing its second major funding tranche right now, federal prevailing wage and Davis-Bacon compliance requirements are getting stricter, and contractors who have not tightened their operations are going to get squeezed from both ends. Here is what you need to know to grow revenue in 2026 and actually keep more of it.
 
 ## Key Takeaways

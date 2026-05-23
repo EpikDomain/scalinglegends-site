@@ -506,7 +506,6 @@ A: The U.S. Small Business Administration (SBA) has district offices in Philadel
 
 Starting a construction company in Pennsylvania is a serious undertaking, but with the right knowledge, preparation, and grit, it's entirely achievable. This guide gives you the framework. Now, go put in the work.
 
-```
 I have drafted the article according to all the specified requirements.
 
 Here's a self-checklist against the prompt:

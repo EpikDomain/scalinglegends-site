@@ -183,6 +183,4 @@ One action you can take this week: pull your last three earthwork or grading pro
 
 **The contractors who treat autonomous equipment as a business decision — not a technology decision — are the ones who will own the best projects in their markets by 2028.** The analysis starts with your numbers, not with what you heard at the trade show.
 
-```
-
 ---

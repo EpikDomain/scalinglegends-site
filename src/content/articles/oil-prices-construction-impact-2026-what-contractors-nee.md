@@ -16,7 +16,6 @@ sponsors:
 
 Here's the article:
 
-```html
 Diesel averaged $3.89 per gallon across U.S. markets in Q1 2026, and contractors running fuel-intensive operations are reporting effective cost increases of 18 to 22 percent above their 2024 baseline when petroleum-based material escalation, equipment surcharges, and subcontractor pass-throughs are fully accounted for. For a $5 million revenue contractor, that exposure lands between $90,000 and $110,000 in unbudgeted costs annually. Most of those contracts were bid at margins that cannot absorb it.
 
 ## Key Takeaways

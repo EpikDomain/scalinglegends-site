@@ -14,9 +14,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here is the full article HTML:
-
-```html
 Maryland just announced the Key Bridge contracts. Four packages, up to $4.8 billion total. The main span alone, a design-build package worth $3.5 to $4 billion, goes to RFQ this summer. Kiewit is out of all four packages. Penn Station simultaneously named its master developer. ENR just dropped Top 400 data showing the industry pulled $671.4 billion in 2025 revenue and still ran 439,000 workers short. The work is there. The people are not. Here is everything you need to know before Monday morning.
 
 ## Key Takeaways
