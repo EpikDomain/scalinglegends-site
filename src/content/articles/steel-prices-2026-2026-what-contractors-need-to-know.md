@@ -1,9 +1,8 @@
 ---
-title: "Steel Prices 2026 2026: What Contractors Need to Know"
+title: "Steel Prices 2026: What Contractors Need to Know"
 description: "Deep dive into steel prices 2026 and what it means for construction businesses in 2026."
 date: "2026-04-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/steel-prices-2026-2026-what-contractors-need-to-know-1777367637.png"
-audioUrl: "https://content.rss.com/episodes/332597/2628648/scalinglegends/2026_03_14_19_05_49_71c6a806-ac96-4c8c-919e-34f8062aad2f.mp3"
 readTime: "21 min read"
 published: true
 season: 2

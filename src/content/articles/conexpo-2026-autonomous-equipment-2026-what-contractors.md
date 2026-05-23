@@ -1,12 +1,13 @@
 ---
-title: "Conexpo 2026 Autonomous Equipment 2026: What Contractors ..."
+title: "CONEXPO 2026 Autonomous Equipment: What Contractors Need to Know"
 description: "Deep dive into CONEXPO 2026 autonomous equipment and what it means for construction businesses in 2026."
 date: "2026-05-20"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/conexpo-2026-autonomous-equipment-2026-what-contractors-1779269160.png"
-audioUrl: "https://content.rss.com/episodes/332597/2839775/scalinglegends/2026_05_19_14_04_31_83e4381d-de91-482f-bfd0-7fb308ce8f4a.mp3"
+audioUrl: "https://content.rss.com/episodes/332597/2619682/scalinglegends/2026_03_11_14_07_42_85463fa8-e41a-48c0-875a-a9c2235ba6a9.mp3"
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

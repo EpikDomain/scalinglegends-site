@@ -1,11 +1,12 @@
 ---
-title: "Oil Prices Construction Impact 2026: What Contractors Nee..."
+title: "Oil Prices Construction Impact 2026: What Contractors Need to Know"
 description: "Deep dive into oil prices construction impact and what it means for construction businesses in 2026."
 date: "2026-04-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/oil-prices-construction-impact-2026-what-contractors-nee-1777366671.png"
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

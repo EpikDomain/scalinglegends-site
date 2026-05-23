@@ -1,5 +1,5 @@
 ---
-title: "Construction Workflow Automation 2026: What Contractors N..."
+title: "Construction Workflow Automation 2026: What Contractors Need to Know"
 description: "Deep dive into construction workflow automation and what it means for construction businesses in 2026."
 date: "2026-05-23"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-workflow-automation-2026-what-contractors-n-1779528247.png"

@@ -1,5 +1,5 @@
 ---
-title: "Small Contractor Survival 2026 2026: What Contractors Nee..."
+title: "Small Contractor Survival 2026: What Contractors Need to Know"
 description: "Deep dive into small contractor survival 2026 and what it means for construction businesses in 2026."
 date: "2026-04-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/small-contractor-survival-2026-2026-what-contractors-nee-1777368068.png"

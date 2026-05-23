@@ -1,5 +1,5 @@
 ---
-title: "Government Contractor 2026 2026: What Contractors Need to..."
+title: "Government Contractor 2026: What Contractors Need to Know"
 description: "Deep dive into government contractor 2026 and what it means for construction businesses in 2026."
 date: "2026-05-23"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/government-contractor-2026-2026-what-contractors-need-to-1779528947.png"

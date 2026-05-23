@@ -13,6 +13,7 @@ sponsors:
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
+
 The average contractor's profit margin dropped 18% year-over-year in 2026. That's not a rounding error—it's the difference between a profitable business and a [cash flow](/article/5-cash-flow-mistakes-that-kill-construction-companies/) crisis. For a firm doing $1M in revenue, margins compressing from 12% to 9.8% means $22,000 less cash in your pocket on the same workload. If your margins aren't declining right now, you're either flying blind on your numbers or doing something the rest of the industry is missing.
 
 ## Key Takeaways
@@ -183,3 +184,4 @@ The 18% margin decline hitting the average contractor in 2026 has external cause
 
 One action you can take this week: pull your job-level margin data on the last 10 completed projects and calculate your actual estimation accuracy rate. If your average bid-to-actual variance is greater than 5%, you have a systematic estimating problem that's costing you more than any single efficiency initiative will recover. Fix the estimate first. Everything else compounds from there.
 
+```

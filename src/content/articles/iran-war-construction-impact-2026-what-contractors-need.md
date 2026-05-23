@@ -1,12 +1,12 @@
 ---
-title: "Iran War Construction Impact 2026: What Contractors Need ..."
+title: "Iran War Construction Impact 2026: What Contractors Need to Know"
 description: "Deep dive into Iran war construction impact and what it means for construction businesses in 2026."
 date: "2026-04-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/iran-war-construction-impact-2026-what-contractors-need-1777367432.png"
 readTime: "22 min read"
 published: true
 season: 2
-updatedAt: "2026-05-21"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"

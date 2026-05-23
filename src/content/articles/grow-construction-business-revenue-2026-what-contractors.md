@@ -1,5 +1,5 @@
 ---
-title: "Grow Construction Business Revenue 2026: What Contractors..."
+title: "Grow Construction Business Revenue 2026: What Contractors Need to Know"
 description: "Deep dive into grow construction business revenue and what it means for construction businesses in 2026."
 date: "2026-05-20"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/grow-construction-business-revenue-2026-what-contractors-1779268287.png"
@@ -7,14 +7,13 @@ audioUrl: "https://content.rss.com/episodes/332597/2751631/scalinglegends/2026_0
 readTime: "4 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
-
-Here's the full article HTML:
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Drone Construction Inspection 2026: What Contractors Need..."
+title: "Drone Construction Inspection 2026: What Contractors Need to Know"
 description: "Deep dive into Drone inspection ROI and what it means for construction businesses in 2026."
 date: "2026-04-28"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/drone-construction-inspection-2026-what-contractors-need-1777367851.png"
@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2650906/scalinglegends/2026_0
 readTime: "22 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"

@@ -13,11 +13,6 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Here's the full article HTML:
-
----
-
-```html
 The Department of Government Efficiency has canceled or paused an estimated $370 billion in federal contracts and grants as of Q1 2026. [For construction contractors](/article/the-5-million-leap-3-operational-shifts-for-construction-contractors/) holding federal work, or competing for IIJA infrastructure dollars, the [math just changed](/article/construction-equipment-rent-or-own-in-2026-the-math-just-changed/). Federal project pipelines that looked solid six months ago are under active review, payment timelines on approved work have stretched 60 to 90 days beyond contract terms, and bid volume on new federal solicitations dropped 34% year-over-year in Q1. If your backlog carries any government-funded work, you have a narrow window to adjust before the cash gap hits payroll.
 
 ## Key Takeaways

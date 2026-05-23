@@ -1,5 +1,5 @@
 ---
-title: "Construction Bidding Strategies 2026: What Contractors Ne..."
+title: "Construction Bidding Strategies 2026: What Contractors Need to Know"
 description: "Deep dive into construction bidding strategies and what it means for construction businesses in 2026."
 date: "2026-05-20"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-bidding-strategies-2026-what-contractors-ne-1779268742.png"
