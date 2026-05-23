@@ -194,6 +194,29 @@ function htmlToMarkdown(html) {
   return md;
 }
 
+// Guard against LLM scaffold leakage where markdown is wrapped in a fenced html code block
+function sanitizeMarkdownLeakage(markdown) {
+  if (!markdown) return '';
+  let md = markdown;
+
+  md = md.replace(/\n?Here'?s the (complete|full) article HTML:\s*\n/gi, '\n');
+
+  // Strip leading garbage (--- dividers, blank lines) then ```html fence with optional --- inside
+  md = md.replace(/^\s*(?:---\s*\n)*\s*```html\s*\n(?:---\s*\n)?/i, '');
+  // Strip closing fence even if followed by --- divider/whitespace
+  md = md.replace(/\n```\s*(?:\n+---\s*)*\s*$/i, '\n');
+  // Final attempt: whole-string fenced block (legacy behavior)
+  const fenced = md.trim().match(/^```html\n([\s\S]*?)\n```\s*$/i);
+  if (fenced) {
+    md = fenced[1];
+  }
+
+  md = md.replace(/\n?Word count is approximately[^\n]*$/gim, '');
+  md = md.replace(/\n?That's the full article\.[^\n]*$/gim, '');
+  md = md.replace(/\n{3,}/g, '\n\n').trim();
+  return md;
+}
+
 async function main() {
   mkdirSync(OUT_DIR, { recursive: true });
 
@@ -226,7 +249,7 @@ async function main() {
 
   for (const a of articles) {
     const audioUrl = matchAudio(a.title);
-    const content = htmlToMarkdown(a.content);
+    const content = sanitizeMarkdownLeakage(htmlToMarkdown(a.content));
     const date = a.created_at ? a.created_at.split('T')[0] : '2026-03-05';
     const updatedAt = a.updated_at ? a.updated_at.split('T')[0] : null;
     // Track updatedAt only when it differs from created_at by more than 1 day
