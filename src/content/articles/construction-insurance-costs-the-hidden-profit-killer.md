@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "15 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-23"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -84,7 +84,7 @@ Policy structure optimization can yield 10-15% savings without reducing coverage
 
 The factors driving insurance cost increases show no signs of abating. Litigation costs continue rising, climate-related claims are increasing in frequency and severity, and carrier consolidation is reducing competitive pressure on pricing. Contractors should expect another 8-12% premium increase in 2027, with the hardest-hit trades—roofing, concrete, demolition—facing 15%+ increases.
 
-The Inflation Reduction Act and infrastructure spending are increasing demand for construction services, which paradoxically pressures insurance markets as more contractors compete for limited carrier capacity. The IIJA's domestic content requirements are also creating new risk categories that carriers are still learning to price, creating additional volatility.
+The Inflation Reduction Act and [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) are increasing demand for construction services, which paradoxically pressures insurance markets as more contractors compete for limited carrier capacity. The IIJA's domestic content requirements are also creating new risk categories that carriers are still learning to price, creating additional volatility.
 
 Technology adoption will increasingly separate contractors who manage insurance costs effectively from those who don't. Carriers are investing heavily in usage-based insurance models, telematics for fleet coverage, and AI-driven risk assessment. Contractors who embrace these technologies—and the data transparency they require—will access better pricing than those relying on traditional underwriting approaches.
 

@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2758499/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -130,7 +131,7 @@ Third, leverage the Kiewit project to build a portfolio of compliance. Once you 
 
 Finally, automate your scaling process. Manual tracking fails as you exceed **$10M** in volume. You need an Enterprise Resource Planning (ERP) system that integrates your estimating, job costing, and payroll. The ROI of this automation is typically realized within **12 months**, with a reduction in administrative overhead of **25%**.
 
-The path from $1M to $50M is not linear, but it is possible through strategic bidding on high-complexity public works. By aligning your operations with the requirements of the Texas Light Rail 2026 program, you position yourself as a scalable, reliable partner for the next decade of infrastructure spending.
+The path from $1M to $50M is not linear, but it is possible through strategic bidding on high-complexity public works. By aligning your operations with the requirements of the Texas Light Rail 2026 program, you position yourself as a scalable, reliable partner for the next decade of [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/).
 
 ## Frequently Asked Questions
 

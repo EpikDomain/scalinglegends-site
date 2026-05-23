@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "26 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -18,7 +18,7 @@ Three global construction market signals in 72 hours. Canada: $430 billion by 20
 
 ## Key Takeaways
 
-- **Canada's construction market hits $430.98 billion by 2034.** Driven by infrastructure spending, energy transition, housing shortages, data center buildout, and Indigenous resource partnerships, Canada is the lowest-friction international market available to US contractors because of USMCA trade flow, permitting similarity, and bonding alignment.
+- **Canada's construction market hits $430.98 billion by 2034.** Driven by [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/), energy transition, housing shortages, data center buildout, and Indigenous resource partnerships, Canada is the lowest-friction international market available to US contractors because of USMCA trade flow, permitting similarity, and bonding alignment.
 
 - **Indonesia is growing at 6.77 percent CAGR toward $226.1 billion.** The Nusantara capital relocation, new port and industrial zone construction, LNG terminal buildout, and a national housing deficit are creating specialist contractor opportunities that US firms with advanced capability can access through USAID, DFC, and EXIM Bank financing structures.
 

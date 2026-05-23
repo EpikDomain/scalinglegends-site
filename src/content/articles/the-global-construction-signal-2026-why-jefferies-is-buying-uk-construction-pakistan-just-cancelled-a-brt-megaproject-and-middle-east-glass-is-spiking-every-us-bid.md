@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2758841/scalinglegends/2026_0
 readTime: "25 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -104,7 +104,7 @@ Middle East conflict disrupts two supply chain nodes that feed North American co
 
 ### What is the Jefferies UK construction recovery trade and why should US contractors care?
 
-Jefferies, the investment bank, published a sector call naming top picks in UK construction, signaling institutional confidence in a market recovery driven by infrastructure spending, the Future Homes Standard sustainability mandate, and planning reform. For US contractors, this matters because it signals rising international demand for construction materials, creates export and partnership opportunities for US specialty manufacturers and contractors, and indicates that UK construction order books are growing, which will tighten global supply chains for shared materials.
+Jefferies, the investment bank, published a sector call naming top picks in UK construction, signaling institutional confidence in a market recovery driven by [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/), the Future Homes Standard sustainability mandate, and planning reform. For US contractors, this matters because it signals rising international demand for construction materials, creates export and partnership opportunities for US specialty manufacturers and contractors, and indicates that UK construction order books are growing, which will tighten global supply chains for shared materials.
 
 ### How should contractors handle glass and glazing price escalation on open bids?
 

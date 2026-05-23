@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "21 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -53,7 +54,7 @@ Then layer in delivery method preference. Design-build and GMP (Guaranteed Maxim
 
 **The most important filter is client sophistication.** An owner who has been burned by a low-bid contractor on a previous project is a warm prospect for a value-based relationship. An owner who has successfully executed multiple complex projects and wants a long-term contractor partner is worth ten single-project clients. Identify the owners in your market who fit this profile and build your outreach strategy around them specifically.
 
-Consider DBE and WBE certification opportunities as well. Federal and state IIJA infrastructure spending includes significant set-aside and participation requirements that create protected market segments. A [woman owned construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/) with DBE or WBE certification can access project opportunities that are structurally unavailable to non-certified competitors. Understanding these certification advantages is part of defining where your firm has a natural competitive position. The broader movement of [women in construction](/article/women-in-construction-breaking-barriers-2026/) is also reshaping who the decision-makers are on the owner and developer side, which matters for relationship-building strategy.
+Consider DBE and WBE certification opportunities as well. Federal and state IIJA [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) includes significant set-aside and participation requirements that create protected market segments. A [woman owned construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/) with DBE or WBE certification can access project opportunities that are structurally unavailable to non-certified competitors. Understanding these certification advantages is part of defining where your firm has a natural competitive position. The broader movement of [women in construction](/article/women-in-construction-breaking-barriers-2026/) is also reshaping who the decision-makers are on the owner and developer side, which matters for relationship-building strategy.
 
 Document your ideal client profile in writing: project size range, delivery method preference, sector focus, geographic territory, and owner type. Every business development decision should be filtered through this profile. Work that doesn't fit should be declined or referred out, even if it looks like revenue on the surface.
 

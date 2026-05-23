@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_0
 readTime: "13 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-23"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -79,7 +79,7 @@ For contractors not in this space: data centers are outbidding traditional comme
 
 ## The Two-Speed Economy: Boom and Bust in the Same Industry
 
-While data centers and infrastructure spending break records, everything else is cooling:
+While data centers and [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) break records, everything else is cooling:
 
 - Nonresidential construction planning **fell 6.3%** month-to-month in January
 

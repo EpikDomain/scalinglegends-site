@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2605822/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-05-22"
+updatedAt: "2026-05-23"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -15,7 +15,7 @@ sponsors:
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
 ---
 
-Two hundred and eight days. That is how long before the largest infrastructure spending bill in American history expires. The Associated General Contractors of America (AGC) just spent two million dollars on a campaign to warn Congress. The Highway Trust Fund is facing a hundred-and-fifty-billion-dollar shortfall. And most mid-size contractors have zero strategy for capturing their share of the money still flowing. Today I am giving you the 90-day action plan to position your company before September 30th.
+Two hundred and eight days. That is how long before the largest [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) bill in American history expires. The Associated General Contractors of America (AGC) just spent two million dollars on a campaign to warn Congress. The Highway Trust Fund is facing a hundred-and-fifty-billion-dollar shortfall. And most mid-size contractors have zero strategy for capturing their share of the money still flowing. Today I am giving you the 90-day action plan to position your company before September 30th.
 
 <iframe src="https://www.youtube.com/embed/0BfnQklf_LM" style="width:100%;aspect-ratio:16/9;border:0;border-radius:12px;margin:24px 0;" allowfullscreen loading="lazy"></iframe>
 

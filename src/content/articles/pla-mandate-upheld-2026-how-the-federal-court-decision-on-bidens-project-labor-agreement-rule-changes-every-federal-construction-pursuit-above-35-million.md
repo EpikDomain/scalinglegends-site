@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "26 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -139,7 +140,7 @@ For [construction business](/article/how-to-scale-a-construction-business-withou
 
 The federal court ruling is not the only PLA development [contractors need to](/article/steel-prices-2026-2026-what-contractors-need-to-know/) monitor. Five states have enacted their own PLA mandates that operate independently of the federal threshold and apply to state-funded construction projects with their own dollar triggers and compliance frameworks. If you pursue state work in California, New York, Illinois, New Jersey, or Washington, your PLA exposure exists on both federal and state tracks simultaneously.
 
-California's PLA requirements apply to public works projects above thresholds that vary by agency and project type, and some California agencies require PLAs on projects as low as $1 million. New York has used PLAs on major infrastructure projects for decades and has expanded requirements under recent legislation tied to accelerated transit and utility infrastructure spending. Illinois, New Jersey, and Washington have followed with their own mandates, driven in part by Infrastructure Investment and Jobs Act funding flowing through state agencies with attached labor conditions.
+California's PLA requirements apply to public works projects above thresholds that vary by agency and project type, and some California agencies require PLAs on projects as low as $1 million. New York has used PLAs on major infrastructure projects for decades and has expanded requirements under recent legislation tied to accelerated transit and utility [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/). Illinois, New Jersey, and Washington have followed with their own mandates, driven in part by Infrastructure Investment and Jobs Act funding flowing through state agencies with attached labor conditions.
 
 The practical implication for contractors operating across multiple states is a PLA compliance matrix. A single project in California may simultaneously trigger federal PLA requirements through IIJA pass-through funding and a California agency PLA requirement. Where both apply, the more restrictive provisions control. California contractors often face a higher bar than the federal baseline in terms of union hall referral percentages and benefit fund contribution rates.
 

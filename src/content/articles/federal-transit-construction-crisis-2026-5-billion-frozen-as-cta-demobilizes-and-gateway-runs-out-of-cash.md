@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2655716/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -51,7 +51,7 @@ Furthermore, understanding your rights under a Termination for Convenience (T4C)
 
 ## Diversification and Documentation: Essential Strategies for [Contractor Profit Margins](/article/contractor-profit-margins-drop-18-in-2026/) 2026
 
-The recent federal funding freezes underscore a critical lesson for contractors: **diversification is not merely an option, but a necessity for long-term viability and robust contractor profit margins 2026.** If government contracts constitute 60% or more of your revenue, your business is inherently exposed to political whims and budgetary stalemates. The sudden demobilization of the Walsh-VINCI team and the Gateway Tunnel's cash crunch are stark warnings. Prudent contractors should actively seek to balance their portfolio with private sector work, state and local projects, or even different federal agencies, reducing dependency on a single funding source. This strategic shift can buffer your business against the volatility of large-scale federal infrastructure spending.
+The recent federal funding freezes underscore a critical lesson for contractors: **diversification is not merely an option, but a necessity for long-term viability and robust contractor profit margins 2026.** If government contracts constitute 60% or more of your revenue, your business is inherently exposed to political whims and budgetary stalemates. The sudden demobilization of the Walsh-VINCI team and the Gateway Tunnel's cash crunch are stark warnings. Prudent contractors should actively seek to balance their portfolio with private sector work, state and local projects, or even different federal agencies, reducing dependency on a single funding source. This strategic shift can buffer your business against the volatility of large-scale [federal infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/).
 
 When a project faces a stop-work order or demobilization, meticulous documentation becomes your most powerful asset. Every single day, from the moment work stops, contractors must maintain detailed records. This includes **time-stamped photographs and videos**, comprehensive crew logs detailing personnel and their activities, and precise records of equipment usage and idling costs. These daily logs form the bedrock of any future claim for extended overhead, demobilization expenses, or potential T4C recovery. Without irrefutable evidence, even legitimate claims can be significantly reduced or rejected. Leveraging modern [construction project management](/article/construction-project-management-surviving-the-messy-middle/) software can streamline this process, ensuring all data is captured accurately and securely.
 

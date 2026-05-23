@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-texa
 readTime: "81 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-23"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -600,7 +600,7 @@ Let's talk brass tacks. You're looking to get into contracting in Texas in 2026.
 
 - **Corporate Relocations and Expansions:** Texas continues to attract major corporations relocating or expanding their operations here, particularly in tech, finance, and manufacturing. This drives massive demand for new office spaces, industrial parks, data centers, and specialized facilities. Think Tesla in Austin, Samsung in Taylor, Hewlett Packard Enterprise in Houston, and countless others.
 
-- **Robust Infrastructure Spending:** With rapid population and economic growth comes the need for significant infrastructure investment. This includes new highways, public transportation projects (like the expansion of DART in DFW or Project Connect in Austin), water treatment facilities, and utility upgrades. The federal Infrastructure Investment and Jobs Act is also funneling billions into Texas projects.
+- **Robust [Infrastructure Spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/):** With rapid population and economic growth comes the need for significant infrastructure investment. This includes new highways, public transportation projects (like the expansion of DART in DFW or Project Connect in Austin), water treatment facilities, and utility upgrades. The federal Infrastructure Investment and Jobs Act is also funneling billions into Texas projects.
 
 - **Energy Sector Investment:** While diversifying, Texas remains the energy capital. Investment in oil and gas infrastructure, renewable energy projects (wind and solar farms across West and South Texas), and related manufacturing facilities continues to drive significant construction activity.
 

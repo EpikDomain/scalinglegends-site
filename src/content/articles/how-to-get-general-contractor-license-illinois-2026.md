@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-get-general-contractor-license-illi
 readTime: "96 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-23"
 pillar: "policy"
 sponsors:
   - name: "Smart Business Automator"
@@ -453,7 +453,7 @@ You've gone through the hoops, navigated the Chicago DOB, secured your bonds, an
 *   **Mixed-Use Projects:** The trend of mixed-use developments, combining residential, retail, office, and green spaces, is strong in Chicago, offering diverse project opportunities for GCs capable of managing complex, multi-faceted builds.
 *   **Institutional Growth:** World-class universities, medical centers, and cultural institutions in Chicago consistently invest in new facilities, expansions, and renovations, providing a steady stream of large-scale, complex projects.
 
-2.  **Infrastructure Spending – Rebuild Illinois and Federal Funds:**
+2.  **[Infrastructure Spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) – Rebuild Illinois and Federal Funds:**
 *   **Rebuild Illinois:** The state's multi-year capital plan, "Rebuild Illinois," continues to pump billions of dollars into infrastructure projects across the state. This includes roads, bridges, transit, waterways, public buildings, and broadband expansion. This is a massive opportunity for GCs, especially those willing to bid on public works.
 *   **Federal Infrastructure Investment:** The federal Infrastructure Investment and Jobs Act (IIJA) is channeling significant funds to Illinois for transportation, water systems, broadband, and energy infrastructure. This creates a pipeline of projects for years to come.
 *   **Prevailing Wage Implications:** These public works projects invariably come with prevailing wage requirements, as determined by the Illinois Department of Labor. While adding complexity, this also means stable, well-funded projects for compliant contractors.

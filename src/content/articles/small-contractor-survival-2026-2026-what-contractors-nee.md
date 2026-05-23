@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2616355/scalinglegends/2026_0
 readTime: "22 min read"
 published: true
 season: 2
-updatedAt: "2026-05-20"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -42,7 +42,7 @@ Sixty-two percent of construction firms with fewer than 20 employees will not su
 
 The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) added $2.1 trillion in total put-in-place spending in 2025. That headline sounds like a gold rush. For small contractors, it is closer to a tax on complexity. More work does not automatically mean more profit when your estimating is off by 6%, your retainage is locked for 90 days, and your crew costs jumped $4 per hour since January.
 
-**Construction business growth in 2026 requires understanding where the actual money is moving.** Infrastructure spending under the Infrastructure Investment and Jobs Act (IIJA) remains the strongest tailwind, with $55 billion still unobligated across highway, bridge, and broadband categories. Davis-Bacon prevailing wage requirements apply to nearly all of these projects, which eliminates low-road competitors who rely on wage suppression but adds payroll compliance overhead that small firms must account for in their overhead rates.
+**Construction business growth in 2026 requires understanding where the actual money is moving.** [Infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) under the Infrastructure Investment and Jobs Act (IIJA) remains the strongest tailwind, with $55 billion still unobligated across highway, bridge, and broadband categories. Davis-Bacon prevailing wage requirements apply to nearly all of these projects, which eliminates low-road competitors who rely on wage suppression but adds payroll compliance overhead that small firms must account for in their overhead rates.
 
 Commercial and industrial sectors are mixed. [Data center construction](/article/data-center-construction-boom-2026-what-contractors-need/) is the standout category, with $38 billion in announced projects for 2026. Retail and office lag. Residential single-family started recovering in late 2025 but remains 18% below 2021 peak starts nationally, with sharp regional variation.
 

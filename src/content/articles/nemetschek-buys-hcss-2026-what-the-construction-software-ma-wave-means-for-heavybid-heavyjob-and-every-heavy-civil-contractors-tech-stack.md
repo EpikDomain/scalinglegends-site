@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2752413/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-23"
 pillar: "technology"
 sponsors:
   - name: "Smart Business Automator"
@@ -83,7 +83,7 @@ For contractors building out the operations side, the parallel question is what 
 
 The Nemetschek-HCSS deal is not a one-off event. Eleven contech M&A transactions closed in Q1 2026 alone. The full-year projection sits at 28 deals, according to the Smart Business Automator contech M&A tracker. The industry is consolidating around a small number of platform players who are building the infrastructure stack for construction operations from design through closeout.
 
-That consolidation is being driven by three forces. First, AI feature development costs are too high for standalone products to sustain. A company generating $80M in ARR cannot afford the engineering team required to build competitive AI estimating, AI scheduling, and AI risk analysis features without external capital or acquisition by a larger platform. Second, private equity and strategic acquirers have accumulated significant capital from the infrastructure spending wave triggered by the Infrastructure Investment and Jobs Act. IIJA spending is still deploying through 2030, which means heavy civil software markets have a multi-year revenue tailwind that makes acquisition multiples justifiable today. Third, contractor consolidation itself is creating demand for integrated platforms. A contractor growing from $20M to $80M through acquisition needs one system of record, not six point solutions from six different vendors each running on their own renewal cycle.
+That consolidation is being driven by three forces. First, AI feature development costs are too high for standalone products to sustain. A company generating $80M in ARR cannot afford the engineering team required to build competitive AI estimating, AI scheduling, and AI risk analysis features without external capital or acquisition by a larger platform. Second, private equity and strategic acquirers have accumulated significant capital from the [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) wave triggered by the Infrastructure Investment and Jobs Act. IIJA spending is still deploying through 2030, which means heavy civil software markets have a multi-year revenue tailwind that makes acquisition multiples justifiable today. Third, contractor consolidation itself is creating demand for integrated platforms. A contractor growing from $20M to $80M through acquisition needs one system of record, not six point solutions from six different vendors each running on their own renewal cycle.
 
 The implication for contractors investing in [construction project management](/article/construction-project-management-surviving-the-messy-middle/) is that the software landscape they buy into today will look different in 36 months. Every platform they depend on is either an acquisition target or an acquirer. Planning technology strategy around what exists today rather than what the consolidation map suggests is a strategic error.
 

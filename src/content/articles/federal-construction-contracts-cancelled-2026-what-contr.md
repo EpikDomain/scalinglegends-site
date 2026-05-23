@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "20 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -71,7 +72,7 @@ Specific actions: Accelerate billing on any active private or state work. Submit
 
 ## [Construction Business](/article/how-to-scale-a-construction-business-without-losing-control/) Growth 2026: Where the Real Pipeline Is
 
-Federal work contracting is not the only pipeline, and in 2026, it may not even be the best one. The fundamental infrastructure spending machine hasn't stopped — it's shifted channels. **State DOTs are sitting on IIJA formula funds that flow regardless of executive-branch discretionary spending decisions.** These are apportioned funds, not subject to the same cancellation risk as discretionary federal contracts.
+Federal work contracting is not the only pipeline, and in 2026, it may not even be the best one. The fundamental [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) machine hasn't stopped — it's shifted channels. **State DOTs are sitting on IIJA formula funds that flow regardless of executive-branch discretionary spending decisions.** These are apportioned funds, not subject to the same cancellation risk as discretionary federal contracts.
 
 The rebalanced opportunity map for construction business growth 2026 looks like this:
 

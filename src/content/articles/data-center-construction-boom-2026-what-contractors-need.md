@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2763626/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-05-21"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -41,7 +41,7 @@ What does that mean at the subcontractor level? The average hyperscale data cent
 
 **Northern Virginia alone has 35+ data center campuses under construction right now, with an additional 60+ in permitting.** The Midwest corridor from Chicago to Columbus is developing as the second major cluster, driven by lower land costs and proximity to fiber routes. Phoenix, Dallas-Fort Worth, and Atlanta round out the top five markets.
 
-For contractors tracking [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), the data center sector is the single most significant demand driver of 2026 — outpacing infrastructure spending, multifamily construction, and industrial build-out combined in several regions. [Smart Business Automator](https://smartbusinessautomator.com) tracks over 4,800 active data center permits across 38 states, giving contractors early visibility into which markets are heating up before the GC bid requests go public.
+For contractors tracking [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/), the data center sector is the single most significant demand driver of 2026 — outpacing [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/), multifamily construction, and industrial build-out combined in several regions. [Smart Business Automator](https://smartbusinessautomator.com) tracks over 4,800 active data center permits across 38 states, giving contractors early visibility into which markets are heating up before the GC bid requests go public.
 
 The timeline pressure is also real. AI infrastructure build-out is racing against competitive dynamics: every month a hyperscale provider delays a data center is a month competitors gain market share. That urgency translates into aggressive project timelines, premium rates for contractors who can actually deliver, and tolerance for higher bids from qualified shops that can commit to schedule.
 

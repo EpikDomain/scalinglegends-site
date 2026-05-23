@@ -6,7 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-23"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -22,7 +22,7 @@ The [construction industry](/article/building-roads-and-breaking-barriers-ebony-
 
 - **Modern Apprenticeships are Critical.** Structured, tech-integrated [apprenticeship programs](/article/construction-apprenticeship-programs-2026-how-to-build-your-own-workforce-pipeline-when-nobody-else-can-find-workers/) are proving to be the most effective strategy, yielding up to a 150% ROI for contractors and significantly higher retention rates.
 
-- **Invest in Upskilling & Career Paths.** Proactive `construction workforce development` through cross-training, mentorship, and clear promotional paths reduces turnover by up to 30% and builds loyalty.
+- **Invest in Upskilling & Career Paths.** Proactive `[construction workforce development](/article/construction-workforce-development-2026-what-contractors/)` through cross-training, mentorship, and clear promotional paths reduces turnover by up to 30% and builds loyalty.
 
 - **Recruit Beyond Traditional Pools.** Expanding outreach to women, minorities, and veterans, coupled with a strong digital employer brand, is essential for successful `hiring construction workers`.
 

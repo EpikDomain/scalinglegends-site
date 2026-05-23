@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2673536/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -35,7 +35,7 @@ For every 10 public bids, you win one. Most contractors waste thousands on bids 
 
 ## Navigating the 2026 Landscape for [Construction Business Growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/)
 
-The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) in 2026 presents a dynamic yet challenging environment for [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/). While opportunities abound, particularly with infrastructure spending from the IIJA, the competition is fierce. The reality for most contractors is a daunting bid-to-win ratio: private projects typically see a 4-5:1 ratio, meaning you bid four or five projects to win one. Public sector work is even more competitive, with hit ratios soaring to 7-10:1. This means you’re investing significant time and resources into bids that, statistically, you are unlikely to win. The core problem is not a lack of projects, but a lack of strategic qualification.
+The [construction industry](/article/building-roads-and-breaking-barriers-ebony-jennings/) in 2026 presents a dynamic yet challenging environment for [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/). While opportunities abound, particularly with [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) from the IIJA, the competition is fierce. The reality for most contractors is a daunting bid-to-win ratio: private projects typically see a 4-5:1 ratio, meaning you bid four or five projects to win one. Public sector work is even more competitive, with hit ratios soaring to 7-10:1. This means you’re investing significant time and resources into bids that, statistically, you are unlikely to win. The core problem is not a lack of projects, but a lack of strategic qualification.
 
 To secure consistent [family construction business growth](/article/how-to-scale-family-construction-business/), you must know where to find the right projects. Major platforms like ConstructConnect boast over 1.1 million projects annually, with subscriptions ranging from $129-$199 per month. Dodge Data & Analytics offers access to more than 750,000 projects, typically starting around $149 per month. These services provide detailed project information, including plans, specs, and bid dates, making them indispensable for proactive contractors. For federal opportunities, [Sam.gov](https://www.sam.gov) remains the definitive, free source for every federal government solicitation. Emerging platforms like PlanHub also offer a free tier and are rapidly expanding their project databases, providing valuable local and regional leads.
 

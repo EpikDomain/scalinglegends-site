@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2628648/scalinglegends/2026_0
 readTime: "21 min read"
 published: true
 season: 2
-updatedAt: "2026-05-20"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -122,7 +122,7 @@ Understanding this intersection of technology and materials economics requires t
 
 ### How much have steel prices increased in 2026?
 
-Structural steel prices increased approximately 18% between January and April 2026, driven by reimposed Section 232 tariffs of 25% on imported steel, reduced domestic mill output, and peak IIJA infrastructure spending creating supply pressure. Rebar is up 14% and metal studs are up 22% over the same period. These figures vary by region and supplier relationship, so contractors should track CRU and AMM indices weekly for their specific product mix.
+Structural steel prices increased approximately 18% between January and April 2026, driven by reimposed Section 232 tariffs of 25% on imported steel, reduced domestic mill output, and peak IIJA [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) creating supply pressure. Rebar is up 14% and metal studs are up 22% over the same period. These figures vary by region and supplier relationship, so contractors should track CRU and AMM indices weekly for their specific product mix.
 
 ### How do material escalation clauses protect contractor profit margins in 2026?
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_0
 readTime: "31 min read"
 published: true
 season: 2
-updatedAt: "2026-04-28"
+updatedAt: "2026-05-23"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -97,7 +97,7 @@ The Section 122 tariffs have a 150-day clock and expire around July 2026. But Se
 
 January 2026 saw **$25.2 billion in [data center construction](/article/latin-america-data-center-construction-2026-how-googles-500m-digital-port-and-the-693-billion-2031-market-are-creating-the-next-wave-of-contractor-opportunity/) starts**, the highest monthly figure ever recorded. The trailing 12-month total hit $103.7 billion. And it's accelerating: 76 data center projects valued at $88 billion are set to start in the next six months.
 
-Power infrastructure spending is forecast to hit **$27.8 billion in 2026**, up from $16.5 billion in 2025. That's a 68% year-over-year increase in a single sector.
+Power [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) is forecast to hit **$27.8 billion in 2026**, up from $16.5 billion in 2025. That's a 68% year-over-year increase in a single sector.
 
 For mid-size contractors, the question isn't whether data center work exists. It does, overwhelmingly. The question is whether you can access it. Data center general contractors have specific prequalification requirements, longer payment cycles, and higher bonding thresholds than traditional commercial work. But the electrical, mechanical, concrete, and site work trades are all in extreme demand.
 

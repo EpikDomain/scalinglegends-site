@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -85,7 +86,7 @@ Field service management software centralizes dispatch, scheduling, invoicing, a
 
 Residential electrical work is a volume game with thin margins. Commercial and government work is a margin game with higher barriers to entry, which is exactly why it's worth pursuing. Targeting commercial projects increases average job value by 30% to 50% compared to residential equivalents, with net margins that are more predictable due to longer contract durations and structured payment schedules.
 
-The Infrastructure Investment and Jobs Act (IIJA) injected $1.2 trillion into infrastructure spending, with a significant share flowing through state and local government procurement channels through 2026 and beyond. Electrical contractors who position themselves as government contractor 2026 candidates, through proper bonding, E-Verify compliance, and SAM.gov registration, gain access to a market segment where the competition is thinner and the contracts are larger.
+The Infrastructure Investment and Jobs Act (IIJA) injected $1.2 trillion into [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/), with a significant share flowing through state and local government procurement channels through 2026 and beyond. Electrical contractors who position themselves as [government contractor 2026](/article/government-contractor-2026-2026-what-contractors-need-to/) candidates, through proper bonding, E-Verify compliance, and SAM.gov registration, gain access to a market segment where the competition is thinner and the contracts are larger.
 
 **Government contracts come with compliance requirements that screen out underprepared competitors.** Davis-Bacon prevailing wage requirements apply to most federally funded [construction projects](/article/how-to-manage-multiple-construction-projects-2026/). Contractors who understand certified payroll reporting, fringe benefit calculations, and wage determination schedules have a structural advantage over competitors who avoid government work due to administrative complexity.
 

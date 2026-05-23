@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2613353/scalinglegends/2026_0
 readTime: "10 min read"
 published: true
 season: 2
-updatedAt: "2026-03-16"
+updatedAt: "2026-05-23"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -69,7 +69,7 @@ The implications for contractors are substantial:
 
 - **Streamlined Environmental Reviews:** The bill also streamlines environmental reviews, a notorious bottleneck in the development process. By accelerating these reviews, projects can move from conception to groundbreaking much faster, reducing pre-[construction costs](/article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/) and accelerating revenue cycles for developers and contractors. This legislative push aligns with the broader goal of [scaling construction business](/article/how-to-scale-a-construction-business-without-losing-control/) operations in a more efficient regulatory environment.
 
-However, not all news from Washington is positive. The Infrastructure Investment and Jobs Act (IIJA), which has been a lifeline for public works contractors, is set to expire on September 30. This creates a significant "highway funding cliff," potentially impacting numerous road, bridge, and utility projects. Contractors heavily reliant on federal infrastructure spending must monitor this situation closely and diversify their project pipeline if necessary. Further complicating matters, $863 million in federal contracts were canceled in just five days, and electric vehicle (EV) grants are at risk. This volatility in federal funding underscores the need for robust contract management and a diversified portfolio to mitigate risks associated with sudden policy shifts or budget reallocations. This dynamic federal environment demands constant [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/).
+However, not all news from Washington is positive. The Infrastructure Investment and Jobs Act (IIJA), which has been a lifeline for public works contractors, is set to expire on September 30. This creates a significant "highway funding cliff," potentially impacting numerous road, bridge, and utility projects. Contractors heavily reliant on [federal infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) must monitor this situation closely and diversify their project pipeline if necessary. Further complicating matters, $863 million in federal contracts were canceled in just five days, and electric vehicle (EV) grants are at risk. This volatility in federal funding underscores the need for robust contract management and a diversified portfolio to mitigate risks associated with sudden policy shifts or budget reallocations. This dynamic federal environment demands constant [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/).
 
 **Key Stat:** The Senate advanced the ROAD to Housing Act 84-6, marking the first housing bill in a decade, while the IIJA is set to expire September 30, creating a highway funding cliff.
 

@@ -6,6 +6,7 @@ image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/articl
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -103,7 +104,7 @@ Bid spread optimization is one of the most immediate applications of this intell
 
 The technology landscape highlighted at [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) reinforced this intelligence trend. AI-assisted takeoff tools, predictive scheduling software, and real-time material cost integration are transitioning from early-adopter novelty to standard operating infrastructure for mid-market contractors. Early adopters in the $3 million to $10 million revenue tier are reporting 20 to 30% reductions in bid preparation time alongside measurable improvements in job cost accuracy -- a combination that compounds directly into margin performance.
 
-The broader [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) picture in 2026 favors contractors positioned to capture IIJA dollars. Federal infrastructure spending flowing through state DOTs is creating sustained volume in civil, utility, and transportation work through at least 2028. Contractors without the bonding capacity, certified payroll infrastructure, and management depth to pursue this work are bypassing the most reliable margin opportunity in the current market cycle.
+The broader [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) picture in 2026 favors contractors positioned to capture IIJA dollars. [Federal infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) flowing through state DOTs is creating sustained volume in civil, utility, and transportation work through at least 2028. Contractors without the bonding capacity, certified payroll infrastructure, and management depth to pursue this work are bypassing the most reliable margin opportunity in the current market cycle.
 
 ## Building a Culture That Drives Retention and 25% Higher Engagement
 

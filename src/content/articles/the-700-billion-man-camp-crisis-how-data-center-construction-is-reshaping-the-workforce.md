@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2610245/scalinglegends/2026_0
 readTime: "9 min read"
 published: true
 season: 2
-updatedAt: "2026-05-21"
+updatedAt: "2026-05-23"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -31,7 +31,7 @@ Bloomberg just dropped a bombshell. The $700 billion AI data center boom is crea
 
 - **Monthly Spending Peak.** New construction spending related to data centers hit a staggering $40 billion monthly average over summer 2025, indicating the speed and scale of this industry pivot.
 
-- **New [Construction Opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/).** The need for temporary worker housing itself represents a new [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). Additionally, power infrastructure spending is projected to reach $27.8 billion in 2026, up from $16.5 billion in 2025, opening doors for specialized contractors.
+- **New [Construction Opportunities](/article/the-iija-countdown-131-billion-in-infrastructure-money-and-208-days-to-position-your-company/).** The need for temporary worker housing itself represents a new [construction market](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/). Additionally, power [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) is projected to reach $27.8 billion in 2026, up from $16.5 billion in 2025, opening doors for specialized contractors.
 
 - **Strategic Threat & Opportunity.** Mid-size contractors must assess if they are losing workers to data centers, gaining subcontract work, or positioned to build the essential housing and infrastructure. This demands sophisticated [construction project management](/article/construction-project-management-surviving-the-messy-middle/).
 

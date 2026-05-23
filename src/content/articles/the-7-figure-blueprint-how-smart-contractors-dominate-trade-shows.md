@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2837432/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -80,11 +81,11 @@ CRM discipline is the other side of this equation. Every contact from the show m
 
 Phone calls still outperform email for hot leads. A brief, direct call -- "I know you're likely swamped post-show, I wanted to make sure we connected on the project scope we discussed" -- takes 90 seconds and re-establishes the personal connection made on the floor. Email follows the call, not the other way around. Applied to your top 15 hot leads within 48 hours, this sequence is the single highest-ROI activity in the post-show window.
 
-## Government Contractor 2026: Building Federal and State Pipeline at Trade Shows
+## [Government Contractor 2026](/article/government-contractor-2026-2026-what-contractors-need-to/): Building Federal and State Pipeline at Trade Shows
 
 For the government contractor in 2026, trade shows serve a function beyond commercial lead generation. They are one of the primary venues where relationships with public procurement officials, program managers, and prime contractor teams are established and deepened. Federal and state procurement processes are structured to reward known quantities. Contractors with established relationships, clean compliance histories, and current certifications are significantly more likely to receive pre-solicitation notices, requests for information, and teaming invitations than unknown vendors.
 
-Major shows like [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) attract procurement officials from federal agencies, state DOTs, and large municipal authorities. The Infrastructure Investment and Jobs Act allocated $1.2 trillion in infrastructure spending through 2026 and beyond, and significant volume remains in the bidding pipeline. Government contractors who are not actively working trade shows to position for IIJA-funded projects are missing their window. Relationships built at 2026 shows will generate contract awards through 2028 and 2029.
+Major shows like [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) attract procurement officials from federal agencies, state DOTs, and large municipal authorities. The Infrastructure Investment and Jobs Act allocated $1.2 trillion in [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) through 2026 and beyond, and significant volume remains in the bidding pipeline. Government contractors who are not actively working trade shows to position for IIJA-funded projects are missing their window. Relationships built at 2026 shows will generate contract awards through 2028 and 2029.
 
 Certifications are the currency of government contracting conversations. Before attending any show targeting government work, verify that your SAM.gov registration is current (it expires annually), confirm your NAICS codes are accurate and complete, and bring documentation of any 8(a), HUBZone, SDVOSB, WOSB, or other small business designations. Procurement officers at trade shows are looking for compliant, certified partners. Having that paperwork immediately accessible -- not "I'll send it to you Monday" -- is a measurable differentiator.
 

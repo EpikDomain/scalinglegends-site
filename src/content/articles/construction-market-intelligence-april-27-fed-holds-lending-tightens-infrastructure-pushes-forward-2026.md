@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_0
 readTime: "23 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -102,7 +103,7 @@ E-Verify compliance is another pressure point that often gets overlooked until i
 
 ## Global Construction Signals: What Germany, UK, India, and Vietnam Mean for U.S. Contractors
 
-[The global construction](/article/the-global-construction-growth-wave-2026-canada-430b-indonesia-226b-uks-170-five-year-surge-and-where-us-contractors-should-position-for-the-next-decade/) picture matters to U.S. contractors in ways that aren't always obvious. Germany's construction sector contracted 3.2% in Q1 2026 — driven by sustained high energy costs, a manufacturing recession, and federal infrastructure spending that remains tied up in coalition budget disputes. The UK is showing similar decline, with commercial and residential starts both contracting as elevated mortgage rates suppress demand and public funding lags behind political commitments.
+[The global construction](/article/the-global-construction-growth-wave-2026-canada-430b-indonesia-226b-uks-170-five-year-surge-and-where-us-contractors-should-position-for-the-next-decade/) picture matters to U.S. contractors in ways that aren't always obvious. Germany's construction sector contracted 3.2% in Q1 2026 — driven by sustained high energy costs, a manufacturing recession, and [federal infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) that remains tied up in coalition budget disputes. The UK is showing similar decline, with commercial and residential starts both contracting as elevated mortgage rates suppress demand and public funding lags behind political commitments.
 
 These Western European declines are consequential for U.S. equipment manufacturers and materials exporters. As European construction demand drops, global supply capacity that had been allocated to Germany and the UK is getting redirected. For U.S. contractors, this creates potential buying opportunities in used equipment markets as European fleets are liquidated, and potential downward pressure on certain imported fabricated components as European suppliers seek new customers.
 

@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2635778/scalinglegends/2026_0
 readTime: "18 min read"
 published: true
 season: 2
-updatedAt: "2026-04-27"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -53,7 +53,7 @@ Other burgeoning sectors include:
 
 - **Energy Construction:** This encompasses renewable energy projects (solar farms, wind turbines), energy storage facilities, and upgrades to existing grid infrastructure. The push for sustainability and energy independence is fueling consistent investment.
 
-- **Infrastructure Maintenance and Modernization:** While new federal infrastructure spending has slowed, the need to maintain and upgrade existing roads, bridges, water systems, and utilities remains constant and provides a steady stream of work.
+- **Infrastructure Maintenance and Modernization:** While new [federal infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) has slowed, the need to maintain and upgrade existing roads, bridges, water systems, and utilities remains constant and provides a steady stream of work.
 
 - **Advanced Manufacturing Facilities:** Reshoring initiatives and the growth of high-tech industries are driving demand for new, specialized manufacturing plants.
 

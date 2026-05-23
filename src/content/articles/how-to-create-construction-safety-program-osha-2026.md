@@ -6,7 +6,7 @@ image: "https://scalinglegends.com/og/how-to-create-construction-safety-program-
 readTime: "32 min read"
 published: true
 season: 2
-updatedAt: "2026-05-15"
+updatedAt: "2026-05-23"
 pillar: "workforce"
 sponsors:
   - name: "Smart Business Automator"
@@ -168,7 +168,7 @@ PPE is the last line of defense against many construction hazards. Your program 
 
 #### Fall Protection: OSHA's #1 Cited Standard (29 CFR 1926 Subpart M)
 
-Falls continue to be the leading cause of fatalities in construction. OSHA's stringent fall protection requirements are non-negotiable.
+Falls continue to be the leading cause of fatalities in construction. OSHA's stringent [fall protection requirements](/article/osha-fall-protection-requirements-2026-what-contractors/) are non-negotiable.
 
 *   **General Requirement:** Employers must provide fall protection when workers are exposed to a fall of 6 feet or more to a lower level (29 CFR 1926.501(b)(1)).
 *   **Methods:** Guardrail systems, safety net systems, or personal fall arrest systems are primary methods. In some cases, warning line systems, safety monitoring systems, or controlled access zones may be permitted.

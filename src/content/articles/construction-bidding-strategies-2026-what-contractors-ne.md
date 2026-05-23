@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2673536/scalinglegends/2026_0
 readTime: "24 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -16,7 +17,7 @@ sponsors:
 
 Here's the article:
 
-Sixty-two percent of [construction contractors](/article/the-5-million-leap-3-operational-shifts-for-construction-contractors/) saw their bid win rate fall in 2025 even as IIJA infrastructure spending pushed $550 billion into the pipeline. Labor costs sit 18% above 2019 levels, steel spiked 9% in Q1 2026, and subcontractor availability in key trades is down 22% in major metro markets. [Construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) in 2026 belongs to contractors who treat the bid as a profit tool, not a volume game.
+Sixty-two percent of [construction contractors](/article/the-5-million-leap-3-operational-shifts-for-construction-contractors/) saw their bid win rate fall in 2025 even as IIJA [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) pushed $550 billion into the pipeline. Labor costs sit 18% above 2019 levels, steel spiked 9% in Q1 2026, and subcontractor availability in key trades is down 22% in major metro markets. [Construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/) in 2026 belongs to contractors who treat the bid as a profit tool, not a volume game.
 
 ## Key Takeaways
 

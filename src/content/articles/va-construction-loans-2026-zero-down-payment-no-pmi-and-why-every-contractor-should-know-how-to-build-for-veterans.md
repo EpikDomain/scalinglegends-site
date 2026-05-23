@@ -7,7 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2726454/scalinglegends/2026_0
 readTime: "2 min read"
 published: true
 season: 2
-updatedAt: "2026-04-21"
+updatedAt: "2026-05-23"
 pillar: "business-growth"
 sponsors:
   - name: "Smart Business Automator"
@@ -35,7 +35,7 @@ Understanding the intersection of VA loan compliance and [construction safety](/
 
 - **ROI on Safety Training Pays Off.** Investing in safety training reduces lost-time injuries by 18%, directly improving your bonding capacity and insurability for larger VA government projects.
 
-- **Regulatory Changes Impact 2026.** Updates to the G.I. Bill and IIJA infrastructure spending may alter prevailing wage requirements, so using data intelligence is essential for long-term budgeting.
+- **Regulatory Changes Impact 2026.** Updates to the G.I. Bill and IIJA [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) may alter prevailing wage requirements, so using data intelligence is essential for long-term budgeting.
 
 ## The Mechanics of VA Construction Loans for Builders
 

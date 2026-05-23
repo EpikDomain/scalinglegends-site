@@ -7,6 +7,7 @@ audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_0
 readTime: "23 min read"
 published: true
 season: 2
+updatedAt: "2026-05-23"
 pillar: "market-intelligence"
 sponsors:
   - name: "Smart Business Automator"
@@ -170,7 +171,7 @@ The [woman owned construction company](/article/building-roads-and-breaking-barr
 
 ### What are the biggest drivers of construction business growth in 2026?
 
-IIJA infrastructure spending ($47.3 billion in new project authorizations through May 2026), Sun Belt residential demand (permits up 18% year-over-year), and industrial construction tied to reshoring (up 31% nationally) are the primary growth drivers. Contractors with public bonding capacity and established DBE subcontractor relationships are capturing disproportionate share. Private commercial construction remains soft in most markets due to elevated office vacancy rates and tighter lending standards for new development.
+IIJA [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) ($47.3 billion in new project authorizations through May 2026), Sun Belt residential demand (permits up 18% year-over-year), and industrial construction tied to reshoring (up 31% nationally) are the primary growth drivers. Contractors with public bonding capacity and established DBE subcontractor relationships are capturing disproportionate share. Private commercial construction remains soft in most markets due to elevated office vacancy rates and tighter lending standards for new development.
 
 ### How can contractors improve profit margins in 2026?
 
