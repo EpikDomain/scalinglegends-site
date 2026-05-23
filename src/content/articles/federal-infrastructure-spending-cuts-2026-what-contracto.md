@@ -1,5 +1,5 @@
 ---
-title: "Federal Infrastructure Spending Cuts 2026: What Contracto..."
+title: "Federal Infrastructure Spending Cuts 2026: What Contractors Need to Know"
 description: "Deep dive into federal infrastructure spending cuts and what it means for construction businesses in 2026."
 date: "2026-05-23"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/federal-infrastructure-spending-cuts-2026-what-contracto-1779529617.png"

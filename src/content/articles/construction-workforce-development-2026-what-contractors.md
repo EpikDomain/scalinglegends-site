@@ -1,5 +1,5 @@
 ---
-title: "Construction Workforce Development 2026: What Contractors..."
+title: "Construction Workforce Development 2026: What Contractors Need to Know"
 description: "Deep dive into construction workforce development and what it means for construction businesses in 2026."
 date: "2026-05-23"
 image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-workforce-development-2026-what-contractors-1779529967.png"
