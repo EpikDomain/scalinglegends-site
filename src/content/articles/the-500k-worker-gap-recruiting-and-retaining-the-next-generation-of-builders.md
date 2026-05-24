@@ -2,7 +2,8 @@
 title: "Construction Labor Gap: 2026 & Beyond"
 description: "The construction industry faces a 500K worker gap by 2026. Understand the labor crisis, its causes, and key trends shaping the future of the construction workforce."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-500k-worker-gap-recruiting-and-retaining-the-next-genera-1772747128.png"
+image: "/img/articles/the-500k-worker-gap-recruiting-and-retaining-the-next-generation-of-builders-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-500k-worker-gap-recruiting-and-retaining-the-next-genera-1772747128.png"
 readTime: "10 min read"
 published: true
 season: 2

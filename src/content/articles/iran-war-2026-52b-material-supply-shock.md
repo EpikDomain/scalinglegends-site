@@ -2,7 +2,8 @@
 title: "Iran War 2026: $52B Material Supply Shock"
 description: "The Iran war escalation is sending shockwaves through the US construction supply chain with an estimated $52 billion in material disruption. In this deep-dive, we break down which materials are hit hardest, explore alternative sourcing strategies contractors are using now, and show you how to protect your project budgets from geopolitical risk."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/iran-war-2026-52b-material-supply-shock-1777299204.png"
+image: "/img/articles/iran-war-2026-52b-material-supply-shock-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/iran-war-2026-52b-material-supply-shock-1777299204.png"
 readTime: "23 min read"
 published: true
 season: 2

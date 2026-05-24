@@ -2,7 +2,8 @@
 title: "Steel Prices Surge 20%+ in 2026: What Contractors Must Know"
 description: "Steel prices have surged 20%+ in 2026, driven by tariff policies and supply chain disruption. This deep-dive explores the market drivers, impact on different project types, and proven strategies contractors are using to protect margins and stay competitive in a volatile market."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/steel-prices-surge-20-in-2026-what-contractors-must-know-1777299413.png"
+image: "/img/articles/steel-prices-surge-20-in-2026-what-contractors-must-know-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/steel-prices-surge-20-in-2026-what-contractors-must-know-1777299413.png"
 readTime: "24 min read"
 published: true
 season: 2

@@ -2,7 +2,8 @@
 title: "Construction Safety Software 2026: Searches Just Spiked 350% — Here Is Why Smart Contractors Are Replacing Paper Systems Before OSHA Finds Them First"
 description: "Google data shows construction safety software searches surged 350% in the last 12 months. This episode breaks down what is driving contractors to adopt digital safety management, what the best platforms actually do, how they reduce OSHA exposure and recordable incidents, and the ROI case for making the switch in 2026."
 date: "2026-05-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-safety-software-2026-searches-just-spiked-350-h-1779543040.png"
+image: "/img/articles/construction-safety-software-2026-searches-just-spiked-350-here-is-why-smart-contractors-are-replacing-paper-systems-before-osha-finds-them-first-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-safety-software-2026-searches-just-spiked-350-h-1779543040.png"
 audioUrl: "https://content.rss.com/episodes/332597/2843672/scalinglegends/2026_05_20_14_19_38_7bffec5d-c89e-49e2-b9f8-cd682237f3e2.mp3"
 readTime: "5 min read"
 published: true

@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence May 23 2026"
 description: "Daily construction market intelligence for May 23, 2026."
 date: "2026-05-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-may-23-2026-1779526617.png"
+image: "/img/articles/construction-market-intelligence-may-23-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-may-23-2026-1779526617.png"
 audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "21 min read"
 published: true

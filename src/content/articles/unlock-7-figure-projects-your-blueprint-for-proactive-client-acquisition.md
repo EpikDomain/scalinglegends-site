@@ -2,7 +2,8 @@
 title: "Unlock 7-Figure Projects: Your Blueprint for Proactive Client Acquisition"
 description: "Tired of the race to the bottom in competitive bidding? This episode reveals how top-performing contractors are securing high-value, 7-figure projects without ever seeing a public bid board. We'll explore strategic business development tactics that build lasting relationships and boost profit margins by up to 20% compared to traditional bids."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/unlock-7-figure-projects-your-blueprint-for-proactive-client-1779337532.png"
+image: "/img/articles/unlock-7-figure-projects-your-blueprint-for-proactive-client-acquisition-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/unlock-7-figure-projects-your-blueprint-for-proactive-client-1779337532.png"
 readTime: "21 min read"
 published: true
 season: 2

@@ -2,7 +2,8 @@
 title: "Kiewit Dropped From Key Bridge 2026: What the Baltimore Off-Ramping Means for Mega-Project Procurement and Every Contractor's Risk Playbook"
 description: "Kiewit just got off-ramped from the Francis Scott Key Bridge rebuild in Baltimore. This deep-dive walks contractors through what likely drove the dismissal, the procurement reset, the new prime contractor candidates, the design-build vs alternative delivery implications, sub repositioning, and the Smart Business Automator mega-project tracker every contractor with bridge or marine experience needs open before the next RFP."
 date: "2026-04-29"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/kiewit-dropped-from-key-bridge-2026-what-the-baltimore-off-r-1777466426.png"
+image: "/img/articles/kiewit-dropped-from-key-bridge-2026-what-the-baltimore-off-ramping-means-for-mega-project-procurement-and-every-contractors-risk-playbook-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/kiewit-dropped-from-key-bridge-2026-what-the-baltimore-off-r-1777466426.png"
 audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "26 min read"
 published: true

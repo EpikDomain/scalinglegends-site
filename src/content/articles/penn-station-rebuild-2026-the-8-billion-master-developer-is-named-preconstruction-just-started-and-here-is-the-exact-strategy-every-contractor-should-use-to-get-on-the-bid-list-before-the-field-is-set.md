@@ -2,7 +2,8 @@
 title: "Penn Station Rebuild 2026: The $8 Billion Master Developer Is Named, Preconstruction Just Started, and Here Is the Exact Strategy Every Contractor Should Use to Get on the Bid List Before the Field Is Set"
 description: "Amtrak and the Trump DOT just announced Halmar-Skanska JV as master developer for the $8 billion Penn Station transformation. The project enters preconstruction with a late-2027 groundbreaking target. This episode breaks down the JV structure (50/50 development, 55/45 construction), what the full scope includes, and — critically — what contractors must do RIGHT NOW to position for subcontracting packages. This is one of the largest infrastructure redevelopments in US history and the contractor field is forming in the next 12 to 18 months."
 date: "2026-05-22"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/penn-station-rebuild-2026-the-8-billion-master-developer-is--1779439828.png"
+image: "/img/articles/penn-station-rebuild-2026-the-8-billion-master-developer-is-named-preconstruction-just-started-and-here-is-the-exact-strategy-every-contractor-should-use-to-get-on-the-bid-list-before-the-field-is-set-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/penn-station-rebuild-2026-the-8-billion-master-developer-is--1779439828.png"
 readTime: "25 min read"
 published: true
 season: 2

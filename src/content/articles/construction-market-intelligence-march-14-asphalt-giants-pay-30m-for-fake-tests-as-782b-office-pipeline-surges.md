@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: March 14 - Asphalt Giants Pay $30M for Fake Tests as $782B Office Pipeline Surges"
 description: "Daily construction market intelligence for March 14, 2026. Top stories: Two Ohio asphalt companies settle $30M fraud case for faking quality tests for 12 years. Global office construction pipeline hits $782B on return-to-office mandates. Clayco launches $300M energy construction unit with 57 active data center projects. Pew Research finds 39% of Americans view data centers negatively. OSHA cites Duke Energy contractors $50K after electrocution death. Nevada loses 10,900 construction jobs. Four major contractors convert to ESOPs in Q1 2026. Global intel: Canada 84K job loss, mass timber revolution, Australia $96M energy storage, BYD slavery allegations Brazil."
 date: "2026-03-14"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-14---asphalt-giants-p-1773507764.png"
+image: "/img/articles/construction-market-intelligence-march-14-asphalt-giants-pay-30m-for-fake-tests-as-782b-office-pipeline-surges-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-14---asphalt-giants-p-1773507764.png"
 audioUrl: "https://content.rss.com/episodes/332597/2628403/scalinglegends/2026_03_14_17_03_29_e87db166-13bc-4e4c-a60f-79af4a971dfa.mp3"
 readTime: "8 min read"
 published: true

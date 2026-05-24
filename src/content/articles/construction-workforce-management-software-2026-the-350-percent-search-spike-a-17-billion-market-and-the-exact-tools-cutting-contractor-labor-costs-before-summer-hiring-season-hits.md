@@ -2,7 +2,8 @@
 title: "Construction Workforce Management Software 2026: The 350 Percent Search Spike, a $17 Billion Market, and the Exact Tools Cutting Contractor Labor Costs Before Summer Hiring Season Hits"
 description: "Construction workforce management software searches just spiked 350% — and with 439,000 craft workers short nationwide and the AI infrastructure boom pulling skilled trades away, contractors can no longer manage their workforce on spreadsheets. The global market sits at $11.58 billion in 2026 growing to $17.81 billion by 2031 (8.99% CAGR). This episode covers which specific tools (Procore, Oracle, Autodesk Build, Workyard, busybusy) are cutting labor costs 23%, what the AI modules now built into these platforms do, and how Smart Business Automator fits into the broader tech stack for contractors who want to optimize before summer peaks."
 date: "2026-05-22"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-workforce-management-software-2026-the-350-perc-1779438848.png"
+image: "/img/articles/construction-workforce-management-software-2026-the-350-percent-search-spike-a-17-billion-market-and-the-exact-tools-cutting-contractor-labor-costs-before-summer-hiring-season-hits-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-workforce-management-software-2026-the-350-perc-1779438848.png"
 audioUrl: "https://content.rss.com/episodes/332597/2609071/scalinglegends/2026_03_07_21_45_58_8872c400-b540-4361-a955-77671faf4e60.mp3"
 readTime: "26 min read"
 published: true

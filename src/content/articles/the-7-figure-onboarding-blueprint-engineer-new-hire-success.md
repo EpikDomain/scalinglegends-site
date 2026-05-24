@@ -2,7 +2,8 @@
 title: "The 7-Figure Onboarding Blueprint: Engineer New Hire Success"
 description: "Discover how to transform your new hire process from a liability into a powerful growth engine. This episode reveals a systematic blueprint to drastically reduce turnover, boost team productivity by up to 20%, and secure your construction business's profitability, leveraging data-driven strategies for contractors aiming for 7-figure revenue."
 date: "2026-04-29"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-onboarding-blueprint-engineer-new-hire-success-1777495209.png"
+image: "/img/articles/the-7-figure-onboarding-blueprint-engineer-new-hire-success-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-onboarding-blueprint-engineer-new-hire-success-1777495209.png"
 readTime: "22 min read"
 published: true
 season: 2

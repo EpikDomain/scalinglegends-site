@@ -2,7 +2,8 @@
 title: "The $5 Million Blueprint: 3 Growth Pillars for Electrical Contractors"
 description: "Many skilled trades entrepreneurs hit a revenue ceiling around $1-2 million. This episode unpacks the strategic shifts required to break through that barrier and scale your electrical contracting business to $5 million and beyond. Learn actionable frameworks for operational excellence, market diversification, and talent development that can boost your profit margins by up to 15%."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-million-blueprint-3-growth-pillars-for-electrical-cont-1779338458.png"
+image: "/img/articles/the-5-million-blueprint-3-growth-pillars-for-electrical-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-million-blueprint-3-growth-pillars-for-electrical-cont-1779338458.png"
 readTime: "24 min read"
 published: true
 season: 2

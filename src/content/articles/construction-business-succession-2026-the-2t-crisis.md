@@ -2,7 +2,8 @@
 title: "Construction Business Succession 2026: The $2T Crisis"
 description: "Over $2 trillion in contractor wealth is set to transfer hands, yet 70% of family-owned construction businesses have no succession plan in place. This deep-dive explores the legal frameworks, financial strategies, and automation workflows contractors need to protect their legacy and execute a smooth business succession in 2026."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-business-succession-2026-the-2t-crisis-1777298053.png"
+image: "/img/articles/construction-business-succession-2026-the-2t-crisis-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-business-succession-2026-the-2t-crisis-1777298053.png"
 audioUrl: "https://content.rss.com/episodes/332597/2685830/scalinglegends/2026_04_03_08_43_36_fc87fc28-a05a-4639-b2e7-45c8fc4ff045.mp3"
 readTime: "35 min read"
 published: true

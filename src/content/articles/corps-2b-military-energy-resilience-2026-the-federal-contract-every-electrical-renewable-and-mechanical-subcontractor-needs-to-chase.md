@@ -2,7 +2,8 @@
 title: "Corps $2B Military Energy Resilience 2026: The Federal Contract Every Electrical, Renewable, and Mechanical Subcontractor Needs to Chase"
 description: "The US Army Corps of Engineers just awarded a $2 billion contract for military energy resilience projects across US installations. This deep-dive unpacks the scope, the task order mechanics, the microgrid and battery storage opportunity, the federal prequalification process, security clearance pathways, and the Smart Business Automator federal bid board every contractor with electrical, renewable, controls, and mechanical capability should have open."
 date: "2026-04-22"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/corps-2b-military-energy-resilience-2026-the-federal-contrac-1776887806.png"
+image: "/img/articles/corps-2b-military-energy-resilience-2026-the-federal-contract-every-electrical-renewable-and-mechanical-subcontractor-needs-to-chase-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/corps-2b-military-energy-resilience-2026-the-federal-contrac-1776887806.png"
 audioUrl: "https://content.rss.com/episodes/332597/2758456/scalinglegends/2026_04_22_19_08_06_7a0e09ad-9ed4-449d-a15a-10174f7912ea.mp3"
 readTime: "24 min read"
 published: true

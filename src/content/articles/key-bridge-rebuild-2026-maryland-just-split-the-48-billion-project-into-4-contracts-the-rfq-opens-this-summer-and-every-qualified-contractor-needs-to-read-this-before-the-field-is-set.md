@@ -2,7 +2,8 @@
 title: "Key Bridge Rebuild 2026: Maryland Just Split the $4.8 Billion Project Into 4 Contracts, the RFQ Opens This Summer, and Every Qualified Contractor Needs to Read This Before the Field Is Set"
 description: "Maryland's Key Bridge replacement just moved from criminal proceedings to active procurement. The Maryland Transportation Authority announced four contracts totaling $4 to $4.8 billion: a $3.5B-$4B main span design-build with RFQ this summer, a $300M-$400M south land approach with bids due fall 2026, a north approach up to $300M, and a $50M-$100M demolition/marine package. Kiewit is excluded from all new contracts. This episode walks contractors through each package's exact requirements, timeline, and the positioning strategy to pursue work before the RFQ drops."
 date: "2026-05-22"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/key-bridge-rebuild-2026-maryland-just-split-the-48-billion-p-1779455461.png"
+image: "/img/articles/key-bridge-rebuild-2026-maryland-just-split-the-48-billion-project-into-4-contracts-the-rfq-opens-this-summer-and-every-qualified-contractor-needs-to-read-this-before-the-field-is-set-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/key-bridge-rebuild-2026-maryland-just-split-the-48-billion-p-1779455461.png"
 readTime: "5 min read"
 published: true
 season: 2

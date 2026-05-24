@@ -2,7 +2,8 @@
 title: "EPA Deregulation 2026: How Faster Permits Just Made Construction Lawsuits Easier and What Every Contractor Must Budget for Legal Reserves Right Now"
 description: "EPA just rolled back multiple permitting requirements. Good news: faster permits. Bad news: the deregulation opens contractors and developers to a wave of third-party litigation that older rules shielded against. This deep-dive walks contractors through the specific deregulatory changes, the citizen suit exposure, state-level backstops, the insurance market response, the legal reserve budget math, and the Smart Business Automator regulatory and litigation dashboard every contractor touching water, air, or wetland projects needs open."
 date: "2026-04-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/epa-deregulation-2026-how-faster-permits-just-made-construct-1776952345.png"
+image: "/img/articles/epa-deregulation-2026-how-faster-permits-just-made-construction-lawsuits-easier-and-what-every-contractor-must-budget-for-legal-reserves-right-now-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/epa-deregulation-2026-how-faster-permits-just-made-construct-1776952345.png"
 readTime: "25 min read"
 published: true
 season: 2

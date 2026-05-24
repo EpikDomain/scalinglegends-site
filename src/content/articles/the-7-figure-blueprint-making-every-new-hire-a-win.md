@@ -2,7 +2,8 @@
 title: "The 7-Figure Blueprint: Making Every New Hire a Win"
 description: "Discover how a structured onboarding process and radical clarity in leadership can transform your new hires from liabilities into assets, directly impacting your construction business's bottom line. Learn actionable strategies to reduce costly turnover, boost productivity by up to 50%, and scale your team effectively, ensuring every new addition contributes to your growth targets."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-blueprint-making-every-new-hire-a-win-1777392395.png"
+image: "/img/articles/the-7-figure-blueprint-making-every-new-hire-a-win-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-blueprint-making-every-new-hire-a-win-1777392395.png"
 readTime: "20 min read"
 published: true
 season: 2

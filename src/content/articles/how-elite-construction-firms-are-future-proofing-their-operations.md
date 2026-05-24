@@ -2,7 +2,8 @@
 title: "Construction 2026: Elite Firms' Operational Trends"
 description: "Discover how leading $20M-$50M construction firms are evolving their operations. Explore key trends in scheduling, procurement, and team structure shaping 2026."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-elite-construction-firms-are-future-proofing-their-opera-1772746740.png"
+image: "/img/articles/how-elite-construction-firms-are-future-proofing-their-operations-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/how-elite-construction-firms-are-future-proofing-their-opera-1772746740.png"
 readTime: "9 min read"
 published: true
 season: 2

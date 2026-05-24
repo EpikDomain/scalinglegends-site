@@ -2,7 +2,8 @@
 title: "The $10 Million AI Advantage: Securing Your Next Tier of Projects"
 description: "Unlock strategic growth by leveraging AI to pinpoint and win high-value construction clients. This episode reveals how contractors can use data-driven insights to boost project profitability by 5% and increase bid win rates by 20%, ensuring you only pursue the right opportunities for scaling."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-10-million-ai-advantage-securing-your-next-tier-of-proje-1779340748.png"
+image: "/img/articles/the-10-million-ai-advantage-securing-your-next-tier-of-projects-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-10-million-ai-advantage-securing-your-next-tier-of-proje-1779340748.png"
 readTime: "23 min read"
 published: true
 season: 2

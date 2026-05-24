@@ -2,7 +2,8 @@
 title: "Small Contractor Survival 2026: What Contractors Need to Know"
 description: "Deep dive into small contractor survival 2026 and what it means for construction businesses in 2026."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/small-contractor-survival-2026-2026-what-contractors-nee-1777368068.png"
+image: "/img/articles/small-contractor-survival-2026-2026-what-contractors-nee-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/small-contractor-survival-2026-2026-what-contractors-nee-1777368068.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616355/scalinglegends/2026_03_10_11_51_37_377fa7cf-5fc5-4c4d-bd73-a0431e4b0c41.mp3"
 readTime: "22 min read"
 published: true

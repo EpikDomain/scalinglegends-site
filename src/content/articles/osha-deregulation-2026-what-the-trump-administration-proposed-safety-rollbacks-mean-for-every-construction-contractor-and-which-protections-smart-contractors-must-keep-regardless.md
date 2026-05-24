@@ -2,7 +2,8 @@
 title: "OSHA Deregulation 2026: What the Trump Administration Proposed Safety Rollbacks Mean for Every Construction Contractor — and Which Protections Smart Contractors Must Keep Regardless"
 description: "The Trump OSHA has signaled a major deregulatory agenda affecting construction employers. The Advisory Committee on Construction Safety and Health (ACCSH) met on May 19, 2026 to review proposed rollbacks. This episode breaks down which rules are most likely to be loosened, what the enforcement gap means for day-to-day operations, why smart contractors maintain safety programs even without regulatory pressure, and how to use the deregulatory environment as a competitive moat."
 date: "2026-05-20"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/osha-deregulation-2026-what-the-trump-administration-propose-1779283633.png"
+image: "/img/articles/osha-deregulation-2026-what-the-trump-administration-proposed-safety-rollbacks-mean-for-every-construction-contractor-and-which-protections-smart-contractors-must-keep-regardless-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/osha-deregulation-2026-what-the-trump-administration-propose-1779283633.png"
 audioUrl: "https://content.rss.com/episodes/332597/2843672/scalinglegends/2026_05_20_14_19_38_7bffec5d-c89e-49e2-b9f8-cd682237f3e2.mp3"
 readTime: "29 min read"
 published: true

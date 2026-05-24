@@ -2,7 +2,8 @@
 title: "The $10 Billion New York Bus Terminal: STV and Turner Just Won Program Management — How Every Contractor Can Position to Win Work on the Biggest Transit Project in North America Right Now"
 description: "The Port Authority of New York and New Jersey selected an STV-Turner Construction joint venture to manage the program for the replacement of the world's busiest bus terminal — a project with a $10 billion budget. This episode explains what program management means versus general contractor, when trade packages will begin flowing, what PANYNJ prequalification requirements look like, and the specific steps contractors should take right now to get on the bid lists before prime packages are posted."
 date: "2026-05-20"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-10-billion-new-york-bus-terminal-stv-and-turner-just-won-1779284277.png"
+image: "/img/articles/the-10-billion-new-york-bus-terminal-stv-and-turner-just-won-program-management-how-every-contractor-can-position-to-win-work-on-the-biggest-transit-project-in-north-america-right-now-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-10-billion-new-york-bus-terminal-stv-and-turner-just-won-1779284277.png"
 audioUrl: "https://content.rss.com/episodes/332597/2843680/scalinglegends/2026_05_20_14_22_41_12963be1-16cf-479f-adea-e75c6e39e84c.mp3"
 readTime: "24 min read"
 published: true

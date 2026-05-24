@@ -2,7 +2,8 @@
 title: "The 5 Strategic Pillars: Building Construction Partnerships That Scale to $10M+"
 description: "Many construction companies eye partnerships as a growth lever, but over 60% struggle to make them truly profitable. This episode reveals the five critical pillars for forging robust, high-growth construction alliances, helping contractors from $1M-$10M revenue strategically expand their market reach and project capabilities without the typical pitfalls. Learn how to structure agreements, align visions, and leverage technology to ensure your next partnership drives significant, sustainable scaling."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-strategic-pillars-building-construction-partnerships-t-1779339020.png"
+image: "/img/articles/the-5-strategic-pillars-building-construction-partnerships-that-scale-to-10m-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-strategic-pillars-building-construction-partnerships-t-1779339020.png"
 readTime: "23 min read"
 published: true
 season: 2

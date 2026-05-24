@@ -2,7 +2,8 @@
 title: "Multiply Your Talent: The 5-Step Performance Playbook for Growth"
 description: "Are your team's performance discussions truly fueling your construction business growth? Discover how to transform standard reviews into powerful talent development conversations that boost retention, productivity, and your bottom line. We'll reveal a 5-step strategic playbook designed to increase employee engagement by up to 30% and significantly reduce costly turnover."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/multiply-your-talent-the-5-step-performance-playbook-for-gro-1777286117.png"
+image: "/img/articles/multiply-your-talent-the-5-step-performance-playbook-for-growth-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/multiply-your-talent-the-5-step-performance-playbook-for-gro-1777286117.png"
 readTime: "25 min read"
 published: true
 season: 2

@@ -2,7 +2,8 @@
 title: "Construction Labor Crisis 2026: How Immigration Enforcement Is Depleting Jobsite Workers and What Every Contractor Must Do Before the Summer Season Stalls"
 description: "Immigration enforcement is creating an acute construction labor crisis across the US in 2026. With roughly 30 percent of the construction workforce foreign-born, ICE raids are forcing project delays, cost overruns, and pushing smaller contractors toward collapse. This episode is the workforce survival playbook before summer season peaks."
 date: "2026-05-19"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-labor-crisis-2026-how-immigration-enforcement-i-1779179968.png"
+image: "/img/articles/construction-labor-crisis-2026-how-immigration-enforcement-is-depleting-jobsite-workers-and-what-every-contractor-must-do-before-the-summer-season-stalls-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-labor-crisis-2026-how-immigration-enforcement-i-1779179968.png"
 audioUrl: "https://content.rss.com/episodes/332597/2655716/scalinglegends/2026_03_24_08_31_16_f2bc7972-63de-4e25-8c2f-8f0202a955f8.mp3"
 readTime: "25 min read"
 published: true

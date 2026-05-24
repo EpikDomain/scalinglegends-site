@@ -2,7 +2,8 @@
 title: "The $5 Million Wall: 7 Strategies to Scale Your Construction Business Without Breaking It"
 description: "Many contractors dream of growth but hit an invisible wall around $3-5 million in revenue, often due to cash flow, leadership strain, or frontline chaos. This episode reveals the critical strategies and hard truths you need to navigate explosive growth, ensuring your business scales sustainably and profitably, leveraging insights from top industry performers."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-million-wall-7-strategies-to-scale-your-construction-b-1777392025.png"
+image: "/img/articles/the-5-million-wall-7-strategies-to-scale-your-construction-business-without-breaking-it-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-million-wall-7-strategies-to-scale-your-construction-b-1777392025.png"
 readTime: "24 min read"
 published: true
 season: 2

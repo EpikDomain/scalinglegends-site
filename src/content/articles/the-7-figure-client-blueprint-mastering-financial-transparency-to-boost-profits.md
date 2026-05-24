@@ -2,7 +2,8 @@
 title: "The 7-Figure Client Blueprint: Mastering Financial Transparency to Boost Profits"
 description: "Many contractors lose up to 15% of potential profit due to unclear financial conversations. This episode reveals how mastering client money talks can accelerate your business growth. Learn actionable strategies to pre-qualify prospects, set clear expectations, and protect your margins, transforming every project into a revenue-generating success."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-client-blueprint-mastering-financial-transparen-1779339760.png"
+image: "/img/articles/the-7-figure-client-blueprint-mastering-financial-transparency-to-boost-profits-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-client-blueprint-mastering-financial-transparen-1779339760.png"
 readTime: "22 min read"
 published: true
 season: 2

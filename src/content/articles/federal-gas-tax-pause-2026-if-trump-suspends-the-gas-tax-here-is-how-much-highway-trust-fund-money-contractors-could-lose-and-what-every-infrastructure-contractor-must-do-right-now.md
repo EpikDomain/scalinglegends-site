@@ -2,7 +2,8 @@
 title: "Federal Gas Tax Pause 2026: If Trump Suspends the Gas Tax Here Is How Much Highway Trust Fund Money Contractors Could Lose — and What Every Infrastructure Contractor Must Do Right Now"
 description: "The Trump administration is floating the idea of pausing the federal gas tax — an 18.4-cent-per-gallon levy unchanged since 1993 that funds the Highway Trust Fund, the primary source of federal road and bridge construction dollars. AGC is already calling it a gimmick. This episode explains exactly what the Highway Trust Fund is, how a pause ripples into project delays for highway contractors, and what diversification and pipeline strategies make sense for contractors with heavy DOT exposure."
 date: "2026-05-20"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/federal-gas-tax-pause-2026-if-trump-suspends-the-gas-tax-her-1779284834.png"
+image: "/img/articles/federal-gas-tax-pause-2026-if-trump-suspends-the-gas-tax-here-is-how-much-highway-trust-fund-money-contractors-could-lose-and-what-every-infrastructure-contractor-must-do-right-now-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/federal-gas-tax-pause-2026-if-trump-suspends-the-gas-tax-her-1779284834.png"
 readTime: "25 min read"
 published: true
 season: 2

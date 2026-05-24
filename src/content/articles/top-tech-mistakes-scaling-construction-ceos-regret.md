@@ -2,7 +2,8 @@
 title: "Top Tech Mistakes Scaling Construction CEOs Regret"
 description: "Discover the top tech mistakes scaling construction CEOs regret by 2026. Understand costly decisions, future trends, and what matters for $1M-$20M companies."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/top-tech-mistakes-scaling-construction-ceos-regret-1772746782.png"
+image: "/img/articles/top-tech-mistakes-scaling-construction-ceos-regret-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/top-tech-mistakes-scaling-construction-ceos-regret-1772746782.png"
 readTime: "8 min read"
 published: true
 season: 2

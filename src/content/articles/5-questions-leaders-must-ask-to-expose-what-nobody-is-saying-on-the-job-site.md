@@ -2,7 +2,8 @@
 title: "5 Questions Leaders Must Ask to Expose What Nobody Is Saying on the Job Site"
 description: "The biggest problems on your job site are the ones nobody is talking about. This episode reveals five specific questions that bypass surface-level responses and expose the real issues before they become costly problems."
 date: "2026-03-18"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-questions-leaders-must-ask-to-expose-what-nobody-is-saying-1773823049.png"
+image: "/img/articles/5-questions-leaders-must-ask-to-expose-what-nobody-is-saying-on-the-job-site-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-questions-leaders-must-ask-to-expose-what-nobody-is-saying-1773823049.png"
 audioUrl: "https://content.rss.com/episodes/332597/2636370/scalinglegends/2026_03_17_14_44_10_2a2f25b6-2fba-44ca-bcde-86606a84e2d2.mp3"
 readTime: "17 min read"
 published: true

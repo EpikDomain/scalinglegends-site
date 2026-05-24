@@ -64,7 +64,7 @@ Overhead, also known as indirect costs, are expenses necessary to run your busin
 
 - **Vehicle & Fuel Costs (General):** Costs for vehicles used by estimators, sales staff, or general managers not assigned to a single project, and the fuel to run them.
 
-- **Owner's Salary:** Often a contentious point, but for the purpose of calculating business profitability and a true [construction company overhead rate](https://scalinglegends.com/articles/construction-company-overhead rate), a reasonable owner's salary should be treated as an overhead cost. We’ll dive deeper into this.
+- **Owner's Salary:** Often a contentious point, but for the purpose of calculating business profitability and a true [construction company overhead rate](/article/how-to-calculate-construction-overhead-profit-margins-2026/), a reasonable owner's salary should be treated as an overhead cost. We’ll dive deeper into this.
 
 - **Field Overhead (General):** This is a critical nuance. Costs like a general superintendent who oversees multiple projects, or a shared field office trailer that serves several ongoing jobs, or a shared safety officer. These are not directly attributable to *one* project but are necessary for field operations generally.
 
@@ -787,8 +787,8 @@ While profit is a measure of financial performance over a period, cash flow is t
 
 ### Is my project manager's salary overhead or a direct cost?
 
-This depends on their role. If a project manager is dedicated 100% to a single, specific project for its duration, their salary (including benefits and payroll taxes) can be considered a direct cost to that project. However, if a project manager oversees multiple projects, provides general project support across the company, or works on pre-construction/estimating for various bids, their salary is classified as overhead. The distinction hinges on whether their time and expense are exclusively tied to one revenue-generating project or support the business generally. Misclassifying this is a common error in [Smart Business Automator](https://scalinglegends.com/articles/how-to-calculate-overhead-construction.
+This depends on their role. If a project manager is dedicated 100% to a single, specific project for its duration, their salary (including benefits and payroll taxes) can be considered a direct cost to that project. However, if a project manager oversees multiple projects, provides general project support across the company, or works on pre-construction/estimating for various bids, their salary is classified as overhead. The distinction hinges on whether their time and expense are exclusively tied to one revenue-generating project or support the business generally. Misclassifying this is a common error in construction accounting.
 
 Mastering your construction overhead and profit margins isn't just about crunching numbers; it's about building a resilient, profitable, and scalable construction empire. The numbers don't lie. They are the bedrock of every strategic decision you make. Ignore them at your peril, or embrace them as your ultimate tool for scaling legends.
 
-Platforms like <a href=) help contractors systematize their operations so they can scale without the chaos.
+Platforms like [Smart Business Automator](https://smartbusinessautomator.com/) help contractors systematize their operations so they can scale without the chaos.

@@ -2,7 +2,8 @@
 title: "The Global Construction Growth Wave 2026: Canada $430B, Indonesia $226B, UK's 170% Five-Year Surge, and Where US Contractors Should Position for the Next Decade"
 description: "Three massive international construction market signals just hit in 72 hours. Canada's construction market is projected to reach $430.98 billion by 2034. Indonesia's construction market will hit $226.1 billion at 6.77 percent CAGR. And a broker just said the UK construction sector's 170 percent five-year surge has further to run. This international deep-dive unpacks where the global construction capital is flowing, which markets are most accessible to US contractors, the trade structures that work, and the Smart Business Automator global market dashboard every contractor with cross-border ambitions needs open."
 date: "2026-04-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-global-construction-growth-wave-2026-canada-430b-indones-1776952726.png"
+image: "/img/articles/the-global-construction-growth-wave-2026-canada-430b-indonesia-226b-uks-170-five-year-surge-and-where-us-contractors-should-position-for-the-next-decade-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-global-construction-growth-wave-2026-canada-430b-indones-1776952726.png"
 readTime: "26 min read"
 published: true
 season: 2

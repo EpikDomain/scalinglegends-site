@@ -2,7 +2,8 @@
 title: "Supreme Court Tariff Ruling: What ACTUALLY Changed for Contractors (And Why Treasury Says It Won't Last)"
 description: "The Supreme Court struck down Trump's reciprocal tariffs 6-3, but steel and aluminum at 50% remain untouched. Treasury Secretary Bessent says rates return to pre-ruling levels by August. AGC says no refund checks are coming. This episode cuts through the legal confusion to tell contractors exactly what changed, what didn't, and how to protect their margins in the most chaotic tariff environment in modern construction history."
 date: "2026-03-08"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/supreme-court-tariff-ruling-what-actually-changed-for-contra-1772982170.png"
+image: "/img/articles/supreme-court-tariff-ruling-what-actually-changed-for-contractors-and-why-treasury-says-it-wont-last-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/supreme-court-tariff-ruling-what-actually-changed-for-contra-1772982170.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610203/scalinglegends/2026_03_08_16_45_15_33fe582b-2247-4d83-adc5-47c3ee8cb5df.mp3"
 readTime: "10 min read"
 published: true
@@ -53,7 +54,7 @@ The broader economic impact is also alarming. Aggregate [construction costs](/ar
 
 ## Construction Material Prices 2026: Navigating Unprecedented Volatility
 
-The landscape for [construction material prices 2026](/article/construction-material prices 2026/) is characterized by extreme volatility, a direct consequence of the ongoing tariff policies and the recent legal confusion. Even before the Supreme Court's ruling, construction input prices saw a 0.7% month-over-month increase in January 2026 alone. This upward trend, exacerbated by persistent tariffs, means that historical pricing models and traditional fixed-price bidding strategies are increasingly risky.
+The landscape for construction material prices 2026 is characterized by extreme volatility, a direct consequence of the ongoing tariff policies and the recent legal confusion. Even before the Supreme Court's ruling, construction input prices saw a 0.7% month-over-month increase in January 2026 alone. This upward trend, exacerbated by persistent tariffs, means that historical pricing models and traditional fixed-price bidding strategies are increasingly risky.
 
 The market reaction to this volatility is already evident. Suppliers, grappling with their own uncertain costs, are drastically shortening quote validity periods. What once might have been a 90-day price lock is now often reduced to weeks, or even days. This fundamental shift means the traditional 90-day bid timelines that many contractors rely on are effectively dead. Submitting a bid based on a month-old quote is a recipe for margin erosion, as material costs can surge significantly before a contract is even awarded.
 
@@ -63,7 +64,7 @@ The surge in Time & Materials (T&M) contracts is another clear indicator of the 
 
 ## Contractor Tariff Strategy: Protecting Your Margins
 
-In this turbulent environment, a robust [contractor tariff strategy](/article/contractor tariff strategy/) is not a luxury, but a necessity for survival and growth. Protecting your margins requires a multi-faceted approach, starting with the bid process itself. The days of absorbing material price risk are over for scaling contractors.
+In this turbulent environment, a robust [contractor tariff strategy](/article/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs/) is not a luxury, but a necessity for survival and growth. Protecting your margins requires a multi-faceted approach, starting with the bid process itself. The days of absorbing material price risk are over for scaling contractors.
 
 **1. Master the Escalation Clause Construction:**
 *   **Tie to BLS PPI Indexes:** The most effective escalation clauses are not vague. They explicitly link material cost adjustments to specific Bureau of Labor Statistics (BLS) Producer Price Index (PPI) categories. This provides an objective, verifiable benchmark.

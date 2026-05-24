@@ -2,7 +2,8 @@
 title: "The 7-Figure Feedback Loop: How Strategic Reviews Drive 20% Growth in Construction"
 description: "Are your team reviews just a yearly chore, or a powerful tool for scaling your construction business? This episode reveals how top contractors are transforming their feedback process from a bureaucratic burden into a growth engine, boosting retention by 15% and project efficiency by leveraging data-driven insights. Learn to implement a feedback system that actively propels your $1M-$10M company towards exponential growth."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-feedback-loop-how-strategic-reviews-drive-20-gr-1779326750.png"
+image: "/img/articles/the-7-figure-feedback-loop-how-strategic-reviews-drive-20-growth-in-construction-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-feedback-loop-how-strategic-reviews-drive-20-gr-1779326750.png"
 readTime: "4 min read"
 published: true
 season: 2

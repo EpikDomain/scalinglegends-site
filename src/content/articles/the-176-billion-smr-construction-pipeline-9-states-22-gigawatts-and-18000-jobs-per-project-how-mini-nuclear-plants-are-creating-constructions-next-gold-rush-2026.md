@@ -2,7 +2,8 @@
 title: "The $176 Billion SMR Construction Pipeline: 9 States, 22 Gigawatts, and 18,000 Jobs Per Project -- How Mini Nuclear Plants Are Creating Construction's Next Gold Rush 2026"
 description: "Scaling Legends - The $176 Billion SMR Construction Pipeline: 9 States, 22 Gigawatts, and 18,000 Jobs Per Project -- How Mini Nuclear Plants Are Creating Construction's Next Gold Rush 2026"
 date: "2026-03-24"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-176-billion-smr-construction-pipeline-9-states-22-gigawa-1774362879.png"
+image: "/img/articles/the-176-billion-smr-construction-pipeline-9-states-22-gigawatts-and-18000-jobs-per-project-how-mini-nuclear-plants-are-creating-constructions-next-gold-rush-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-176-billion-smr-construction-pipeline-9-states-22-gigawa-1774362879.png"
 audioUrl: "https://content.rss.com/episodes/332597/2660381/scalinglegends/2026_03_25_09_42_30_0075b90a-22c9-4380-a8fc-ebbdb6f64469.mp3"
 readTime: "19 min read"
 published: true

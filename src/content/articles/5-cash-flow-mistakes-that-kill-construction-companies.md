@@ -2,7 +2,8 @@
 title: "Cash Flow Fixes for Construction: Master 2026"
 description: "Avoid common cash flow pitfalls in construction. Learn actionable strategies to manage your money better and ensure your company thrives through 2026 and beyond."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-cash-flow-mistakes-that-kill-construction-companies-1772747404.png"
+image: "/img/articles/5-cash-flow-mistakes-that-kill-construction-companies-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-cash-flow-mistakes-that-kill-construction-companies-1772747404.png"
 readTime: "10 min read"
 published: true
 season: 2

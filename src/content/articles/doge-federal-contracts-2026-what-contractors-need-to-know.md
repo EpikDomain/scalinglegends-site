@@ -2,7 +2,8 @@
 title: "Doge Federal Contracts 2026: What Contractors Need to Know"
 description: "Deep dive into DOGE federal contracts and what it means for construction businesses in 2026."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-federal-contracts-2026-what-contractors-need-to-know-1777367046.png"
+image: "/img/articles/doge-federal-contracts-2026-what-contractors-need-to-know-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-federal-contracts-2026-what-contractors-need-to-know-1777367046.png"
 audioUrl: "https://content.rss.com/episodes/332597/2772534/scalinglegends/2026_04_27_21_17_51_a3392bf5-9370-4f17-9947-43876f9c2252.mp3"
 readTime: "22 min read"
 published: true

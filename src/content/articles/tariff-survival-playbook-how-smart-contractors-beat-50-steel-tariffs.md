@@ -2,7 +2,8 @@
 title: "Tariff Forecast 2026: Impact on Construction Contractors"
 description: "Get the latest 2026 steel tariff forecast and understand its projected impact on the construction industry. Prepare your business for upcoming market shifts."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tariff-survival-playbook-how-smart-contractors-beat-50-steel-1772743905.png"
+image: "/img/articles/tariff-survival-playbook-how-smart-contractors-beat-50-steel-tariffs-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/tariff-survival-playbook-how-smart-contractors-beat-50-steel-1772743905.png"
 readTime: "8 min read"
 published: true
 season: 2

@@ -2,7 +2,8 @@
 title: "Gateway $1.29B Hudson Tunnel and FlatironDragados $4.6B P3 Highway 2026: How the Mega-Project Wave Is Reshaping Subcontract Opportunity for Every Tier-2 and Tier-3 Builder"
 description: "Gateway just awarded the $1.29 billion final Hudson River Tunnel boring contract and FlatironDragados broke ground on a $4.6 billion P3 highway in the same week. This deep-dive walks contractors through both mega-project opportunities, the tunneling and P3 sub pipelines, the prime contractor structures, the Davis-Bacon labor implications, the equipment lead-time considerations, and the Smart Business Automator mega-project bid board every tier-2 and tier-3 builder needs open before the first RFP packets land."
 date: "2026-04-29"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/gateway-129b-hudson-tunnel-and-flatirondragados-46b-p3-highw-1777466026.png"
+image: "/img/articles/gateway-129b-hudson-tunnel-and-flatirondragados-46b-p3-highway-2026-how-the-mega-project-wave-is-reshaping-subcontract-opportunity-for-every-tier-2-and-tier-3-builder-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/gateway-129b-hudson-tunnel-and-flatirondragados-46b-p3-highw-1777466026.png"
 audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "25 min read"
 published: true

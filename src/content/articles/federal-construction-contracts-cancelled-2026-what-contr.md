@@ -2,7 +2,8 @@
 title: "Federal Construction Contracts Cancelled 2026: What Contractors Need to Know"
 description: "Deep dive into federal construction contracts cancelled and what it means for construction businesses in 2026."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/federal-construction-contracts-cancelled-2026-what-contr-1777368484.png"
+image: "/img/articles/federal-construction-contracts-cancelled-2026-what-contr-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/federal-construction-contracts-cancelled-2026-what-contr-1777368484.png"
 readTime: "20 min read"
 published: true
 season: 2

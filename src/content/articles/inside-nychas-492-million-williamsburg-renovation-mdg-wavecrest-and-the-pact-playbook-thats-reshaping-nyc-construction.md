@@ -2,7 +2,8 @@
 title: "Inside NYCHA's $492 Million Williamsburg Renovation: MDG, Wavecrest, and the PACT Playbook That's Reshaping NYC Construction"
 description: "Scaling Legends - Inside NYCHA's $492 Million Williamsburg Renovation: MDG, Wavecrest, and the PACT Playbook That's Reshaping NYC Construction"
 date: "2026-03-24"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/inside-nychas-492-million-williamsburg-renovation-mdg-wavecr-1774363058.png"
+image: "/img/articles/inside-nychas-492-million-williamsburg-renovation-mdg-wavecrest-and-the-pact-playbook-thats-reshaping-nyc-construction-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/inside-nychas-492-million-williamsburg-renovation-mdg-wavecr-1774363058.png"
 audioUrl: "https://content.rss.com/episodes/332597/2660888/scalinglegends/2026_03_25_14_06_00_8040a4d0-3e77-4010-99c8-e3f685016da6.mp3"
 readTime: "17 min read"
 published: true
@@ -37,7 +38,7 @@ The NYCHA PACT program represents a seismic shift in how public housing is manag
 
 For contractors aiming to scale from $1M to $50M, understanding the PACT model is paramount. These projects are characterized by their immense scale, multi-year timelines, and the predictable pipeline they create. Instead of chasing one-off public bids, firms can strategically position themselves for continuous work within a PACT portfolio. MDG and Wavecrest, the private development partners at Williamsburg, secured a 99-year lease, demonstrating the long-term commitment and stability these projects offer. This longevity translates directly into sustained opportunities for subcontractors who can consistently deliver quality work.
 
-**The PACT program has already facilitated over $6 billion in renovations across New York City, converting more than 20,000 units.** This ongoing investment presents a clear path for firms looking to specialize in multi-family residential rehabilitation. Companies that develop expertise in navigating the regulatory environment, managing tenant-in-place renovations, and meeting ambitious M/WBE (Minority and Women-Owned Business Enterprise) participation goals will find themselves at a significant advantage. The sheer volume of work means that even mid-sized contractors can secure substantial packages, contributing to their own robust [family construction business growth](/article/family-construction business growth/).
+**The PACT program has already facilitated over $6 billion in renovations across New York City, converting more than 20,000 units.** This ongoing investment presents a clear path for firms looking to specialize in multi-family residential rehabilitation. Companies that develop expertise in navigating the regulatory environment, managing tenant-in-place renovations, and meeting ambitious M/WBE (Minority and Women-Owned Business Enterprise) participation goals will find themselves at a significant advantage. The sheer volume of work means that even mid-sized contractors can secure substantial packages, contributing to their own robust [family construction business growth](/article/how-to-scale-a-family-construction-business-without-losing-its-soul/).
 
 ## Mastering [Construction Cash Flow Management](/article/5-cash-flow-mistakes-that-kill-construction-companies/) in PACT Projects
 
@@ -73,7 +74,7 @@ Modern estimating solutions integrate with BIM models, allowing for automated qu
 
 ## Optimizing with [Construction Project Management](/article/surviving-the-messy-middle-of-construction-growth/) Software and AI
 
-Executing a project of the scale and complexity of the Williamsburg Houses renovation requires a robust approach to [construction project management](/article/construction-project-management-surviving-the-messy-middle/). With 1,680 units across 20 buildings, multiple renovation phases, and thousands of residents remaining in place, traditional methods will inevitably lead to delays, cost overruns, and client dissatisfaction. This is where advanced [construction project management software](/article/construction project management software/), augmented by [AI construction technology 2026](/article/ai-construction-technology-2026/), becomes indispensable.
+Executing a project of the scale and complexity of the Williamsburg Houses renovation requires a robust approach to [construction project management](/article/construction-project-management-surviving-the-messy-middle/). With 1,680 units across 20 buildings, multiple renovation phases, and thousands of residents remaining in place, traditional methods will inevitably lead to delays, cost overruns, and client dissatisfaction. This is where advanced construction project management software, augmented by [AI construction technology 2026](/article/ai-construction-technology-2026/), becomes indispensable.
 
 Modern PM software centralizes communication, schedules, budgets, and document management, providing a single source of truth for all stakeholders. For PACT projects, features like:
 
@@ -133,7 +134,7 @@ NYCHA PACT projects typically aim for 30% or more of contract values to be award
 
 - **Cultivate Developer Relationships.** Identify the private developers actively involved in PACT conversions. Attend industry events, network, and schedule introductory meetings to showcase your firm's capabilities and align with their project needs.
 
-- **Optimize Your Estimating & PM Tech Stack.** Invest in and fully implement modern [construction estimating software 2026](/article/construction-estimating-software-2026/) and [construction project management software](/article/construction project management software/). Ensure your team is proficient, as these tools are critical for competitive bidding and efficient execution on large-scale projects.
+- **Optimize Your Estimating & PM Tech Stack.** Invest in and fully implement modern [construction estimating software 2026](/article/construction-estimating-software-2026/) and construction project management software. Ensure your team is proficient, as these tools are critical for competitive bidding and efficient execution on large-scale projects.
 
 - **Develop a Robust M/WBE Strategy.** If eligible, obtain M/WBE certification. If not, actively seek out and build strong, verifiable partnerships with certified M/WBE firms. This is a non-negotiable requirement for securing subcontracts.
 
@@ -145,4 +146,4 @@ NYCHA PACT projects typically aim for 30% or more of contract values to be award
 
 ## Bottom Line
 
-The NYCHA PACT program, exemplified by the $492 million Williamsburg renovation, is not just another government initiative; it's a strategic pathway for sustainable [construction business growth 2026](/article/construction business growth 2026/). For contractors looking to scale, the opportunity is clear: understand the PACT playbook, optimize your financial and operational processes with cutting-edge technology, and build strategic partnerships. This week, commit to a thorough review of your current estimating and [project management](/article/surviving-the-messy-middle-of-construction-growth/) software capabilities. Identify the gaps and research the top 3 solutions that can position your firm for competitive bidding and efficient execution on the next multi-million dollar PACT project. Data from [Smart Business Automator](https://smartbusinessautomator.com) consistently shows that firms investing in these areas are outperforming competitors by a significant margin.
+The NYCHA PACT program, exemplified by the $492 million Williamsburg renovation, is not just another government initiative; it's a strategic pathway for sustainable [construction business growth 2026](/article/5-growth-levers-future-proofing-your-construction-business-for-2026/). For contractors looking to scale, the opportunity is clear: understand the PACT playbook, optimize your financial and operational processes with cutting-edge technology, and build strategic partnerships. This week, commit to a thorough review of your current estimating and [project management](/article/surviving-the-messy-middle-of-construction-growth/) software capabilities. Identify the gaps and research the top 3 solutions that can position your firm for competitive bidding and efficient execution on the next multi-million dollar PACT project. Data from [Smart Business Automator](https://smartbusinessautomator.com) consistently shows that firms investing in these areas are outperforming competitors by a significant margin.

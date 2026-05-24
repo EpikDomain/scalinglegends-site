@@ -2,7 +2,8 @@
 title: "The $5 Million Leap: 3 Operational Shifts for Construction Contractors"
 description: "Struggling to scale your construction business past the $1M or $2M mark without drowning in daily operations? This episode reveals the three critical operational shifts that separate top-tier construction firms generating $5M+ from those stuck in the grind. Learn how to implement systems, leverage data, and build a team that empowers growth, not burnout."
 date: "2026-04-29"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-million-leap-3-operational-shifts-for-construction-con-1777495587.png"
+image: "/img/articles/the-5-million-leap-3-operational-shifts-for-construction-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-million-leap-3-operational-shifts-for-construction-con-1777495587.png"
 readTime: "22 min read"
 published: true
 season: 2

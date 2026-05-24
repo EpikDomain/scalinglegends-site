@@ -2,7 +2,8 @@
 title: "Contractors: 2026 Trends for $10M+ Scaling Insights"
 description: "Explore the key trends shaping construction for 2026. Hear what $10M contractors are doing differently to grow and future-proof their businesses for success."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
+image: "/img/articles/what-10m-contractors-wish-they-knew-at-1m-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/what-10m-contractors-wish-they-knew-at-1m-1772746822.png"
 readTime: "10 min read"
 published: true
 season: 2

@@ -2,7 +2,8 @@
 title: "5 Non-Negotiable Systems for 2X Construction Profitability"
 description: "Many contractors hit a plateau, struggling to grow past $5M without chaos. In this episode, the host and the co-host reveal the 5 crucial systems that separate scaling legends from stagnant shops, helping you double your profits and reclaim your time. We'll dive into how top performers achieve 15-20% net profit margins and consistent year-over-year growth."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-non-negotiable-systems-for-2x-construction-profitability-1777286503.png"
+image: "/img/articles/5-non-negotiable-systems-for-2x-construction-profitability-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-non-negotiable-systems-for-2x-construction-profitability-1777286503.png"
 readTime: "26 min read"
 published: true
 season: 2

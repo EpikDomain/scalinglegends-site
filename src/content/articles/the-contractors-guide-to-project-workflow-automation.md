@@ -2,7 +2,8 @@
 title: "Contractor Automation: 2026 Project Workflow Trends"
 description: "Explore the top project workflow automation trends impacting contractors in 2026. Discover future strategies and insights to stay ahead in construction management."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
+image: "/img/articles/the-contractors-guide-to-project-workflow-automation-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-contractors-guide-to-project-workflow-automation-1772747319.png"
 audioUrl: "https://content.rss.com/episodes/332597/2773943/scalinglegends/2026_04_28_08_42_16_a6ec6015-1fe1-4cd0-8e5c-82ba323d2850.mp3"
 readTime: "8 min read"
 published: true

@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: March 27 - Record Electricity Demand Triggers $1.4 Trillion Grid Construction Wave as Bipartisan Housing Bill Advances"
 description: "Friday market intelligence covering record US electricity demand triggering $1.4 trillion in grid construction through 2030, the bipartisan 21st Century ROAD to Housing Act passing Senate 89-10, the 439,000 grid worker shortage, weekly trend recap from 2-week software buying cycle to work zone safety, CMMC compliance update, and green building skills surging 71,650%."
 date: "2026-03-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-27---record-electrici-1774602095.png"
+image: "/img/articles/construction-market-intelligence-march-27-record-electricity-demand-triggers-14-trillion-grid-construction-wave-as-bipartisan-housing-bill-advances-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-27---record-electrici-1774602095.png"
 audioUrl: "https://content.rss.com/episodes/332597/2667155/scalinglegends/2026_03_27_14_05_46_49309d2f-08ca-4e0b-ba9e-71517e539959.mp3"
 readTime: "21 min read"
 published: true

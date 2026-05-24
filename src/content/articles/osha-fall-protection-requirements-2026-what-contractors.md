@@ -2,7 +2,8 @@
 title: "OSHA Fall Protection Requirements 2026: What Contractors Need to Know"
 description: "Deep dive into OSHA fall protection requirements and what it means for construction businesses in 2026."
 date: "2026-05-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/osha-fall-protection-requirements-2026-what-contractors-1779528471.png"
+image: "/img/articles/osha-fall-protection-requirements-2026-what-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/osha-fall-protection-requirements-2026-what-contractors-1779528471.png"
 readTime: "24 min read"
 published: true
 season: 2

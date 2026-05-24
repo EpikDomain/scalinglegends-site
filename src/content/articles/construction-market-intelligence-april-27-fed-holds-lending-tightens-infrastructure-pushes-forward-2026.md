@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence April 27: Fed Holds, Lending Tightens, Infrastructure Pushes Forward 2026"
 description: "Daily construction market intelligence covering Fed rate hold, commercial lending tightening, Q1 construction spending data, tariff impacts on materials, labor shortage updates, and global infrastructure developments affecting contractors."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-27-fed-holds-lending--1777297850.png"
+image: "/img/articles/construction-market-intelligence-april-27-fed-holds-lending-tightens-infrastructure-pushes-forward-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-27-fed-holds-lending--1777297850.png"
 audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "23 min read"
 published: true

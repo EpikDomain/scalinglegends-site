@@ -2,7 +2,8 @@
 title: "The 7-Figure Crew Advantage: Why Cultural Intelligence is Your Next Growth Engine"
 description: "Are cultural blind spots costing your construction business hundreds of thousands in lost productivity, high turnover, and project delays? This episode reveals how mastering cultural intelligence isn't just about 'being nice' but a strategic imperative that can boost your bottom line by 15% and attract the best talent in a competitive market. Learn actionable strategies to build a magnetic culture and unlock your crew's full potential for exponential growth."
 date: "2026-05-22"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-crew-advantage-why-cultural-intelligence-is-you-1779411863.png"
+image: "/img/articles/the-7-figure-crew-advantage-why-cultural-intelligence-is-your-next-growth-engine-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-7-figure-crew-advantage-why-cultural-intelligence-is-you-1779411863.png"
 readTime: "23 min read"
 published: true
 season: 2

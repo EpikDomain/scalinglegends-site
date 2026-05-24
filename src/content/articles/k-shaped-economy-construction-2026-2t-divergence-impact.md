@@ -2,7 +2,8 @@
 title: "K-Shaped Economy Construction 2026: $2T Divergence Impact"
 description: "The k-shaped economy in construction is widening the gap between thriving firms and struggling ones. Larger contractors are consolidating market share while mid-market firms face intense pressure from both directions. Learn how to identify which side of the curve your business sits on and what structural changes can move you toward growth."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/k-shaped-economy-construction-2026-2t-divergence-impact-1777300773.png"
+image: "/img/articles/k-shaped-economy-construction-2026-2t-divergence-impact-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/k-shaped-economy-construction-2026-2t-divergence-impact-1777300773.png"
 audioUrl: "https://content.rss.com/episodes/332597/2685830/scalinglegends/2026_04_03_08_43_36_fc87fc28-a05a-4639-b2e7-45c8fc4ff045.mp3"
 readTime: "22 min read"
 published: true

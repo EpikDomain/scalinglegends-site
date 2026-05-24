@@ -2,7 +2,8 @@
 title: "Data Center Construction Boom 2026: What Contractors Need to Know"
 description: "Deep dive into data center construction boom and what it means for construction businesses in 2026."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/data-center-construction-boom-2026-what-contractors-need-1777368683.png"
+image: "/img/articles/data-center-construction-boom-2026-what-contractors-need-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/data-center-construction-boom-2026-what-contractors-need-1777368683.png"
 audioUrl: "https://content.rss.com/episodes/332597/2763626/scalinglegends/2026_04_24_08_55_53_02c0c33c-1292-4c80-bf4a-2ce17fd16044.mp3"
 readTime: "21 min read"
 published: true

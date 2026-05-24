@@ -2,7 +2,8 @@
 title: "Fuel Escalation Clause 2026: $47B Impact on Contractors"
 description: "Fuel costs have eaten $47 billion in contractor margins over the last 18 months. This deep-dive shows you exactly how to structure fuel escalation clauses, negotiate them with clients, and automate cost tracking so you protect your bottom line in 2026. Real-world case studies included."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/fuel-escalation-clause-2026-47b-impact-on-contractors-1777300335.png"
+image: "/img/articles/fuel-escalation-clause-2026-47b-impact-on-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/fuel-escalation-clause-2026-47b-impact-on-contractors-1777300335.png"
 readTime: "26 min read"
 published: true
 season: 2

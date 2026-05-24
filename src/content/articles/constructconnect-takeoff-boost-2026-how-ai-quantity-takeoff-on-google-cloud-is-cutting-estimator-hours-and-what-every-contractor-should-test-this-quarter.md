@@ -2,7 +2,8 @@
 title: "ConstructConnect Takeoff Boost 2026: How AI Quantity Takeoff on Google Cloud Is Cutting Estimator Hours and What Every Contractor Should Test This Quarter"
 description: "ConstructConnect just launched Takeoff Boost, an AI-powered quantity takeoff product built on Google Cloud, claiming 3 to 5x faster takeoff on construction plans. This deep-dive unpacks how the AI actually works, where it saves hours, where it still needs human check, how it compares to Togal.AI, Swift Plan, and the PreConstruct.ai ecosystem, the cost vs ROI math, and the Smart Business Automator estimating efficiency benchmarks every contractor should measure before committing."
 date: "2026-04-22"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/constructconnect-takeoff-boost-2026-how-ai-quantity-takeoff--1776886844.png"
+image: "/img/articles/constructconnect-takeoff-boost-2026-how-ai-quantity-takeoff-on-google-cloud-is-cutting-estimator-hours-and-what-every-contractor-should-test-this-quarter-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/constructconnect-takeoff-boost-2026-how-ai-quantity-takeoff--1776886844.png"
 readTime: "25 min read"
 published: true
 season: 2

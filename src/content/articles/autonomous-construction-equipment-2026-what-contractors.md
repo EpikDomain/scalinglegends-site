@@ -2,7 +2,8 @@
 title: "Autonomous Construction Equipment 2026: What Contractors Need to Know"
 description: "Deep dive into autonomous construction equipment and what it means for construction businesses in 2026."
 date: "2026-05-20"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/autonomous-construction-equipment-2026-what-contractors-1779269546.png"
+image: "/img/articles/autonomous-construction-equipment-2026-what-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/autonomous-construction-equipment-2026-what-contractors-1779269546.png"
 audioUrl: "https://content.rss.com/episodes/332597/2839775/scalinglegends/2026_05_19_14_04_31_83e4381d-de91-482f-bfd0-7fb308ce8f4a.mp3"
 readTime: "25 min read"
 published: true

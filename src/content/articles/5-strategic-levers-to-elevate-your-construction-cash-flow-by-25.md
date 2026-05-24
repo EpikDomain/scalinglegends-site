@@ -2,7 +2,8 @@
 title: "5 Strategic Levers to Elevate Your Construction Cash Flow by 25%"
 description: "Many scaling construction businesses leave significant cash on the table due to inefficient processes. In this episode, the host and the co-host reveal five strategic levers to optimize your financial flow, turning project revenue into robust, accessible capital. Learn how to increase your cash availability by up to 25% and fuel your next growth phase."
 date: "2026-04-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-strategic-levers-to-elevate-your-construction-cash-flow-by-1776974915.png"
+image: "/img/articles/5-strategic-levers-to-elevate-your-construction-cash-flow-by-25-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/5-strategic-levers-to-elevate-your-construction-cash-flow-by-1776974915.png"
 readTime: "24 min read"
 published: true
 season: 2

@@ -2,7 +2,8 @@
 title: "The 3 Hidden Keys to Unlocking Peak Crew Performance & Profit"
 description: "Discover how mastering team dynamics can transform your construction business. This episode reveals how top contractors are reducing costly turnover by 15% and boosting project efficiency by up to 20% by addressing cultural understanding, not just communication."
 date: "2026-05-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-3-hidden-keys-to-unlocking-peak-crew-performance-profit-1779551203.png"
+image: "/img/articles/the-3-hidden-keys-to-unlocking-peak-crew-performance-profit-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-3-hidden-keys-to-unlocking-peak-crew-performance-profit-1779551203.png"
 readTime: "4 min read"
 published: true
 season: 2

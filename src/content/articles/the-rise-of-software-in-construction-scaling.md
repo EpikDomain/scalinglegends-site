@@ -2,7 +2,8 @@
 title: "Construction Software Trends Redefining 2026 Scaling"
 description: "Explore the critical construction software trends and adoption curves shaping industry leaders, impacting scaling strategies for 2026 and beyond."
 date: "2026-03-05"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-rise-of-software-in-construction-scaling-1772746905.png"
+image: "/img/articles/the-rise-of-software-in-construction-scaling-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-rise-of-software-in-construction-scaling-1772746905.png"
 readTime: "11 min read"
 published: true
 season: 2

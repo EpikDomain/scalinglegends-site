@@ -2,7 +2,8 @@
 title: "DOGE Contract Changes 2026: What Contractors Must Know Now"
 description: "DOGE federal contract changes are reshaping how construction contractors bid on government work in 2026. This deep-dive explores the new compliance requirements, bidding process shifts, and what your company needs to do to win federal projects under the new rules. Discover the actionable strategies top contractors are using right now."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-contract-changes-2026-what-contractors-must-know-now-1777298754.png"
+image: "/img/articles/doge-contract-changes-2026-what-contractors-must-know-now-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-contract-changes-2026-what-contractors-must-know-now-1777298754.png"
 audioUrl: "https://content.rss.com/episodes/332597/2608724/scalinglegends/2026_03_07_18_22_00_b259ba4d-04d2-4b85-80b9-9627870d295c.mp3"
 readTime: "26 min read"
 published: true

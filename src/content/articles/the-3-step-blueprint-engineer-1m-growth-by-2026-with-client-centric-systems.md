@@ -2,7 +2,8 @@
 title: "The 3-Step Blueprint: Engineer $1M+ Growth by 2026 with Client-Centric Systems"
 description: "Discover how top contractors are shifting from 'just building' to 'building an experience' to unlock exponential growth. Learn a 3-step blueprint to redefine your client offering, optimize internal processes, and strategically plan for an additional $1M+ in revenue by 2026, leveraging industry insights and proven frameworks."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-3-step-blueprint-engineer-1m-growth-by-2026-with-client--1779338057.png"
+image: "/img/articles/the-3-step-blueprint-engineer-1m-growth-by-2026-with-client-centric-systems-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-3-step-blueprint-engineer-1m-growth-by-2026-with-client--1779338057.png"
 readTime: "23 min read"
 published: true
 season: 2

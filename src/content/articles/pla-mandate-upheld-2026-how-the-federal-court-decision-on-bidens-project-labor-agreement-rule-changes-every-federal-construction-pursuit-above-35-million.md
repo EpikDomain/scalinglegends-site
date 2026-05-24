@@ -2,7 +2,8 @@
 title: "PLA Mandate Upheld 2026: How the Federal Court Decision on Biden's Project Labor Agreement Rule Changes Every Federal Construction Pursuit Above $35 Million"
 description: "A federal court just upheld the Biden-era Project Labor Agreement mandate on federal construction projects above $35 million. This deep-dive walks contractors through what a PLA actually requires, the union and non-union implications, the labor cost math, the bid strategy shift, the merit-shop pathway, and the Smart Business Automator federal contracting database every contractor pursuing federal work needs open before May 30."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/pla-mandate-upheld-2026-how-the-federal-court-decision-on-bi-1777330104.png"
+image: "/img/articles/pla-mandate-upheld-2026-how-the-federal-court-decision-on-bidens-project-labor-agreement-rule-changes-every-federal-construction-pursuit-above-35-million-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/pla-mandate-upheld-2026-how-the-federal-court-decision-on-bi-1777330104.png"
 readTime: "26 min read"
 published: true
 season: 2

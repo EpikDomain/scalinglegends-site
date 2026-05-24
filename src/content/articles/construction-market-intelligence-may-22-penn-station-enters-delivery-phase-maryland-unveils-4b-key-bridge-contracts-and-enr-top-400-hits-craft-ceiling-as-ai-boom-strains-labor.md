@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: May 22 - Penn Station Enters Delivery Phase, Maryland Unveils $4B Key Bridge Contracts, and ENR Top 400 Hits Craft Ceiling as AI Boom Strains Labor"
 description: "Daily market intelligence report for May 22, 2026. Top stories: Penn Station $8B rebuild enters preconstruction with Halmar-Skanska as master developers; Maryland splits Key Bridge rebuild into 4 contracts totaling $4B-$4.8B with RFQs opening this summer; ENR Top 400 data reveals craft ceiling with 439,000 worker shortage as AI boom absorbs skilled labor; construction activity bifurcating between AI-related and non-AI sectors. Global Intel Brief includes Australian M&A record and Buildots AI platform going global. 89 stories scraped from 11 source categories."
 date: "2026-05-22"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-may-22---penn-station-enter-1779440037.png"
+image: "/img/articles/construction-market-intelligence-may-22-penn-station-enters-delivery-phase-maryland-unveils-4b-key-bridge-contracts-and-enr-top-400-hits-craft-ceiling-as-ai-boom-strains-labor-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-may-22---penn-station-enter-1779440037.png"
 audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "25 min read"
 published: true

@@ -2,7 +2,8 @@
 title: "Dali Federal Charges 2026: What the Key Bridge Criminal Case Means for Marine Construction Liability, GC Risk Transfer, and Every Contractor With Maritime Exposure"
 description: "Federal prosecutors just charged the Dali container ship operator in connection with the Francis Scott Key Bridge collapse. This deep-dive walks contractors through what charges have been filed, the construction industry liability ripple, GC risk transfer implications, harbor pilot and marine surveyor exposure, insurance market response, and the Smart Business Automator litigation and insurance dashboard every contractor with maritime, bridge, or coastal work needs open."
 date: "2026-05-15"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/dali-federal-charges-2026-what-the-key-bridge-criminal-case--1778876789.png"
+image: "/img/articles/dali-federal-charges-2026-what-the-key-bridge-criminal-case-means-for-marine-construction-liability-gc-risk-transfer-and-every-contractor-with-maritime-exposure-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/dali-federal-charges-2026-what-the-key-bridge-criminal-case--1778876789.png"
 audioUrl: "https://content.rss.com/episodes/332597/2830011/scalinglegends/2026_05_15_21_06_43_3c7b8f02-2b1a-4cd8-a780-423fc09a8b55.mp3"
 readTime: "27 min read"
 published: true

@@ -2,7 +2,8 @@
 title: "Build a Construction Company That Runs Without You: Systems Over Superstars"
 description: "If your business cannot survive a two-week vacation, you do not own a company. You own a job. This episode teaches contractors how to build systems that let average people produce above-average results. Because the truth is, you will never find enough superstars. But you can build systems that make good people great."
 date: "2026-03-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/build-a-construction-company-that-runs-without-you-systems-o-1774621892.png"
+image: "/img/articles/build-a-construction-company-that-runs-without-you-systems-over-superstars-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/build-a-construction-company-that-runs-without-you-systems-o-1774621892.png"
 readTime: "19 min read"
 published: true
 season: 2

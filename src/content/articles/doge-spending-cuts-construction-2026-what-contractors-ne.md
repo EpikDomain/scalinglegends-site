@@ -2,7 +2,8 @@
 title: "DOGE Spending Cuts Construction 2026: What Contractors Need to Know"
 description: "Deep dive into DOGE spending cuts construction and what it means for construction businesses in 2026."
 date: "2026-05-23"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-spending-cuts-construction-2026-what-contractors-ne-1779529203.png"
+image: "/img/articles/doge-spending-cuts-construction-2026-what-contractors-ne-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/doge-spending-cuts-construction-2026-what-contractors-ne-1779529203.png"
 readTime: "26 min read"
 published: true
 season: 2

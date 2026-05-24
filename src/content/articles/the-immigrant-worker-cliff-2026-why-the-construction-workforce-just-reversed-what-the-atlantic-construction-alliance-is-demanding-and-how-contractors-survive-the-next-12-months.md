@@ -2,7 +2,8 @@
 title: "The Immigrant Worker Cliff 2026: Why the Construction Workforce Just Reversed, What the Atlantic Construction Alliance Is Demanding, and How Contractors Survive the Next 12 Months"
 description: "The construction labor story just flipped. After years of record-high immigrant share, IndexBox and Construction Owners Club analyses published this week confirm the immigrant workforce is now DECLINING. The new Atlantic Construction Alliance is lobbying for sector-specific immigration reform while Israel and other allied economies face parallel pressure. This deep-dive gives contractors a 12-month labor contingency playbook, region-by-region wage pressure map, and the Smart Business Automator workforce intel framework every GC needs before crews start walking off jobsites."
 date: "2026-04-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-immigrant-worker-cliff-2026-why-the-construction-workfor-1776772140.png"
+image: "/img/articles/the-immigrant-worker-cliff-2026-why-the-construction-workforce-just-reversed-what-the-atlantic-construction-alliance-is-demanding-and-how-contractors-survive-the-next-12-months-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-immigrant-worker-cliff-2026-why-the-construction-workfor-1776772140.png"
 readTime: "23 min read"
 published: true
 season: 2

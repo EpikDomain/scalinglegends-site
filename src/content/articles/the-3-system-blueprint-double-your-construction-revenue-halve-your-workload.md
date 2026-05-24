@@ -2,7 +2,8 @@
 title: "The 3-System Blueprint: Double Your Construction Revenue, Halve Your Workload"
 description: "Are you a construction owner trapped in 60-hour workweeks, unable to step away without chaos? This episode reveals a proven 3-system blueprint that enabled one construction business to double revenue to over $2M while cutting owner work hours by 50% and reducing reliance on the owner for daily operations. Learn how to implement clear processes, automate key functions, and reclaim your time and profit."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-3-system-blueprint-double-your-construction-revenue-halv-1777393004.png"
+image: "/img/articles/the-3-system-blueprint-double-your-construction-revenue-halve-your-workload-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-3-system-blueprint-double-your-construction-revenue-halv-1777393004.png"
 readTime: "23 min read"
 published: true
 season: 2

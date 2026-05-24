@@ -2,7 +2,8 @@
 title: "Diesel at $4.60: How to Fuel-Proof Your Construction Business"
 description: "Oil broke $103 a barrel. Diesel is reacting more aggressively than gas. Equipment costs are up 5.6% YoY. Here's how to manage fuel exposure before it eats your margins."
 date: "2026-03-10"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
+image: "/img/articles/diesel-at-460-how-to-fuel-proof-your-construction-business-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/diesel-at-460-how-to-fuel-proof-your-construction-business-1773165812.png"
 audioUrl: "https://content.rss.com/episodes/332597/2616405/scalinglegends/2026_03_10_12_19_54_7fccd1ae-abb4-42c3-980b-613bf68b1c55.mp3"
 readTime: "11 min read"
 published: true
@@ -77,7 +78,7 @@ Furthermore, integrating telematics with your [construction project management](
 
 - Schedule preventative maintenance based on actual engine hours, not just calendar dates, improving fuel efficiency and extending equipment lifespan.
 
-These insights are crucial for informed decision-making and are a cornerstone of modern [construction workflow automation](/article/construction-workflow-automation/). By leveraging these tools, you're not just reacting to high fuel prices; you're fundamentally improving the efficiency of your operations, which is a key driver for sustainable [construction business growth 2026](/article/construction-business-growth 2026/), regardless of market conditions. This operational discipline is what differentiates scaling legends from those who merely survive.
+These insights are crucial for informed decision-making and are a cornerstone of modern [construction workflow automation](/article/construction-workflow-automation/). By leveraging these tools, you're not just reacting to high fuel prices; you're fundamentally improving the efficiency of your operations, which is a key driver for sustainable [construction business growth 2026](/article/5-growth-levers-future-proofing-your-construction-business-for-2026/), regardless of market conditions. This operational discipline is what differentiates scaling legends from those who merely survive.
 
 ## Strategic Forecasting: Leveraging [Construction Estimating](/article/the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026/) Software 2026 for Future Fuel Shocks
 

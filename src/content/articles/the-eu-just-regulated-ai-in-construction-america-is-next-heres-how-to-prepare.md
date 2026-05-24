@@ -2,7 +2,8 @@
 title: "The EU Just Regulated AI in Construction. America Is Next. Here's How to Prepare."
 description: "On August 2, 2026, the EU AI Act becomes enforceable -- and it covers construction. If you use AI for safety monitoring, worker tracking, scheduling, or automated decisions on any project touching European supply chains, you'll face compliance obligations. More importantly, US regulation is coming next. This episode breaks down what the EU AI Act means for contractors and how to get ahead of it."
 date: "2026-03-09"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-eu-just-regulated-ai-in-construction-america-is-next-her-1773078671.png"
+image: "/img/articles/the-eu-just-regulated-ai-in-construction-america-is-next-heres-how-to-prepare-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-eu-just-regulated-ai-in-construction-america-is-next-her-1773078671.png"
 audioUrl: "https://content.rss.com/episodes/332597/2613519/scalinglegends/2026_03_09_19_39_16_14b80e06-1943-428b-91ae-e018b9bb1e67.mp3"
 readTime: "10 min read"
 published: true
@@ -65,7 +66,7 @@ Consider the practical implications:
 
 - **Risk Assessment:** Every AI application on your job site needs to be assessed for its potential impact on safety, privacy, and fairness. A drone using computer vision for site progress monitoring might be low-risk, but one monitoring individual worker movements for productivity could be high-risk.
 
-This proactive stance on [construction workflow automation](/article/construction workflow automation/) and AI integration positions your business as forward-thinking and compliant, a key differentiator in a competitive market.
+This proactive stance on [construction workflow automation](/article/construction-workflow-automation-2026-what-contractors-n/) and AI integration positions your business as forward-thinking and compliant, a key differentiator in a competitive market.
 
 ## AI Safety [Construction 2026](/article/building-roads-and-breaking-barriers-ebony-jennings/): Preparing for the New Normal
 

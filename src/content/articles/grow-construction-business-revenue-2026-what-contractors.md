@@ -2,7 +2,8 @@
 title: "Grow Construction Business Revenue 2026: What Contractors Need to Know"
 description: "Deep dive into grow construction business revenue and what it means for construction businesses in 2026."
 date: "2026-05-20"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/grow-construction-business-revenue-2026-what-contractors-1779268287.png"
+image: "/img/articles/grow-construction-business-revenue-2026-what-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/grow-construction-business-revenue-2026-what-contractors-1779268287.png"
 audioUrl: "https://content.rss.com/episodes/332597/2751631/scalinglegends/2026_04_21_03_11_17_7863a623-da90-4249-9d08-377ca560ceb2.mp3"
 readTime: "4 min read"
 published: true

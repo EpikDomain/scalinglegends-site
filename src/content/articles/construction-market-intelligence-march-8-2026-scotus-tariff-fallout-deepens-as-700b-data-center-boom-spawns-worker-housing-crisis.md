@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: March 8, 2026 - SCOTUS Tariff Fallout Deepens as $700B Data Center Boom Spawns Worker Housing Crisis"
 description: "Daily market intelligence covering the Supreme Court tariff ruling aftermath and Treasury's warning that rates will return to pre-ruling levels by August, CONEXPO 2026 final wrap with 140,000 attendees, Bloomberg's breaking report on man-camp housing fueled by the $700B data center boom, the construction M&A consolidation wave, equipment rental market hitting $50B, Canada-Alberta $116B permitting deal, European construction recovery signals, Australia's parallel workforce crisis, and housing starts data."
 date: "2026-03-08"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-8-2026---scotus-tarif-1772982110.png"
+image: "/img/articles/construction-market-intelligence-march-8-2026-scotus-tariff-fallout-deepens-as-700b-data-center-boom-spawns-worker-housing-crisis-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-8-2026---scotus-tarif-1772982110.png"
 audioUrl: "https://content.rss.com/episodes/332597/2610155/scalinglegends/2026_03_08_16_24_39_80d54ada-7378-422e-9cad-6c40ffa612a9.mp3"
 readTime: "11 min read"
 published: true
@@ -61,7 +62,7 @@ This specialized sector demands precision and efficiency. Implementing advanced 
 
 ## [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/): Innovation, Attendance & Equipment Rental Shifts
 
-[CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) concluded as North America's largest construction show, drawing an impressive 140,000+ attendees from 128 countries. The sheer scale of participation underscores the industry's resilience and appetite for innovation, despite ongoing economic headwinds. The event served as a critical barometer for [scaling construction business](/article/construction trends 2026, showcasing the cutting edge of equipment and technology that will define the coming years.
+[CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) concluded as North America's largest construction show, drawing an impressive 140,000+ attendees from 128 countries. The sheer scale of participation underscores the industry's resilience and appetite for innovation, despite ongoing economic headwinds. The event served as a critical barometer for [scaling construction business](/article/scaling-construction-company-2026-what-contractors-need/) and construction trends 2026, showcasing the cutting edge of equipment and technology that will define the coming years.
 
 The innovation awards highlighted two key areas:
 

@@ -2,7 +2,8 @@
 title: "Blue Collar Millionaire: The Wealth-Building Playbook for Construction Owners Who Started with Nothing"
 description: "You do not need an MBA or a trust fund to build generational wealth in construction. This episode breaks down the mindset, financial habits, and business structures that turn blue-collar operators into millionaires. From visualization and goal setting to creating a company culture that retains top talent, this is the blueprint for contractors who want to build real wealth."
 date: "2026-03-15"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/blue-collar-millionaire-the-wealth-building-playbook-for-con-1773618078.png"
+image: "/img/articles/blue-collar-millionaire-the-wealth-building-playbook-for-construction-owners-who-started-with-nothing-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/blue-collar-millionaire-the-wealth-building-playbook-for-con-1773618078.png"
 audioUrl: "https://content.rss.com/episodes/332597/2630893/scalinglegends/2026_03_15_23_31_26_29b0a81e-96dd-4c9a-b058-34c447b81292.mp3"
 readTime: "7 min read"
 published: true

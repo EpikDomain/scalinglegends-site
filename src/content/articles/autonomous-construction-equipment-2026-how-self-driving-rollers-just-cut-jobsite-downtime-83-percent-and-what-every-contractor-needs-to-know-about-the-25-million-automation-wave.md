@@ -2,7 +2,8 @@
 title: "Autonomous Construction Equipment 2026: How Self-Driving Rollers Just Cut Jobsite Downtime 83 Percent and What Every Contractor Needs to Know About the $25 Million Automation Wave"
 description: "Two startups just raised $25 million to automate the construction equipment your crews struggle to staff. Crewline AI's autonomous rollers cut a real Austin airport project's downtime from 6 hours per day to under 1 hour. Xpanner's software-defined machinery is already deployed with 19 of the top 20 US solar EPC firms and is profitably growing at 10x year over year. This is not future technology — it is available today."
 date: "2026-05-19"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/autonomous-construction-equipment-2026-how-self-driving-roll-1779179586.png"
+image: "/img/articles/autonomous-construction-equipment-2026-how-self-driving-rollers-just-cut-jobsite-downtime-83-percent-and-what-every-contractor-needs-to-know-about-the-25-million-automation-wave-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/autonomous-construction-equipment-2026-how-self-driving-roll-1779179586.png"
 audioUrl: "https://content.rss.com/episodes/332597/2839775/scalinglegends/2026_05_19_14_04_31_83e4381d-de91-482f-bfd0-7fb308ce8f4a.mp3"
 readTime: "24 min read"
 published: true

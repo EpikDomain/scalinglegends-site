@@ -2,7 +2,8 @@
 title: "The $1M Communication Gap: 5 Strategies to Unify Your Construction Team"
 description: "Is internal misalignment costing your construction business hundreds of thousands annually? Many contractors struggle with fractured communication between sales, operations, and leadership. Discover actionable strategies to bridge these costly gaps, improve project efficiency by up to 15%, and unlock significant growth opportunities for your $1M-$10M revenue company."
 date: "2026-04-29"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-1m-communication-gap-5-strategies-to-unify-your-construc-1777495803.png"
+image: "/img/articles/the-1m-communication-gap-5-strategies-to-unify-your-construction-team-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-1m-communication-gap-5-strategies-to-unify-your-construc-1777495803.png"
 readTime: "22 min read"
 published: true
 season: 2

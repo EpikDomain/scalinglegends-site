@@ -2,7 +2,8 @@
 title: "Drone Inspections Save $47K Per Project in 2026"
 description: "Drone construction inspection is no longer a luxury—it's an economic decision. In this episode, we break down the real ROI of aerial site surveys: equipment costs, time savings, safety wins, and the exact payback timeline. Learn how contractors are cutting inspection costs by thousands per project and scaling faster with drone technology backed by Smart Business Automator's latest market intelligence."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/drone-inspections-save-47k-per-project-in-2026-1777299867.png"
+image: "/img/articles/drone-inspections-save-47k-per-project-in-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/drone-inspections-save-47k-per-project-in-2026-1777299867.png"
 readTime: "21 min read"
 published: true
 season: 2

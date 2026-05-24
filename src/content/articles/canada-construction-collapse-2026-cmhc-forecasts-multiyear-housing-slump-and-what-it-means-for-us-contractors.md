@@ -2,7 +2,8 @@
 title: "Canada Construction Collapse 2026: CMHC Forecasts Multiyear Housing Slump and What It Means for US Contractors"
 description: "Deep dive into Canada's housing construction collapse. CMHC forecasts starts falling through 2028. Ontario near 2-decade lows. Toronto and Vancouver condo markets collapsed. Bird Construction has record $11B backlog but flat revenue. Why this matters as a leading indicator for US contractors and what to do about it."
 date: "2026-03-13"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/canada-construction-collapse-2026-cmhc-forecasts-multiyear-h-1773393989.png"
+image: "/img/articles/canada-construction-collapse-2026-cmhc-forecasts-multiyear-housing-slump-and-what-it-means-for-us-contractors-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/canada-construction-collapse-2026-cmhc-forecasts-multiyear-h-1773393989.png"
 audioUrl: "https://content.rss.com/episodes/332597/2625118/scalinglegends/2026_03_13_09_30_50_033be953-c54e-4500-bcea-8a0faa36a466.mp3"
 readTime: "9 min read"
 published: true

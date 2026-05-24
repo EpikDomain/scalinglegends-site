@@ -2,7 +2,8 @@
 title: "The $580 Billion Transportation Reauthorization 2026: What Contractors Need to Know Before the IIJA Window Closes and the Next 5 Years of Highway Money Is Decided"
 description: "The House Transportation Committee just advanced a bipartisan $580B surface transportation bill to replace the IIJA before it expires. This deep-dive explains what is in the bill, why it matters now before it becomes law, how EV registration fees work as the new Highway Trust Fund mechanism, and what contractors should do this quarter to position for the next 5-year funding cycle. Includes AGC advocacy position and the procurement timeline every road, bridge, and transit contractor needs to know."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-580-billion-transportation-reauthorization-2026-what-con-1779370253.png"
+image: "/img/articles/the-580-billion-transportation-reauthorization-2026-what-contractors-need-to-know-before-the-iija-window-closes-and-the-next-5-years-of-highway-money-is-decided-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-580-billion-transportation-reauthorization-2026-what-con-1779370253.png"
 readTime: "7 min read"
 published: true
 season: 2

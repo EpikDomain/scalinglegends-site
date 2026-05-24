@@ -2,7 +2,8 @@
 title: "Scaling Construction Company 2026: What Contractors Need to Know"
 description: "Deep dive into scaling construction company and what it means for construction businesses in 2026."
 date: "2026-04-28"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/scaling-construction-company-2026-what-contractors-need-1777368929.png"
+image: "/img/articles/scaling-construction-company-2026-what-contractors-need-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/scaling-construction-company-2026-what-contractors-need-1777368929.png"
 readTime: "23 min read"
 published: true
 season: 2

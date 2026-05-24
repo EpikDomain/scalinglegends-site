@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: April 29 - Kiewit Dropped From Baltimore Key Bridge as Gateway Awards $1.29B Hudson Tunnel Contract and FlatironDragados Breaks Ground on $4.6B P3 Highway"
 description: "April 29 construction intelligence brief. Kiewit dropped from Baltimore Key Bridge rebuild. Gateway awards $1.29 billion final Hudson River Tunnel boring contract. FlatironDragados and Acciona break ground on $4.6 billion P3 highway. Sureties step in as Southland Holdings reports big loss. Minnesota labor agency forces $1.28M wage recovery from construction firms (largest in agency history). Worker misclassification report flags competitive imbalance. New York Times: firm building Trump White House ballroom got secret no-bid contract nearby. Australia modular construction projected $17.1B by 2034. UK productivity faces 'paralysis' from Middle East conflict. North Sea skillset eyed as UK labor solution. Liebherr launches 195 HC-LH urban crane. Market data from Smart Business Automator."
 date: "2026-04-29"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-29---kiewit-dropped-f-1777465629.png"
+image: "/img/articles/construction-market-intelligence-april-29-kiewit-dropped-from-baltimore-key-bridge-as-gateway-awards-129b-hudson-tunnel-contract-and-flatirondragados-breaks-ground-on-46b-p3-highway-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-april-29---kiewit-dropped-f-1777465629.png"
 audioUrl: "https://content.rss.com/episodes/332597/2779423/scalinglegends/2026_04_29_20_03_41_3f06ed41-683c-4651-b919-f0f9e73e2da4.mp3"
 readTime: "26 min read"
 published: true

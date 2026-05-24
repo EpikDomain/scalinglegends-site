@@ -2,7 +2,8 @@
 title: "Construction Market Intelligence: March 29 - Bonus Depreciation Permanently Restored to 100% as Modular Construction Market Hits $292 Billion and Apprenticeship Enrollment Surges 28%"
 description: "Weekend intelligence covering the permanent restoration of 100% bonus depreciation for construction equipment under OBBBA, the modular construction market reaching $292 billion heading to $413 billion, apprenticeship enrollment surging 28% to 480,399 construction apprentices, the 82% cash flow failure rate, CTA funding restoration update, and weekly trend recap."
 date: "2026-03-29"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-29---bonus-depreciati-1774774678.png"
+image: "/img/articles/construction-market-intelligence-march-29-bonus-depreciation-permanently-restored-to-100-as-modular-construction-market-hits-292-billion-and-apprenticeship-enrollment-surges-28-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/construction-market-intelligence-march-29---bonus-depreciati-1774774678.png"
 audioUrl: "https://content.rss.com/episodes/332597/2671117/scalinglegends/2026_03_29_08_47_16_1bfff239-08de-4d05-a6ab-f2deeeaadfb3.mp3"
 readTime: "21 min read"
 published: true

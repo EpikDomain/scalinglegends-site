@@ -2,7 +2,8 @@
 title: "Construction: Women Leaders & The Future by 2026"
 description: "Explore the impact of women like Ebony Jennings transforming construction. Discover trends shaping the industry and leadership landscape through 2026."
 date: "2026-03-04"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/building-roads-and-breaking-barriers-ebony-jennings-construc-1772747773.png"
+image: "/img/articles/building-roads-and-breaking-barriers-ebony-jennings-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/building-roads-and-breaking-barriers-ebony-jennings-construc-1772747773.png"
 readTime: "15 min read"
 published: true
 season: 2

@@ -2,7 +2,8 @@
 title: "Oil Hits $95 in 2026: Fuel Costs Eroding Contractor Margins"
 description: "Oil prices are reshaping construction economics in 2026, with fuel costs rippling across equipment, materials, and transportation. This deep-dive explores how the jump to $95 per barrel is crushing contractor margins and reveals the real numbers behind the squeeze. We share actionable strategies contractors are using—from fuel surcharges to operational automation—to protect their bottom line."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/oil-hits-95-in-2026-fuel-costs-eroding-contractor-margins-1777298444.png"
+image: "/img/articles/oil-hits-95-in-2026-fuel-costs-eroding-contractor-margins-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/oil-hits-95-in-2026-fuel-costs-eroding-contractor-margins-1777298444.png"
 audioUrl: "https://content.rss.com/episodes/332597/2682988/scalinglegends/2026_04_02_13_23_36_279e5a5f-50c3-40ed-b990-085df328c30b.mp3"
 readTime: "26 min read"
 published: true

@@ -2,7 +2,8 @@
 title: "The 5-Pillar Blueprint to 2X Your Construction Profitability by 2026"
 description: "Many contractors chase growth without a solid foundation, leading to chaos and burnout. In this episode, the host and the co-host reveal the 5 essential pillars for building a robust contractor operating system, designed to transform your business from reactive to strategically profitable. Learn how to implement clear vision, roles, processes, and metrics to sustainably scale your construction company by 2026."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-pillar-blueprint-to-2x-your-construction-profitability-1777285886.png"
+image: "/img/articles/the-5-pillar-blueprint-to-2x-your-construction-profitability-by-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-pillar-blueprint-to-2x-your-construction-profitability-1777285886.png"
 audioUrl: "https://content.rss.com/episodes/332597/2751672/scalinglegends/2026_04_21_03_32_38_9b0b1cfb-9d1a-4cb9-884d-7777a6d3fd59.mp3"
 readTime: "23 min read"
 published: true

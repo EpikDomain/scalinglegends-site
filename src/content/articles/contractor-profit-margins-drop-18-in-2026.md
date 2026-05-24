@@ -2,7 +2,8 @@
 title: "Contractor Profit Margins Drop 18% in 2026"
 description: "Contractor profit margins are under intense pressure in 2026, with the industry experiencing an 18% year-over-year decline driven by rising labor costs and material inflation. This deep-dive episode explores the real numbers behind margin compression, identifies where money is leaking from your projects, and shares proven strategies contractors are using to protect their bottom lines. Whether you're feeling the squeeze or want to stay ahead of the curve, you'll walk away with actionable intelligence to defend your margins in today's challenging market."
 date: "2026-04-27"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/contractor-profit-margins-drop-18-in-2026-1777300098.png"
+image: "/img/articles/contractor-profit-margins-drop-18-in-2026-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/contractor-profit-margins-drop-18-in-2026-1777300098.png"
 readTime: "23 min read"
 published: true
 season: 2

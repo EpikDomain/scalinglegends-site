@@ -2,7 +2,8 @@
 title: "The 5-Step Blueprint: Unleashing Your Construction Team's Competitive Edge for 7-Figure Growth"
 description: "Is your construction business hitting a growth plateau? In tightening markets where margins are shrinking, leaders often struggle with team complacency, missing opportunities for significant expansion. This episode reveals a 5-step blueprint to ignite your team's competitive energy, boost project win rates by up to 20%, and secure your path to 7-figure revenue in today's challenging landscape."
 date: "2026-05-21"
-image: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-step-blueprint-unleashing-your-construction-teams-comp-1779341627.png"
+image: "/img/articles/the-5-step-blueprint-unleashing-your-construction-teams-competitive-edge-for-7-figure-growth-hero.webp"
+imageOriginal: "https://yzlcegvoqenqjxbdmxns.supabase.co/storage/v1/object/public/article-images/the-5-step-blueprint-unleashing-your-construction-teams-comp-1779341627.png"
 audioUrl: "https://content.rss.com/episodes/332597/2658408/scalinglegends/2026_03_24_14_23_15_6205a3de-273f-4124-83ca-c9b82190d786.mp3"
 readTime: "24 min read"
 published: true
