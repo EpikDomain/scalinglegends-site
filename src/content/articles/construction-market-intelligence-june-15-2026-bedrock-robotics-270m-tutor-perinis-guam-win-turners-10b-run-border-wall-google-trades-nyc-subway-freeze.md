@@ -8,6 +8,7 @@ readTime: "21 min read"
 published: true
 season: 2
 pillar: "market-intelligence"
+contentType: "news"
 sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"

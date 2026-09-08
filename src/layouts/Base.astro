@@ -383,6 +383,13 @@ const structuredDataGraph = {
           ]}
         >Articles</a>
         <a
+          href="/news"
+          class:list={[
+            "px-2.5 sm:px-4 py-2 rounded-lg font-semibold text-xs sm:text-sm transition-all duration-300 no-underline",
+            currentPath === '/news' ? "bg-[#CCFF00]/10 text-[#CCFF00]" : "text-[#888888] hover:text-[#EAEAEA] hover:bg-[#1A1A1A]"
+          ]}
+        >News</a>
+        <a
           href="/podcast"
           class:list={[
             "px-2.5 sm:px-4 py-2 rounded-lg font-semibold text-xs sm:text-sm transition-all duration-300 no-underline",
@@ -455,6 +462,7 @@ const structuredDataGraph = {
           </h4>
           <ul class="space-y-3 list-none">
             <li><a href="/" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Articles</a></li>
+            <li><a href="/news" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">News</a></li>
             <li><a href="/podcast" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Podcast Episodes</a></li>
             <li><a href="/" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Market Reports</a></li>
             <li><a href="/" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Case Studies</a></li>

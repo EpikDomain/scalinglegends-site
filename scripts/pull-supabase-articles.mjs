@@ -75,6 +75,16 @@ function assignPillar(slug, title) {
   return 'business-growth'; // Default
 }
 
+// The upstream articles table does not yet have a content-type field. Keep the
+// public News lane accurate by classifying only its deliberately named daily
+// reporting formats; all other work remains evergreen by default.
+function assignContentType(slug, title) {
+  const s = `${slug} ${title}`.toLowerCase();
+  return /(?:construction )?(?:market|daily) intelligence|daily construction news|construction news roundup/.test(s)
+    ? 'news'
+    : 'evergreen';
+}
+
 // Convert HTML to markdown (simplified but handles our content)
 function htmlToMarkdown(html) {
   if (!html) return '';
@@ -302,6 +312,8 @@ async function main() {
     // Auto-assign pillar based on slug/title keywords
     const pillar = assignPillar(a.slug, a.title);
     if (pillar) fm.push(`pillar: "${pillar}"`);
+
+    fm.push(`contentType: "${assignContentType(a.slug, a.title)}"`);
 
     fm.push('sponsors:');
     fm.push('  - name: "Smart Business Automator"');

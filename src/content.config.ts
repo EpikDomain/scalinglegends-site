@@ -28,6 +28,9 @@ const articles = defineCollection({
       description: z.string().optional(),
     })).optional(),
     transcript: z.string().optional(),
+    // News is intentionally explicit so time-sensitive reporting never gets
+    // mixed into the evergreen article archive.
+    contentType: z.enum(['news', 'evergreen']).default('evergreen'),
     pillar: z.enum(['market-intelligence', 'business-growth', 'technology', 'workforce', 'policy']).optional(),
     howTo: z.array(z.object({
       name: z.string(),
