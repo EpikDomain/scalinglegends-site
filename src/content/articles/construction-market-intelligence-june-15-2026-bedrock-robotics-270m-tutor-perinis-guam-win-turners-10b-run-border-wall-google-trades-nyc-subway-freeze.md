@@ -1,5 +1,5 @@
 ---
-title: "Construction Market Intelligence: June 15, 2026 — Bedrock Robotics $270M, Tutor Perini's Guam Win, Turner's $10B Run, Border Wall, Google Trades, NYC Subway Freeze"
+title: "Construction Market Intelligence: June 15, 2026: Bedrock Robotics $270M, Tutor Perini's Guam Win, Turner's $10B Run, Border Wall, Google Trades, NYC Subway Freeze"
 description: "Daily construction market intelligence for June 15, 2026. Bedrock Robotics raises $270M in what Construction Dive calls the red-hot AI sector, while Gravis Robotics ($23M) and Crewline AI ($7.1M) signal a physical automation wave. Tutor Perini secures a $652M grid upgrade at Naval Base Guam; Turner Construction discloses 10 separate billion-dollar contracts in 2026. Granite Construction wins a U.S"
 date: "2026-06-16"
 image: "/scaling-legends-cover.jpg"
