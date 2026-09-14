@@ -80,6 +80,14 @@ function assignPillar(slug, title) {
 // reporting formats; all other work remains evergreen by default.
 function assignContentType(slug, title) {
   const s = `${slug} ${title}`.toLowerCase();
+  // Curated current-market companion pieces are News even when their titles
+  // are not in the daily-intelligence naming convention. Keep this explicit:
+  // an evergreen article must never enter the time-sensitive feed merely
+  // because it shares a project or industry keyword.
+  const currentNewsSlugs = new Set([
+    'the-13-billion-pork-plant-how-smithfields-sioux-falls-megaproject-maps-the-industrial-food-construction-opportunity',
+  ]);
+  if (currentNewsSlugs.has(slug)) return 'news';
   return /(?:construction )?(?:market|daily) intelligence|daily construction news|construction news roundup/.test(s)
     ? 'news'
     : 'evergreen';
@@ -323,7 +331,14 @@ async function main() {
     fm.push('---');
 
     const fileContent = fm.join('\n') + '\n\n' + content + '\n';
-    const filePath = join(OUT_DIR, `${a.slug}.md`);
+    const fileName = `${a.slug}.md`;
+    // Linux caps a filename component at 255 bytes. Validate before writing
+    // so one malformed upstream slug cannot abort the entire content refresh.
+    if (Buffer.byteLength(fileName) > 255) {
+      console.warn(`  ⚠️  SKIPPED (filename ${Buffer.byteLength(fileName)}B > 255B limit): ${a.slug}`);
+      continue;
+    }
+    const filePath = join(OUT_DIR, fileName);
     writeFileSync(filePath, fileContent);
     console.log(`  ${audioUrl ? '🎧' : '📝'} ${a.slug}`);
   }
