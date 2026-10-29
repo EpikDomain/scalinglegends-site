@@ -1,0 +1,263 @@
+[
+  {
+    "articleId": "submittal-procurement-release-checklist",
+    "sourcePage": "https://smartbusinessautomator.com/guides/how-to-manage-submittals-on-a-construction-project/",
+    "reviewedAt": "2026-10-29",
+    "faqs": [
+      {
+        "q": "What is a submittal register?",
+        "a": "A submittal register lists the items the specifications require, with an identifier, responsible party and planned dates. Build it from the contract documents before packages start arriving. Add submission, review and revision status as work progresses so missing items remain visible.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      },
+      {
+        "q": "How to create a submittal?",
+        "a": "Identify the applicable specification section, assemble the required drawings, product information or samples, and check the package against the project requirements. Use a cover sheet identifying the project, item and revision. Clearly flag proposed deviations, then send the coordinated package through the agreed review route.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      },
+      {
+        "q": "What are some examples of submittals?",
+        "a": "Examples include equipment product data, coordinated fabrication drawings, finish samples, mock-ups, test reports and operation manuals. Each serves a different purpose: a sample can establish an accepted finish, while a shop drawing can show dimensions and connections. The specifications determine what the project requires.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      },
+      {
+        "q": "What are the three main reasons submittals are rejected?",
+        "a": "There is no universal ranking of three reasons. Three useful checks are whether the package is complete, whether the proposed product or detail matches the specified requirement, and whether dimensions and interfaces are coordinated. Read the actual review comments before deciding what needs correction.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      },
+      {
+        "q": "What does a submittal schedule look like?",
+        "a": "Use one row per required package, showing its specification section, supplier, review duration, planned submission date, required approval date and linked installation activity. Include time for correction and resubmission. Keep the current forecast beside the original target so changes in procurement timing are visible.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      },
+      {
+        "q": "What is a submittal vs RFI?",
+        "a": "An RFI asks for missing information or clarification; a submittal presents the product, material or detail proposed for the work. A submittal review can reveal a question that needs an RFI. Track the connection, while following the contract's separate process for changes in price, time or scope.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      },
+      {
+        "q": "What is a technical submittal?",
+        "a": "A technical submittal presents information needed to assess a proposed product, system or detail against project requirements. It might contain performance data, drawings, test information or calculations requested by the specifications. Its required contents and reviewer depend on the item and the contract.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      },
+      {
+        "q": "Who approves submittals?",
+        "a": "Follow the review responsibilities in the contract. Contractors generally coordinate and review their packages before sending them to the designated reviewer. On federal work using FAR 52.236-21, the Contracting Officer indicates shop-drawing approval or disapproval; that approval does not remove the contractor's stated responsibilities.",
+        "paa": {
+          "query": "submittal register",
+          "observedAt": "2026-10-29T01:40:59.982Z",
+          "market": "US/en",
+          "evidenceId": "33d0b9a551e180d07c04"
+        }
+      }
+    ]
+  },
+  {
+    "articleId": "rfi-response-field-handoff-checklist",
+    "sourcePage": "https://smartbusinessautomator.com/guides/how-to-manage-rfis-without-slowing-the-job/",
+    "reviewedAt": "2026-10-29",
+    "faqs": [
+      {
+        "q": "How long does an RFI process take?",
+        "a": "There is no single duration for every RFI. The time needed depends on the question, missing inputs, coordination and the project's agreed response procedure. Work backward from the affected activity, record a needed-by date, and flag the schedule consequence before the unanswered question becomes a field stoppage.",
+        "paa": {
+          "query": "rfi process construction",
+          "observedAt": "2026-10-29T01:30:16.918Z",
+          "market": "US/en",
+          "evidenceId": "52e463597b621468e93f"
+        }
+      },
+      {
+        "q": "How to manage RFIs?",
+        "a": "Use a numbered log with the question, document references, responsible responder, submission date, needed-by date and status. Keep one accountable owner for follow-up. After receiving a response, check that it resolves the question and distribute the current information to the affected people before closing the item.",
+        "paa": {
+          "query": "how to manage rfis without slowing the job",
+          "observedAt": "2026-10-29T01:36:44.832Z",
+          "market": "US/en",
+          "evidenceId": "de9a83d448bf6b2f5554"
+        }
+      },
+      {
+        "q": "Are RFIs legally binding?",
+        "a": "An RFI's effect depends on the contract and the communication. Do not assume a response alone authorizes extra work or changes the contract price or duration. AIA's G716 summary expressly separates requesting or receiving information from authorization for work that increases project cost or time.",
+        "paa": {
+          "query": "how to manage rfis without slowing the job",
+          "observedAt": "2026-10-29T01:36:44.832Z",
+          "market": "US/en",
+          "evidenceId": "de9a83d448bf6b2f5554"
+        }
+      },
+      {
+        "q": "Can you give me an example of an RFI in construction?",
+        "a": "Illustration: an architectural drawing shows a wall opening in one location, while a coordinated equipment layout requires clearance in the same space. An RFI identifies both document revisions, marks the conflict, asks which detail to use and states when the answer is needed for installation.",
+        "paa": {
+          "query": "rfi process construction",
+          "observedAt": "2026-10-29T01:30:16.918Z",
+          "market": "US/en",
+          "evidenceId": "52e463597b621468e93f"
+        }
+      },
+      {
+        "q": "How do I reply to an RFI?",
+        "a": "Answer the specific question, identify the controlling drawing or detail and state any conditions or additional information needed. Attach the relevant marked-up document when useful. If the response has potential cost, schedule or scope consequences, route those consequences through the project's change process instead of silently treating them as resolved.",
+        "paa": {
+          "query": "rfi process construction",
+          "observedAt": "2026-10-29T01:30:16.918Z",
+          "market": "US/en",
+          "evidenceId": "52e463597b621468e93f"
+        }
+      },
+      {
+        "q": "How do I submit an RFI?",
+        "a": "Check the available drawings, specifications and prior responses first. If the issue remains unresolved, submit a numbered question through the agreed project channel, with precise document references, location, attachments and a needed-by date. Describe the decision required clearly enough that the recipient can respond without reconstructing the problem.",
+        "paa": {
+          "query": "rfi process construction",
+          "observedAt": "2026-10-29T01:30:16.918Z",
+          "market": "US/en",
+          "evidenceId": "52e463597b621468e93f"
+        }
+      },
+      {
+        "q": "How much does an RFI cost?",
+        "a": "There is no universal cost per RFI. To understand the administrative effort on your projects, track preparation, review, coordination and follow-up time separately from any resulting change or delay. An internal estimate can multiply recorded hours by the relevant labor cost; it is not an industry price or an automatic contractual charge.",
+        "paa": {
+          "query": "how to manage rfis without slowing the job",
+          "observedAt": "2026-10-29T01:36:44.832Z",
+          "market": "US/en",
+          "evidenceId": "de9a83d448bf6b2f5554"
+        }
+      },
+      {
+        "q": "When would you submit an RFI?",
+        "a": "Submit an RFI when necessary information remains missing, ambiguous or conflicting after a reasonable document review. Raise it early enough to support the affected decision. Use the appropriate alternative process for product approval, a proposed substitution or a price change rather than assuming one RFI form covers every purpose.",
+        "paa": {
+          "query": "rfi process construction",
+          "observedAt": "2026-10-29T01:30:16.918Z",
+          "market": "US/en",
+          "evidenceId": "52e463597b621468e93f"
+        }
+      }
+    ]
+  },
+  {
+    "articleId": "construction-closeout-readiness-review",
+    "sourcePage": "https://smartbusinessautomator.com/guides/how-to-close-out-a-construction-project/",
+    "reviewedAt": "2026-10-29",
+    "faqs": [
+      {
+        "q": "For what reasons is it important to close a project once it is complete?",
+        "a": "Formal closeout records what was delivered, what was accepted and what remains unresolved. It gives the owner usable operating information and gives the contractor a clear record of outstanding documents, commercial items and responsibilities. Physical completion alone can leave these obligations unclear.",
+        "paa": {
+          "query": "how to close out a construction project",
+          "observedAt": "2026-10-29T01:24:54.219Z",
+          "market": "US/en",
+          "evidenceId": "1e3633bb6c1c398280c4"
+        }
+      },
+      {
+        "q": "What is a project closeout checklist?",
+        "a": "A closeout checklist is a project-specific register of required deliverables and acceptance evidence. It can include punch-list completion, record drawings, operating manuals, training, warranties, spare materials and final commercial documents. Give each item an owner, due date and acceptance status, using the actual contract requirements.",
+        "paa": {
+          "query": "construction project closeout process",
+          "observedAt": "2026-10-29T01:29:26.172Z",
+          "market": "US/en",
+          "evidenceId": "73e4eec4b968ba327000"
+        }
+      },
+      {
+        "q": "What is the first step of the closeout process?",
+        "a": "Start by identifying the project's closeout obligations and who will accept each deliverable. Review the contract and specifications before building the register. This avoids discovering near handover that an important record, test, training session or supplier document was never assigned to anyone.",
+        "paa": {
+          "query": "how to close out a construction project",
+          "observedAt": "2026-10-29T01:24:54.219Z",
+          "market": "US/en",
+          "evidenceId": "1e3633bb6c1c398280c4"
+        }
+      },
+      {
+        "q": "What is the most important step for a project to close?",
+        "a": "There is no single step that substitutes for the others. A useful final control is an evidence-based readiness review: confirm required work and documents are accepted, identify remaining exceptions and assign responsibility for them. Use the project's acceptance requirements rather than a generic declaration that everything is finished.",
+        "paa": {
+          "query": "how to close out a construction project",
+          "observedAt": "2026-10-29T01:24:54.219Z",
+          "market": "US/en",
+          "evidenceId": "1e3633bb6c1c398280c4"
+        }
+      },
+      {
+        "q": "Which activity must happen before a project can officially close?",
+        "a": "The required activities depend on the contract and applicable approval process. Check the agreed acceptance conditions, required inspections or testing, outstanding work and handover documents. Do not assume an occupancy approval, a final invoice or a completed punch list alone establishes every form of project completion.",
+        "paa": {
+          "query": "how to close out a construction project",
+          "observedAt": "2026-10-29T01:24:54.219Z",
+          "market": "US/en",
+          "evidenceId": "1e3633bb6c1c398280c4"
+        }
+      },
+      {
+        "q": "Who is responsible for project closeout?",
+        "a": "The contract assigns formal responsibilities. In day-to-day coordination, the project manager can maintain the closeout register while each trade supplies its required work and records, and the designated owner or reviewer confirms acceptance. Assign one coordinator without treating that person as the approver of every technical or contractual item.",
+        "paa": {
+          "query": "construction project closeout process",
+          "observedAt": "2026-10-29T01:29:26.172Z",
+          "market": "US/en",
+          "evidenceId": "73e4eec4b968ba327000"
+        }
+      },
+      {
+        "q": "What three things are usually included in a closeout report?",
+        "a": "Three useful sections are a delivery and acceptance summary, an outstanding-items register, and a handover record listing documents and training provided. Add the commercial reconciliation and lessons learned where relevant. This is a practical reporting structure, not a universal requirement that every project must use exactly three sections.",
+        "paa": {
+          "query": "how to close out a construction project",
+          "observedAt": "2026-10-29T01:24:54.219Z",
+          "market": "US/en",
+          "evidenceId": "1e3633bb6c1c398280c4"
+        }
+      },
+      {
+        "q": "What is the most common circumstance for project closure?",
+        "a": "A routine reason to close a project is that the agreed work and handover obligations have been completed and accepted under the project's requirements. Projects can also end through termination or cancellation, which require a different closeout review. Do not treat those situations as identical to successful completion.",
+        "paa": {
+          "query": "how to close out a construction project",
+          "observedAt": "2026-10-29T01:24:54.219Z",
+          "market": "US/en",
+          "evidenceId": "1e3633bb6c1c398280c4"
+        }
+      }
+    ]
+  }
+]
