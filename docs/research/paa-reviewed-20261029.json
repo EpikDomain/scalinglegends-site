@@ -1,0 +1,70 @@
+[
+  {
+    "page": "/article/monthly-wip-review-meeting-construction/",
+    "query": "construction work in progress report",
+    "fetchedAt": "2026-10-29T01:20:49.469Z",
+    "market": "US/en",
+    "taskId": "10290120-2822-0139-0000-d6591b660588",
+    "questions": [
+      "What is work in progress in construction accounting?",
+      "What is the standard format for a construction progress report?",
+      "Is WIP a liability or asset?",
+      "How to build a WIP report?",
+      "What does a WIP report look like?",
+      "How do I calculate WIP in construction?",
+      "Can you give me an example of work in progress?",
+      "What is the formula to calculate WIP?"
+    ]
+  },
+  {
+    "page": "/article/construction-cash-flow-management-guide-2026/",
+    "query": "construction cash flow",
+    "fetchedAt": "2026-10-29T01:20:53.127Z",
+    "market": "US/en",
+    "taskId": "10290120-2822-0139-0000-3d9ed530fc94",
+    "questions": [
+      "What is the typical cash flow of a construction project?",
+      "What is petty cash in construction?",
+      "How to construct a cash flow?",
+      "How to improve cash flow quickly?",
+      "How to overcome cashflow problems?",
+      "What is the best way to manage cash flow?",
+      "What can cause cash flow problems?",
+      "What is a healthy cash flow for a small business?"
+    ]
+  },
+  {
+    "page": "/article/managing-scope-creep-and-change-orders-without-destroying-client-relationships/",
+    "query": "construction change order",
+    "fetchedAt": "2026-10-29T01:20:47.331Z",
+    "market": "US/en",
+    "taskId": "10290120-2822-0139-0000-a101780b230f",
+    "questions": [
+      "What is a change order on a contract?",
+      "What's the difference between an RFI and a change order?",
+      "Do contractors charge for change orders?",
+      "Can you give me an example of a change order in construction?",
+      "Who prepares a change order?",
+      "How much does a change order cost?",
+      "What are three common reasons for change orders in construction projects?",
+      "When to use a change order in construction?"
+    ]
+  },
+  {
+    "page": "/article/construction-labor-burden-productive-hours-example/",
+    "query": "construction job costing",
+    "fetchedAt": "2026-10-29T01:20:49.303Z",
+    "market": "US/en",
+    "taskId": "10290120-2822-0139-0000-423bd8feac9e",
+    "questions": [
+      "What percentage should labor cost on a construction project?",
+      "What is the best job costing software for construction?",
+      "How do you calculate job costing?",
+      "How much should I charge for construction labor?",
+      "How do I calculate my labor cost?",
+      "How much does a $20 an hour employee cost an employer?",
+      "What is the formula for calculating labor cost?",
+      "How do you calculate construction costs?"
+    ]
+  }
+]

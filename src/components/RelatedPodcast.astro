@@ -1,0 +1,179 @@
+---
+import { matchPodcast } from '../lib/podcast';
+import { STATE_NAMES } from '../lib/podcast-states';
+import platformConfig from '../data/podcast-platforms.json';
+import { platformOptions } from '../lib/podcast-platforms.mjs';
+
+interface Props {
+  title: string; description?: string; keywords?: string[]; section?: string;
+  category?: string; state?: string;
+}
+const context = { ...Astro.props, state: STATE_NAMES[Astro.props.state ?? ''] ?? Astro.props.state };
+const { episode, kind } = matchPodcast(context);
+const platforms = platformOptions(episode, platformConfig);
+const stamp = (value: number) => `${Math.floor(value / 60)}:${String(Math.floor(value % 60)).padStart(2, '0')}`;
+const description = episode.summary.join('\n\n');
+const schema = {
+  '@context': 'https://schema.org', '@type': 'PodcastEpisode',
+  '@id': episode.url + '#episode', name: episode.title, url: episode.url,
+  description, datePublished: episode.published,
+  partOfSeries: { '@type': 'PodcastSeries', name: 'Scaling Legends', url: 'https://scalinglegends.com/' },
+  associatedMedia: { '@type': 'AudioObject', contentUrl: episode.audio, encodingFormat: episode.audioType },
+};
+---
+
+<section class="related-podcast shell" aria-labelledby="podcast-heading" data-podcast data-episode={episode.id} data-match={kind}>
+  <div class="podcast-card">
+    <div class="podcast-intro">
+      {episode.image && <img src={episode.image} width="96" height="96" loading="lazy" alt="" />}
+      <div>
+        <span class="eyebrow">{kind === 'related' ? 'Related listening' : 'More on running a construction business'} · Scaling Legends</span>
+        <h2 id="podcast-heading">{episode.title}</h2>
+        <p class="podcast-meta"><time datetime={episode.published}>{new Date(episode.published).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' })}</time> · <a href={episode.url}>Episode and show notes</a></p>
+      </div>
+    </div>
+    <div class="podcast-summary">
+      <h3>Episode summary</h3>
+      {episode.summary.map(p => <p>{p}</p>)}
+    </div>
+    {platforms.length > 0 && <div class="podcast-providers">
+      <label for="podcast-provider">Choose your player</label>
+      <select id="podcast-provider" data-podcast-provider>
+        <option value="native">On this page</option>
+        {platforms.map(p => <option value={p.id} data-embed={p.embed} data-href={p.href} data-scope={p.scope} data-name={p.name} data-height={p.height}>{p.name}{p.scope === 'show' ? ' — browse the show' : ''}</option>)}
+      </select>
+    </div>}
+    <div class="podcast-player" data-podcast-native>
+      <audio controls autoplay muted preload="none" aria-label={`Listen to ${episode.title}`}>
+        <source data-src={episode.audio} type={episode.audioType} />
+        <a href={episode.audio}>Listen to the episode</a>
+      </audio>
+      <div class="podcast-actions">
+        <button type="button" data-podcast-sound>Listen with sound</button>
+        <span data-podcast-status role="status" aria-live="polite">Starts muted when the player comes into view.</span>
+      </div>
+    </div>
+    <div class="podcast-external" data-podcast-external hidden>
+      <p data-podcast-provider-note class="podcast-meta"></p>
+      <div data-podcast-frame></div>
+    </div>
+    <nav class="podcast-platform-links" aria-label="Listen in a podcast app">
+      {platforms.map(p => <a href={p.href} target="_blank" rel="noopener noreferrer">{p.scope === 'episode' ? 'This episode' : 'Follow the show'} on {p.name}</a>)}
+    </nav>
+    <details class="podcast-transcript">
+      <summary>Read the full episode transcript</summary>
+      <p class="podcast-meta">Published transcript from Scaling Legends. It may contain transcription errors. <a href={episode.transcriptUrl}>View the source transcript</a>.</p>
+      <div class="podcast-transcript-text">
+        {episode.transcript.map(p => <p><button type="button" data-podcast-seek={p.start} aria-label={`Play from ${stamp(p.start)}`}>{stamp(p.start)}</button> {p.text}</p>)}
+      </div>
+    </details>
+    <p class="podcast-cta">Put what you learn into practice. <a href="https://smartbusinessautomator.com/contact?source=scaling-legends">Get a free workflow assessment</a>.</p>
+  </div>
+</section>
+<script type="application/ld+json" set:html={JSON.stringify(schema).replace(/</g, '\\u003c')} />
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-podcast]').forEach(card => {
+    const audio = card.querySelector('audio')!;
+    const source = audio.querySelector('source')!;
+    const button = card.querySelector<HTMLButtonElement>('[data-podcast-sound]')!;
+    const status = card.querySelector<HTMLElement>('[data-podcast-status]')!;
+    const selector = card.querySelector<HTMLSelectElement>('[data-podcast-provider]');
+    const native = card.querySelector<HTMLElement>('[data-podcast-native]')!;
+    const external = card.querySelector<HTMLElement>('[data-podcast-external]')!;
+    const frameHost = card.querySelector<HTMLElement>('[data-podcast-frame]')!;
+    let provider = 'native';
+    let loaded = false;
+    let userStarted = false;
+    audio.muted = true;
+    audio.defaultMuted = true;
+    const load = () => {
+      if (loaded) return;
+      loaded = true;
+      source.src = source.dataset.src!;
+      audio.load();
+    };
+    const update = () => {
+      button.textContent = audio.muted ? 'Listen with sound' : 'Mute audio';
+      status.textContent = audio.paused ? 'Paused. Press Play to listen.' : audio.muted ? 'Playing muted. Turn on sound to listen.' : 'Playing with sound.';
+    };
+    ['play', 'pause', 'volumechange'].forEach(event => audio.addEventListener(event, update));
+    audio.addEventListener('volumechange', () => { if (!audio.muted) userStarted = true; });
+    audio.addEventListener('error', () => { status.textContent = 'Audio is unavailable here. Use the episode link or read the transcript.'; });
+    const play = () => audio.play().catch(() => { status.textContent = 'Press Play or Listen with sound to start the episode.'; });
+    const showNative = () => {
+      // Removing the old frame also stops playback inside a cross-origin player.
+      frameHost.replaceChildren(); external.hidden = true; native.hidden = false;
+      provider = 'native'; if (selector) selector.value = 'native';
+    };
+    selector?.addEventListener('change', () => {
+      audio.pause(); frameHost.replaceChildren();
+      provider = selector.value;
+      if (provider === 'native') { showNative(); return; }
+      const option = selector.selectedOptions[0];
+      native.hidden = true; external.hidden = false;
+      const frame = document.createElement('iframe');
+      frame.src = option.dataset.embed!;
+      frame.title = `${option.dataset.name}: ${option.dataset.scope === 'episode' ? card.querySelector('h2')!.textContent : 'Scaling Legends show'}`;
+      frame.width = '100%'; frame.height = option.dataset.height!;
+      frame.allow = 'autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture';
+      frame.referrerPolicy = 'strict-origin-when-cross-origin';
+      frameHost.append(frame);
+      card.querySelector<HTMLElement>('[data-podcast-provider-note]')!.textContent = option.dataset.scope === 'episode'
+        ? `The same episode on ${option.dataset.name}. Press Play in the player to listen.`
+        : `Browse Scaling Legends on ${option.dataset.name}. This is the show player; the summary and transcript below belong to the selected episode above.`;
+    });
+    button.addEventListener('click', () => {
+      load();
+      if (!userStarted && audio.muted) { audio.currentTime = 0; userStarted = true; }
+      audio.muted = !audio.muted;
+      void play();
+    });
+    card.querySelectorAll<HTMLButtonElement>('[data-podcast-seek]').forEach(seek => {
+      seek.addEventListener('click', () => {
+        showNative();
+        load(); userStarted = true; audio.muted = false;
+        const jump = () => { audio.currentTime = Number(seek.dataset.podcastSeek); void play(); };
+        if (audio.readyState >= 1) jump(); else audio.addEventListener('loadedmetadata', jump, { once: true });
+      });
+    });
+    // Start only when the player is visible; never download audio for offscreen cards.
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver(entries => {
+        if (provider === 'native' && entries.some(e => e.isIntersecting)) { load(); void play(); observer.disconnect(); }
+      }, { threshold: .25 });
+      observer.observe(audio);
+    } else { load(); }
+    document.addEventListener('visibilitychange', () => { if (document.hidden && audio.muted) audio.pause(); });
+  });
+</script>
+
+<style>
+  .related-podcast { padding-top: 2rem; padding-bottom: 4rem; }
+  .podcast-card { border: 1px solid var(--line); border-radius: 1.25rem; padding: clamp(1.25rem, 4vw, 2.5rem); background: #0c1727; }
+  .podcast-intro { display: flex; align-items: flex-start; gap: 1.25rem; }
+  .podcast-intro img { flex-shrink: 0; border-radius: .75rem; object-fit: cover; }
+  h2 { font-size: clamp(1.4rem, 3vw, 2rem); line-height: 1.2; margin: .7rem 0; color: #fff; }
+  h3 { font-size: 1rem; color: #e6edf5; margin: 0 0 .5rem; }
+  p { color: #b8c8da; line-height: 1.75; margin: .7rem 0; overflow-wrap: anywhere; }
+  a { color: #7dd3fc; text-decoration: underline; text-underline-offset: .2em; }
+  .podcast-meta { font-size: .83rem; color: #a3b5cb; }
+  .podcast-summary { margin: 1.5rem 0; max-width: 80ch; }
+  .podcast-providers { display: flex; align-items: center; flex-wrap: wrap; gap: .7rem 1rem; margin: 1rem 0; color: #b8c8da; }
+  .podcast-providers select { max-width: 100%; padding: .6rem; color: #e6edf5; background: #152e46; border: 1px solid #617b96; border-radius: .5rem; }
+  .podcast-external :global(iframe) { border: 0; border-radius: .75rem; width: 100%; }
+  .podcast-platform-links { display: flex; flex-wrap: wrap; gap: .6rem 1.2rem; margin: 1rem 0; font-size: .85rem; }
+  [hidden] { display: none !important; }
+  audio { width: 100%; display: block; }
+  .podcast-actions { display: flex; flex-wrap: wrap; gap: .75rem 1rem; align-items: center; margin: .9rem 0 1.5rem; }
+  .podcast-actions button { border: 1px solid #7dd3fc; border-radius: .5rem; padding: .6rem 1rem; color: #e0f2fe; background: #152e46; font-weight: 700; cursor: pointer; }
+  .podcast-actions span { color: #a3b5cb; font-size: .85rem; }
+  .podcast-transcript { border-block: 1px solid var(--line); padding: 1rem 0; }
+  summary { cursor: pointer; color: #e6edf5; font-weight: 700; padding: .3rem 0; }
+  .podcast-transcript-text { max-height: 32rem; overflow-y: auto; padding-right: 1rem; }
+  .podcast-transcript-text button { color: #7dd3fc; background: none; border: 0; padding: .25rem; text-decoration: underline; font-variant-numeric: tabular-nums; cursor: pointer; }
+  .podcast-cta { padding-top: .8rem; font-size: .9rem; }
+  button:focus-visible, summary:focus-visible, a:focus-visible { outline: 2px solid #7dd3fc; outline-offset: 4px; }
+  @media (max-width: 600px) { .podcast-intro img { width: 64px; height: 64px; } .podcast-intro { gap: .8rem; } }
+  @media print { .podcast-player { display: none; } }
+</style>

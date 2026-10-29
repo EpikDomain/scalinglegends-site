@@ -11,8 +11,8 @@ sponsors:
   - name: "Smart Business Automator"
     url: "https://smartbusinessautomator.com"
     description: "The operations platform helping contractors systematize their businesses so they can scale without the chaos."
+updatedAt: "2026-10-29"
 ---
-
 Last year, the average contractor left $41,000 in billable work on the table. Not because the work wasn't done. Because it was never documented, never submitted as a change order, and never invoiced. Scope creep isn't a client problem. It's a systems problem. And the contractors who fix it don't just protect their margins — they build stronger client relationships in the process.
 
 The uncomfortable truth is that most disputes over **construction change orders** happen because both parties were operating from different assumptions from day one. The client didn't ask for free work. The contractor didn't intend to give it away. The system just failed both of them. Here's how to build one that doesn't.
@@ -143,28 +143,6 @@ The administrative fee is the element most contractors omit. It covers the real 
 
 For contractors working on public projects subject to Davis-Bacon or prevailing wage requirements, change order labor rates must reflect the applicable wage determinations for the work classification — not the contractor's standard billing rate. Getting this wrong creates compliance exposure that can exceed the value of the change order itself.
 
-## Frequently Asked Questions
-
-### How much revenue does the average contractor lose annually to unbilled scope changes?
-
-Industry estimates put unbilled change order losses at $35,000-$50,000 per year for contractors in the $1M-$5M revenue range, scaling to $150,000-$400,000 for contractors at $10M-$25M. The primary causes are informal verbal agreements, field team decisions to absorb small changes without documentation, and change orders that get identified but never processed before the project closes out.
-
-### What contract language best prevents construction change order disputes?
-
-Three clauses do most of the work: a differing site conditions clause covering unforeseen discoveries, an owner-directed change clause requiring written approval before out-of-scope work proceeds, and a 48-hour response clause establishing approval timelines. These three provisions, written clearly and reviewed with the client at signing, eliminate the majority of scope dispute scenarios before they occur.
-
-### How do you handle a client who says they never agreed to a change?
-
-You go to the documentation. If you have a signed change order, timestamped field photos, and a digital approval trail, the dispute resolves quickly. If you don't have documentation, you've learned an expensive lesson. The response to an undocumented "I never agreed to that" claim is to absorb the cost this time, implement documentation systems immediately, and never let it happen again. Arguing without documentation is a losing position legally and relationally.
-
-### When should a contractor absorb a scope change versus billing for it?
-
-Use a tiered threshold: absorb changes under a predetermined dollar amount (typically $250-$500), bill anything above it, and document all absorbed changes as zero-dollar change orders. Track absorbed changes across a project — if they exceed 2-3% of the original contract value, initiate a conversation with the client about cumulative scope rather than continuing to absorb. Pattern matters more than any single instance.
-
-### What is a reasonable change order markup percentage in construction?
-
-The defensible range is 15-25% on combined labor and materials, plus an administrative processing fee of $150-$300 per change order. Contractors who apply their standard job markup (typically 10-15%) to change orders are undercharging, given that change order work is inherently less efficient than planned work and carries higher administrative overhead. On public projects, Davis-Bacon wage requirements apply to change order labor and must be reflected in billing.
-
 ## How to Implement a Change Order System This Week
 
 - **Audit your current contract template.** Pull your standard contract and read the scope section with the question: could a client reasonably interpret this differently than I intend? Identify every ambiguity. Add explicit exclusions for the five most common scope disputes you've encountered. Have an attorney review the three core change order clauses before your next contract signing.
@@ -190,3 +168,42 @@ Start this week with one action: add the three contract clauses above to your st
 For women-owned and family-[owned construction](/article/building-roads-and-breaking-barriers-ebony-jennings/) businesses navigating the additional complexity of scaling while managing client relationships, the change order process is often the first system that breaks under growth pressure — and fixing it early creates the financial foundation for everything else. The journeys of contractors like those profiled in our coverage of [woman owned construction company](/article/building-roads-and-breaking-barriers-ebony-jennings/) growth show how systems thinking at the operations level drives sustainable scale. And for broader patterns in how the industry is evolving, [construction market intelligence](/article/construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign/) from events like [CONEXPO 2026](/article/conexpo-2026-decoded-what-the-biggest-construction-show-on-earth-means-for-your-business/) confirms that the contractors who invest in operational infrastructure now are the ones positioned to capture the [infrastructure spending](/article/federal-infrastructure-spending-cuts-2026-what-contracto/) wave ahead.
 
 The work is already being done. Start billing for all of it.
+
+## Frequently Asked Questions
+
+### What is a change order on a contract?
+
+A change order records an agreed modification to the work and any associated price or time adjustment. Follow the authorization and documentation process in the actual contract; a request alone is not approval.
+
+### What's the difference between an RFI and a change order?
+
+An RFI requests clarification. A change order documents an agreed change to contractual work, price or time. An RFI response may identify a needed change, but does not automatically authorize extra payment.
+
+### Do contractors charge for change orders?
+
+Additional work may increase the price, while deleted work can produce a credit. A change can also leave price unchanged. The amount and permitted markup depend on the agreement and documented scope.
+
+### Can you give me an example of a change order in construction?
+
+Illustration: an owner requests an added doorway after signing the contract. The parties document the revised work, agree its price and schedule effect, and obtain the approvals required by their contract.
+
+### Who prepares a change order?
+
+Responsibility depends on the contract. A contractor often assembles scope and pricing information; an architect or contract administrator may prepare the formal instrument. Required parties then review and approve it.
+
+### How much does a change order cost?
+
+There is no universal price. Build the amount from the changed quantities, labor, materials, equipment, subcontract work and permitted additions or credits. Record any schedule adjustment separately so neither effect is overlooked.
+
+### What are three common reasons for change orders in construction projects?
+
+Common triggers include owner-requested scope changes, design revisions and unexpected site conditions. A trigger does not establish entitlement by itself; document the facts and follow the contract’s notice and change procedures.
+
+### When to use a change order in construction?
+
+Use the contractual change process when proposed work alters agreed scope, price or time. Distinguish an agreed change order from a directive or disputed change, and keep the supporting records together.
+
+## Further reading
+
+- [AIA Contract Documents: Fundamentals of change orders](https://learn.aiacontracts.com/articles/6378493-the-fundamentals-of-change-orders-in-construction/)
+- [AIA Contract Documents: G701S subcontract change order instructions](https://help.aiacontracts.com/hc/en-us/articles/1500010255802-instructions-g701s-2017-change-order)
