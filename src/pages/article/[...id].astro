@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import EditorialImage from '../../components/EditorialImage.astro';
 import RelatedPodcast from '../../components/RelatedPodcast.astro';
+import editorialCatalog from '../../../public/img/editorial/provenance.json';
 
 export async function getStaticPaths() {
   const now = new Date();
@@ -19,6 +20,7 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await render(article);
 const { title, description, image, audioUrl, keywords, date, readTime, transcript, guest, sponsors, episode, season, howTo, pillar, updatedAt } = article.data;
+const editorialHero = editorialCatalog.find(asset => image === `/img/editorial/${asset.id}.jpg`);
 
 const PILLAR_NAMES: Record<string, string> = {
   'market-intelligence': 'Market Intelligence',
@@ -214,15 +216,18 @@ for (const match of boldTermMatches) {
                 "rounded-xl overflow-hidden border border-[#222222]",
                 audioUrl ? "max-w-[320px]" : "max-w-[600px]"
               ]}>
+                <picture>
+                {editorialHero && <source type="image/webp" srcset={`/img/editorial/${editorialHero.id}-480.webp 480w, /img/editorial/${editorialHero.id}-960.webp 960w, /img/editorial/${editorialHero.id}-1600.webp 1600w`} sizes="(max-width: 640px) 92vw, 600px" />}
                 <img
                   src={image}
                   alt={article.data.imageAlt || title}
                   class="w-full h-auto rounded-xl"
-                  width={audioUrl ? 320 : 600}
-                  height={audioUrl ? 320 : 400}
+                  width={editorialHero?.width ?? (audioUrl ? 320 : 600)}
+                  height={editorialHero?.height ?? (audioUrl ? 320 : 400)}
                   loading="eager"
                   decoding="async"
                 />
+                </picture>
                 {article.data.imageCaption && <p class="text-xs text-[#999999] p-3">{article.data.imageCaption}</p>}
               </div>
             </div>
