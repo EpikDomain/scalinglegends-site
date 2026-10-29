@@ -227,3 +227,16 @@ audio {
 /* Transcript details */
 details:not(.faq-section details) summary { list-style: none; }
 details:not(.faq-section details) summary::-webkit-details-marker { display: none; }
+
+/* Phones: give standalone links a comfortable tap height (24px minimum, aim for 32px). */
+@media (max-width: 768px) {
+  nav[aria-label="Breadcrumb"] a,
+  footer a,
+  .podcast-platform-links a,
+  .podcast-meta a,
+  .tap {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+  }
+}

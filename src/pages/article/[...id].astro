@@ -1,4 +1,5 @@
 ---
+import { cardImage } from '../../lib/card-image';
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import EditorialImage from '../../components/EditorialImage.astro';
@@ -266,11 +267,11 @@ for (const match of boldTermMatches) {
                   <span class="text-[#999999]" style="font-size: 12px; font-weight: 500;">
                     Also on:
                   </span>
-                  <a href="https://podcasts.apple.com" target="_blank" rel="noopener" class="text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">Apple Podcasts</a>
+                  <a href="https://podcasts.apple.com" target="_blank" rel="noopener" class="tap text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">Apple Podcasts</a>
                   <span class="w-1 h-1 bg-[#333333] rounded-full"></span>
-                  <a href="https://open.spotify.com" target="_blank" rel="noopener" class="text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">Spotify</a>
+                  <a href="https://open.spotify.com" target="_blank" rel="noopener" class="tap text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">Spotify</a>
                   <span class="w-1 h-1 bg-[#333333] rounded-full"></span>
-                  <a href="/rss.xml" class="text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">RSS</a>
+                  <a href="/rss.xml" class="tap text-[#EAEAEA] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 12px; font-weight: 600;">RSS</a>
                 </div>
               </div>
             </div>
@@ -445,13 +446,13 @@ for (const match of boldTermMatches) {
           </div>
         </div>
 
-        <!-- Sticky Sidebar (hidden on mobile) -->
-        <aside class="hidden lg:block w-[380px] 2xl:w-[480px] flex-shrink-0">
-          <div class="sticky top-24 space-y-5 max-h-[calc(100vh-7rem)] overflow-y-auto pr-1 sidebar-scroll">
+        <!-- Sidebar: sticky beside the article on desktop, stacked below it on phones (Google indexes the phone version) -->
+        <aside class="w-full lg:w-[380px] 2xl:w-[480px] flex-shrink-0">
+          <div class="space-y-5 lg:sticky lg:top-24 lg:max-h-[calc(100vh-7rem)] lg:overflow-y-auto pr-1 sidebar-scroll">
             <!-- Latest Episodes -->
             {sidebarEpisodes.length > 0 && (
               <div class="bg-[#161616] border border-[#222222] rounded-xl p-5">
-                <h4
+                <h2
                   class="text-[#EAEAEA] uppercase mb-4 flex items-center gap-2"
                   style="font-size: 11px; font-weight: 700; letter-spacing: 0.1em;"
                 >
@@ -461,14 +462,14 @@ for (const match of boldTermMatches) {
                     <line x1="12" x2="12" y1="19" y2="22"/>
                   </svg>
                   Latest Episodes
-                </h4>
+                </h2>
                 <div class="space-y-3">
                   {sidebarEpisodes.map((item) => (
                     <a href={`/article/${item.id}/`} class="group block no-underline">
                       <div class="flex gap-3 p-2 rounded-lg hover:bg-[#1A1A1A] transition-colors">
                         {item.data.image && (
                           <div class="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0 border border-[#2A2A2A]">
-                            <img src={item.data.image} alt="" class="w-full h-full object-cover" loading="lazy" width="56" height="56" />
+                            <img src={cardImage(item.data.image)} alt="" class="w-full h-full object-cover" loading="lazy" width="56" height="56" />
                           </div>
                         )}
                         <div class="flex-1 min-w-0">
@@ -496,7 +497,7 @@ for (const match of boldTermMatches) {
             <!-- Recent Articles -->
             {sidebarArticles.length > 0 && (
               <div class="bg-[#161616] border border-[#222222] rounded-xl p-5">
-                <h4
+                <h2
                   class="text-[#EAEAEA] uppercase mb-4 flex items-center gap-2"
                   style="font-size: 11px; font-weight: 700; letter-spacing: 0.1em;"
                 >
@@ -505,14 +506,14 @@ for (const match of boldTermMatches) {
                     <polyline points="14 2 14 8 20 8"/>
                   </svg>
                   Recent Articles
-                </h4>
+                </h2>
                 <div class="space-y-3">
                   {sidebarArticles.map((item) => (
                     <a href={`/article/${item.id}/`} class="group block no-underline">
                       <div class="flex gap-3 p-2 rounded-lg hover:bg-[#1A1A1A] transition-colors">
                         {item.data.image && (
                           <div class="w-14 h-14 rounded-lg overflow-hidden flex-shrink-0 border border-[#2A2A2A]">
-                            <img src={item.data.image} alt="" class="w-full h-full object-cover" loading="lazy" width="56" height="56" />
+                            <img src={cardImage(item.data.image)} alt="" class="w-full h-full object-cover" loading="lazy" width="56" height="56" />
                           </div>
                         )}
                         <div class="flex-1 min-w-0">
@@ -550,7 +551,7 @@ for (const match of boldTermMatches) {
                         href={sponsor.url}
                         target="_blank"
                         rel="noopener"
-                        class="inline-flex items-center gap-1.5 text-[#CCFF00] hover:text-[#E0FF4D] transition-colors no-underline"
+                        class="tap inline-flex items-center gap-1.5 text-[#CCFF00] hover:text-[#E0FF4D] transition-colors no-underline"
                         style="font-size: 0.8125rem; font-weight: 600;"
                       >
                         Visit Site

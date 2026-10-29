@@ -1,4 +1,5 @@
 ---
+import { cardImage } from '../lib/card-image';
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 
@@ -78,7 +79,7 @@ const featuredArticles = articles.slice(0, 8);
               {ep.data.image && (
                 <a href={`/article/${ep.id}/`} class="block">
                   <div class="h-[180px] overflow-hidden flex items-center justify-center bg-[#0D0D0D]">
-                    <img src={ep.data.image} alt={ep.data.title} class="max-w-full max-h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy" width="320" height="180" />
+                    <img src={cardImage(ep.data.image)} alt={ep.data.title} class="max-w-full max-h-full object-contain group-hover:scale-105 transition-transform duration-500" loading="lazy" width="320" height="180" />
                   </div>
                 </a>
               )}
@@ -94,7 +95,7 @@ const featuredArticles = articles.slice(0, 8);
                 <p class="text-[#888888] mb-4 line-clamp-2" style="font-size: 0.875rem; line-height: 1.6;">
                   {ep.data.description}
                 </p>
-                <a href={`/article/${ep.id}/`} class="flex items-center gap-2 text-[#CCFF00] group-hover:gap-3 transition-all no-underline" style="font-size: 0.875rem; font-weight: 600;">
+                <a href={`/article/${ep.id}/`} class="tap flex items-center gap-2 text-[#CCFF00] group-hover:gap-3 transition-all no-underline" style="font-size: 0.875rem; font-weight: 600;">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
                   <span>Listen Now</span>
                 </a>
@@ -138,7 +139,7 @@ const featuredArticles = articles.slice(0, 8);
             {article.data.image && (
               <a href={`/article/${article.id}/`} class="block">
                 <div class="relative h-[180px] overflow-hidden flex items-center justify-center bg-[#0D0D0D]">
-                  <img src={article.data.image} alt={article.data.title} class="max-w-full max-h-full object-contain transition-transform duration-700 group-hover:scale-110" loading="lazy" width="400" height="180" />
+                  <img src={cardImage(article.data.image)} alt={article.data.title} class="max-w-full max-h-full object-contain transition-transform duration-700 group-hover:scale-110" loading="lazy" width="400" height="180" />
                   <!-- Subtle bottom gradient only -->
                   <div class="absolute inset-0 bg-gradient-to-t from-[#0D0D0D] via-transparent to-transparent opacity-60"></div>
                   <!-- Hover overlay -->
