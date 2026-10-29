@@ -1,12 +1,14 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import EditorialImage from '../../components/EditorialImage.astro';
+import RelatedPodcast from '../../components/RelatedPodcast.astro';
 
 export async function getStaticPaths() {
   const now = new Date();
   const articles = await getCollection('articles', ({ data }) => {
     // Only build pages for articles with dates on or before today
-    return new Date(data.date) <= now;
+    return data.published !== false && new Date(data.date) <= now;
   });
   return articles.map((article) => ({
     params: { id: article.id },
@@ -214,13 +216,14 @@ for (const match of boldTermMatches) {
               ]}>
                 <img
                   src={image}
-                  alt={title}
+                  alt={article.data.imageAlt || title}
                   class="w-full h-auto rounded-xl"
                   width={audioUrl ? 320 : 600}
                   height={audioUrl ? 320 : 400}
                   loading="eager"
                   decoding="async"
                 />
+                {article.data.imageCaption && <p class="text-xs text-[#999999] p-3">{article.data.imageCaption}</p>}
               </div>
             </div>
           )}
@@ -331,6 +334,7 @@ for (const match of boldTermMatches) {
           )}
 
           <!-- Episode Notes / Article Content -->
+          {!image?.startsWith('/img/editorial/') && <EditorialImage topic={title} section={pillar || ''} />}
           <div class="mb-8">
             {audioUrl && (
               <div
@@ -343,6 +347,7 @@ for (const match of boldTermMatches) {
             )}
             <div class="article-content">
               <Content />
+              {!audioUrl && <RelatedPodcast title={title} description={description} keywords={keywords} category={pillar} />}
             </div>
           </div>
 

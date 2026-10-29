@@ -1,0 +1,21 @@
+---
+import { editorialImage } from '../lib/editorial-images';
+interface Props { topic: string; section?: string; compact?: boolean; }
+const { topic, section = '', compact = false } = Astro.props;
+const asset = editorialImage(topic, section);
+---
+<figure class:list={['editorial-photo', { compact }]}>
+  <picture>
+    <source type="image/webp" srcset={`${asset.webp}-480.webp 480w, ${asset.webp}-960.webp 960w, ${asset.webp}-1600.webp 1600w`} sizes="(max-width: 768px) 92vw, 736px" />
+    <img src={asset.src} alt={asset.alt} width={asset.width} height={asset.height} loading="lazy" decoding="async" />
+  </picture>
+  <figcaption>{asset.caption} <span>AI-generated illustration.</span></figcaption>
+</figure>
+<style>
+  .editorial-photo{margin:0 0 2.25rem;max-width:64rem}
+  picture{display:block;overflow:hidden;border-radius:1rem;border:1px solid var(--line,#29342d)}
+  img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+  figcaption{margin-top:.7rem;color:#91a2b7;font-size:.8rem;line-height:1.6}
+  figcaption span{color:#8291a4;white-space:nowrap}
+  .compact img{max-height:24rem}
+</style>

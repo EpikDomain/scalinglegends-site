@@ -1,0 +1,116 @@
+[
+  {
+    "id": "construction-team-reviewing-plans",
+    "title": "Construction team reviewing project plans",
+    "alt": "Two construction professionals review paper plans beside a tablet at a jobsite workbench.",
+    "caption": "Plan reviews connect field conditions, drawings, and the next decisions on a job.",
+    "keywords": [
+      "construction planning",
+      "project management",
+      "field coordination",
+      "construction drawings",
+      "jobsite"
+    ],
+    "prompt": "Photorealistic documentary landscape: superintendent and project engineer reviewing paper plans and a rugged tablet at a plywood workbench on a commercial construction site; natural daylight, credible PPE, restrained colors, no logos or glossy AI look.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "contractor-reviewing-invoices-and-job-costs",
+    "title": "Contractor and office manager reviewing job costs",
+    "alt": "An office manager and contractor review invoices with a calculator and laptop in a construction office.",
+    "caption": "Review invoices, committed costs, and cash timing together before making project decisions.",
+    "keywords": [
+      "construction job costing",
+      "contractor cash flow",
+      "invoice review",
+      "construction accounting",
+      "project costs"
+    ],
+    "prompt": "Wide documentary photograph of an experienced female construction office manager and male contractor reviewing invoices and a calculator at a practical office desk; laptop, rolled plans, used hardhat, natural window daylight, ordinary work clothes, realistic skin and worn surfaces; no logos or text overlay.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "construction-crew-safety-briefing",
+    "title": "Construction crew morning safety briefing",
+    "alt": "A foreperson with a clipboard briefs four workers wearing hardhats, safety glasses and high visibility vests.",
+    "caption": "A focused crew briefing connects the day’s work with its hazards and controls.",
+    "keywords": [
+      "construction safety",
+      "crew briefing",
+      "workforce training",
+      "jobsite communication",
+      "PPE"
+    ],
+    "prompt": "Documentary wide photograph of a construction foreperson briefing four workers at a commercial jobsite, accurate PPE, clipboard, steel framing, overcast daylight and natural expressions; no logos or CGI.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "project-engineer-using-field-tablet",
+    "title": "Project engineer documenting field conditions",
+    "alt": "A project engineer in a hardhat and safety vest uses a rugged tablet beside steel wall framing.",
+    "caption": "Capture field information where the work happens, then route it to the people who need it.",
+    "keywords": [
+      "construction technology",
+      "field documentation",
+      "workflow automation",
+      "project engineer",
+      "digital inspection"
+    ],
+    "prompt": "Documentary photograph of a construction project engineer using a rugged tablet at a safe interior inspection area, steel studs, realistic PPE, side profile and natural daylight; no readable interface, holograms or text overlays.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "contractor-reviewing-permit-documents",
+    "title": "Contractor reviewing plans and permit documents",
+    "alt": "A contractor and plan reviewer discuss drawings and permit paperwork across an office desk.",
+    "caption": "Keep plans, permit requirements and approvals together when preparing construction work.",
+    "keywords": [
+      "contractor licensing",
+      "construction permits",
+      "plan review",
+      "contract administration",
+      "project documentation"
+    ],
+    "prompt": "Documentary photo of a Black female contractor and gray-haired male plan reviewer discussing architectural drawings and permit papers in a modest office, natural daylight, realistic hands and work clothes, hardhat on desk; no official logos or seals.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "construction-materials-delivery-inspection",
+    "title": "Construction materials and equipment staging",
+    "alt": "Strapped lumber, concrete blocks and a parked telehandler in a commercial construction staging area.",
+    "caption": "Material quantities, delivery timing and equipment availability shape the next phase of work.",
+    "keywords": [
+      "construction materials",
+      "procurement",
+      "equipment planning",
+      "material delivery",
+      "construction estimating"
+    ],
+    "prompt": "Wide documentary photograph of a quiet commercial jobsite staging area with strapped lumber, concrete blocks and a parked telehandler with lowered forks; realistic scale, gravel, unfinished building, overcast daylight, no people or logos.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "width": 1600,
+    "height": 900
+  }
+]

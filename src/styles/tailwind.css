@@ -35,8 +35,19 @@
   --font-sans: 'Inter', sans-serif;
 }
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+}
 html { scroll-behavior: smooth; }
+
+@media (max-width: 639px) {
+  .site-nav-row { flex-wrap: wrap; gap: .5rem; }
+  .site-nav-row > a { width: 100%; }
+  .site-nav-row > a > span { display: inline; font-size: 1rem; }
+  .site-nav-row > nav { width: 100%; flex-wrap: wrap; justify-content: space-between; gap: .25rem; }
+  .site-nav-row > nav > a, .site-nav-row > nav > div > button { padding-inline: .4rem; }
+  .site-nav-row > nav > a:last-child { margin-left: 0; }
+}
 
 body {
   font-family: var(--font-sans);
