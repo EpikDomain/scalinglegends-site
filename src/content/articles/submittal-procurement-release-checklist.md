@@ -8,9 +8,9 @@ contentType: "evergreen"
 pillar: "business-growth"
 keywords: ["submittal register", "submittal process construction", "submittal schedule", "procurement release checklist"]
 readTime: "7 min read"
-image: "/img/editorial/construction-team-reviewing-plans.jpg"
-imageAlt: "Construction team members review project plans together in a site office."
-imageCaption: "Coordinate the reviewed package with the procurement decision. AI-generated editorial illustration."
+image: "/img/editorial/construction-submittal-sample-review.jpg"
+imageAlt: "Two construction professionals compare an aluminum frame sample with shop drawings in a site office."
+imageCaption: "Check the proposed sample and coordinated drawings before releasing fabrication. AI-generated editorial illustration."
 ---
 An approved submittal and a purchase release answer different questions. The first records the result of a review under the project's procedures. The second commits the business to an order, fabrication slot or delivery arrangement. A good release check connects the two before someone assumes that a favorable review stamp means everything is ready.
 

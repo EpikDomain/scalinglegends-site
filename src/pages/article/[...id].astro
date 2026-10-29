@@ -225,6 +225,7 @@ for (const match of boldTermMatches) {
                   width={editorialHero?.width ?? (audioUrl ? 320 : 600)}
                   height={editorialHero?.height ?? (audioUrl ? 320 : 400)}
                   loading="eager"
+                  fetchpriority="high"
                   decoding="async"
                 />
                 </picture>

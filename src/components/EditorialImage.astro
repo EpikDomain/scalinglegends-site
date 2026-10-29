@@ -1,13 +1,13 @@
 ---
 import { editorialImage } from '../lib/editorial-images';
-interface Props { topic: string; section?: string; compact?: boolean; }
-const { topic, section = '', compact = false } = Astro.props;
+interface Props { topic: string; section?: string; compact?: boolean; priority?: boolean; }
+const { topic, section = '', compact = false, priority = false } = Astro.props;
 const asset = editorialImage(topic, section);
 ---
 <figure class:list={['editorial-photo', { compact }]}>
   <picture>
     <source type="image/webp" srcset={`${asset.webp}-480.webp 480w, ${asset.webp}-960.webp 960w, ${asset.webp}-1600.webp 1600w`} sizes="(max-width: 768px) 92vw, 736px" />
-    <img src={asset.src} alt={asset.alt} width={asset.width} height={asset.height} loading="lazy" decoding="async" />
+    <img src={asset.src} alt={asset.alt} title={asset.title} width={asset.width} height={asset.height} loading={priority ? "eager" : "lazy"} fetchpriority={priority ? "high" : "auto"} decoding="async" />
   </picture>
   <figcaption>{asset.caption} <span>AI-generated illustration.</span></figcaption>
 </figure>
