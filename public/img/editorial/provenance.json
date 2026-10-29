@@ -112,5 +112,65 @@
     "created": "2026-10-29",
     "width": 1600,
     "height": 900
+  },
+  {
+    "id": "construction-submittal-sample-review",
+    "title": "Construction submittal sample review",
+    "alt": "Two construction professionals compare an aluminum frame sample with shop drawings in a site office.",
+    "caption": "Check the proposed sample and coordinated drawings before releasing fabrication.",
+    "keywords": [
+      "construction submittals",
+      "shop drawing review",
+      "fabrication release",
+      "submittal register",
+      "construction procurement"
+    ],
+    "prompt": "Create a single photorealistic editorial photograph, landscape 16:9, for a serious construction-business guide about checking submittals before releasing fabrication. A candid natural-light scene in a modest active construction site office: a middle-aged female project manager in ordinary workwear and a male fabrication coordinator examine a real aluminum storefront frame corner sample on a scuffed plywood meeting table. Beside the sample are neatly organized large-format shop drawings, a simple steel ruler and a closed plain folder. Hands anatomically correct, physical sample mechanically plausible, credible materials and restrained everyday textures. Documentary architectural photography, 35mm lens, eye-level slightly angled viewpoint, softly overcast daylight through a trailer window, neutral realistic color, subtle grain, believable skin, unobtrusive background shelves. The moment feels observed rather than posed; neither person looks at camera. No holograms, no floating UI, no futuristic tech, no exaggerated bokeh, no glossy stock-photo handshake, no invented readable labels, no logos, no watermark, no text overlay. Leave some breathing room around the central table. Not a collage. The image is an illustrative fictional construction scene, not a real named project.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "originalSha256": "202b53448b362cec408d40e90443c07812f51c9b1c7fd53f4d3968d25eac3fb8",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "construction-rfi-field-drawing-handoff",
+    "title": "Construction RFI drawing handoff in the field",
+    "alt": "A superintendent holds a drawing while a foreman points to a framed opening inside a building under construction.",
+    "caption": "Connect the clarified drawing to the exact location and crew that need it.",
+    "keywords": [
+      "construction RFI",
+      "field drawing handoff",
+      "RFI response",
+      "construction coordination",
+      "current drawings"
+    ],
+    "prompt": "Create a single high-quality photorealistic documentary editorial photograph, landscape 16:9, for a construction guide about transferring a clarified drawing to the field crew. A realistic commercial interior under construction with metal stud walls and a visible framed doorway. In the foreground an experienced Black superintendent wearing a simple hard hat and understated safety vest holds a single large paper drawing on a rigid drawing board while a Latina foreman with hard hat points at the nearby framed opening; both look toward the physical opening as they discuss the detail. One clear drawing only, no illegible screens, no brand marks. A tape measure clipped to a belt, neatly staged materials, realistic site housekeeping and protective work boots. Natural side light from unfinished windows mixed with ordinary work lighting. Restrained color, 40mm documentary lens, credible human proportions and hands, understated professional magazine photography, calm candid scene with no posing at camera. No futuristic interfaces, no shiny artificial faces, no excessive orange/teal color grading, no dramatic staged dust, no captions, no watermark, no collage. A fictional illustrative jobsite, not a named real project.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "originalSha256": "f17becfc7c5b51c253045bb579599bd103360b078563e8800523355bc0896cec",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "id": "construction-owner-handover",
+    "title": "Construction project owner handover",
+    "alt": "A contractor explains an equipment control to a facilities manager beside an organized handover binder.",
+    "caption": "Use the handover review to connect project records, equipment information and owner training.",
+    "keywords": [
+      "construction closeout",
+      "owner handover",
+      "equipment training",
+      "project closeout checklist",
+      "operating manuals"
+    ],
+    "prompt": "Create one realistic editorial photograph, landscape 16:9, of a construction closeout handover in a newly completed modest commercial building plant room. A female facilities manager in practical dark work clothes and a male contractor in a light work shirt stand at a small freestanding metal workbench reviewing a thin organized binder beside a closed tablet. In the background, convincingly installed plain air-handling equipment, insulated pipes and clean conduit with physically plausible connections. The contractor points to a single equipment control while explaining operation; the facilities manager listens, not looking at the camera. People occupy roughly half the frame, plenty of context. Human hands natural and anatomically sound. Real-world diffuse daylight and practical lighting, neutral colors, subtle texture, 35mm professional documentary photography. This should look like an ordinary excellent candid photograph rather than a shiny AI advertisement. No visible trademarks, no readable text, no text overlays, no holograms, no exaggerated smiles, no high-tech fantasy, no collage, no watermark. Fictional illustrative scene, no claim of a real customer or project.",
+    "source": "AI-generated editorial illustration",
+    "tool": "Built-in image_gen",
+    "created": "2026-10-29",
+    "originalSha256": "4e604136dd0077c8fe7cc61a4197731b389d835f498b66364270749776197cd0",
+    "width": 1600,
+    "height": 900
   }
 ]

@@ -1,5 +1,6 @@
 ---
 import '../styles/tailwind.css';
+import editorialCatalog from '../../public/img/editorial/provenance.json';
 
 interface Props {
   title: string;
@@ -42,6 +43,8 @@ const {
 } = Astro.props;
 
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
+const resolvedImage = new URL(image, Astro.site).href;
+const imageAsset = editorialCatalog.find(asset => resolvedImage === `https://scalinglegends.com/img/editorial/${asset.id}.jpg`);
 const siteName = 'Scaling Legends';
 // SEO: prefer showing the full article title in SERPs.
 // Only append the brand suffix if the combined length stays under 60 chars.
@@ -119,6 +122,10 @@ const webPageSchema: Record<string, unknown> = {
 
 // Build the @graph array
 const graph: Record<string, unknown>[] = [orgSchema];
+if (imageAsset) {
+  graph.push({ '@type': 'ImageObject', '@id': `${resolvedImage}#image`, contentUrl: resolvedImage, url: resolvedImage, name: imageAsset.title, description: imageAsset.alt, caption: `${imageAsset.caption} AI-generated illustration.`, width: imageAsset.width, height: imageAsset.height, encodingFormat: 'image/jpeg', creditText: 'Scaling Legends · AI-generated editorial illustration' });
+  webPageSchema.primaryImageOfPage = { '@id': `${resolvedImage}#image` };
+}
 
 if (article) {
   // Speakable: marks description + key takeaways for AI voice assistants
@@ -134,7 +141,7 @@ if (article) {
     "@id": `${canonicalUrl}#article`,
     "headline": title,
     "description": description,
-    "image": image,
+    "image": imageAsset ? { "@id": `${resolvedImage}#image` } : resolvedImage,
     "datePublished": isoDate,
     "dateModified": isoUpdatedAt || isoDate,
     "author": { "@id": "https://scalinglegends.com/#organization" },
@@ -165,7 +172,7 @@ if (article) {
         "contentUrl": audioUrl,
         ...(episodeData?.duration ? { "duration": episodeData.duration } : {}),
       },
-      "image": image,
+      "image": imageAsset ? { "@id": `${resolvedImage}#image` } : resolvedImage,
     };
     graph.push(podcastSeriesSchema);
     graph.push(episodeSchema);
@@ -238,33 +245,13 @@ if (article) {
     }
   }
 
-  // UpdateAction entity -- proves human editorial oversight to crawlers
-  // Only added when content was updated after initial publication (updatedAt > date + 1 day)
-  if (isoUpdatedAt) {
+  // A modification date records an update; it does not establish human or expert review.
+  if (isoUpdatedAt && isoDate && new Date(isoUpdatedAt) > new Date(isoDate)) {
     graph.push({
-      "@type": "UpdateAction",
-      "@id": `${canonicalUrl}#update-log`,
-      "agent": {
-        "@type": "Person",
-        "name": "Scaling Legends Editorial Team"
-      },
-      "object": { "@id": `${canonicalUrl}#article` },
-      "startTime": isoUpdatedAt,
-      "description": "Content reviewed, updated with current data, and verified by editorial team",
-      "instrument": {
-        "@type": "SoftwareApplication",
-        "name": "Scaling Legends Content Pipeline",
-        "description": "Autonomous content system with human-in-the-loop quality governance and Information Gain scoring"
-      }
-    });
-
-    // CorrectionComment -- signals active editorial governance to AI crawlers
-    graph.push({
-      "@type": "CorrectionComment",
-      "@id": `${canonicalUrl}#correction`,
-      "text": "Content verified and updated with current industry data by domain expert",
-      "datePublished": isoUpdatedAt,
-      "about": { "@id": `${canonicalUrl}#article` }
+      '@type': 'UpdateAction', '@id': `${canonicalUrl}#update-log`,
+      agent: { '@id': 'https://scalinglegends.com/#organization' },
+      object: { '@id': `${canonicalUrl}#article` }, startTime: isoUpdatedAt,
+      description: 'Article content updated.',
     });
   }
 
@@ -328,7 +315,13 @@ const structuredDataGraph = {
   <meta property="og:type" content={article ? 'article' : 'website'} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
-  <meta property="og:image" content={image} />
+  <meta property="og:image" content={resolvedImage} />
+  {imageAsset && <>
+    <meta property="og:image:alt" content={imageAsset.alt} />
+    <meta property="og:image:width" content={String(imageAsset.width)} />
+    <meta property="og:image:height" content={String(imageAsset.height)} />
+    <meta name="twitter:image:alt" content={imageAsset.alt} />
+  </>}
   <meta property="og:url" content={canonicalUrl} />
   <meta property="og:site_name" content={siteName} />
   <meta property="og:locale" content="en_US" />
@@ -341,7 +334,7 @@ const structuredDataGraph = {
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
-  <meta name="twitter:image" content={image} />
+  <meta name="twitter:image" content={resolvedImage} />
 
   {audioUrl && <meta property="og:audio" content={audioUrl} />}
   {audioUrl && <meta property="og:audio:type" content="audio/mpeg" />}

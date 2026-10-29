@@ -8,9 +8,9 @@ contentType: "evergreen"
 pillar: "business-growth"
 keywords: ["construction project closeout process", "project closeout checklist", "construction handover", "closeout report"]
 readTime: "7 min read"
-image: "/img/editorial/contractor-reviewing-permit-documents.jpg"
-imageAlt: "A contractor reviews a folder of project documents at a desk."
-imageCaption: "Check the evidence behind each handover item. AI-generated editorial illustration."
+image: "/img/editorial/construction-owner-handover.jpg"
+imageAlt: "A contractor explains an equipment control to a facilities manager beside an organized handover binder."
+imageCaption: "Use the handover review to connect project records, equipment information and owner training. AI-generated editorial illustration."
 ---
 A project can look finished while its handover remains incomplete. Equipment is installed, but operating information is missing. A trade says its punch work is done, but nobody has recorded acceptance. The owner has received a folder of files, but the team cannot identify which versions are current.
 

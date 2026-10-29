@@ -8,9 +8,9 @@ contentType: "evergreen"
 pillar: "business-growth"
 keywords: ["how to manage RFIs", "RFI response", "construction RFI process", "RFI log"]
 readTime: "7 min read"
-image: "/img/editorial/project-engineer-using-field-tablet.jpg"
-imageAlt: "A project engineer checks project information on a tablet at a construction site."
-imageCaption: "Make the current answer accessible to the people doing the work. AI-generated editorial illustration."
+image: "/img/editorial/construction-rfi-field-drawing-handoff.jpg"
+imageAlt: "A superintendent holds a drawing while a foreman points to a framed opening inside a building under construction."
+imageCaption: "Connect the clarified drawing to the exact location and crew that need it. AI-generated editorial illustration."
 ---
 An RFI can be marked closed in the project log while the crew still waits for a usable answer. That gap appears when receiving a response is treated as the same thing as completing the handoff. A better workflow checks the answer, records its consequences and confirms that the right people have the current information.
 
