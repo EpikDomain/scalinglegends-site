@@ -3,6 +3,7 @@ import { matchPodcast } from '../lib/podcast';
 import { STATE_NAMES } from '../lib/podcast-states';
 import platformConfig from '../data/podcast-platforms.json';
 import { platformOptions } from '../lib/podcast-platforms.mjs';
+import { sbaUrl } from '../lib/seo.mjs';
 
 interface Props {
   title: string; description?: string; keywords?: string[]; section?: string;
@@ -67,7 +68,7 @@ const schema = {
         {episode.transcript.map(p => <p><button type="button" data-podcast-seek={p.start} aria-label={`Play from ${stamp(p.start)}`}>{stamp(p.start)}</button> {p.text}</p>)}
       </div>
     </details>
-    <p class="podcast-cta">Put what you learn into practice. <a href="https://smartbusinessautomator.com/contact?source=scaling-legends">Get a free workflow assessment</a>.</p>
+    <p class="podcast-cta">Put what you learn into practice. <a href={sbaUrl('https://smartbusinessautomator.com/contact?source=scaling-legends', Astro.url.pathname.split('/').filter(Boolean).pop() || 'home', 'related-podcast')}>Get a free workflow assessment</a>.</p>
   </div>
 </section>
 <script type="application/ld+json" set:html={JSON.stringify(schema).replace(/</g, '\\u003c')} />

@@ -1,6 +1,8 @@
 ---
 import '../styles/tailwind.css';
 import editorialCatalog from '../../public/img/editorial/provenance.json';
+import FollowShow from '../components/FollowShow.astro';
+import { sbaUrl } from '../lib/seo.mjs';
 
 interface Props {
   title: string;
@@ -15,10 +17,12 @@ interface Props {
   episodeData?: {
     episodeNumber?: number;
     seasonNumber?: number;
-    duration?: string;
+    duration?: string; // ISO 8601, e.g. PT17M25S
+    url?: string; // the episode's page on the podcast host
   };
   videoId?: string;
   howToSteps?: { name: string; text: string }[];
+  howToName?: string;
   definedTerms?: { term: string; definition: string }[];
   noindex?: boolean;
   updatedAt?: string;
@@ -37,6 +41,7 @@ const {
   episodeData,
   videoId,
   howToSteps = [],
+  howToName,
   definedTerms = [],
   noindex = false,
   updatedAt,
@@ -163,6 +168,7 @@ if (article) {
       "name": title,
       "description": description,
       "url": canonicalUrl,
+      ...(episodeData?.url ? { "sameAs": episodeData.url } : {}),
       "datePublished": isoDate,
       ...(episodeData?.episodeNumber ? { "episodeNumber": episodeData.episodeNumber } : {}),
       ...(episodeData?.seasonNumber ? { "partOfSeason": { "@type": "PodcastSeason", "seasonNumber": episodeData.seasonNumber } } : {}),
@@ -170,7 +176,7 @@ if (article) {
       "associatedMedia": {
         "@type": "AudioObject",
         "contentUrl": audioUrl,
-        ...(episodeData?.duration ? { "duration": episodeData.duration } : {}),
+        ...(episodeData?.duration && /^P(?:T(?=\d)(?:\d+H)?(?:\d+M)?(?:\d+S)?)$/.test(episodeData.duration) ? { "duration": episodeData.duration } : {}),
       },
       "image": imageAsset ? { "@id": `${resolvedImage}#image` } : resolvedImage,
     };
@@ -200,7 +206,7 @@ if (article) {
     graph.push({
       "@type": "HowTo",
       "@id": `${canonicalUrl}#howto`,
-      "name": `How to ${howToSteps[0]?.name ? title.replace(/^.*?How [Tt]o\s*/i, '') : title}`,
+      "name": howToName || title,
       "description": description,
       "step": howToSteps.map((step, i) => ({
         "@type": "HowToStep",
@@ -308,7 +314,7 @@ const structuredDataGraph = {
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
   {keywords.length > 0 && <meta name="keywords" content={keywords.join(', ')} />}
-  <meta name="robots" content={noindex ? "noindex, nofollow" : "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"} />
+  <meta name="robots" content={noindex ? "noindex, follow" : "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"} />
   <link rel="canonical" href={canonicalUrl} />
   <link rel="alternate" type="application/rss+xml" title="Scaling Legends RSS" href="https://scalinglegends.com/rss.xml" />
 
@@ -485,7 +491,7 @@ const structuredDataGraph = {
           </h4>
           <ul class="space-y-3 list-none">
             <li><a href="/" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">About Us</a></li>
-            <li><a href="/" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Newsletter</a></li>
+            <li><a href="#subscribe" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Follow the Show</a></li>
             <li><a href="/" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Advertise</a></li>
             <li><a href="/" class="text-[#888888] text-[0.88rem] hover:text-[#CCFF00] transition-colors no-underline">Contact</a></li>
           </ul>
@@ -501,17 +507,13 @@ const structuredDataGraph = {
               <span class="absolute inset-0 bg-gradient-to-br from-[#CCFF00] to-[#7A9900]" style="clip-path: polygon(100% 0, 100% 100%, 85% 85%, 85% 15%)"></span>
             </span>
           </h4>
-          <p class="text-[#888888] text-[0.85rem] leading-relaxed mb-4">Get weekly insights delivered to your inbox.</p>
-          <form class="flex gap-2" onsubmit="return false;">
-            <input type="email" placeholder="your@email.com" class="flex-1 bg-[#161616] border border-[#2A2A2A] rounded-lg px-4 py-3 text-[#EAEAEA] text-[0.85rem] outline-none placeholder:text-[#888888] font-sans" />
-            <button type="submit" class="bg-[#CCFF00] border border-[#CCFF00] rounded-lg text-[#0D0D0D] px-4 py-3 font-extrabold text-base cursor-pointer hover:bg-[#E0FF4D] transition-colors">&rarr;</button>
-          </form>
+          <FollowShow heading="" text="Follow Scaling Legends for every new episode." location="footer" />
         </div>
       </div>
 
       <!-- Bottom bar -->
       <div class="border-t border-[#1A1A1A] pt-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-[#999999]">
-        <span>&copy; {new Date().getFullYear()} Scaling Legends. Market intelligence by <a href="https://smartbusinessautomator.com" class="text-[#CCFF00] hover:text-[#E0FF4D] no-underline">Smart Business Automator</a>.</span>
+        <span>&copy; {new Date().getFullYear()} Scaling Legends. Market intelligence by <a href={sbaUrl('https://smartbusinessautomator.com/', 'site-footer')} class="text-[#CCFF00] hover:text-[#E0FF4D] no-underline">Smart Business Automator</a>.</span>
         <div class="flex gap-8">
           <a href="/" class="text-[#888888] hover:text-[#CCFF00] no-underline transition-colors">Privacy Policy</a>
           <a href="/" class="text-[#888888] hover:text-[#CCFF00] no-underline transition-colors">Terms of Service</a>
@@ -521,8 +523,9 @@ const structuredDataGraph = {
   </footer>
 
   <script>
-    import { trackPageView } from '../lib/analytics';
+    import { trackPageView, trackOutboundClicks } from '../lib/analytics';
     trackPageView();
+    trackOutboundClicks();
   </script>
 </body>
 </html>

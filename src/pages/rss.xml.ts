@@ -1,9 +1,10 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
+import { getLiveArticles } from '../lib/seo.mjs';
 
 export async function GET(context: any) {
   const now = new Date();
-  const articles = await getCollection('articles', ({ data }) => data.published !== false && new Date(data.date) <= now);
+  const articles = await getLiveArticles(getCollection);
   const sorted = articles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 
   return rss({

@@ -1,0 +1,35 @@
+---
+// Follow-the-show links. Replaces the email forms, which never submitted anywhere:
+// the site has no newsletter endpoint or list provider yet.
+import platforms from '../data/podcast-platforms.json';
+
+interface Props {
+  heading?: string;
+  text?: string;
+  compact?: boolean;
+  location: string; // reported with the outbound click event
+}
+
+const { heading = 'Follow the show', text = 'New episodes on Apple Podcasts, Spotify and YouTube.', compact = false, location } = Astro.props;
+const links = [
+  { name: 'Apple Podcasts', href: platforms.appleShow },
+  { name: 'Spotify', href: platforms.spotifyShow },
+  { name: 'YouTube', href: platforms.youtubeChannel },
+];
+---
+<div class:list={['follow-show', { compact }]} data-follow-location={location}>
+  {heading && <p class="follow-show-heading">{heading}</p>}
+  {text && <p class="follow-show-text">{text}</p>}
+  <div class="follow-show-links">
+    {links.map(l => <a href={l.href} target="_blank" rel="noopener" class="tap">{l.name}</a>)}
+    <a href="/rss.xml" class="tap">RSS</a>
+  </div>
+</div>
+<style>
+  .follow-show-heading { color: #EAEAEA; font-weight: 700; font-size: 0.875rem; margin-bottom: 0.5rem; }
+  .follow-show-text { color: #888888; font-size: 0.8rem; line-height: 1.5; margin-bottom: 0.75rem; }
+  .follow-show-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .follow-show-links a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.5rem 0.9rem; border: 1px solid #2A2A2A; border-radius: 0.5rem; background: #161616; color: #EAEAEA; font-weight: 600; font-size: 0.8125rem; text-decoration: none; transition: border-color .2s, color .2s; }
+  .follow-show-links a:hover { border-color: #CCFF00; color: #CCFF00; }
+  .compact .follow-show-links a { min-height: 40px; padding: 0.4rem 0.7rem; font-size: 0.75rem; background: #0D0D0D; }
+</style>

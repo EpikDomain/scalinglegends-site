@@ -1,16 +1,36 @@
 ---
 import { cardImage } from '../lib/card-image';
 import { getCollection } from 'astro:content';
+import { getLiveArticles } from '../lib/seo.mjs';
 import Base from '../layouts/Base.astro';
+import FollowShow from '../components/FollowShow.astro';
 
 const now = new Date();
-const allArticles = await getCollection('articles', ({ data }) => data.published !== false && new Date(data.date) <= now);
+const allArticles = await getLiveArticles(getCollection);
 const articles = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 
 const latestEpisode = articles.find(a => a.data.audioUrl && a.data.audioUrl.length > 0);
 const episodes = articles.filter(a => a.data.audioUrl && a.data.audioUrl.length > 0).slice(0, 3);
 const hasEpisodes = episodes.length > 0;
 const featuredArticles = articles.slice(0, 8);
+
+// Evergreen guides and topic hubs linked from the homepage (2026-11-03 SERP plan: internal linking).
+const GUIDE_IDS = [
+  'how-to-start-construction-company-complete-guide-2026',
+  'how-to-scale-construction-company-complete-2026-guide',
+  'how-to-create-construction-schedule-guide-2026',
+  'construction-safety-software-2026-searches-just-spiked-350-here-is-why-smart-contractors-are-replacing-paper-systems-before-osha-finds-them-first',
+  'how-to-create-construction-safety-program-osha-2026',
+  'how-to-file-construction-lien-state-by-state-guide-2026',
+];
+const guides = GUIDE_IDS.map(id => articles.find(a => a.id === id)).filter(Boolean);
+const PILLARS = [
+  ['market-intelligence', 'Market Intelligence'],
+  ['business-growth', 'Business Growth'],
+  ['technology', 'Technology'],
+  ['workforce', 'Workforce & Safety'],
+  ['policy', 'Policy & Regulation'],
+];
 ---
 
 <Base
@@ -49,6 +69,25 @@ const featuredArticles = articles.slice(0, 8);
           Browse Articles
         </a>
       </div>
+      <FollowShow heading="" text="" location="home-hero" />
+    </div>
+  </section>
+
+  <!-- Start here: evergreen guides and topic hubs -->
+  <section class="py-16 px-8 bg-[#0D0D0D]" aria-labelledby="start-here">
+    <div class="mx-auto">
+      <h2 id="start-here" class="text-[#EAEAEA] mb-6" style="font-weight: 800; font-size: clamp(1.5rem, 3vw, 2rem); letter-spacing: -0.02em;">Start here</h2>
+      <ul class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3 list-none mb-8">
+        {guides.map(g => (
+          <li><a href={`/article/${g!.id}/`} class="block h-full bg-[#161616] border border-[#222222] rounded-xl p-5 text-[#EAEAEA] hover:border-[#CCFF00] hover:text-[#CCFF00] transition-colors no-underline" style="font-weight: 600; line-height: 1.4;">{g!.data.title}</a></li>
+        ))}
+      </ul>
+      <p class="text-[#999999] mb-3" style="font-size: 0.8125rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;">Topics</p>
+      <ul class="flex flex-wrap gap-2 list-none">
+        {PILLARS.map(([key, name]) => (
+          <li><a href={`/pillar/${key}/`} class="tap inline-flex items-center px-4 py-2 border border-[#2A2A2A] rounded-lg text-[#EAEAEA] hover:border-[#CCFF00] hover:text-[#CCFF00] transition-colors no-underline" style="font-size: 0.875rem; font-weight: 600;">{name}</a></li>
+        ))}
+      </ul>
     </div>
   </section>
 

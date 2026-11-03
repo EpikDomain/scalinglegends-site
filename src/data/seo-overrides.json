@@ -1,0 +1,245 @@
+{
+  "_comment": "Build-time SEO overrides (2026-11-03 SERP plan). Article markdown is regenerated from Supabase by scripts/pull-supabase-articles.mjs, so page-level fixes live here instead of in the .md files. Remove an entry to revert it. Every redirect also needs a matching line in public/_redirects (checked by scripts/check-seo-overrides.mjs). See docs/seo-prune-20261103.md.",
+  "redirects": {
+    "doge-contract-changes-2026-what-contractors-must-know-now": {
+      "to": "doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now",
+      "reason": "DOGE cluster"
+    },
+    "doge-federal-contracts-2026-what-contractors-need-to-know": {
+      "to": "doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now",
+      "reason": "DOGE cluster"
+    },
+    "doge-spending-cuts-construction-2026-what-contractors-ne": {
+      "to": "doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now",
+      "reason": "DOGE cluster; truncated slug"
+    },
+    "federal-construction-contracts-cancelled-2026-what-contr": {
+      "to": "doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now",
+      "reason": "DOGE / cancelled federal contracts; truncated slug"
+    },
+    "steel-prices-2026-2026-what-contractors-need-to-know": {
+      "to": "steel-prices-surge-20-in-2026-what-contractors-must-know",
+      "reason": "steel-price cluster; doubled-year slug"
+    },
+    "steel-prices-2026-34-surge-crushes-contractor-margins": {
+      "to": "steel-prices-surge-20-in-2026-what-contractors-must-know",
+      "reason": "steel-price cluster; 51-word stub"
+    },
+    "iran-war-2026-52b-material-supply-shock": {
+      "to": "war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs",
+      "reason": "Iran-war cost cluster"
+    },
+    "iran-war-construction-impact-2026-what-contractors-need": {
+      "to": "war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs",
+      "reason": "Iran-war cost cluster; template slug"
+    },
+    "oil-prices-construction-impact-2026-what-contractors-nee": {
+      "to": "war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs",
+      "reason": "oil/war cost cluster; truncated slug"
+    },
+    "diesel-fuel-costs-construction-2026-what-contractors-nee": {
+      "to": "diesel-at-460-how-to-fuel-proof-your-construction-business",
+      "reason": "diesel cost duplicate; truncated slug"
+    },
+    "how-to-scale-a-construction-company-2026": {
+      "to": "how-to-scale-construction-company-complete-2026-guide",
+      "reason": "how-to-scale cluster"
+    },
+    "how-to-scale-a-construction-business-without-losing-control": {
+      "to": "how-to-scale-construction-company-complete-2026-guide",
+      "reason": "how-to-scale cluster"
+    },
+    "scaling-construction-company-2026-what-contractors-need": {
+      "to": "how-to-scale-construction-company-complete-2026-guide",
+      "reason": "how-to-scale cluster; template slug"
+    },
+    "autonomous-construction-equipment-2026-what-contractors": {
+      "to": "autonomous-construction-equipment-2026-how-self-driving-rollers-just-cut-jobsite-downtime-83-percent-and-what-every-contractor-needs-to-know-about-the-25-million-automation-wave",
+      "reason": "autonomous-equipment cluster; truncated slug"
+    },
+    "conexpo-2026-autonomous-equipment-2026-what-contractors": {
+      "to": "autonomous-construction-equipment-2026-how-self-driving-rollers-just-cut-jobsite-downtime-83-percent-and-what-every-contractor-needs-to-know-about-the-25-million-automation-wave",
+      "reason": "autonomous-equipment cluster; truncated slug"
+    },
+    "drone-construction-inspection-2026-what-contractors-need": {
+      "to": "construction-drone-inspection-2026-how-a-2000-drone-is-saving-contractors-25000-per-inspection-and-why-you-need-one-now",
+      "reason": "drone-inspection cluster; template slug"
+    },
+    "drone-inspections-save-47k-per-project-in-2026": {
+      "to": "construction-drone-inspection-2026-how-a-2000-drone-is-saving-contractors-25000-per-inspection-and-why-you-need-one-now",
+      "reason": "drone-inspection cluster"
+    },
+    "k-shaped-economy-construction-2026-2t-divergence-impact": {
+      "to": "the-k-shaped-construction-economy-small-contractor-survival-guide-2026",
+      "reason": "K-shaped economy cluster"
+    },
+    "small-contractor-survival-2026-2026-what-contractors-nee": {
+      "to": "the-k-shaped-construction-economy-small-contractor-survival-guide-2026",
+      "reason": "small-contractor survival duplicate; doubled-year truncated slug"
+    },
+    "construction-bidding-strategies-2026-what-contractors-ne": {
+      "to": "construction-bidding-process-2026-where-to-find-projects-how-to-qualify-opportunities-and-the-10-mistakes-that-are-losing-you-money",
+      "reason": "bidding duplicate; truncated slug"
+    },
+    "construction-workflow-automation-2026-what-contractors-n": {
+      "to": "the-contractors-guide-to-project-workflow-automation",
+      "reason": "workflow-automation duplicate; truncated slug"
+    },
+    "osha-fall-protection-requirements-2026-what-contractors": {
+      "to": "the-osha-2026-crackdown-fall-protection-documentation-and-the-new-enforcement-reality",
+      "reason": "OSHA fall-protection duplicate; truncated slug"
+    }
+  },
+  "noindex": {
+    "construction-market-intelligence-april-10-contractor-loses-17-million-when-hospital-goes-bankrupt-before-opening-and-employment-gains-hit-38-states": "dated daily market-intelligence post older than 60 days (2026-04-11)",
+    "construction-market-intelligence-april-11-philadelphia-collapse-brent-spence-epa-microplastics-2026": "dated daily market-intelligence post older than 60 days (2026-04-11)",
+    "construction-market-intelligence-april-21-tutor-perini-hit-with-1746m-philly-hotel-ruling-as-nemetschek-buys-hcss-and-michigan-floods-threaten-dams": "dated daily market-intelligence post older than 60 days (2026-04-21)",
+    "construction-market-intelligence-april-22-kiewit-jv-takes-7b-texas-light-rail-as-corps-awards-2b-military-energy-resilience-and-constructconnect-launches-ai-takeoff-on-google-cloud": "dated daily market-intelligence post older than 60 days (2026-04-22)",
+    "construction-market-intelligence-april-23-data-center-projects-stall-on-public-opposition-and-grid-access-as-uk-puts-humanoid-robots-on-jobsite-inspections-and-epa-deregulation-raises-legal-risks": "dated daily market-intelligence post older than 60 days (2026-04-23)",
+    "construction-market-intelligence-april-24-dol-joint-employer-rule-lands-as-enr-top-500-shows-ai-boom-buoys-design-revenue-and-latin-america-data-center-market-races-past-69-billion": "dated daily market-intelligence post older than 60 days (2026-04-24)",
+    "construction-market-intelligence-april-27-fed-holds-lending-tightens-infrastructure-pushes-forward-2026": "dated daily market-intelligence post older than 60 days (2026-04-27)",
+    "construction-market-intelligence-april-28-2026": "dated daily market-intelligence post older than 60 days (2026-04-28)",
+    "construction-market-intelligence-april-28-trump-invokes-defense-production-act-for-grid-bottlenecks-as-pla-mandate-upheld-and-saudi-arabia-rethinks-500b-neom": "dated daily market-intelligence post older than 60 days (2026-04-27)",
+    "construction-market-intelligence-april-29-kiewit-dropped-from-baltimore-key-bridge-as-gateway-awards-129b-hudson-tunnel-contract-and-flatirondragados-breaks-ground-on-46b-p3-highway": "dated daily market-intelligence post older than 60 days (2026-04-29)",
+    "construction-market-intelligence-april-3-senate-introduces-work-zone-safety-bill-as-anti-dei-executive-order-hits-federal-contractors-and-dbe-court-challenge-gets-dismissed": "dated daily market-intelligence post older than 60 days (2026-04-03)",
+    "construction-market-intelligence-april-8-fy2027-budget-slashes-epa-water-funding-52-as-defense-surges-to-15-trillion-and-autodesk-launches-cloud-bim": "dated daily market-intelligence post older than 60 days (2026-04-08)",
+    "construction-market-intelligence-june-15-2026-bedrock-robotics-270m-tutor-perinis-guam-win-turners-10b-run-border-wall-google-trades-nyc-subway-freeze": "dated daily market-intelligence post older than 60 days (2026-06-16)",
+    "construction-market-intelligence-march-10-2026-k-shaped-economy-deepens-as-employment-falls": "dated daily market-intelligence post older than 60 days (2026-03-10)",
+    "construction-market-intelligence-march-14-asphalt-giants-pay-30m-for-fake-tests-as-782b-office-pipeline-surges": "dated daily market-intelligence post older than 60 days (2026-03-14)",
+    "construction-market-intelligence-march-20-moodys-puts-recession-odds-at-49-as-construction-prices-spike-126-and-japan-pledges-73-billion": "dated daily market-intelligence post older than 60 days (2026-03-20)",
+    "construction-market-intelligence-march-21-iran-strikes-qatars-lng-hub-as-4-billion-kentucky-data-center-breaks-ground-and-procore-partners-with-nvidia": "dated daily market-intelligence post older than 60 days (2026-03-22)",
+    "construction-market-intelligence-march-22-february-starts-drop-33-billion-as-healthcare-construction-surges-12-and-intels-5-billion-chip-plant-wins-project-of-the-year": "dated daily market-intelligence post older than 60 days (2026-03-23)",
+    "construction-market-intelligence-march-23-us-offshore-wind-hits-23-billion-in-active-projects-as-court-victories-secure-construction-pipeline": "dated daily market-intelligence post older than 60 days (2026-03-23)",
+    "construction-market-intelligence-march-24-private-construction-falls-fourth-straight-month-as-37-billion-ohio-megaproject-emerges-and-transit-funding-freezes-hit-5-billion": "dated daily market-intelligence post older than 60 days (2026-03-24)",
+    "construction-market-intelligence-march-26-caterpillar-fires-back-at-doosan-bobcat-with-espionage-allegations-as-work-zone-deaths-surge-50-and-highway-spending-hits-record-209-billion": "dated daily market-intelligence post older than 60 days (2026-03-26)",
+    "construction-market-intelligence-march-27-record-electricity-demand-triggers-14-trillion-grid-construction-wave-as-bipartisan-housing-bill-advances": "dated daily market-intelligence post older than 60 days (2026-03-27)",
+    "construction-market-intelligence-march-29-bonus-depreciation-permanently-restored-to-100-as-modular-construction-market-hits-292-billion-and-apprenticeship-enrollment-surges-28": "dated daily market-intelligence post older than 60 days (2026-03-29)",
+    "construction-market-intelligence-march-30-holcim-invests-eur-2-billion-in-concrete-decarbonization-as-gateway-tunnel-court-date-looms-and-california-mandates-low-carbon-concrete": "dated daily market-intelligence post older than 60 days (2026-03-30)",
+    "construction-market-intelligence-march-6-2026-conexpo-unleashes-autonomous-equipment-as-agc-launches-2m-infrastructure-campaign": "dated daily market-intelligence post older than 60 days (2026-03-06)",
+    "construction-market-intelligence-march-7-2026-conexpo-wraps-steel-up-12-and-data-centers-break-5b-monthly-record": "dated daily market-intelligence post older than 60 days (2026-03-07)",
+    "construction-market-intelligence-march-7-evening-conexpo-closes-scotus-tariff-fallout-and-the-25b-data-center-record": "dated daily market-intelligence post older than 60 days (2026-03-07)",
+    "construction-market-intelligence-march-8-2026-scotus-tariff-fallout-deepens-as-700b-data-center-boom-spawns-worker-housing-crisis": "dated daily market-intelligence post older than 60 days (2026-03-08)",
+    "construction-market-intelligence-march-9-iran-war-spikes-diesel-past-460-steel-up-20-housing-bill-advances": "dated daily market-intelligence post older than 60 days (2026-03-09)",
+    "construction-market-intelligence-may-20-2026": "dated daily market-intelligence post older than 60 days (2026-05-20)",
+    "construction-market-intelligence-may-22-penn-station-enters-delivery-phase-maryland-unveils-4b-key-bridge-contracts-and-enr-top-400-hits-craft-ceiling-as-ai-boom-strains-labor": "dated daily market-intelligence post older than 60 days (2026-05-22)",
+    "construction-market-intelligence-may-23-2026": "dated daily market-intelligence post older than 60 days (2026-05-23)",
+    "scaling-legends-daily-intelligence-report-march-5-2026": "dated daily market-intelligence post older than 60 days (2026-03-05)",
+    "iran-war-sends-oil-past-120-steel-hits-1000-and-92k-jobs-vanish-march-11-construction-intel": "dated daily market-intelligence post older than 60 days (2026-03-11)",
+    "construction-workforce-development-2026-what-contractors": "templated \"what contractors need to know\" post with truncated slug; no single duplicate to consolidate into",
+    "data-center-construction-boom-2026-what-contractors-need": "templated \"what contractors need to know\" post with truncated slug; no single duplicate to consolidate into",
+    "federal-infrastructure-spending-cuts-2026-what-contracto": "templated \"what contractors need to know\" post with truncated slug; no single duplicate to consolidate into",
+    "government-contractor-2026-2026-what-contractors-need-to": "templated \"what contractors need to know\" post with truncated slug; no single duplicate to consolidate into",
+    "grow-construction-business-revenue-2026-what-contractors": "thin (474 words) templated post with truncated slug",
+    "contractor-licensing-2026-how-8k-renewals-crush-profits": "thin stub (49 words)",
+    "the-3-hidden-keys-to-unlocking-peak-crew-performance-profit": "thin (448 words)",
+    "the-7-figure-feedback-loop-how-strategic-reviews-drive-20-growth-in-construction": "thin (463 words)",
+    "key-bridge-rebuild-2026-maryland-just-split-the-48-billion-project-into-4-contracts-the-rfq-opens-this-summer-and-every-qualified-contractor-needs-to-read-this-before-the-field-is-set": "thin (627 words) dated news item",
+    "construction-labor-crisis-2026-how-immigration-enforcement-is-depleting-jobsite-workers-and-what-every-contractor-must-do-before-the-summer-season-stalls": "near-duplicate of construction-labor-crisis-2026-how-immigration-enforcement-is-creating-the-tightest-hiring-market-... (separate episode, kept live)",
+    "how-to-get-general-contractor-license-north-carolina-2026": "SBA overlap: smartbusinessautomator.com/contractor-license/north-carolina/ is the canonical answer",
+    "how-to-get-general-contractor-license-florida-2026": "SBA overlap: smartbusinessautomator.com/contractor-license/florida/ is the canonical answer"
+  },
+  "pages": {
+    "how-to-start-construction-company-complete-guide-2026": {
+      "title": "How to Start a Construction Company in 2026: Step-by-Step Guide",
+      "description": "How to start a construction company in 2026: business structure, contractor licensing, insurance and bonding, startup costs, equipment, financing, your first hires and projects, and first-year mistakes to avoid."
+    },
+    "how-to-create-construction-schedule-guide-2026": {
+      "title": "How to Create a Construction Schedule That Actually Works",
+      "description": "How to create a construction schedule: critical path and pull planning, trade sequencing, float, resource loading, three-week look-aheads, schedule updates and delay documentation, with a step-by-step process.",
+      "callout": {
+        "heading": "Download a construction schedule template",
+        "text": "Start from Smart Business Automator's free construction schedule template (Excel, CSV or print) and apply the steps in this guide.",
+        "href": "https://smartbusinessautomator.com/templates/construction-schedule-template/",
+        "label": "Get the free schedule template"
+      }
+    },
+    "construction-safety-software-2026-searches-just-spiked-350-here-is-why-smart-contractors-are-replacing-paper-systems-before-osha-finds-them-first": {
+      "title": "Construction Safety Software 2026: What Digital Safety Platforms Do",
+      "description": "What construction safety software does: daily safety logs, job safety analyses, toolbox talks, near-miss reports and OSHA 300 logs, and how digital records differ from paper. Platforms discussed include Procore Safety, Safesite, GoCanvas and Assignar."
+    },
+    "construction-accounting-software-2026-quickbooks-vs-foundation-vs-sage-and-why-the-wrong-choice-is-costing-you-thousands": {
+      "title": "QuickBooks vs Foundation vs Sage: A Contractor's Accounting Stack (Scaling Legends Episode)",
+      "description": "A Scaling Legends episode on contractor accounting: where QuickBooks runs out, how Foundation and Sage compare, the job-costing features that matter and when to switch. For the full software comparison, see Smart Business Automator.",
+      "callout": {
+        "heading": "See the full comparison",
+        "text": "This page is the episode discussion. For a side-by-side comparison of construction accounting software, use Smart Business Automator's guide.",
+        "href": "https://smartbusinessautomator.com/compare/best-construction-accounting-software/",
+        "label": "Compare construction accounting software"
+      }
+    },
+    "the-ai-estimating-revolution-how-smart-contractors-are-cutting-takeoff-time-by-60-in-2026": {
+      "title": "AI Construction Estimating and Takeoff (Scaling Legends Episode)",
+      "description": "A Scaling Legends episode on AI construction estimating: why manual takeoff is a bottleneck, how AI takeoff tools work and how to try one on your next bid. For a side-by-side comparison of estimating software, see Smart Business Automator.",
+      "headings": {
+        "A Buyer's Guide to AI Estimating Tools 2026": "AI Estimating Tools Discussed in This Episode"
+      },
+      "callout": {
+        "heading": "See the full comparison",
+        "text": "This page is the episode discussion. For a side-by-side comparison of construction estimating software, use Smart Business Automator's guide.",
+        "href": "https://smartbusinessautomator.com/compare/best-construction-estimating-software/",
+        "label": "Compare construction estimating software"
+      }
+    },
+    "how-to-get-general-contractor-license-north-carolina-2026": {
+      "callout": {
+        "heading": "Current North Carolina license requirements",
+        "text": "For the maintained guide to North Carolina general contractor license requirements, use Smart Business Automator's state page. Confirm details with the NC Licensing Board for General Contractors.",
+        "href": "https://smartbusinessautomator.com/contractor-license/north-carolina/",
+        "label": "North Carolina contractor license guide"
+      }
+    },
+    "how-to-get-general-contractor-license-florida-2026": {
+      "callout": {
+        "heading": "Current Florida license requirements",
+        "text": "For the maintained guide to Florida contractor license requirements, exams and lookup, use Smart Business Automator's state page. Confirm details with the Florida Construction Industry Licensing Board.",
+        "href": "https://smartbusinessautomator.com/contractor-license/florida/",
+        "label": "Florida contractor license guide"
+      }
+    },
+    "how-to-scale-construction-company-complete-2026-guide": {
+      "title": "How to Scale a Construction Company Step by Step (2026 Guide)"
+    },
+    "how-to-manage-multiple-construction-projects-2026": {
+      "title": "How to Manage Multiple Construction Projects Without Dropping the Ball"
+    },
+    "how-to-create-construction-safety-program-osha-2026": {
+      "title": "How to Create a Construction Safety Program That Passes Any OSHA Inspection"
+    },
+    "how-to-file-construction-lien-state-by-state-guide-2026": {
+      "title": "How to File a Construction Lien: Step-by-Step and State-by-State (2026)"
+    },
+    "how-to-get-general-contractor-license-arizona-2026": {
+      "title": "How to Get a General Contractor License in Arizona: Complete 2026 Guide"
+    },
+    "how-to-grow-small-painting-business-2026": {
+      "title": "How to Grow a Small Painting Business Into a Real Company"
+    },
+    "how-to-handle-construction-change-orders-margins-2026": {
+      "title": "How to Handle Construction Change Orders Without Killing Your Margins"
+    },
+    "how-to-hire-retain-construction-workers-2026-guide": {
+      "title": "How to Hire and Retain Construction Workers in 2026: A GC's Complete Guide"
+    },
+    "how-to-manage-construction-subcontractors-guide-2026": {
+      "title": "How to Manage Construction Subcontractors Without the Headaches"
+    },
+    "how-to-market-construction-company-get-leads-2026": {
+      "title": "How to Market a Construction Company and Get More Leads in 2026"
+    },
+    "how-to-prevent-construction-site-theft-guide-2026": {
+      "title": "How to Prevent Construction Site Theft: Solving the $2 Billion Problem"
+    },
+    "how-to-price-construction-jobs-markup-margin-guide-2026": {
+      "title": "How to Price Construction Jobs: The Math Most Contractors Get Wrong"
+    },
+    "how-to-use-ai-in-construction-practical-guide-2026": {
+      "title": "How to Use AI in Construction: A Practical Guide for Contractors in 2026"
+    },
+    "how-to-win-construction-bids-contractors-playbook-2026": {
+      "title": "How to Win More Construction Bids: The Contractor's Playbook for 2026"
+    },
+    "how-to-write-construction-contract-guide-2026": {
+      "title": "How to Write a Construction Contract That Actually Protects You"
+    }
+  }
+}

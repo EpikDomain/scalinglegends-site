@@ -1,6 +1,7 @@
 ---
 import { cardImage } from '../../lib/card-image';
 import { getCollection } from 'astro:content';
+import { getLiveArticles } from '../../lib/seo.mjs';
 import Base from '../../layouts/Base.astro';
 import EditorialImage from '../../components/EditorialImage.astro';
 import { editorialImage } from '../../lib/editorial-images';
@@ -61,7 +62,7 @@ if (!pillar) {
 }
 
 const now = new Date();
-const allArticles = await getCollection('articles', ({ data }) => data.published !== false && data.pillar === slug && new Date(data.date) <= now);
+const allArticles = await getLiveArticles(getCollection, ({ data }) => data.pillar === slug);
 const articles = allArticles.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 
 const pillarKeys = Object.keys(PILLARS);
