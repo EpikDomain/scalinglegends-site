@@ -1,10 +1,11 @@
 import { getCollection } from 'astro:content';
+import { getLiveArticles, isNoindex } from '../lib/seo.mjs';
 import { editorialImage } from '../lib/editorial-images';
 export const prerender = true;
 const escape = (text: string) => text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 export async function GET() {
   const site = 'https://scalinglegends.com';
-  const articles = await getCollection('articles', ({ data }) => data.published !== false && !data.noindex && new Date(data.date) <= new Date());
+  const articles = await getLiveArticles(getCollection, ({ id, data }) => !isNoindex(id, data));
   const entries = [
     ...articles.map(a => ({ path: `/article/${a.id}/`, title: a.data.title, section: a.data.pillar || '' })),
     ...['market-intelligence', 'business-growth', 'technology', 'workforce', 'policy'].map(p => ({ path: `/pillar/${p}/`, title: p, section: p })),

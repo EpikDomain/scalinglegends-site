@@ -91,3 +91,34 @@ export function trackAudioPlays() {
     });
   });
 }
+
+// ── Outbound Click Tracking (GA4) ───────────────────────────────────
+// Listen and SBA clicks are the site's conversions until an email list exists.
+
+const OUTBOUND: Record<string, string> = {
+  'podcasts.apple.com': 'apple_podcasts',
+  'open.spotify.com': 'spotify',
+  'www.youtube.com': 'youtube',
+  'youtube.com': 'youtube',
+  'smartbusinessautomator.com': 'smart_business_automator',
+  'www.smartbusinessautomator.com': 'smart_business_automator',
+};
+
+export function trackOutboundClicks() {
+  document.addEventListener('click', (event) => {
+    const link = (event.target as Element | null)?.closest?.('a[href]') as HTMLAnchorElement | null;
+    if (!link) return;
+    let url: URL;
+    try { url = new URL(link.href); } catch { return; }
+    const destination = OUTBOUND[url.hostname];
+    if (!destination) return;
+    const gtag = (window as unknown as { gtag?: (...args: unknown[]) => void }).gtag;
+    gtag?.('event', 'outbound_click', {
+      destination,
+      link_url: link.href,
+      page_path: window.location.pathname,
+      cta_location: link.closest('[data-follow-location]')?.getAttribute('data-follow-location') || undefined,
+      transport_type: 'beacon',
+    });
+  }, { capture: true });
+}

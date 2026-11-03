@@ -1,14 +1,11 @@
 ---
 import { cardImage } from '../lib/card-image';
 import { getCollection } from 'astro:content';
+import { getLiveArticles } from '../lib/seo.mjs';
 import Base from '../layouts/Base.astro';
 
 const now = new Date();
-const news = (await getCollection('articles', ({ data }) =>
-  data.published !== false &&
-  data.contentType === 'news' &&
-  new Date(data.date) <= now
-)).sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+const news = (await getLiveArticles(getCollection, ({ data }) => data.contentType === 'news')).sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
 ---
 
 <Base

@@ -1,2 +1,49 @@
 # Cloudflare Pages handles pretty URLs natively (slug/index.html serves at /slug)
 # No trailing slash redirects needed - Pages does this automatically
+
+# 2026-11-03 SERP plan: duplicate consolidation (source of truth: src/data/seo-overrides.json "redirects";
+# list and reasons in docs/seo-prune-20261103.md). Remove both lines and the JSON entry to revert.
+/article/doge-contract-changes-2026-what-contractors-must-know-now/ /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/doge-contract-changes-2026-what-contractors-must-know-now /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/doge-federal-contracts-2026-what-contractors-need-to-know/ /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/doge-federal-contracts-2026-what-contractors-need-to-know /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/doge-spending-cuts-construction-2026-what-contractors-ne/ /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/doge-spending-cuts-construction-2026-what-contractors-ne /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/federal-construction-contracts-cancelled-2026-what-contr/ /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/federal-construction-contracts-cancelled-2026-what-contr /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
+/article/steel-prices-2026-2026-what-contractors-need-to-know/ /article/steel-prices-surge-20-in-2026-what-contractors-must-know/ 301
+/article/steel-prices-2026-2026-what-contractors-need-to-know /article/steel-prices-surge-20-in-2026-what-contractors-must-know/ 301
+/article/steel-prices-2026-34-surge-crushes-contractor-margins/ /article/steel-prices-surge-20-in-2026-what-contractors-must-know/ 301
+/article/steel-prices-2026-34-surge-crushes-contractor-margins /article/steel-prices-surge-20-in-2026-what-contractors-must-know/ 301
+/article/iran-war-2026-52b-material-supply-shock/ /article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/ 301
+/article/iran-war-2026-52b-material-supply-shock /article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/ 301
+/article/iran-war-construction-impact-2026-what-contractors-need/ /article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/ 301
+/article/iran-war-construction-impact-2026-what-contractors-need /article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/ 301
+/article/oil-prices-construction-impact-2026-what-contractors-nee/ /article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/ 301
+/article/oil-prices-construction-impact-2026-what-contractors-nee /article/war-oil-and-your-margins-how-the-iran-conflict-is-hitting-construction-costs/ 301
+/article/diesel-fuel-costs-construction-2026-what-contractors-nee/ /article/diesel-at-460-how-to-fuel-proof-your-construction-business/ 301
+/article/diesel-fuel-costs-construction-2026-what-contractors-nee /article/diesel-at-460-how-to-fuel-proof-your-construction-business/ 301
+/article/how-to-scale-a-construction-company-2026/ /article/how-to-scale-construction-company-complete-2026-guide/ 301
+/article/how-to-scale-a-construction-company-2026 /article/how-to-scale-construction-company-complete-2026-guide/ 301
+/article/how-to-scale-a-construction-business-without-losing-control/ /article/how-to-scale-construction-company-complete-2026-guide/ 301
+/article/how-to-scale-a-construction-business-without-losing-control /article/how-to-scale-construction-company-complete-2026-guide/ 301
+/article/scaling-construction-company-2026-what-contractors-need/ /article/how-to-scale-construction-company-complete-2026-guide/ 301
+/article/scaling-construction-company-2026-what-contractors-need /article/how-to-scale-construction-company-complete-2026-guide/ 301
+/article/autonomous-construction-equipment-2026-what-contractors/ /article/autonomous-construction-equipment-2026-how-self-driving-rollers-just-cut-jobsite-downtime-83-percent-and-what-every-contractor-needs-to-know-about-the-25-million-automation-wave/ 301
+/article/autonomous-construction-equipment-2026-what-contractors /article/autonomous-construction-equipment-2026-how-self-driving-rollers-just-cut-jobsite-downtime-83-percent-and-what-every-contractor-needs-to-know-about-the-25-million-automation-wave/ 301
+/article/conexpo-2026-autonomous-equipment-2026-what-contractors/ /article/autonomous-construction-equipment-2026-how-self-driving-rollers-just-cut-jobsite-downtime-83-percent-and-what-every-contractor-needs-to-know-about-the-25-million-automation-wave/ 301
+/article/conexpo-2026-autonomous-equipment-2026-what-contractors /article/autonomous-construction-equipment-2026-how-self-driving-rollers-just-cut-jobsite-downtime-83-percent-and-what-every-contractor-needs-to-know-about-the-25-million-automation-wave/ 301
+/article/drone-construction-inspection-2026-what-contractors-need/ /article/construction-drone-inspection-2026-how-a-2000-drone-is-saving-contractors-25000-per-inspection-and-why-you-need-one-now/ 301
+/article/drone-construction-inspection-2026-what-contractors-need /article/construction-drone-inspection-2026-how-a-2000-drone-is-saving-contractors-25000-per-inspection-and-why-you-need-one-now/ 301
+/article/drone-inspections-save-47k-per-project-in-2026/ /article/construction-drone-inspection-2026-how-a-2000-drone-is-saving-contractors-25000-per-inspection-and-why-you-need-one-now/ 301
+/article/drone-inspections-save-47k-per-project-in-2026 /article/construction-drone-inspection-2026-how-a-2000-drone-is-saving-contractors-25000-per-inspection-and-why-you-need-one-now/ 301
+/article/k-shaped-economy-construction-2026-2t-divergence-impact/ /article/the-k-shaped-construction-economy-small-contractor-survival-guide-2026/ 301
+/article/k-shaped-economy-construction-2026-2t-divergence-impact /article/the-k-shaped-construction-economy-small-contractor-survival-guide-2026/ 301
+/article/small-contractor-survival-2026-2026-what-contractors-nee/ /article/the-k-shaped-construction-economy-small-contractor-survival-guide-2026/ 301
+/article/small-contractor-survival-2026-2026-what-contractors-nee /article/the-k-shaped-construction-economy-small-contractor-survival-guide-2026/ 301
+/article/construction-bidding-strategies-2026-what-contractors-ne/ /article/construction-bidding-process-2026-where-to-find-projects-how-to-qualify-opportunities-and-the-10-mistakes-that-are-losing-you-money/ 301
+/article/construction-bidding-strategies-2026-what-contractors-ne /article/construction-bidding-process-2026-where-to-find-projects-how-to-qualify-opportunities-and-the-10-mistakes-that-are-losing-you-money/ 301
+/article/construction-workflow-automation-2026-what-contractors-n/ /article/the-contractors-guide-to-project-workflow-automation/ 301
+/article/construction-workflow-automation-2026-what-contractors-n /article/the-contractors-guide-to-project-workflow-automation/ 301
+/article/osha-fall-protection-requirements-2026-what-contractors/ /article/the-osha-2026-crackdown-fall-protection-documentation-and-the-new-enforcement-reality/ 301
+/article/osha-fall-protection-requirements-2026-what-contractors /article/the-osha-2026-crackdown-fall-protection-documentation-and-the-new-enforcement-reality/ 301
