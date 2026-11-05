@@ -51,7 +51,7 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
 const resolvedImage = new URL(image, Astro.site).href;
 const imageAsset = editorialCatalog.find(asset => resolvedImage === `https://scalinglegends.com/img/editorial/${asset.id}.jpg`);
 const siteName = 'Scaling Legends';
-// SEO: prefer showing the full article title in SERPs.
+// Prefer showing the full article title in search results.
 // Only append the brand suffix if the combined length stays under 60 chars.
 // A truncated-but-meaningful title beats a short title with a brand tag.
 const suffix = ` | ${siteName}`;
