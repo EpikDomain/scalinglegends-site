@@ -1,4 +1,4 @@
-// Render-time cleanup of generated article markdown (2026-11-03 SERP plan).
+// Render-time cleanup of generated article markdown.
 // The markdown is regenerated from Supabase, so these fixes are applied while
 // rendering instead of by editing the files:
 //  - internal links to redirected articles point at the consolidated page;

@@ -1,5 +1,5 @@
 {
-  "_comment": "Build-time SEO overrides (2026-11-03 SERP plan). Article markdown is regenerated from Supabase by scripts/pull-supabase-articles.mjs, so page-level fixes live here instead of in the .md files. Remove an entry to revert it. Every redirect also needs a matching line in public/_redirects (checked by scripts/check-seo-overrides.mjs). See docs/seo-prune-20261103.md.",
+  "_comment": "Build-time page overrides. Article markdown is regenerated from Supabase by scripts/pull-supabase-articles.mjs, so page-level fixes live here instead of in the .md files. Remove an entry to revert it. Every redirect also needs a matching line in public/_redirects (checked by scripts/check-seo-overrides.mjs).",
   "redirects": {
     "doge-contract-changes-2026-what-contractors-must-know-now": {
       "to": "doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now",

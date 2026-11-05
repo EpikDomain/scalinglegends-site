@@ -1,8 +1,8 @@
 # Cloudflare Pages handles pretty URLs natively (slug/index.html serves at /slug)
 # No trailing slash redirects needed - Pages does this automatically
 
-# 2026-11-03 SERP plan: duplicate consolidation (source of truth: src/data/seo-overrides.json "redirects";
-# list and reasons in docs/seo-prune-20261103.md). Remove both lines and the JSON entry to revert.
+# Duplicate article redirects (generated from src/data/seo-overrides.json "redirects").
+# Remove both lines and the JSON entry to revert.
 /article/doge-contract-changes-2026-what-contractors-must-know-now/ /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
 /article/doge-contract-changes-2026-what-contractors-must-know-now /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
 /article/doge-federal-contracts-2026-what-contractors-need-to-know/ /article/doge-just-killed-41-billion-in-federal-contracts-what-government-contractors-do-now/ 301
